@@ -1,5 +1,12 @@
 {
     "date": "2023-06-16",
+    "from_channel": "Leakers_squad",
+    "message": "https://hacklido.com/blog/476-all-about-xss-cross-site-scripting-basic-knowledge\n\nIf you want to report any copyright violation, please write to us at  @Leakers_squad_bot and we will ensure to remove that post within 48 hours\nRead this",
+    "webpage_description": "Hi i am Deepak , part time bug hunter pursuing B.com In this write-up i will discuss about XSS not in deep but for beginners who want to learn about XSS...",
+    "webpage_url": "https://hacklido.com/blog/476-all-about-xss-cross-site-scripting-basic-knowledge"
+}
+{
+    "date": "2023-06-16",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-26527 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in WPIndeed Debug Assistant plugin <=Â 1.4 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
