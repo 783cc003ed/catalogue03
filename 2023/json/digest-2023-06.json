@@ -1,5 +1,13 @@
 {
     "date": "2023-06-16",
+    "from_channel": "defcon_news",
+    "message": "Quickad Classified Ads CMS 10.4 SQL Injection\nhttps://packetstormsecurity.com/files/172957/classifiedsads104-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/172957/classifiedsads104-sql.txt"
+}
+{
+    "date": "2023-06-16",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-35783 ‼\n\nThe ke_search (aka Faceted Search) extension before 4.0.3, 4.1.x through 4.6.x before 4.6.6, and 5.x before 5.0.2 for TYPO3 allows XSS via indexed data.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
