@@ -1,6 +1,11 @@
 {
     "date": "2023-06-16",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33438 ‼\n\nA stored Cross-site scripting (XSS) vulnerability in Wolters Kluwer TeamMate+ 35.0.11.0 allows remote attackers to inject arbitrary web script or HTML.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-16",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-30453 ‼\n\nThe Teamlead Reminder plugin through 2.6.5 for Jira allows persistent XSS via the message parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
