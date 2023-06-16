@@ -1,5 +1,10 @@
 {
     "date": "2023-06-16",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30453 ‼\n\nThe Teamlead Reminder plugin through 2.6.5 for Jira allows persistent XSS via the message parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-16",
     "from_channel": "defcon_news",
     "message": "Quickad Classified Ads CMS 10.4 SQL Injection\nhttps://packetstormsecurity.com/files/172957/classifiedsads104-sql.txt",
     "urls": [],
