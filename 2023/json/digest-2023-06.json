@@ -1,5 +1,10 @@
 {
     "date": "2023-06-16",
+    "from_channel": "proxy_bar",
+    "message": "CVE-2023-1829\nLPE exploit\nTested on Ubuntu22.04  -_ -\n\n#linux #exploit"
+}
+{
+    "date": "2023-06-16",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-32026 ‼\n\nMicrosoft ODBC Driver for SQL Server Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
