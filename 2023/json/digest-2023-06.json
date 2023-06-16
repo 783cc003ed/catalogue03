@@ -1,0 +1,665 @@
+{
+    "date": "2023-06-16",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32026 ‼\n\nMicrosoft ODBC Driver for SQL Server Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-16",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32027 ‼\n\nMicrosoft ODBC Driver for SQL Server Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-16",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29349 ‼\n\nMicrosoft ODBC and OLE DB Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-16",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32025 ‼\n\nMicrosoft ODBC Driver for SQL Server Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-16",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-2080 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Forcepoint Cloud Security Gateway (CSG) Portal on Web Cloud Security Gateway, Email Security Cloud allows Blind SQL Injection.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-16",
+    "from_channel": "sysadm_in_channel",
+    "message": "/ Two XSS Vulnerabilities in Azure with Embedded postMessage IFrames\n\nhttps://orca.security/resources/blog/examining-two-xss-vulnerabilities-in-azure-services/",
+    "urls": []
+}
+{
+    "date": "2023-06-15",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29322 ‼\n\nAdobe Experience Manager versions 6.5.16.0 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If a low-privileged attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-15",
+    "from_channel": "defcon_news",
+    "message": "projectSend r1605 CSV Injection\nhttps://packetstormsecurity.com/files/172913/projectsendr1605-csvinject.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/172913/projectsendr1605-csvinject.txt"
+}
+{
+    "date": "2023-06-15",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34666 ‼\n\nCross-site scripting (XSS) vulnerability in Phpgurukul Cyber Cafe Management System 1.0 allows remote attackers to inject arbitrary web script or HTML via the admin username parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-15",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-24420 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Zestard Technologies Admin side data storage for Contact Form 7 plugin <=Â 1.1.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-15",
+    "from_channel": "defcon_news",
+    "message": "XSS Vulnerabilities In Azure Led To Unauthorized Access In User Sessions\nhttps://packetstormsecurity.com/news/view/34723/XSS-Vulnerabilities-In-Azure-Led-To-Unauthorized-Access-In-User-Sessions.html",
+    "urls": [],
+    "webpage_description": "Microsoft addressed two cross-site scripting (XSS) vulnerabilities in Azure Bastion and Azure Container Registry (ACR) leading to unauthorized access to user sessions.",
+    "webpage_url": "https://packetstormsecurity.com/news/view/34723/XSS-Vulnerabilities-In-Azure-Led-To-Unauthorized-Access-In-User-Sessions.html"
+}
+{
+    "date": "2023-06-15",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3275 ‼\n\nA vulnerability classified as critical was found in PHPGurukul Rail Pass Management System 1.0. Affected by this vulnerability is an unknown functionality of the file /view-pass-detail.php of the component POST Request Handler. The manipulation of the argument searchdata leads to sql injection. The attack can be launched remotely. The identifier VDB-231625 was assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-15",
+    "from_channel": "Leakers_squad",
+    "message": "How to Bypass Adminpanel by SQL injection\n\n\nPosted by @TheGodEye\n\nIf you want to report any copyright violation, please write to us at  @Leakers_squad_bot and we will ensure to remove that post within 48 hours\nRead this"
+}
+{
+    "date": "2023-06-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34565 ‼\n\nNetbox 3.5.1 is vulnerable to Cross Site Scripting (XSS) in the \"Create Wireless LAN Groups\" function.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-14",
+    "from_channel": "cibsecurity",
+    "message": "🕴 XSS Vulnerabilities Found in Microsoft Azure Cloud Services 🕴\n\nMicrosoft quickly issued patches for the two security issues, which could allow unauthorized access to cloud sessions.\n\n📖 Read\n\nvia \"Dark Reading\".",
+    "webpage_description": "Microsoft quickly issued patches for the two security issues, which could allow unauthorized access to cloud sessions.",
+    "webpage_url": "https://www.darkreading.com/application-security/xss-vulnerabilities-microsoft-azure-cloud"
+}
+{
+    "date": "2023-06-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31671 ‼\n\nPrestaShop postfinance <= 17.1.13 is vulnerable to SQL Injection via PostfinanceValidationModuleFrontController::postProcess().\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-0010 ‼\n\nA reflected cross-site scripting (XSS) vulnerability in the Captive Portal feature of Palo Alto Networks PAN-OS software can allow a JavaScript payload to be executed in the context of an authenticated Captive Portal userâ€™s browser when they click on a specifically crafted link.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34865 ‼\n\nDirectory traversal vulnerability in ujcms 6.0.2 allows attackers to move files via the rename feature.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35144 ‼\n\nJenkins Maven Repository Server Plugin 1.10 and earlier does not escape project and build display names on the Build Artifacts As Maven Repository page, resulting in a stored cross-site scripting (XSS) vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-14",
+    "from_channel": "Leakers_squad",
+    "message": "Website hacking Course👽\n\n\nTopic👽\n\n1 installing metasploit framework\n2 installing Nessus\n3 installing vega\n4 blind sql injection\n5 Adminpanel bypass by sqli injection\n6 password dump by Sql injection\n7 dios of sqli injection\n8 routed quirey\n9 CSRF\n10 subdomain\n11 knockpy\n11 LFI Attack\n12 RFI attack\n13 shell uploading (xss+rce) \n14 xss attack\n15 reflected xss attack\n16 defacement \n17 owsap zap scanner\n18 installing hackbar\n\n\nPosted by @TheGodEye\n\nIf you want to report any copyright violation, please write to us at  @Leakers_squad_bot and we will ensure to remove that post within 48 hours\nRead this"
+}
+{
+    "date": "2023-06-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32029 ‼\n\nMicrosoft Excel Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32008 ‼\n\nWindows Resilient File System (ReFS) Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32018 ‼\n\nWindows Hello Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33126 ‼\n\n.NET and Visual Studio Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29365 ‼\n\nWindows Media Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-21565 ‼\n\nAzure DevOps Server Spoofing Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33130 ‼\n\nMicrosoft SharePoint Server Spoofing Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33146 ‼\n\nMicrosoft Office Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29362 ‼\n\nRemote Desktop Client Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32014 ‼\n\nWindows Pragmatic General Multicast (PGM) Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33144 ‼\n\nVisual Studio Code Spoofing Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29367 ‼\n\niSCSI Target WMI Provider Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29363 ‼\n\nWindows Pragmatic General Multicast (PGM) Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32015 ‼\n\nWindows Pragmatic General Multicast (PGM) Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32017 ‼\n\nMicrosoft PostScript Printer Driver Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29372 ‼\n\nMicrosoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29366 ‼\n\nWindows Geolocation Service Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34537 ‼\n\nA Reflected XSS was discovered in HotelDruid version 3.0.5, an attacker can issue malicious code/command on affected webpage's parameter to trick user on browser and/or exfiltrate data.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-13",
+    "from_channel": "defcon_news",
+    "message": "Online Thesis Archiving System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/172885/otas10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/172885/otas10-sql.txt"
+}
+{
+    "date": "2023-06-13",
+    "from_channel": "defcon_news",
+    "message": "MOVEit Transfer SQL Injection / Remote Code Execution\nhttps://packetstormsecurity.com/files/172883/CVE-2023-34362-master.zip",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/172883/CVE-2023-34362-master.zip"
+}
+{
+    "date": "2023-06-13",
+    "from_channel": "cibsecurity",
+    "message": "♟️ Microsoft Patch Tuesday, June 2023 Edition ♟️\n\nMicrosoft Corp. today released software updates to fix dozens of security vulnerabilities in its Windows operating systems and other software. This month's relatively light patch load has another added bonus for system administrators everywhere: It appears to be the first Patch Tuesday since March 2022 that isn't marred by the active exploitation of a zero-day vulnerability in Microsoft's products.\n\n📖 Read\n\nvia \"Krebs on Security\".",
+    "webpage_description": "Microsoft Corp. today released software updates to fix dozens of security vulnerabilities in its Windows operating systems and other software. This month's relatively light patch load has another added bonus for system administrators everywhere: It appears to be the first…",
+    "webpage_url": "https://krebsonsecurity.com/2023/06/microsoft-patch-tuesday-june-2023-edition/"
+}
+{
+    "date": "2023-06-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34122 ‼\n\nImproper input validation in the installer for Zoom for Windows clients before 5.14.0 may allow an authenticated user to potentially enable an escalation of privilege via local access.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-13",
+    "from_channel": "defcon_news",
+    "message": "GitHub Security Lab: JavaScript: Add some new XSS sinks and sources of Next.js (and some extra improvements)\nhttps://vulners.com/hackerone/H1:2018679?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "This bug was reported directly to GitHub Security...",
+    "webpage_url": "https://vulners.com/hackerone/H1:2018679?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-06-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35064 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Satos Satos Mobile allows SQL Injection through SOAP Parameter Tampering.This issue affects Satos Mobile: before 20230607.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-13",
+    "from_channel": "proxy_bar",
+    "message": "CVE-2023-20887 \nVMWare vRealize Network Insight Pre-Authenticated \nRCE exploit\n\n#vmware #rce #exploit",
+    "urls": []
+}
+{
+    "date": "2023-06-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33991 ‼\n\nSAP UI5 Variant Management - versions SAP_UI 750, SAP_UI 754, SAP_UI 755, SAP_UI 756, SAP_UI 757, UI_700 200, does not sufficiently encode user-controlled inputs on reading data from the server, resulting in Stored Cross-Site Scripting (Stored XSS) vulnerability. After successful exploitation, an attacker with user level access can cause high impact on confidentiality, modify some information and can cause unavailability of the application at user level.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-28933 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in StPeteDesign Call Now Accessibility Button plugin <=Â 1.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32961 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Katie Seaborn Zotpress plugin <=Â 7.3.3 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34581 ‼\n\nSourcecodester Service Provider Management System v1.0 is vulnerable to SQL Injection via the ID parameter in /php-spms/?page=services/view&id=2\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33492 ‼\n\nEyouCMS 1.6.2 is vulnerable to Cross Site Scripting (XSS).\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-12",
+    "from_channel": "proxy_bar",
+    "message": "CVE-2023-25157\nGeoServer SQL Injection - POC exploit\nGeoServer SQL Injection - check vuln script"
+}
+{
+    "date": "2023-06-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35036 ‼\n\nIn Progress MOVEit Transfer before 2021.0.7 (13.0.7), 2021.1.5 (13.1.5), 2022.0.5 (14.0.5), 2022.1.6 (14.1.6), and 2023.0.2 (15.0.2), SQL injection vulnerabilities have been found in the MOVEit Transfer web application that could allow an unauthenticated attacker to gain unauthorized access to MOVEit Transfer's database. An attacker could submit a crafted payload to a MOVEit Transfer application endpoint that could result in modification and disclosure of MOVEit database content.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-12",
+    "from_channel": "defcon_news",
+    "message": "Ormesson-Immobilier CMS 8 SQL Injection\nhttps://packetstormsecurity.com/files/172863/oicms8-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/172863/oicms8-sql.txt"
+}
+{
+    "date": "2023-06-12",
+    "from_channel": "defcon_news",
+    "message": "osCommerce 4 Local File Inclusion\nhttps://packetstormsecurity.com/files/172862/oscommerce4-lfi.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/172862/oscommerce4-lfi.txt"
+}
+{
+    "date": "2023-06-11",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-22586 ‼\n\nThe Danfoss AK-EM100 web applications allow for Local File Inclusion in the file parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3191 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository nilsteampassnet/teampass prior to 3.0.9.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-10",
+    "from_channel": "defcon_news",
+    "message": "New Critical MOVEit Transfer SQL Injection Vulnerabilities Discovered - Patch Now!\nhttps://thehackernews.com/2023/06/new-critical-moveit-transfer-sql.html",
+    "urls": []
+}
+{
+    "date": "2023-06-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3188 ‼\n\nServer-Side Request Forgery (SSRF) in GitHub repository owncast/owncast prior to 0.1.0.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-09",
+    "from_channel": "defcon_news",
+    "message": "U.S. Dept Of Defense: CVE-2023-29489 XSS in cpanel at [www.███] - Securado, Oman\nhttps://vulners.com/hackerone/H1:1982630?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "Description: There is a cross-site scripting vulnerability found on cpanel application hosted on the website. Cpanel is not updated because auto update feature is disabled. Impact An attacker can steal cookies or hijack browser session. System...",
+    "webpage_url": "https://vulners.com/hackerone/H1:1982630?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-06-09",
+    "from_channel": "defcon_news",
+    "message": "Zyxel IKE Packet Decoder Unauthenticated Remote Code Execution\nhttps://packetstormsecurity.com/files/172820/zyxel_ike_decoder_rce_cve_2023_28771.rb.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/172820/zyxel_ike_decoder_rce_cve_2023_28771.rb.txt"
+}
+{
+    "date": "2023-06-09",
+    "from_channel": "defcon_news",
+    "message": "XSS-Exploitation-Tool - An XSS Exploitation Tool\nhttp://www.kitploit.com/2023/06/xss-exploitation-tool-xss-exploitation.html",
+    "urls": [],
+    "webpage_url": "https://www.kitploit.com/2023/06/xss-exploitation-tool-xss-exploitation.html"
+}
+{
+    "date": "2023-06-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-1895 ‼\n\nThe Getwid â€“ Gutenberg Blocks plugin for WordPress is vulnerable to Server Side Request Forgery via the get_remote_content REST API endpoint in versions up to, and including, 1.8.3. This can allow authenticated attackers with subscriber-level permissions or above to make web requests to arbitrary locations originating from the web application and can be used to query and modify information from internal services.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32751 ‼\n\nPydio Cells through 4.1.2 allows XSS. Pydio Cells implements the download of files using presigned URLs which are generated using the Amazon AWS SDK for JavaScript [1]. The secrets used to sign these URLs are hardcoded and exposed through the JavaScript files of the web application. Therefore, it is possible to generate valid signatures for arbitrary download URLs. By uploading an HTML file and modifying the download URL to serve the file inline instead of as an attachment, any included JavaScript code is executed when the URL is opened in a browser, leading to a cross-site scripting vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32750 ‼\n\nPydio Cells through 4.1.2 allows SSRF. For longer running processes, Pydio Cells allows for the creation of jobs, which are run in the background. The job \"remote-download\" can be used to cause the backend to send a HTTP GET request to a specified URL and save the response to a new file. The response file is then available in a user-specified folder in Pydio Cells.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-08",
+    "from_channel": "cibsecurity",
+    "message": "♟️ Barracuda Urges Replacing — Not Patching — Its Email Security Gateways ♟️\n\nIt's not often that a zero-day vulnerability causes a network security vendor to urge customers to physically remove and decommission an entire line of affected hardware -- as opposed to just applying software updates. But experts say that is exactly what transpired this week with Barracuda Networks, as the company struggled to combat a sprawling malware threat which appears to have undermined its email security appliances in such a fundamental way that they can no longer be safely updated with software fixes.\n\n📖 Read\n\nvia \"Krebs on Security\".",
+    "webpage_description": "It's not often that a zero-day vulnerability causes a network security vendor to urge customers to physically remove and decommission an entire line of affected hardware -- as opposed to just applying software updates. But experts say that is exactly…",
+    "webpage_url": "https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/"
+}
+{
+    "date": "2023-06-08",
+    "from_channel": "defcon_news",
+    "message": "Expert Restaurant eCommerce 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/172796/ere10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/172796/ere10-sql.txt"
+}
+{
+    "date": "2023-06-08",
+    "from_channel": "defcon_news",
+    "message": "NETXPERTS CMS 0.1 SQL Injection\nhttps://packetstormsecurity.com/files/172792/netxpertscms01-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/172792/netxpertscms01-sql.txt"
+}
+{
+    "date": "2023-06-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33657 ‼\n\nA use-after-free vulnerability exists in NanoMQ 0.17.2. The vulnerability can be triggered by calling the function nni_mqtt_msg_get_publish_property() in the file mqtt_msg.c. This vulnerability is caused by improper data tracing, and an attacker could exploit it to cause a denial of service attack.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-08",
+    "from_channel": "Leakers_squad",
+    "message": "====================================\n\n    🍎  @TheGodEye Presents  - SQL Injection Attack🍎\n\n====================================\n\n\n💉 Web Pentesting Part 1 - SQL Injection (OWASP Juice shop)\n\nFiles :- bit.ly/thegodeye \n\nContent :- Tutorial \n\nHacking OWASP Juice Shop and gaining admin.\n\nTools Used :- \n                    > Burpsuite \n \n💖Video created By @TheGodEye 💖\n\n\n⚠️ Don't share without credit\n     Else gay\n\nIf you want to report any copyright violation, please write to us at  @Leakers_squad_bot and we will ensure to remove that post within 48 hours\nRead this"
+}
+{
+    "date": "2023-06-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3146 ‼\n\nA vulnerability, which was classified as critical, was found in SourceCodester Online Discussion Forum Site 1.0. This affects an unknown part of the file admin\\categories\\manage_category.php. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-231015.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3145 ‼\n\nA vulnerability, which was classified as critical, has been found in SourceCodester Online Discussion Forum Site 1.0. Affected by this issue is some unknown functionality of the file classes\\Users.php?f=registration. The manipulation of the argument username leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-231014 is the identifier assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-07",
+    "from_channel": "defcon_news",
+    "message": "Wizcyb Interactive 2.0 SQL Injection\nhttps://packetstormsecurity.com/files/172774/wizcyb20-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/172774/wizcyb20-sql.txt"
+}
+{
+    "date": "2023-06-07",
+    "from_channel": "defcon_news",
+    "message": "Expert Job Portal Management System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/172767/ejpms10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/172767/ejpms10-sql.txt"
+}
+{
+    "date": "2023-06-07",
+    "from_channel": "cibsecurity",
+    "message": "⚠ Chrome zero-day: “This exploit is in the wild”, so check your version now ⚠\n\nChrome 0-day patched now, Edge patch coming soon.\n\n📖 Read\n\nvia \"Naked Security\".",
+    "webpage_description": "Chrome and Edge 0-days patched.",
+    "webpage_url": "https://nakedsecurity.sophos.com/2023/06/06/chrome-zero-day-this-exploit-is-in-the-wild-so-check-your-version-now/"
+}
+{
+    "date": "2023-06-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-2186 ‼\n\nOn Triangle MicroWorks' SCADA Data Gateway version <= v5.01.03, an unauthenticated attacker can send a specially crafted broadcast message including format string characters to the SCADA Data Gateway to perform unrestricted memory reads.An unauthenticated user can use this format string vulnerability to repeatedly crash the GTWWebMonitor.exe process to DoS the Web Monitor. Furthermore, an authenticated user can leverage this vulnerability to leak memory from the GTWWebMonitor.exe process. This could be leveraged in an exploit chain to gain code execution.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29632 ‼\n\nPrestaShop jmspagebuilder 3.x is vulnerable to SQL Injection via ajax_jmspagebuilder.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-06",
+    "from_channel": "defcon_news",
+    "message": "WordPress Getwid Gutenberg Blocks 1.8.3 Improper Authorization / SSRF\nhttps://packetstormsecurity.com/files/172762/wpggb183-ssrf.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/172762/wpggb183-ssrf.txt"
+}
+{
+    "date": "2023-06-06",
+    "from_channel": "cibsecurity",
+    "message": "⚠ Chrome zero-day: “This exploit is in the wild”, so check your version now ⚠\n\nChrome 0-day patched now, Edge patch coming soon.\n\n📖 Read\n\nvia \"Naked Security\".",
+    "webpage_description": "Chrome and Edge 0-days patched.",
+    "webpage_url": "https://nakedsecurity.sophos.com/2023/06/06/chrome-zero-day-this-exploit-is-in-the-wild-so-check-your-version-now/"
+}
+{
+    "date": "2023-06-06",
+    "from_channel": "defcon_news",
+    "message": "Chrome zero-day: “This exploit is in the wild”, so check your version now\nhttps://nakedsecurity.sophos.com/2023/06/06/chrome-zero-day-this-exploit-is-in-the-wild-so-check-your-version-now/",
+    "urls": [],
+    "webpage_description": "Chrome and Edge 0-days patched.",
+    "webpage_url": "https://nakedsecurity.sophos.com/2023/06/06/chrome-zero-day-this-exploit-is-in-the-wild-so-check-your-version-now/"
+}
+{
+    "date": "2023-06-06",
+    "from_channel": "cibsecurity",
+    "message": "⚠ MOVEit zero-day exploit used by data breach gangs: The how, the why, and what to do… ⚠\n\nLittle Bobby Tables is back!\n\n📖 Read\n\nvia \"Naked Security\".",
+    "webpage_description": "Little Bobby Tables is back!",
+    "webpage_url": "https://nakedsecurity.sophos.com/2023/06/05/moveit-zero-day-exploit-used-by-data-breach-gangs-the-how-the-why-and-what-to-do/?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-06-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34103 ‼\n\nAvo is an open source ruby on rails admin panel creation framework. In affected versions some avo fields are vulnerable to Cross Site Scripting (XSS) when rendering html based content. Attackers do need form edit privilege in order to successfully exploit this vulnerability, but the results are stored and no specific timing is required. This issue has been addressed in commit `7891c01e` which is expected to be included in the next release of avo. Users are advised to configure CSP headers for their application and to limit untrusted user access as a mitigation.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-05",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29344 ‼\n\nMicrosoft Office Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-05",
+    "from_channel": "cibsecurity",
+    "message": "⚠ MOVEit zero-day exploit used by data breach gangs: The how, the why, and what to do… ⚠\n\nLittle Bobby Tables is back!\n\n📖 Read\n\nvia \"Naked Security\".",
+    "webpage_description": "Little Bobby Tables is back!",
+    "webpage_url": "https://nakedsecurity.sophos.com/2023/06/05/moveit-zero-day-exploit-used-by-data-breach-gangs-the-how-the-why-and-what-to-do/?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-06-05",
+    "from_channel": "defcon_news",
+    "message": "MOVEit zero-day exploit used by data breach gangs: The how, the why, and what to do…\nhttps://nakedsecurity.sophos.com/2023/06/05/moveit-zero-day-exploit-used-by-data-breach-gangs-the-how-the-why-and-what-to-do/",
+    "urls": [],
+    "webpage_description": "Little Bobby Tables is back!",
+    "webpage_url": "https://nakedsecurity.sophos.com/2023/06/05/moveit-zero-day-exploit-used-by-data-breach-gangs-the-how-the-why-and-what-to-do/?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-06-05",
+    "from_channel": "defcon_news",
+    "message": "Enrollment System Project 1.0 Authentication Bypass / SQL Injection\nhttps://packetstormsecurity.com/files/172718/esp10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/172718/esp10-sql.txt"
+}
+{
+    "date": "2023-06-05",
+    "from_channel": "defcon_news",
+    "message": "MotoCMS 3.4.3 SQL Injection\nhttps://packetstormsecurity.com/files/172698/motocms343-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/172698/motocms343-sql.txt"
+}
+{
+    "date": "2023-06-05",
+    "from_channel": "defcon_news",
+    "message": "Gmail Spoofing Vulnerability Sparks Google Priority 1 Probe\nhttps://packetstormsecurity.com/news/view/34689/Gmail-Spoofing-Vulnerability-Sparks-Google-Priority-1-Probe.html",
+    "urls": [],
+    "webpage_description": "Investigation began days after the company dismissed initial concerns about a vulnerability within an authentication feature rolled out to all Gmail and Google Workspace accounts.",
+    "webpage_url": "https://packetstormsecurity.com/news/view/34689/Gmail-Spoofing-Vulnerability-Sparks-Google-Priority-1-Probe.html"
+}
+{
+    "date": "2023-06-05",
+    "from_channel": "sysadm_in_channel",
+    "message": "/ Zyxel’s guidance for the recent attacks on the ZyWALL devices\n\n— some firewall versions could allow an unauthenticated attacker to execute some OS commands remotely by sending crafted packets to an affected device\n\nhttps://www.zyxel.com/global/en/support/security-advisories/zyxels-guidance-for-the-recent-attacks-on-the-zywall-devices",
+    "urls": [],
+    "webpage_url": "https://www.zyxel.com/global/en/support/security-advisories/zyxels-guidance-for-the-recent-attacks-on-the-zywall-devices"
+}
+{
+    "date": "2023-06-04",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2015-10111 ‼\n\nA vulnerability was found in Watu Quiz Plugin up to 2.6.7 on WordPress. It has been rated as critical. This issue affects the function watu_exams of the file controllers/exam.php of the component Exam Handler. The manipulation of the argument quiz leads to sql injection. The attack may be initiated remotely. Upgrading to version 2.6.8 is able to address this issue. The name of the patch is bf42e7cfd819a3e76cf3e1465697e89f4830590c. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-230651.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-04",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3094 ‼\n\nA vulnerability classified as critical has been found in code-projects Agro-School Management System 1.0. Affected is the function doUpdateQuestion of the file btn_functions.php. The manipulation of the argument question_id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-230670 is the identifier assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-04",
+    "from_channel": "Leakers_squad",
+    "message": "XSS RAT | 005: API testing and securing guide[MEDIOR]\n\nInfo : https://thexssrat.podia.com/free-api-testing-and-securing-guide\n\nIf you want to report any copyright violation, please write to us at  @Leakers_squad_bot and we will ensure to remove that post within 48 hours\nRead this"
+}
+{
+    "date": "2023-06-03",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32582 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Kyle Maurer Don8 plugin <=Â 0.4 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-02",
+    "from_channel": "defcon_news",
+    "message": "TikTok: Reflected Cross-site Scripting (XSS) at https://www.tiktok.com/\nhttps://vulners.com/hackerone/H1:1915808?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "TikTok - trends start here. On a device or on the web, viewers can watch and discover millions of personalized short videos. Download the app to get started.",
+    "webpage_url": "https://www.tiktok.com/"
+}
+{
+    "date": "2023-06-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33761 ‼\n\neMedia Consulting simpleRedak up to v2.47.23.05 was discovered to contain a reflected cross-site scripting (XSS) vulnerability via the component /view/cb/format_642.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3073 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository tsolucio/corebos prior to 8.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3074 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository tsolucio/corebos prior to 8.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3070 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository tsolucio/corebos prior to 8.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3067 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository zadam/trilium prior to 0.59.4.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3068 ‼\n\nA vulnerability classified as critical has been found in Campcodes Retro Cellphone Online Store 1.0. Affected is an unknown function of the file /admin/modal_add_product.php. The manipulation of the argument category leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-230580.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-02",
+    "from_channel": "defcon_news",
+    "message": "U.S. Dept Of Defense: Reflected xss on https://█████████\nhttps://vulners.com/hackerone/H1:1988560?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "Description: The domain  ███ is vulnerable to reflective xss. By clicking the following link you will get an alert message: https:// █████/sec.html?redirect=javascript:alert(document.cookie);//:// ██████/ The error occurs due to a flaw in the check...",
+    "webpage_url": "https://vulners.com/hackerone/H1:1988560?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-06-02",
+    "from_channel": "defcon_news",
+    "message": "U.S. Dept Of Defense: DOM-XSS\nhttps://vulners.com/hackerone/H1:1982099?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "hello defense team : I found DOM-XSS-SiteMinder on this subdomain : https:// ████/ Impact An attacker with access to the Siteminder CA could perform a cross-site scripting attack, which it would use to cause information leaks, privilege escalation,...",
+    "webpage_url": "https://vulners.com/hackerone/H1:1982099?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-06-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3062 ‼\n\nA vulnerability was found in code-projects Agro-School Management System 1.0. It has been classified as critical. Affected is an unknown function of the file index.php. The manipulation of the argument password leads to sql injection. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-230568.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34362 ‼\n\nIn Progress MOVEit Transfer before 2021.0.6 (13.0.6), 2021.1.4 (13.1.4), 2022.0.4 (14.0.4), 2022.1.5 (14.1.5), and 2023.0.1 (15.0.1), a SQL injection vulnerability has been found in the MOVEit Transfer web application that could allow an unauthenticated attacker to gain access to MOVEit Transfer's database. Depending on the database engine being used (MySQL, Microsoft SQL Server, or Azure SQL), an attacker may be able to infer information about the structure and contents of the database, and execute SQL statements that alter or delete database elements. NOTE: this is exploited in the wild in May and June 2023; exploitation of unpatched systems can occur via HTTP or HTTPS.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30149 ‼\n\nSQL injection vulnerability in the City Autocomplete (cityautocomplete) module from ebewe.net for PrestaShop, prior to version 1.8.12 (for PrestaShop version 1.5/1.6) or prior to 2.0.3 (for PrestaShop version 1.7), allows remote attackers to execute arbitrary SQL commands via the type, input_name. or q parameter in the autocompletion.php front controller.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-02",
+    "from_channel": "defcon_news",
+    "message": "Biig Order CMS 2 SQL Injection\nhttps://packetstormsecurity.com/files/172683/biigorder2-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/172683/biigorder2-sql.txt"
+}
+{
+    "date": "2023-06-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-28705 ‼\n\nOpenfind Mail2000 has insufficient filtering special characters of email content of its content filtering function. A remote attacker can exploit this vulnerability using phishing emails that contain malicious web pages injected with JavaScript. When users access the system and open the email, it triggers an XSS (Reflected Cross-site scripting) attack.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-02",
+    "from_channel": "Leakers_squad",
+    "message": "👨‍💻👨‍💻🌐SQL INJECTION 🌐👨‍💻👨‍💻\n\n👨‍💻 Topic: How To Find SQL Injection Bug. \n\n💬 Comment: This Method Allow To Find Bug on website of SQL injection this is easiest method ever. This is just as example of bug finding want to find like pro?\n\nFor more > join here\n\nIf you want to report any copyright violation, please write to us at  @Leakers_squad_bot and we will ensure to remove that post within 48 hours\nRead this"
+}
+{
+    "date": "2023-06-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-2060 ‼\n\nWeak Password Requirements vulnerability in FTP function on Mitsubishi Electric Corporation MELSEC iQ-R Series EtherNet/IP module RJ71EIP91 and MELSEC iQ-F Series EtherNet/IP module FX5-ENET/IP allows a remote unauthenticated attacker to access to the module via FTP by dictionary attack or password sniffing.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-02",
+    "from_channel": "defcon_news",
+    "message": "MOVEit Transfer Under Attack: Zero-Day Vulnerability Actively Being Exploited\nhttps://thehackernews.com/2023/06/moveit-transfer-under-attack-zero-day.html",
+    "urls": []
+}
+{
+    "date": "2023-06-01",
+    "from_channel": "defcon_news",
+    "message": "Rukovoditel 3.3.1 CSV Injection\nhttps://packetstormsecurity.com/files/172665/rukovoditel331-csvinject.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/172665/rukovoditel331-csvinject.txt"
+}
+{
+    "date": "2023-06-01",
+    "from_channel": "defcon_news",
+    "message": "[Fixed] [CVE-2021-33690] SSRF vulnerability in SAP NetWeaver DI\nhttps://www.reddit.com/r/netsec/comments/13xc5u8/fixed_cve202133690_ssrf_vulnerability_in_sap/",
+    "urls": [],
+    "webpage_description": "Posted by u/vah_13 - No votes and no comments",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/13xc5u8/fixed_cve202133690_ssrf_vulnerability_in_sap/"
+}
+{
+    "date": "2023-06-01",
+    "from_channel": "defcon_news",
+    "message": "[CVE-2021-33690] SSRF vulnerability in SAP NetWeaver DI || CVSS 9.9/10 || RedRays\nhttps://www.reddit.com/r/netsec/comments/13xbr2w/cve202133690_ssrf_vulnerability_in_sap_netweaver/",
+    "urls": [],
+    "webpage_description": "Posted by u/vah_13 - No votes and no comments",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/13xbr2w/cve202133690_ssrf_vulnerability_in_sap_netweaver/"
+}
+{
+    "date": "2023-06-01",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29159 ‼\n\nDirectory traversal vulnerability in Starlette versions 0.13.5 and later and prior to 0.27.0 allows a remote unauthenticated attacker to view files in a web service which was built using Starlette.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
