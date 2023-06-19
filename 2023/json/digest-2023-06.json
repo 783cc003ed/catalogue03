@@ -1,6 +1,11 @@
 {
     "date": "2023-06-19",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-2805 ‼\n\nThe SupportCandy WordPress plugin before 3.1.7 does not properly sanitise and escape the agents[] parameter in the set_add_agent_leaves AJAX function before using it in a SQL statement, leading to a SQL injection exploitable by high privilege users such as admin.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-19",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-34603 ‼\n\nJeecgBoot up to v 3.5.1 was discovered to contain a SQL injection vulnerability via the component queryFilterTableDictInfo at org.jeecg.modules.api.controller.SystemApiController.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
