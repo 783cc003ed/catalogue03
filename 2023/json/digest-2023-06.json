@@ -1,6 +1,11 @@
 {
     "date": "2023-06-21",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-27432 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in WpSimpleTools Manage Upload Limit plugin <=Â 1.0.4 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-21",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-27443 ‼\n\nAuth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in Grant Kimball Simple Vimeo Shortcode plugin <=Â 2.9.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
