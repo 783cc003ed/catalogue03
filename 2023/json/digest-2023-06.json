@@ -1,6 +1,19 @@
 {
     "date": "2023-06-22",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-27452 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Wow-Company Button Generator â€“ easily Button Builder plugin <=Â 2.3.3 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-22",
+    "from_channel": "defcon_news",
+    "message": "ACJWEB DESIGNER 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/173073/acjwebdesigner10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173073/acjwebdesigner10-sql.txt"
+}
+{
+    "date": "2023-06-22",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-27413 ‼\n\nAuth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in Shazzad Hossain Khan W4 Post List plugin <=Â 2.4.4 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
