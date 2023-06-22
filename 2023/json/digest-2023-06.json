@@ -1,4 +1,14 @@
 {
+    "date": "2023-06-22",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-27413 ‼\n\nAuth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in Shazzad Hossain Khan W4 Post List plugin <=Â 2.4.4 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-22",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-28166 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Aakif Kadiwala Tags Cloud Manager plugin <=Â 1.0.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-06-21",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-33591 ‼\n\nUser Registration & Login and User Management System v1.0 was discovered to contain a cross-site scripting (XSS) vulnerability via the component /admin/search-result.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
