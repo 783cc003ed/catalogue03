@@ -1,6 +1,14 @@
 {
     "date": "2023-06-23",
     "from_channel": "defcon_news",
+    "message": "MOVEit SQL Injection\nhttps://packetstormsecurity.com/files/173110/moveit_cve_2023_34362.rb.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173110/moveit_cve_2023_34362.rb.txt"
+}
+{
+    "date": "2023-06-23",
+    "from_channel": "defcon_news",
     "message": "Adapt Inventory Management System 1.0.0 SQL Injection\nhttps://packetstormsecurity.com/files/173097/aims100-sql.txt",
     "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
