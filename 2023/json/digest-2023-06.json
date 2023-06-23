@@ -1,5 +1,48 @@
 {
     "date": "2023-06-23",
+    "from_channel": "defcon_news",
+    "message": "Adapt Inventory Management System 1.0.0 SQL Injection\nhttps://packetstormsecurity.com/files/173097/aims100-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173097/aims100-sql.txt"
+}
+{
+    "date": "2023-06-23",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29100 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Dream-Theme The7 plugin <=Â 11.6.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-23",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-28751 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Wpmet Wp Ultimate Review plugin <=Â 2.0.3 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-23",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32580 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in WPExperts Password Protected plugin <=Â 2.6.2 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-23",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34012 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Premium Addons for Elementor Premium Addons PRO plugin <=Â 2.8.24 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-23",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35048 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in MagePeople Team Booking and Rental Manager for Bike plugin <=Â 1.2.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-23",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-27427 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in NTZApps CRM Memberships plugin <=Â 1.6 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-23",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34021 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Andy Moyle Church Admin plugin <=Â 3.7.29 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-23",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-28034 ‼\n\nDell BIOS contains an improper input validation vulnerability. A local authenticated malicious user with administrator privileges may potentially exploit this vulnerability in order to modify a UEFI variable.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
