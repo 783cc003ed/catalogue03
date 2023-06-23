@@ -1,5 +1,12 @@
 {
     "date": "2023-06-23",
+    "from_channel": "Leakers_squad",
+    "message": "Top 10 Hacking And CyberSecurity Course For FREE\n\nLink 1 :https://www.udemy.com/course/burp-suite/\n\nlink 2 :https://www.udemy.com/course/sql-injection-ethical-hacking/\n\nlink 3 :https://www.udemy.com/course/computer-hacking-fundamentals/\n\nlink 4 :https://www.udemy.com/course/ethical-hacking-basics-kali-20211/\n\nlink 5 :https://www.udemy.com/course/foundations-of-hacking-and-pentesting-android-apps/\n\nlink 6 :https://www.udemy.com/course/ethical-hacking-for-beginners-in-hindi/\n\nlink 7 :https://www.udemy.com/course/lees-web-hacking-cross-site-scripting-sql-injection/\n\nlink 8:https://www.udemy.com/course/ethical-hacking-with-parrot-security-os/\n\nlink 9 :https://www.udemy.com/course/ethical-hacking-for-beginners-beginner-to-advance/\n\nlink 10 : https://www.udemy.com/course/introduction-to-dark-web-anonymity-and-cryptocurrency/\n\n✦•━━━━━━━━━━━━━━━━━•✦\n\nMake @stranger_0_0 admin for this type of posts😉❤️\n\nIf you want to report any copyright violation, please write to us at  @Leakers_squad_bot and we will ensure to remove that post within 48 hours\nRead this",
+    "webpage_description": "Learn how to make you web application testing easier and faster with the Burp Suite. - Free Course",
+    "webpage_url": "https://www.udemy.com/course/burp-suite/"
+}
+{
+    "date": "2023-06-23",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-35159 ‼\n\nXWiki Platform is a generic wiki platform offering runtime services for applications built on top of it. Users are able to forge an URL with a payload allowing to inject Javascript in the page (XSS). It's possible to exploit the deletespace template to perform a XSS, e.g. by using URL such as: > xwiki/bin/deletespace/Sandbox/?xredirect=javascript:alert(document.domain). This vulnerability exists since XWiki 3.4-milestone-1. The vulnerability has been patched in XWiki 14.10.5 and 15.1-rc-1.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
