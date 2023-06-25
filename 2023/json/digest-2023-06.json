@@ -1,4 +1,9 @@
 {
+    "date": "2023-06-25",
+    "from_channel": "proxy_bar",
+    "message": "CVE-2023-27372\nSPIP (before 4.2.1)\nRCE\nEXploit\n\n#spip #rce"
+}
+{
     "date": "2023-06-24",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-3197 ‼\n\nThe MStore API plugin for WordPress is vulnerable to Unauthenticated Blind SQL Injection via the 'id' parameter in versions up to, and including, 4.0.1 due to insufficient escaping on the user supplied parameters and lack of sufficient preparation on the existing SQL query. This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
