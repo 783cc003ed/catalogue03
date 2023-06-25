@@ -1,5 +1,10 @@
 {
     "date": "2023-06-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36663 ‼\n\nit-novum openITCOCKPIT (aka open IT COCKPIT) 4.6.4 before 4.6.5 allows SQL Injection (by authenticated users) via the sort parameter of the API interface.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-25",
     "from_channel": "proxy_bar",
     "message": "CVE-2023-27372\nSPIP (before 4.2.1)\nRCE\nEXploit\n\n#spip #rce"
 }
