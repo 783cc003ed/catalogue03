@@ -1,5 +1,20 @@
 {
     "date": "2023-06-26",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-40010 ‼\n\nTenda AC6 AC1200 Smart Dual-Band WiFi Router 15.03.06.50_multi was discovered to contain a cross-site scripting (XSS) vulnerability via the deviceId parameter in the Parental Control module.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-26",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33580 ‼\n\nPhpgurukul Student Study Center Management System V1.0 is vulnerable to Cross Site Scripting (XSS) in the \"Admin Name\" field on Admin Profile page.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-26",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-28485 ‼\n\nA stored cross-site scripting (Stored XSS) vulnerability in file preview in WeKan before 6.75 allows remote authenticated users to inject arbitrary web script or HTML via names of file attachments. Any user can obtain the privilege to rename within their own board (where they have BoardAdmin access), and renameAttachment does not block XSS payloads.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-26",
     "from_channel": "defcon_news",
     "message": "Automattic: Stored XSS on wordpress.com\nhttps://vulners.com/hackerone/H1:2012636?utm_source=rss&utm_medium=rss&utm_campaign=rss",
     "urls": [],
