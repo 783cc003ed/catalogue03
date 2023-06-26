@@ -1,5 +1,15 @@
 {
     "date": "2023-06-26",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-28988 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in PI Websolution Direct checkout, Add to cart redirect, Quick purchase button, Buy now button, Quick View button for WooCommerce plugin <=Â 2.1.48 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-26",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29424 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Plainware ShiftController Employee Shift Scheduling plugin <=Â 4.9.23 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-26",
     "from_channel": "defcon_news",
     "message": "Fortinet Addressed Critical RCE Vulnerability In FortiNAC Systems\nhttps://latesthackingnews.com/2023/06/26/fortinet-addressed-critical-rce-vulnerability-in-fortinac-systems/",
     "urls": [],
