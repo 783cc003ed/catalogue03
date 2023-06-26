@@ -1,6 +1,11 @@
 {
     "date": "2023-06-26",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29438 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Eric Martin SimpleModal Contact Form (SMCF) plugin <=Â 1.2.9 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-26",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-29430 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in CTHthemes TheRoof plugin <=Â 1.0.3 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
