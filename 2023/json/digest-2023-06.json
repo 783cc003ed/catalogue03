@@ -1,5 +1,18 @@
 {
     "date": "2023-06-26",
+    "from_channel": "defcon_news",
+    "message": "Automattic: Stored XSS on wordpress.com\nhttps://vulners.com/hackerone/H1:2012636?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "Summary: Hello team, I found a Stored XSS vulnerability in WordPress.com via app.crowdsignal.com. It is similar to report #1987172. Platform(s) Affected: wordpress.com 1 .Go to https://app.crowdsignal.com/dashboard and create a poll. 2. Enter the...",
+    "webpage_url": "https://vulners.com/hackerone/H1:2012636"
+}
+{
+    "date": "2023-06-26",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36301 ‼\n\nTalend Data Catalog before 8.0-20230221 contain a directory traversal vulnerability in HeaderImageServlet.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-26",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-29438 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Eric Martin SimpleModal Contact Form (SMCF) plugin <=Â 1.2.9 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
