@@ -1,5 +1,21 @@
 {
     "date": "2023-06-27",
+    "from_channel": "defcon_news",
+    "message": "Office Suite Premium 10.9.1.42602 Local File Inclusion\nhttps://packetstormsecurity.com/files/173146/osp109142602-lfi.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173146/osp109142602-lfi.txt"
+}
+{
+    "date": "2023-06-27",
+    "from_channel": "defcon_news",
+    "message": "Thinu-CMS Blog System 1.5 SQL Injection\nhttps://packetstormsecurity.com/files/173119/thinucmsblogsystem15-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173119/thinucmsblogsystem15-sql.txt"
+}
+{
+    "date": "2023-06-27",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-32604 ‼\n\nAffected versions Trend Micro Apex Central (on-premise) are vulnerable to potential authenticated reflected cross-site scripting (XSS) attacks due to user input validation and sanitization issues. Please note: an attacker must first obtain authentication to Apex Central on the target system in order to exploit this vulnerability.This is similar to, but not identical to CVE-2023-32605.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
