@@ -1,6 +1,11 @@
 {
     "date": "2023-06-27",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2020-18414 ‼\n\nStored cross site scripting (XSS) vulnerability in Chaoji CMS v2.18 that allows attackers to execute arbitrary code via /index.php?admin-master-webset.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-27",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-34830 ‼\n\ni-doit Open v24 was discovered to contain a reflected cross-site scripting (XSS) vulnerability via the timeout parameter on the login page.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
