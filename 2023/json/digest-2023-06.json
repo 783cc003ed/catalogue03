@@ -1,4 +1,74 @@
 {
+    "date": "2023-06-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32604 ‼\n\nAffected versions Trend Micro Apex Central (on-premise) are vulnerable to potential authenticated reflected cross-site scripting (XSS) attacks due to user input validation and sanitization issues. Please note: an attacker must first obtain authentication to Apex Central on the target system in order to exploit this vulnerability.This is similar to, but not identical to CVE-2023-32605.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32535 ‼\n\nCertain dashboard widgets on Trend Micro Apex Central (on-premise) are vulnerable to cross-site scripting (XSS) attacks that may allow an attacker to achieve remote code execution on affected servers.This is similar to, but not identical to CVE-2023-32531 through 32534.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32536 ‼\n\nAffected versions Trend Micro Apex Central (on-premise) are vulnerable to potential authenticated reflected cross-site scripting (XSS) attacks due to user input validation and sanitization issues. Please note: an attacker must first obtain authentication to Apex Central on the target system in order to exploit this vulnerability.This is similar to, but not identical to CVE-2023-32537.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32531 ‼\n\nCertain dashboard widgets on Trend Micro Apex Central (on-premise) are vulnerable to cross-site scripting (XSS) attacks that may allow an attacker to achieve remote code execution on affected servers.This is similar to, but not identical to CVE-2023-32532 through 32535.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32533 ‼\n\nCertain dashboard widgets on Trend Micro Apex Central (on-premise) are vulnerable to cross-site scripting (XSS) attacks that may allow an attacker to achieve remote code execution on affected servers.This is similar to, but not identical to CVE-2023-32531 through 32535.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32529 ‼\n\nVulnerable modules of Trend Micro Apex Central (on-premise) contain vulnerabilities which would allow authenticated users to perform a SQL injection that could lead to remote code execution.Please note: an attacker must first obtain authentication on the target system in order to exploit these vulnerabilities.This is similar to, but not identical to CVE-2023-32530.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32537 ‼\n\nAffected versions Trend Micro Apex Central (on-premise) are vulnerable to potential authenticated reflected cross-site scripting (XSS) attacks due to user input validation and sanitization issues. Please note: an attacker must first obtain authentication to Apex Central on the target system in order to exploit this vulnerability.This is similar to, but not identical to CVE-2023-32536.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32553 ‼\n\nAn Improper access control vulnerability in Trend Micro Apex One and Apex One as a Service could allow an unauthenticated user under certain circumstances to disclose sensitive information on agents.This is similar to, but not identical to CVE-2023-32552.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32552 ‼\n\nAn Improper access control vulnerability in Trend Micro Apex One and Apex One as a Service could allow an unauthenticated user under certain circumstances to disclose sensitive information on agents.This is similar to, but not identical to CVE-2023-32553\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32532 ‼\n\nCertain dashboard widgets on Trend Micro Apex Central (on-premise) are vulnerable to cross-site scripting (XSS) attacks that may allow an attacker to achieve remote code execution on affected servers.This is similar to, but not identical to CVE-2023-32531 through 32535.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32557 ‼\n\nA path traversal vulnerability in the Trend Micro Apex One and Apex One as a Service could allow an unauthenticated attacker to upload an arbitrary file to the Management Server which could lead to remote code execution with system privileges.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32530 ‼\n\nVulnerable modules of Trend Micro Apex Central (on-premise) contain vulnerabilities which would allow authenticated users to perform a SQL injection that could lead to remote code execution.Please note: an attacker must first obtain authentication on the target system in order to exploit these vulnerabilities.This is similar to, but not identical to CVE-2023-32529.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32534 ‼\n\nCertain dashboard widgets on Trend Micro Apex Central (on-premise) are vulnerable to cross-site scripting (XSS) attacks that may allow an attacker to achieve remote code execution on affected servers.This is similar to, but not identical to CVE-2023-32531 through 32535.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32605 ‼\n\nAffected versions Trend Micro Apex Central (on-premise) are vulnerable to potential authenticated reflected cross-site scripting (XSS) attacks due to user input validation and sanitization issues. Please note: an attacker must first obtain authentication to Apex Central on the target system in order to exploit this vulnerability.This is similar to, but not identical to CVE-2023-32604.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-06-26",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-33176 ‼\n\nBigBlueButton is an open source virtual classroom designed to help teachers teach and learners learn. In affected versions are affected by a Server-Side Request Forgery (SSRF) vulnerability. In an `insertDocument` API request the user is able to supply a URL from which the presentation should be downloaded. This URL was being used without having been successfully validated first. An update to the `followRedirect` method in the `PresentationUrlDownloadService` has been made to validate all URLs to be used for presentation download. Two new properties `presentationDownloadSupportedProtocols` and `presentationDownloadBlockedHosts` have also been added to `bigbluebutton.properties` to allow administrators to define what protocols a URL must use and to explicitly define hosts that a presentation cannot be downloaded from. All URLs passed to `insertDocument` must conform to the requirements of the two previously mentioned properties. Additionally, these URLs must resolve to valid addresses, and these addresses must not be local or loopback addresses. There are no workarounds. Users are advised to upgrade to a patched version of BigBlueButton.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
