@@ -1,5 +1,10 @@
 {
     "date": "2023-06-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34830 ‼\n\ni-doit Open v24 was discovered to contain a reflected cross-site scripting (XSS) vulnerability via the timeout parameter on the login page.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-27",
     "from_channel": "defcon_news",
     "message": "Office Suite Premium 10.9.1.42602 Local File Inclusion\nhttps://packetstormsecurity.com/files/173146/osp109142602-lfi.txt",
     "urls": [],
