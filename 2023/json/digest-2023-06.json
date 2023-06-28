@@ -1,5 +1,15 @@
 {
     "date": "2023-06-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3034 ‼\n\nReflected XSS affects the â€˜modeâ€™ parameter in the /admin functionality of the web application in versions <=2.0.44\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32623 ‼\n\nDirectory traversal vulnerability in Snow Monkey Forms versions v5.1.0 and earlier allows a remote unauthenticated attacker to delete arbitrary files on the server.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-28",
     "from_channel": "defcon_news",
     "message": "Critical SQL Injection Flaws Expose Gentoo Soko to Remote Code Execution\nhttps://thehackernews.com/2023/06/critical-sql-injection-flaws-expose.html",
     "urls": []
