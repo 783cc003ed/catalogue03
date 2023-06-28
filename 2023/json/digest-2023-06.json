@@ -1,5 +1,37 @@
 {
     "date": "2023-06-28",
+    "from_channel": "defcon_news",
+    "message": "SPIP 4.2.3 SQL Injection\nhttps://packetstormsecurity.com/files/173184/spip423-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173184/spip423-sql.txt"
+}
+{
+    "date": "2023-06-28",
+    "from_channel": "defcon_news",
+    "message": "Alumni Club Management Tools 2.2.7 SQL Injection\nhttps://packetstormsecurity.com/files/173171/acmt227-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173171/acmt227-sql.txt"
+}
+{
+    "date": "2023-06-28",
+    "from_channel": "defcon_news",
+    "message": "ALTISA CMS 5.2.1 SQL Injection\nhttps://packetstormsecurity.com/files/173170/altisacms521-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173170/altisacms521-sql.txt"
+}
+{
+    "date": "2023-06-28",
+    "from_channel": "defcon_news",
+    "message": "Advanced Testimonials Manager 4.1.1 SQL Injection\nhttps://packetstormsecurity.com/files/173169/atm411-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173169/atm411-sql.txt"
+}
+{
+    "date": "2023-06-28",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-3034 ‼\n\nReflected XSS affects the â€˜modeâ€™ parameter in the /admin functionality of the web application in versions <=2.0.44\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
