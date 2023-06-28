@@ -1,6 +1,31 @@
 {
     "date": "2023-06-28",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3449 ‼\n\nA vulnerability has been found in IBOS OA 4.5.5 and classified as critical. This vulnerability affects the function actionExport of the file ?r=recruit/interview/export&interviews=x of the component Interview Management Export. The manipulation of the argument interviews leads to sql injection. The exploit has been disclosed to the public and may be used. VDB-232546 is the identifier assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-21192 ‼\n\nIn setInputMethodWithSubtypeIdLocked of InputMethodManagerService.java, there is a possible way to setup input methods that are not enabled due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-227207653\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-21203 ‼\n\nIn startWpsPbcInternal of sta_iface.cpp, there is a possible out of bounds read due to improper input validation. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-262246082\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-21210 ‼\n\nIn initiateHs20IconQueryInternal of sta_iface.cpp, there is a possible out of bounds read due to improper input validation. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-262236331\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-21156 ‼\n\nIn BuildGetRadioNode of protocolmiscbulider.cpp, there is a possible out of bounds read due to improper input validation. This could lead to local information disclosure from the modem with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-264540759References: N/A\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-28",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-20188 ‼\n\nA vulnerability in the web-based management interface of Cisco Small Business 200 Series Smart Switches, Cisco Small Business 300 Series Managed Switches, and Cisco Small Business 500 Series Stackable Managed Switches could allow an authenticated, remote attacker to conduct a stored cross-site scripting (XSS) attack against a user of the interface on an affected device. This vulnerability is due to insufficient validation of user-supplied input. An attacker could exploit this vulnerability by persuading a user of an affected interface to view a page containing malicious HTML or script content. A successful exploit could allow the attacker to execute arbitrary script code in the context of the affected interface or access sensitive, browser-based information. To exploit this vulnerability, the attacker would need to have valid credentials to access the web-based management interface of the affected device. Cisco has not released software updates to address this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
