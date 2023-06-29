@@ -1,6 +1,11 @@
 {
     "date": "2023-06-29",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-23264 ‼\n\nMicrosoft Edge (Chromium-based) Spoofing Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-29",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-34647 ‼\n\nPHPgurukl Hostel Management System v.1.0 is vulnerable to Cross Site Scripting (XSS).\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
