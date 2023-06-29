@@ -1,6 +1,16 @@
 {
     "date": "2023-06-29",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37254 ‼\n\nAn issue was discovered in the Cargo extension for MediaWiki through 1.39.3. XSS can occur in Special:CargoQuery via a crafted page item when using the default format.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36488 ‼\n\nILIAS 7.21 allows stored Cross Site Scripting (XSS).\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-29",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-34599 ‼\n\nMultiple Cross-Site Scripting (XSS) vulnerabilities have been identified in Gibbon v25.0.0, which enable attackers to execute arbitrary Javascript code.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
