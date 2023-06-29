@@ -1,6 +1,21 @@
 {
     "date": "2023-06-29",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2020-26710 ‼\n\neasy-parse v0.1.1 was discovered to contain a XML External Entity Injection (XXE) vulnerability which allows attackers to execute arbitrary code via a crafted XML file.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2020-26709 ‼\n\npy-xml v1.0 was discovered to contain an XML External Entity Injection (XXE) vulnerability which allows attackers to execute arbitrary code via a crafted XML file.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2020-26708 ‼\n\nrequests-xml v0.2.3 was discovered to contain an XML External Entity Injection (XXE) vulnerability which allows attackers to execute arbitrary code via a crafted XML file.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-29",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-37254 ‼\n\nAn issue was discovered in the Cargo extension for MediaWiki through 1.39.3. XSS can occur in Special:CargoQuery via a crafted page item when using the default format.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
