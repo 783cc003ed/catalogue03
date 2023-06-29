@@ -1,5 +1,40 @@
 {
     "date": "2023-06-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34599 ‼\n\nMultiple Cross-Site Scripting (XSS) vulnerabilities have been identified in Gibbon v25.0.0, which enable attackers to execute arbitrary Javascript code.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3457 ‼\n\nA vulnerability was found in SourceCodester Shopping Website 1.0. It has been classified as critical. Affected is an unknown function of the file index.php. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-232674 is the identifier assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34487 ‼\n\nitsourcecode Online Hotel Management System Project In PHP v1.0.0 is vulnerable to SQL Injection. SQL injection points exist in the login password input box. This vulnerability can be exploited through time-based blind injection.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3458 ‼\n\nA vulnerability was found in SourceCodester Shopping Website 1.0. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file forgot-password.php. The manipulation of the argument contact leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-232675.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34486 ‼\n\nitsourcecode Online Hotel Management System Project In PHP v1.0.0 is vulnerable to Cross Site Scripting (XSS). Remote code execution can be achieved by entering malicious code in the date selection box.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34598 ‼\n\nGibbon v25.0.0 is vulnerable to a Local File Inclusion (LFI) where it's possible to include the content of several files present in the installation folder in the server's response.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34735 ‼\n\nProperty Cloud Platform Management Center 1.0 is vulnerable to error-based SQL injection.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-29",
     "from_channel": "freedomf0x",
     "message": "CVE-2023-3338 \nLinux kernel LPE \nexploit\nпока не дорого)\n\n#linux #lpe"
 }
