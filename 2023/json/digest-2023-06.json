@@ -1,5 +1,10 @@
 {
     "date": "2023-06-30",
+    "from_channel": "proxy_bar",
+    "message": "Ребят, тут Windows Common Log File System  протёк \nЕсть патч от апреля, так что не 0-Day\nCVE-2023-28252\nPOC exploit\n \n#windows #lpe"
+}
+{
+    "date": "2023-06-30",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-35175 ‼\n\nCertain HP LaserJet Pro print products are potentially vulnerable to Potential Remote Code Execution and/or Elevation of Privilege via Server-Side Request Forgery (SSRF) using the Web Service Eventing model.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
