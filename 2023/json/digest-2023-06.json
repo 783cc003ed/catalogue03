@@ -1,4 +1,14 @@
 {
+    "date": "2023-06-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3473 ‼\n\nA vulnerability, which was classified as critical, was found in Campcodes Retro Cellphone Online Store 1.0. Affected is an unknown function of the file /admin/edit_product.php. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-232752.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-2846 ‼\n\nAuthentication Bypass by Capture-replay vulnerability in Mitsubishi Electric Corporation MELSEC iQ-F Series main modules allows a remote unauthenticated attacker to cancel the password/keyword setting and login to the affected products by sending specially crafted packets.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-06-29",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2020-26710 ‼\n\neasy-parse v0.1.1 was discovered to contain a XML External Entity Injection (XXE) vulnerability which allows attackers to execute arbitrary code via a crafted XML file.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
