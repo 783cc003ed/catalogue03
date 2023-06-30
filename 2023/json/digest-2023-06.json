@@ -1,6 +1,53 @@
 {
     "date": "2023-06-30",
     "from_channel": "defcon_news",
+    "message": "Stripe: XSS vulnerability without a content security bypass in a `CUSTOM` App through Button tag\nhttps://vulners.com/hackerone/H1:1823216?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "Summary: Hi security team members, Hope you are well and doing great :) I found a Possible XSS vulnerability in CUSTOM App through the Button tag but I was not able to bypass a content security policy. This report is similar to my previous...",
+    "webpage_url": "https://vulners.com/hackerone/H1:1823216?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-06-30",
+    "from_channel": "defcon_news",
+    "message": "Equifax-vdp: reflected XSS in [www.equifax.com]\nhttps://vulners.com/hackerone/H1:1818172?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "hi , I hope you are well, i found reflected XSS in this endpoint via q  parameter: https://www.equifax.com/personal/search?q=broook Steps:  open https://www.equifax.com/personal/search?q=broook view the source code of the page and search for word...",
+    "webpage_url": "https://vulners.com/hackerone/H1:1818172?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-06-30",
+    "from_channel": "defcon_news",
+    "message": "Reddit: Reflected XSS via File Upload\nhttps://vulners.com/hackerone/H1:1816181?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "Summary: Reflected XSS in \" https://reddit.zendesk.com/hc/en-us/requests/new \" via file upload Impact: !! attacker can send that email to victim and steal user account or cookies Cross site scripting attacks can have devastating consequences. Code...",
+    "webpage_url": "https://vulners.com/hackerone/H1:1816181?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-06-30",
+    "from_channel": "defcon_news",
+    "message": "8x8 Bounty: connect.8x8.com: Blind SSRF via /api/v2/chats/image-check allows for Internal Ports scan\nhttps://vulners.com/hackerone/H1:1875484?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "@yassinek3ch reported to us a Blind SSRF in the 8x8 Connect application, in the ChatApps module, which potentially could have allowed for internal port scans. The vulnerable API path was /api/v2/chats/image-check via the url JSON parameter....",
+    "webpage_url": "https://vulners.com/hackerone/H1:1875484?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-06-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33276 ‼\n\nThe web interface of Gira Giersiepen Gira KNX/IP-Router 3.1.3683.0 and 3.3.8.0 responds with a \"404 - Not Found\" status code if a path is accessed that does not exist. However, the value of the path is reflected in the response. As the application will reflect the supplied path without context-sensitive HTML encoding, it is vulnerable to reflective cross-site scripting (XSS).\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37299 ‼\n\nJoplin before 2.11.5 allows XSS via an AREA element of an image map.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37298 ‼\n\nJoplin before 2.11.5 allows XSS via a USE element in an SVG document.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-30",
+    "from_channel": "defcon_news",
     "message": "IBM: Moodle XSS on s-immerscio.comprehend.ibm.com\nhttps://vulners.com/hackerone/H1:1848551?utm_source=rss&utm_medium=rss&utm_campaign=rss",
     "urls": [],
     "webpage_description": "Cross-site scripting against IBM website was reported to IBM, analyzed and have been remediated. Thank you to our external...",
