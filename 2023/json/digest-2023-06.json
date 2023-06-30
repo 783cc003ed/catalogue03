@@ -1,5 +1,39 @@
 {
     "date": "2023-06-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35175 ‼\n\nCertain HP LaserJet Pro print products are potentially vulnerable to Potential Remote Code Execution and/or Elevation of Privilege via Server-Side Request Forgery (SSRF) using the Web Service Eventing model.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34840 ‼\n\nangular-ui-notification v0.1.0, v0.2.0, and v0.3.6 was discovered to contain a cross-site scripting (XSS) vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37302 ‼\n\nAn issue was discovered in SiteLinksView.php in Wikibase in MediaWiki through 1.39.3. There is XSS via a crafted badge title attribute. This is also related to lack of escaping in wbTemplate (from resources/wikibase/templates.js) for quotes (which can be in a title attribute).\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37304 ‼\n\nAn issue was discovered in the DoubleWiki extension for MediaWiki through 1.39.3. includes/DoubleWiki.php allows XSS via the column alignment feature.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-30",
+    "from_channel": "defcon_news",
+    "message": "Consensys: CSV Injection at https://assets-paris-demo.codefi.network/\nhttps://vulners.com/hackerone/H1:1748961?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": []
+}
+{
+    "date": "2023-06-30",
+    "from_channel": "defcon_news",
+    "message": "U.S. Department of State: Bypassing Whitelist to perform SSRF for internal host scanning\nhttps://vulners.com/hackerone/H1:1747596?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "Hello I have managed to identify a misconfiguration on the server side request forgery protections under host geonode.state.gov/proxy/?url= This is using a whitelist protection to ensure only allowed domains and requested in the url e.g....",
+    "webpage_url": "https://vulners.com/hackerone/H1:1747596?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-06-30",
     "from_channel": "defcon_news",
     "message": "Stripe: XSS vulnerability without a content security bypass in a `CUSTOM` App through Button tag\nhttps://vulners.com/hackerone/H1:1823216?utm_source=rss&utm_medium=rss&utm_campaign=rss",
     "urls": [],
