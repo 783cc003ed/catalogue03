@@ -1,5 +1,32 @@
 {
     "date": "2023-06-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36477 ‼\n\nXWiki Platform is a generic wiki platform offering runtime services for applications built on top of it. Any user with edit rights can edit all pages in the `CKEditor' space. This makes it possible to perform a variety of harmful actions, such as removing technical documents, leading to loss of service and editing the javascript configuration of CKEditor, leading to persistent XSS. This issue has been patched in XWiki 14.10.6 and XWiki 15.1. This issue has been patched on the CKEditor Integration extension 1.64.9 for XWiki version older than 14.6RC1. Users are advised to upgrade. Users unable to upgrade may manually address the issue by restricting the `edit` and `delete` rights to a trusted user or group (e.g. the `XWiki.XWikiAdminGroup` group), implicitly disabling those rights for all other users. See commit `9d9d86179` for details.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-30",
+    "from_channel": "defcon_news",
+    "message": "TD Bank: Reflected XSS on marketsandresearch.td.com\nhttps://vulners.com/hackerone/H1:1873305?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "Summary: Hi TD security team, there is a reflected XSS vulnerability at http://marketsandresearch.td.com. As you are most likely aware, XSS vulnerabilities can have significant security implications, including allowing an attacker to inject...",
+    "webpage_url": "https://vulners.com/hackerone/H1:1873305?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-06-30",
+    "from_channel": "defcon_news",
+    "message": "Internet Bug Bounty:  CVE-2022-23520: Incomplete fix for CVE-2022-32209 (XSS in Rails::Html::Sanitizer under certain configurations)\nhttps://vulners.com/hackerone/H1:1805893?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "The following is from: https://hackerone.com/reports/1654310 While building a PoC for CVE-2022-32209, I noticed that I could not fix my vulnerable application by updating https://github.com/rails/rails-html-sanitizer from 1.4.2 to 1.4.3 even though...",
+    "webpage_url": "https://vulners.com/hackerone/H1:1805893?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-06-30",
+    "from_channel": "defcon_news",
+    "message": "Uber: DOM based XSS via insecure parameter on [ https://uberpay-mock-psp.uber.com ]\nhttps://vulners.com/hackerone/H1:1767151?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": []
+}
+{
+    "date": "2023-06-30",
     "from_channel": "proxy_bar",
     "message": "Ребят, тут Windows Common Log File System  протёк \nЕсть патч от апреля, так что не 0-Day\nCVE-2023-28252\nPOC exploit\n \n#windows #lpe"
 }
