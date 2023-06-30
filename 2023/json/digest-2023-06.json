@@ -1,6 +1,38 @@
 {
     "date": "2023-06-30",
     "from_channel": "defcon_news",
+    "message": "IBM: Moodle XSS on s-immerscio.comprehend.ibm.com\nhttps://vulners.com/hackerone/H1:1848551?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "Cross-site scripting against IBM website was reported to IBM, analyzed and have been remediated. Thank you to our external...",
+    "webpage_url": "https://vulners.com/hackerone/H1:1848551?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-06-30",
+    "from_channel": "defcon_news",
+    "message": "Equifax-vdp: reflected XSS in [www.equifax.com]\nhttps://vulners.com/hackerone/H1:1818163?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "hi , I hope you are well, i found reflected XSS in this endpoint: https://www.equifax.com/personal/help/search?search=broook Steps:  open https://www.equifax.com/personal/help/search?search=broook  view the source code of the page and search for...",
+    "webpage_url": "https://vulners.com/hackerone/H1:1818163?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-06-30",
+    "from_channel": "defcon_news",
+    "message": "Internet Bug Bounty: CVE-2022-23519: Rails::Html::SafeListSanitizer vulnerable to XSS when certain tags are allowed (math+style || svg+style)\nhttps://vulners.com/hackerone/H1:1805899?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "The following is from: https://hackerone.com/reports/1656627 Intro The Rails HTML sanitzier allows to set certain combinations of tags in it's allow list that are not properly handled.  Similar to the report 1530898, which identified the...",
+    "webpage_url": "https://vulners.com/hackerone/H1:1805899?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-06-30",
+    "from_channel": "defcon_news",
+    "message": "Mars: Stored XSS via ' profile ' at https://www.miroyalcanin.cl/\nhttps://vulners.com/hackerone/H1:1921606?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "Registrate para acceder a contenidos y promociones exclusivas a través de Mi Royal Canin.",
+    "webpage_url": "https://www.miroyalcanin.cl/"
+}
+{
+    "date": "2023-06-30",
+    "from_channel": "defcon_news",
     "message": "Reversing Citrix Gateway for XSS\nhttps://www.reddit.com/r/netsec/comments/14n28jb/reversing_citrix_gateway_for_xss/",
     "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
