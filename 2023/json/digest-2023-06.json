@@ -1,5 +1,18 @@
 {
     "date": "2023-06-30",
+    "from_channel": "defcon_news",
+    "message": "Reversing Citrix Gateway for XSS\nhttps://www.reddit.com/r/netsec/comments/14n28jb/reversing_citrix_gateway_for_xss/",
+    "urls": [],
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/14n28jb/reversing_citrix_gateway_for_xss/"
+}
+{
+    "date": "2023-06-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3478 ‼\n\nA vulnerability classified as critical was found in IBOS OA 4.5.5. Affected by this vulnerability is the function actionEdit of the file ?r=dashboard/roleadmin/edit&op=member of the component Add User Handler. The manipulation of the argument id leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-232759. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-30",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-3479 ‼\n\nCross-site Scripting (XSS) - Reflected in GitHub repository hestiacp/hestiacp prior to 1.7.8.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
