@@ -1,6 +1,11 @@
 {
     "date": "2023-06-30",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3479 ‼\n\nCross-site Scripting (XSS) - Reflected in GitHub repository hestiacp/hestiacp prior to 1.7.8.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-06-30",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-3473 ‼\n\nA vulnerability, which was classified as critical, was found in Campcodes Retro Cellphone Online Store 1.0. Affected is an unknown function of the file /admin/edit_product.php. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-232752.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
