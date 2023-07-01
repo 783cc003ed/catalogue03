@@ -1,5 +1,13 @@
 {
     "date": "2023-07-01",
+    "from_channel": "defcon_news",
+    "message": "U.S. Dept Of Defense: Blind Sql Injection https:/████████\nhttps://vulners.com/hackerone/H1:2020429?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "Description: found on the websitehttps:// ████████ weakness is vulnerable to a blind sql injection. POC: https:/ █████████/0'XOR(if(now()=sysdate(),sleep(15),0))XOR'Z => 15.896 Tests Payload performed:     0'XOR(if(now()=sysdate(),sleep(15),0))XOR'Z...",
+    "webpage_url": "https://vulners.com/hackerone/H1:2020429?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-07-01",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-28324 ‼\n\nA improper input validation vulnerability exists in Ivanti Endpoint Manager 2022 and below that could allow privilege escalation or remote code execution.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
