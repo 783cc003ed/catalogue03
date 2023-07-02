@@ -1,4 +1,20 @@
 {
+    "date": "2023-07-02",
+    "from_channel": "defcon_news",
+    "message": "phpFK 9.2 Beta Cross Site Scripting / SQL Injection\nhttps://packetstormsecurity.com/files/173254/phpfk92beta-sqlxss.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173254/phpfk92beta-sqlxss.txt"
+}
+{
+    "date": "2023-07-02",
+    "from_channel": "defcon_news",
+    "message": "Alumni Club Management Tools 2.2.7 SQL Injection / Arbitrary File Upload\nhttps://packetstormsecurity.com/files/173250/acmt227-sqlupload.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173250/acmt227-sqlupload.txt"
+}
+{
     "date": "2023-07-01",
     "from_channel": "defcon_news",
     "message": "U.S. Dept Of Defense: Blind Sql Injection https:/████████\nhttps://vulners.com/hackerone/H1:2020429?utm_source=rss&utm_medium=rss&utm_campaign=rss",
