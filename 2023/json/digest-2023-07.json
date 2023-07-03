@@ -1,5 +1,13 @@
 {
     "date": "2023-07-03",
+    "from_channel": "defcon_news",
+    "message": "Technical Details of CVE-2023-30990 - Unauthenticated RCE in IBM i DDM Service\nhttps://www.reddit.com/r/netsec/comments/14pgt9x/technical_details_of_cve202330990_unauthenticated/",
+    "urls": [],
+    "webpage_description": "Posted by buherator - No votes and no comments",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/14pgt9x/technical_details_of_cve202330990_unauthenticated/"
+}
+{
+    "date": "2023-07-03",
     "from_channel": "Leakers_squad",
     "message": "✅Topic:Admin Access Via SQL Injection.                                                                                                         🕚Duration: 11:50                                                                                                                                  🔔Covered Topic: Dork,sql injection,admin page,etc.                                                              \n\n\n♦️In this video I showed you how to find SQL Injection bug and access the admin Login. First I had only web address with the help of dorks I found paths and directory for the vulnerable page. Then I simply use some small technique to find SQL Bug. After Finding bug I just found the column and vulnerable column. Then I inject my tools to get admin login. \n\n🙈Give 100+ Reactions for Price Tampering.",
     "urls": []
