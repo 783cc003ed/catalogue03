@@ -1,5 +1,10 @@
 {
     "date": "2023-07-03",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35797 ‼\n\nImproper Input Validation vulnerability in Apache Software Foundation Apache Airflow Hive Provider.This issue affects Apache Airflow Apache Hive Provider: before 6.1.1.Before version 6.1.1 it wasÂ possible to bypass the security check to RCE viaprincipal parameter. For this to beÂ exploited it requires access to modifying the connection details.It is recommended updating provider version to 6.1.1 in order to avoid thisÂ vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-03",
     "from_channel": "defcon_news",
     "message": "Technical Details of CVE-2023-30990 - Unauthenticated RCE in IBM i DDM Service\nhttps://www.reddit.com/r/netsec/comments/14pgt9x/technical_details_of_cve202330990_unauthenticated/",
     "urls": [],
