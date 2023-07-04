@@ -1,5 +1,37 @@
 {
     "date": "2023-07-04",
+    "from_channel": "defcon_news",
+    "message": "WordPress WP AutoComplete Search 1.0.4 SQL Injection\nhttps://packetstormsecurity.com/files/173293/wpautocomplete104-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173293/wpautocomplete104-sql.txt"
+}
+{
+    "date": "2023-07-04",
+    "from_channel": "defcon_news",
+    "message": "Allhandsmarketing CMS 3.01 SQL Injection\nhttps://packetstormsecurity.com/files/173289/ahmcms301-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173289/ahmcms301-sql.txt"
+}
+{
+    "date": "2023-07-04",
+    "from_channel": "defcon_news",
+    "message": "Anuranan SBAdmin 2.0 SQL Injection\nhttps://packetstormsecurity.com/files/173282/anuranansbadmin20-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173282/anuranansbadmin20-sql.txt"
+}
+{
+    "date": "2023-07-04",
+    "from_channel": "defcon_news",
+    "message": "PodcastGenerator 3.2.9 Server-Side Request Forgery\nhttps://packetstormsecurity.com/files/173286/podcastgenerator329-ssrf.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173286/podcastgenerator329-ssrf.txt"
+}
+{
+    "date": "2023-07-04",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-1273 ‼\n\nThe ND Shortcodes WordPress plugin before 7.0 does not validate some shortcode attributes before using them to generate paths passed to include function/s, allowing any authenticated users such as subscriber to perform LFI attacks\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
