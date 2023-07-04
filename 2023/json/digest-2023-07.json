@@ -1,4 +1,9 @@
 {
+    "date": "2023-07-04",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-1273 ‼\n\nThe ND Shortcodes WordPress plugin before 7.0 does not validate some shortcode attributes before using them to generate paths passed to include function/s, allowing any authenticated users such as subscriber to perform LFI attacks\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-07-03",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-36816 ‼\n\n2FA is a Web app to manage Two-Factor Authentication (2FA) accounts and generate their security codes. Cross site scripting (XSS) injection can be done via the account/service field. This was tested in docker-compose environment. This vulnerability has been patched in version 4.0.3.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
