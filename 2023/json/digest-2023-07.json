@@ -1,4 +1,9 @@
 {
+    "date": "2023-07-05",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35786 ‼\n\nZoho ManageEngine ADManager Plus before 7183 allows admin users to exploit an XXE issue to view files.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-07-04",
     "from_channel": "defcon_news",
     "message": "WordPress WP AutoComplete Search 1.0.4 SQL Injection\nhttps://packetstormsecurity.com/files/173293/wpautocomplete104-sql.txt",
