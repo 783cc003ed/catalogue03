@@ -1,5 +1,37 @@
 {
     "date": "2023-07-05",
+    "from_channel": "defcon_news",
+    "message": "Beauty Salon Management System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/173309/beautysalonms10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173309/beautysalonms10-sql.txt"
+}
+{
+    "date": "2023-07-05",
+    "from_channel": "defcon_news",
+    "message": "Super Store Finder PHP Script 3.6 SQL Injection\nhttps://packetstormsecurity.com/files/173302/superstorefinder36-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173302/superstorefinder36-sql.txt"
+}
+{
+    "date": "2023-07-05",
+    "from_channel": "defcon_news",
+    "message": "AppleZeed CMS 2.0 SQL Injection\nhttps://packetstormsecurity.com/files/173308/applezeedcms20-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173308/applezeedcms20-sql.txt"
+}
+{
+    "date": "2023-07-05",
+    "from_channel": "defcon_news",
+    "message": "ApnaTrademark CMS 2.5 SQL Injection\nhttps://packetstormsecurity.com/files/173306/apnatrademarkcms25-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173306/apnatrademarkcms25-sql.txt"
+}
+{
+    "date": "2023-07-05",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-2880 ‼\n\nFrauscher Sensortechnik GmbH FDS001 for FAdC/FAdCi v1.3.3 and all previous versions are vulnerable to a path traversal vulnerability of the web interface by a crafted URL without authentication. This enables an remote attacker to read all files on the filesystem of the FDS001 device.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
