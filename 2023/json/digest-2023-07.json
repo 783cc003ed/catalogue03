@@ -1,5 +1,20 @@
 {
     "date": "2023-07-05",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35978 ‼\n\nA vulnerability in ArubaOS could allow an unauthenticatedÂ remote attacker to conduct a reflected cross-site scriptingÂ (XSS) attack against a user of the web-based managementÂ interface. A successful exploit could allow an attacker toÂ execute arbitrary script code in a victim's browser in theÂ context of the affected interface.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-05",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35975 ‼\n\nAn authenticated path traversal vulnerability exists in theÂ ArubaOS command line interface. Successful exploitation ofÂ this vulnerability results in the ability to delete arbitraryÂ files in the underlying operating system.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-05",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35971 ‼\n\nA vulnerability in the ArubaOS web-based management interface could allow an unauthenticated remote attacker toÂ conduct a stored cross-site scripting (XSS) attack against aÂ user of the interface. A successful exploit couldÂ allow an attacker to execute arbitrary script code in aÂ victim's browser in the context of the affected interface.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-05",
     "from_channel": "defcon_news",
     "message": "Beauty Salon Management System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/173309/beautysalonms10-sql.txt",
     "urls": [],
