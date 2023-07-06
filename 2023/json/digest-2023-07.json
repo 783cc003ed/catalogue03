@@ -1,6 +1,21 @@
 {
     "date": "2023-07-06",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30321 ‼\n\nCross Site Scripting (XSS) vulnerability in textMessage field in /src/chatbotapp/LoginServlet.java in wliang6 ChatEngine commit fded8e710ad59f816867ad47d7fc4862f6502f3e, allows attackers to execute arbitrary code.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30319 ‼\n\nCross Site Scripting (XSS) vulnerability in username field in /src/chatbotapp/LoginServlet.java in wliang6 ChatEngine commit fded8e710ad59f816867ad47d7fc4862f6502f3e, allows attackers to execute arbitrary code.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30320 ‼\n\nCross Site Scripting (XSS) vulnerability in textMessage field in /src/chatbotapp/chatWindow.java in wliang6 ChatEngine commit fded8e710ad59f816867ad47d7fc4862f6502f3e, allows attackers to execute arbitrary code.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-06",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-24497 ‼\n\nCross-site scripting (xss) vulnerabilities exist in the requestHandlers.js detail_device functionality of Milesight VPN v2.0.2. A specially-crafted HTTP request can lead to arbitrary Javascript code injection. An attacker can send an HTTP request to trigger these vulnerabilities.This XSS is exploited through the remote_subnet field of the database\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
