@@ -1,5 +1,15 @@
 {
     "date": "2023-07-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-48512 ‼\n\nUse After Free (UAF) vulnerability in the Vdecoderservice service. Successful exploitation of this vulnerability may cause the image decoding feature to perform abnormally.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2021-46894 ‼\n\nUse After Free (UAF) vulnerability in the uinput module.Successful exploitation of this vulnerability may lead to kernel privilege escalation.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-06",
     "from_channel": "Leakers_squad",
     "message": "✅ WebSecurity - Web Applications Security Scanner  Best Powerful Tool for Termux  ✅\n\n⚠️ABOUT- This information is only for educationla purpose and we are not responsible for any kind of illegal activity done by this tool🛡\n\n🔴 FEATURES 🔴\n\n\n1- sᴄᴀɴ ᴀ ᴜʀʟ ᴏʀ ʟɪsᴛ ᴏғ ᴜʀʟ’s\n2- ᴅᴇᴛᴇᴄᴛ ᴀɴᴅ ᴇxᴘʟᴏɪᴛ ʀᴇᴍᴏᴛᴇ ᴄᴏᴅᴇ ɪɴᴊᴇᴄᴛɪᴏɴ ᴠᴜʟɴᴇʀᴀʙɪʟɪᴛɪᴇs.\n3- ʀᴇᴍᴏᴛᴇ ᴄᴏᴍᴍᴀɴᴅ ᴇxᴇᴄᴜᴛɪᴏɴ ᴠᴜʟɴᴇʀᴀʙɪʟɪᴛɪᴇs.\n4- sϙʟ ɪɴᴊᴇᴄᴛɪᴏɴ ᴠᴜʟɴᴇʀᴀʙɪʟɪᴛɪᴇs.\n5- ᴛʏᴘɪᴄᴀʟ xss ᴠᴜʟɴᴇʀᴀʙɪʟɪᴛɪᴇs.\n6- ᴅᴇᴛᴇᴄᴛ ᴡᴇʙᴋɴɪɢʜᴛ ᴡᴀғ.\n7- ɪᴍᴘʀᴏᴠᴇᴅ ᴘᴀʏʟᴏᴀᴅs ᴛᴏ ʙʏᴘᴀss sᴇᴄᴜʀɪᴛʏ ғɪʟᴛᴇʀs/ᴡᴀғ’s.\n8- ғɪɴɢᴇʀ-ᴘʀɪɴᴛ ᴛʜᴇ ʙᴀᴄᴋᴇɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs.\n\n📀 INSTALLATION 📀\n\n\n$ apt install git \n\n$ apt install python \n\n$ apt install python2 \n\n$ git clone https://github.com/zigoo0/webpwn3r\n\n$ cd webpwn3r\n\n$ chmod +x * \n\n$ ls\n\n$ python2 scan.py\n\n\nBY @Mr_Neophyte\nContact for posting these content in your channel\n\n✔️Share with Your Friends.\n\nIf you want to report any copyright violation, please write to us at  @Leakers_squad_bot and we will ensure to remove that post within 48 hours\nRead this"
 }
