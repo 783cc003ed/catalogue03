@@ -1,6 +1,61 @@
 {
     "date": "2023-07-06",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-24497 ‼\n\nCross-site scripting (xss) vulnerabilities exist in the requestHandlers.js detail_device functionality of Milesight VPN v2.0.2. A specially-crafted HTTP request can lead to arbitrary Javascript code injection. An attacker can send an HTTP request to trigger these vulnerabilities.This XSS is exploited through the remote_subnet field of the database\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36970 ‼\n\nA Cross-site scripting (XSS) vulnerability in CMS Made Simple v2.2.17 allows remote attackers to inject arbitrary web script or HTML via the File Upload function.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-24496 ‼\n\nCross-site scripting (xss) vulnerabilities exist in the requestHandlers.js detail_device functionality of Milesight VPN v2.0.2. A specially-crafted HTTP request can lead to arbitrary Javascript code injection. An attacker can send an HTTP request to trigger these vulnerabilities.This XSS is exploited through the name field of the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30323 ‼\n\nSQL Injection vulnerability in username field in /src/chatbotapp/chatWindow.java in Payatu ChatEngine v.1.0, allows attackers to gain sensitive information.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37122 ‼\n\nA stored cross-site scripting (XSS) vulnerability in Bagecms v3.1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Custom Settings module.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30322 ‼\n\nCross Site Scripting (XSS) vulnerability in username field in /src/chatbotapp/chatWindow.java in Payatu ChatEngine v.1.0, allows attackers to execute arbitrary code.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-22319 ‼\n\nA sql injection vulnerability exists in the requestHandlers.js LoginAuth functionality of Milesight VPN v2.0.2. A specially-crafted network request can lead to authentication bypass. An attacker can send a malicious packet to trigger this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2020-21862 ‼\n\nDirectory traversal vulnerability in DuxCMS 2.1 allows attackers to delete arbitrary files via /admin/AdminBackup/del.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37132 ‼\n\nA stored cross-site scripting (XSS) vulnerability in the custom variables module of eyoucms v1.6.3 allows attackers to execute arbitrary web scripts or HTML via a crafted payload.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30326 ‼\n\nCross Site Scripting (XSS) vulnerability in username field in /WebContent/WEB-INF/lib/chatbox.jsp in wliang6 ChatEngine commit fded8e710ad59f816867ad47d7fc4862f6502f3e, allows attackers to execute arbitrary code.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37125 ‼\n\nA stored cross-site scripting (XSS) vulnerability in the Management Custom label module of SEACMS v12.1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-06",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-48512 ‼\n\nUse After Free (UAF) vulnerability in the Vdecoderservice service. Successful exploitation of this vulnerability may cause the image decoding feature to perform abnormally.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
