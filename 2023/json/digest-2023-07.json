@@ -1,4 +1,44 @@
 {
+    "date": "2023-07-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30678 ‼\n\nPotential zip path traversal vulnerability in Calendar application prior to version 12.4.07.15 in Android 13 allows attackers to write arbitrary file.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30658 ‼\n\nImproper input validation vulnerability in DataProfile prior to SMR Jul-2023 Release 1 allows local attackers to launch privileged activities.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30665 ‼\n\nImproper input validation vulnerability in OnOemServiceMode in libsec-ril prior to SMR Jul-2023 Release 1 allows local attackers to cause an Out-Of-Bounds read.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30663 ‼\n\nImproper input validation vulnerability in OemPersonalizationSetLock in libsec-ril prior to SMR Jul-2023 Release 1 allows local attackers to cause an Out-Of-Bounds write.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30666 ‼\n\nImproper input validation vulnerability in DoOemImeiSetPreconfig in libsec-ril prior to SMR Jul-2023 Release 1 allows local attackers to cause an Out-Of-Bounds write.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-27225 ‼\n\nA cross-site scripting (XSS) vulnerability in User Registration & Login and User Management System with Admin Panel v3 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the first and last name field.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30659 ‼\n\nImproper input validation vulnerability in Transaction prior to SMR Jul-2023 Release 1 allows local attackers to launch privileged activities.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3521 ‼\n\nCross-site Scripting (XSS) - Reflected in GitHub repository fossbilling/fossbilling prior to 0.5.4.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-07-05",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-35924 ‼\n\nGLPI is a free asset and IT management software package. Starting in version 10.0.0 and prior to version 10.0.8, GLPI inventory endpoint can be used to drive a SQL injection attack. By default, GLPI inventory endpoint requires no authentication. Version 10.0.8 has a patch for this issue. As a workaround, one may disable native inventory.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
