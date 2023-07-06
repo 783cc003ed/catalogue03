@@ -1,6 +1,11 @@
 {
     "date": "2023-07-06",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3531 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository nilsteampassnet/teampass prior to 3.0.10.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-06",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-1298 ‼\n\nServiceNow has released upgrades and patches that address a Reflected Cross-Site scripting (XSS) vulnerability that was identified in the ServiceNow Polaris Layout. This vulnerability would enable an authenticated user to inject arbitrary scripts.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
