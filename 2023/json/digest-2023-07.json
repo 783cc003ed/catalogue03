@@ -1,5 +1,13 @@
 {
     "date": "2023-07-06",
+    "from_channel": "defcon_news",
+    "message": "Arlisistem 3.0 SQL Injection\nhttps://packetstormsecurity.com/files/173313/arlisistem30-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173313/arlisistem30-sql.txt"
+}
+{
+    "date": "2023-07-06",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-30678 ‼\n\nPotential zip path traversal vulnerability in Calendar application prior to version 12.4.07.15 in Android 13 allows attackers to write arbitrary file.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
