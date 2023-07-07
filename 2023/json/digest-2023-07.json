@@ -1,6 +1,13 @@
 {
     "date": "2023-07-07",
     "from_channel": "cibsecurity",
+    "message": "🕴 MOVEit Transfer Faces Another Critical Data-Theft Bug 🕴\n\nUsers need to patch the latest SQL injection vulnerability as soon as possible. Meanwhile, Cl0p's data extortion rampage gallops on.\n\n📖 Read\n\nvia \"Dark Reading\".",
+    "webpage_description": "Users need to patch the latest SQL injection vulnerability as soon as possible. Meanwhile, Cl0p's data extortion rampage gallops on.",
+    "webpage_url": "https://www.darkreading.com/endpoint/moveit-transfer-another-critical-data-theft-bug"
+}
+{
+    "date": "2023-07-07",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-37064 ‼\n\nChamilo 1.11.x up to 1.11.20 allows users with admin privilege account to insert XSS in the extra fields management section.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
