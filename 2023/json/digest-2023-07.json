@@ -1,5 +1,37 @@
 {
     "date": "2023-07-07",
+    "from_channel": "defcon_news",
+    "message": "Apache RocketMQ 5.1.0 Arbitrary Code Injection\nhttps://packetstormsecurity.com/files/173339/apache_rocketmq_update_config.rb.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173339/apache_rocketmq_update_config.rb.txt"
+}
+{
+    "date": "2023-07-07",
+    "from_channel": "defcon_news",
+    "message": "Lost And Found Information System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/173331/lfis10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173331/lfis10-sql.txt"
+}
+{
+    "date": "2023-07-07",
+    "from_channel": "defcon_news",
+    "message": "Aplikasi Sistem Informasi Kelulusan CMS 1.0.9 Local File Inclusion\nhttps://packetstormsecurity.com/files/173326/asikcms109-lfi.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173326/asikcms109-lfi.txt"
+}
+{
+    "date": "2023-07-07",
+    "from_channel": "defcon_news",
+    "message": "AGVirtues Galeria 2.0 SQL Injection\nhttps://packetstormsecurity.com/files/173325/agvirtuesgaleria20-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173325/agvirtuesgaleria20-sql.txt"
+}
+{
+    "date": "2023-07-07",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-20899 ‼\n\nVMware SD-WAN (Edge) contains a bypass authentication vulnerability. An unauthenticated attacker can download the Diagnostic bundle of the application under VMware SD-WAN Management.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
