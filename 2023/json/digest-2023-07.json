@@ -1,6 +1,11 @@
 {
     "date": "2023-07-07",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2021-32495 ‼\n\nRadare2 has a use-after-free vulnerability in pyc parser's get_none_object function. Attacker can read freed memory afterwards. This will allow attackers to cause denial of service.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-07",
+    "from_channel": "cibsecurity",
     "message": "🕴 MOVEit Transfer Faces Another Critical Data-Theft Bug 🕴\n\nUsers need to patch the latest SQL injection vulnerability as soon as possible. Meanwhile, Cl0p's data extortion rampage gallops on.\n\n📖 Read\n\nvia \"Dark Reading\".",
     "webpage_description": "Users need to patch the latest SQL injection vulnerability as soon as possible. Meanwhile, Cl0p's data extortion rampage gallops on.",
     "webpage_url": "https://www.darkreading.com/endpoint/moveit-transfer-another-critical-data-theft-bug"
