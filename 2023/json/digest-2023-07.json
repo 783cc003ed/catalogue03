@@ -1,6 +1,11 @@
 {
     "date": "2023-07-07",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33008 ‼\n\nDeserialization of Untrusted Data vulnerability in Apache Software Foundation Apache Johnzon.A malicious attacker can craft up some JSON input that uses large numbers (numbers such asÂ 1e20000000) that Apache Johnzon will deserialize into BigDecimal and maybe use numbers too large which may result in a slow conversion (Denial of service risk). Apache Johnzon 1.2.21 mitigates this by setting a scale limit of 1000 (by default) to the BigDecimal. This issue affects Apache Johnzon: through 1.2.20.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-07",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-3532 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository outline/outline prior to 0.70.1.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
