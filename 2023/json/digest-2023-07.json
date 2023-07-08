@@ -1,6 +1,11 @@
 {
     "date": "2023-07-08",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3551 ‼\n\nCode Injection in GitHub repository nilsteampassnet/teampass prior to 3.0.10.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-08",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-32000 ‼\n\nA Cross-Site Scripting (XSS) vulnerability found in UniFi Network (Version 7.3.83 and earlier) allows a malicious actor with Site Administrator credentials to escalate privileges by persuading an Administrator to visit a malicious web page.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
