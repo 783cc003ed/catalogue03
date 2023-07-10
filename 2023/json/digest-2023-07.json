@@ -1,6 +1,26 @@
 {
     "date": "2023-07-10",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36940 ‼\n\nCross Site Scripting (XSS) vulnerability in PHPGurukul Online Fire Reporting System Using PHP and MySQL v.1.2 allows attackers to execute arbitrary code via a crafted payload injected into the search field.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36939 ‼\n\nCross-Site Scripting (XSS) vulnerability in Hostel Management System v2.1 allows an attacker to execute arbitrary code via a crafted payload to the search booking field.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2016-15034 ‼\n\nA vulnerability was found in Dynacase Webdesk and classified as critical. Affected by this issue is the function freedomrss_search of the file freedomrss_search.php. The manipulation leads to sql injection. Upgrading to version 3.2-20180305 is able to address this issue. The patch is identified as 750a9b35af182950c952faf6ddfdcc50a2b25f8b. It is recommended to upgrade the affected component. VDB-233366 is the identifier assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36936 ‼\n\nCross-Site Scripting (XSS) vulnerability in PHPGurukul Online Security Guards Hiring System using PHP and MySQL 1.0 allows attackers to execute arbitrary code via a crafted payload to the search booking box.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-10",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-2029 ‼\n\nThe PrePost SEO WordPress plugin through 3.0 does not properly sanitize some of its settings, which could allow high-privilege users to perform Stored Cross-Site Scripting (XSS) attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
