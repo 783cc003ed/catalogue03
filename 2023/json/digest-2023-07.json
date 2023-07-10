@@ -1,4 +1,29 @@
 {
+    "date": "2023-07-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-2029 ‼\n\nThe PrePost SEO WordPress plugin through 3.0 does not properly sanitize some of its settings, which could allow high-privilege users to perform Stored Cross-Site Scripting (XSS) attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-28958 ‼\n\nIBM Watson Knowledge Catalog on Cloud Pak for Data 4.0 is potentially vulnerable to CSV Injection. A remote attacker could execute arbitrary commands on the system, caused by improper validation of csv file contents. IBM X-Force ID: 251782.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-2026 ‼\n\nThe Image Protector WordPress plugin through 1.1 does not properly sanitize some of its settings, which could allow high-privilege users to perform Stored Cross-Site Scripting (XSS) attacks even when the unfiltered_html capability is disallowed (for example in multisite setup).\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3045 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Tise Technology Parking Web Report allows SQL Injection.This issue affects Parking Web Report: before 2.1.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2021-42083 ‼\n\nAn authenticated attacker is able to create alerts that trigger a stored XSS attack.Â \n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-07-08",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-3551 ‼\n\nCode Injection in GitHub repository nilsteampassnet/teampass prior to 3.0.10.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
