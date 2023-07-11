@@ -1,6 +1,21 @@
 {
     "date": "2023-07-11",
     "from_channel": "cibsecurity",
+    "message": "🕴 RomCom Spies Target NATO Summit Ahead of Zelensky’s Arrival 🕴\n\nAs NATO mulls Ukrainian membership, the threat group is targeting supporters of Ukraine with a backdoor and exploitation of the Microsoft remote code execution (RCE) flaw known as Follina.\n\n📖 Read\n\nvia \"Dark Reading\".",
+    "webpage_description": "As NATO mulls Ukrainian membership, the threat group is targeting supporters of Ukraine with a backdoor and exploitation of the Microsoft remote code execution (RCE) flaw known as Follina.",
+    "webpage_url": "https://www.darkreading.com/endpoint/romcom-spies-nato-summit-zelensky-arrival"
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "defcon_news",
+    "message": "Exploiting XSS in hidden inputs and meta tags using popovertarget\nhttps://www.reddit.com/r/netsec/comments/14wsmqq/exploiting_xss_in_hidden_inputs_and_meta_tags/",
+    "urls": [],
+    "webpage_description": "Posted by albinowax - No votes and no comments",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/14wsmqq/exploiting_xss_in_hidden_inputs_and_meta_tags/"
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-36386 ‼\n\nA vulnerability has been identified in RUGGEDCOM ROX MX5000 (All versions < V2.16.0), RUGGEDCOM ROX MX5000RE (All versions < V2.16.0), RUGGEDCOM ROX RX1400 (All versions < V2.16.0), RUGGEDCOM ROX RX1500 (All versions < V2.16.0), RUGGEDCOM ROX RX1501 (All versions < V2.16.0), RUGGEDCOM ROX RX1510 (All versions < V2.16.0), RUGGEDCOM ROX RX1511 (All versions < V2.16.0), RUGGEDCOM ROX RX1512 (All versions < V2.16.0), RUGGEDCOM ROX RX1524 (All versions < V2.16.0), RUGGEDCOM ROX RX1536 (All versions < V2.16.0), RUGGEDCOM ROX RX5000 (All versions < V2.16.0). A reflected cross-site scripting (XSS) vulnerability exists in the web interface of the affected application that could allow an attacker to execute malicious javascript code by tricking users into accessing a malicious link. The value is reflected in the response without sanitization while throwing anâ€œinvalid params element nameâ€� error on the get_elements parameters.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
