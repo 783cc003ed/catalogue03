@@ -1,5 +1,139 @@
 {
     "date": "2023-07-11",
+    "from_channel": "defcon_news",
+    "message": "Super Store Finder 3.6 SQL Injection\nhttps://packetstormsecurity.com/files/173389/ssfinder36-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173389/ssfinder36-sql.txt"
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "defcon_news",
+    "message": "QuickOrder 6.3.7 SQL Injection\nhttps://packetstormsecurity.com/files/173386/quickorder637-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173386/quickorder637-sql.txt"
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "defcon_news",
+    "message": "Ateme TITAN File 3.9 Job Callbacks Server-Side Request Forgery\nhttps://packetstormsecurity.com/files/173384/ZSL-2023-5781.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173384/ZSL-2023-5781.txt"
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "defcon_news",
+    "message": "Qatanna POS Software 1.0 Blind SQL Injection\nhttps://packetstormsecurity.com/files/173383/qatannapos10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173383/qatannapos10-sql.txt"
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "defcon_news",
+    "message": "QuickQR 6.3.7 SQL Injection\nhttps://packetstormsecurity.com/files/173379/quickqr637-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173379/quickqr637-sql.txt"
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "defcon_news",
+    "message": "QuickJob 6.1 SQL Injection\nhttps://packetstormsecurity.com/files/173378/quickjob61-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173378/quickjob61-sql.txt"
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "defcon_news",
+    "message": "QuickVCard 2.1 SQL Injection\nhttps://packetstormsecurity.com/files/173377/quickvcard21-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173377/quickvcard21-sql.txt"
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "defcon_news",
+    "message": "Inout Blockchain EasyPayments 1.0.1 SQL Injection\nhttps://packetstormsecurity.com/files/173373/iobcep101-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173373/iobcep101-sql.txt"
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "defcon_news",
+    "message": "Inout Blockchain AltExchanger 2.0 SQL Injection\nhttps://packetstormsecurity.com/files/173372/iobcae20-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173372/iobcae20-sql.txt"
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "defcon_news",
+    "message": "QuickAI OpenAI 3.8.1 SQL Injection\nhttps://packetstormsecurity.com/files/173371/quickaiopenai381-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173371/quickaiopenai381-sql.txt"
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "defcon_news",
+    "message": "Rukovoditel Project Management CRM 2.4.1 Local File Inclusion\nhttps://packetstormsecurity.com/files/173365/rpmcrm241-lfi.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173365/rpmcrm241-lfi.txt"
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "defcon_news",
+    "message": "Inout Blockchain FiatExchanger 3.0 SQL Injection\nhttps://packetstormsecurity.com/files/173364/inoutbcfe30-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173364/inoutbcfe30-sql.txt"
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "defcon_news",
+    "message": "CANDOO Strategic CMS 2.0 SQL Injection\nhttps://packetstormsecurity.com/files/173362/candooscms20-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173362/candooscms20-sql.txt"
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37658 ‼\n\nfast-poster v2.15.0 is vulnerable to Cross Site Scripting (XSS). File upload check binary of img, but without strictly check file suffix at /server/fast.py -> ApiUploadHandler.post causes stored XSS\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3617 ‼\n\nA vulnerability was found in SourceCodester Best POS Management System 1.0. It has been classified as critical. This affects an unknown part of the file admin_class.php of the component Login Page. The manipulation of the argument username leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-233565 was assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37657 ‼\n\nTwoNav v2.0.28-20230624 is vulnerable to Cross Site Scripting (XSS).\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36293 ‼\n\nSQL injection vulnerability in wmanager v.1.0.7 and before allows a remote attacker to obtain sensitive information via a crafted script to the company.php component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-2746 ‼\n\nThe Rockwell Automation Enhanced HIM software contains an API that the application uses that is not protected sufficiently and uses incorrect Cross-Origin Resource Sharing (CORS) settings and, as a result, is vulnerable to a Cross Site Request Forgery (CSRF) attack. To exploit this vulnerability, a malicious user would have to convince a user to click on an untrusted link through a social engineering attack or successfully perform a Cross Site Scripting Attack (XSS). Exploitation of a CSRF could potentially lead to sensitive information disclosure and full remote access to the affected products.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3620 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository amauric/tarteaucitron.js prior to v1.13.1.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-11",
     "from_channel": "cibsecurity",
     "message": "🕴 RomCom Spies Target NATO Summit Ahead of Zelensky’s Arrival 🕴\n\nAs NATO mulls Ukrainian membership, the threat group is targeting supporters of Ukraine with a backdoor and exploitation of the Microsoft remote code execution (RCE) flaw known as Follina.\n\n📖 Read\n\nvia \"Dark Reading\".",
     "webpage_description": "As NATO mulls Ukrainian membership, the threat group is targeting supporters of Ukraine with a backdoor and exploitation of the Microsoft remote code execution (RCE) flaw known as Follina.",
