@@ -1,4 +1,14 @@
 {
+    "date": "2023-07-11",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30963 ‼\n\nA security defect was discovered in Foundry Frontend which enabled users to perform Stored XSS attacks in Slate if Foundry's CSP were to be bypassed. This defect was resolved with the release of Foundry Frontend 6.229.0. The service was rolled out to all affected Foundry instances. No further intervention is required.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-24489 ‼\n\nA vulnerability has been discovered in the customer-managed ShareFile storage zones controller which, if exploited, could allow an unauthenticated attacker to remotely compromise the customer-managed ShareFile storage zones controller.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-07-10",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-36940 ‼\n\nCross Site Scripting (XSS) vulnerability in PHPGurukul Online Fire Reporting System Using PHP and MySQL v.1.2 allows attackers to execute arbitrary code via a crafted payload injected into the search field.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
