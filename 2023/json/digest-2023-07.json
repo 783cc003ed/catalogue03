@@ -1,6 +1,41 @@
 {
     "date": "2023-07-11",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32047 ‼\n\nPaint 3D Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35309 ‼\n\nMicrosoft Message Queuing Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35300 ‼\n\nRemote Procedure Call Runtime Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35315 ‼\n\nWindows Layer-2 Bridge Network Driver Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33159 ‼\n\nMicrosoft SharePoint Server Spoofing Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32052 ‼\n\nMicrosoft Power Apps Spoofing Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33161 ‼\n\nMicrosoft Excel Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-11",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-3624 ‼\n\nA vulnerability classified as critical has been found in Nesote Inout Blockchain FiatExchanger 3.0. This affects an unknown part of the file /index.php/coins/update_marketboxslider of the component POST Parameter Handler. The manipulation of the argument marketcurrency leads to sql injection. It is possible to initiate the attack remotely. The identifier VDB-233577 was assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
