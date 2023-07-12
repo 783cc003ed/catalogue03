@@ -1,5 +1,25 @@
 {
     "date": "2023-07-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3023 ‼\n\nThe WP EasyCart plugin for WordPress is vulnerable to time-based SQL Injection via the â€˜orderbyâ€™ parameter in versions up to, and including, 5.4.10 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers, with administrator-level or above permissions, to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37200 ‼\n\nA CWE-611: Improper Restriction of XML External Entity Reference vulnerability exists thatcould cause loss of confidentiality when replacing a project file on the local filesystem and aftermanual restart of the server.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-2762 ‼\n\nA Use-After-Free vulnerability in SLDPRT file reading procedure exists in SOLIDWORKS Desktop from Release SOLIDWORKS 2021 through Release SOLIDWORKS 2023. This vulnerability could allow an attacker to execute arbitrary code while opening a specially crafted SLDPRT file.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37196 ‼\n\nA CWE-89: Improper Neutralization of Special Elements vulnerability used in an SQL Command('SQL Injection') vulnerability exists that could allow a user already authenticated on DCE toaccess unauthorized content, change, or delete content, or perform unauthorized actions whentampering with the alert settings of endpoints on DCE.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-12",
     "from_channel": "defcon_news",
     "message": "CVE-2023-36884 MS Office Zero-Day Vulnerability Exploited For Espionage - Detection and Mitigation\nhttps://www.reddit.com/r/netsec/comments/14xcujc/cve202336884_ms_office_zeroday_vulnerability/",
     "urls": [],
