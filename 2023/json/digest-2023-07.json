@@ -1,5 +1,18 @@
 {
     "date": "2023-07-12",
+    "from_channel": "defcon_news",
+    "message": "Nedal CMS 1.2 SQL Injection\nhttps://packetstormsecurity.com/files/173418/nedalcms12-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173418/nedalcms12-sql.txt"
+}
+{
+    "date": "2023-07-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37627 ‼\n\nCode-projects Online Restaurant Management System 1.0 is vulnerable to SQL Injection. Through SQL injection, an attacker can bypass the admin panel and view order records, add items, delete items etc.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-12",
     "from_channel": "sysadm_in_channel",
     "message": "/ Storm-0978 attacks reveal financial and espionage motive\n\nNew phishing campaign:\n\nhttps://www.microsoft.com/en-us/security/blog/2023/07/11/storm-0978-attacks-reveal-financial-and-espionage-motives/\n\nAnd Office and Windows HTML Remote Code Execution Vulnerability:\n\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36884",
     "urls": [],
