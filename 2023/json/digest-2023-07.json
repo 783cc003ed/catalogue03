@@ -1,4 +1,25 @@
 {
+    "date": "2023-07-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3127 ‼\n\nAn unauthenticated user could log into iSTAR Ultra, iSTAR Ultra LT, iSTAR Ultra G2, and iSTAR Edge G2 with administrator rights.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-12",
+    "from_channel": "defcon_news",
+    "message": "Apple issues Rapid Security Response for zero-day vulnerability\nhttps://www.malwarebytes.com/blog/news/2023/07/apple-issues-rapid-security-response-for-zero-day-vulnerability",
+    "urls": [],
+    "webpage_description": "Apple has issued an update for a zero-day vulnerability in the WebKit browser engine which may be actively exploited.",
+    "webpage_url": "https://www.malwarebytes.com/blog/news/2023/07/apple-issues-rapid-security-response-for-zero-day-vulnerability"
+}
+{
+    "date": "2023-07-12",
+    "from_channel": "defcon_news",
+    "message": "Bee-yond Capacity: Unauthenticated RCE in Extreme Networks/Aerohive Wireless APs - CVE-2023-35803\nhttps://www.reddit.com/r/netsec/comments/14x7zp1/beeyond_capacity_unauthenticated_rce_in_extreme/",
+    "urls": [],
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/14x7zp1/beeyond_capacity_unauthenticated_rce_in_extreme/"
+}
+{
     "date": "2023-07-11",
     "from_channel": "cibsecurity",
     "message": "♟️ Apple & Microsoft Patch Tuesday, July 2023 Edition ♟️\n\nMicrosoft Corp. today released software updates to quash 130 security bugs in its Windows operating systems and related software, including at least five flaws that are already seeing active exploitation. Meanwhile, Apple customers have their own zero-day woes again this month: On Monday, Apple issued (and then quickly pulled) an emergency update to fix a zero-day vulnerability that is being exploited on MacOS and iOS devices.\n\n📖 Read\n\nvia \"Krebs on Security\".",
