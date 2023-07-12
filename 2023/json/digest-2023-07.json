@@ -1,5 +1,13 @@
 {
     "date": "2023-07-12",
+    "from_channel": "sysadm_in_channel",
+    "message": "/ Storm-0978 attacks reveal financial and espionage motive\n\nNew phishing campaign:\n\nhttps://www.microsoft.com/en-us/security/blog/2023/07/11/storm-0978-attacks-reveal-financial-and-espionage-motives/\n\nAnd Office and Windows HTML Remote Code Execution Vulnerability:\n\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36884",
+    "urls": [],
+    "webpage_description": "Microsoft has identified a phishing campaign conducted by the threat actor tracked as Storm-0978 targeting defense and government entities in Europe and North America. The campaign involved the abuse of CVE-2023-36884, which included a zero-day remote code execution vulnerability exploited via Microsoft Word documents.",
+    "webpage_url": "https://www.microsoft.com/en-us/security/blog/2023/07/11/storm-0978-attacks-reveal-financial-and-espionage-motives/"
+}
+{
+    "date": "2023-07-12",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-38066 ‼\n\nIn JetBrains TeamCity before 2023.05.1 reflected XSS via the Referer header was possible during artifact downloads\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
