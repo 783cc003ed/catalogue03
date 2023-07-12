@@ -1,5 +1,13 @@
 {
     "date": "2023-07-12",
+    "from_channel": "defcon_news",
+    "message": "CVE-2023-36884 MS Office Zero-Day Vulnerability Exploited For Espionage - Detection and Mitigation\nhttps://www.reddit.com/r/netsec/comments/14xcujc/cve202336884_ms_office_zeroday_vulnerability/",
+    "urls": [],
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/14xcujc/cve202336884_ms_office_zeroday_vulnerability/"
+}
+{
+    "date": "2023-07-12",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-3127 ‼\n\nAn unauthenticated user could log into iSTAR Ultra, iSTAR Ultra LT, iSTAR Ultra G2, and iSTAR Edge G2 with administrator rights.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
