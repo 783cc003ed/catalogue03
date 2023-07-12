@@ -1,5 +1,30 @@
 {
     "date": "2023-07-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37942 ‼\n\nJenkins External Monitor Job Type Plugin 206.v9a_94ff0b_4a_10 and earlier does not configure its XML parser to prevent XML external entity (XXE) attacks.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37630 ‼\n\nOnline Piggery Management System 1.0 is vulnerable to Cross Site Scripting (XSS). An unauthenticated user can POST JavaScript code to \"manage-breed.php\" resulting in Persistent XSS.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37629 ‼\n\nOnline Piggery Management System 1.0 is vulnerable to File Upload. An unauthenticated user can upload a php file by sending a POST request to \"add-pig.php.\"\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29300 ‼\n\nAdobe ColdFusion versions 2018u16 (and earlier), 2021u6 (and earlier) and 2023.0.0.330468 (and earlier) are affected by a Deserialization of Untrusted Data vulnerability that could result in Arbitrary code execution. Exploitation of this issue does not require user interaction.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37628 ‼\n\nOnline Piggery Management System 1.0 is vulnerable to SQL Injection.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-12",
     "from_channel": "defcon_news",
     "message": "Nedal CMS 1.2 SQL Injection\nhttps://packetstormsecurity.com/files/173418/nedalcms12-sql.txt",
     "urls": [],
