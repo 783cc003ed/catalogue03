@@ -1,6 +1,11 @@
 {
     "date": "2023-07-12",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3644 ‼\n\nA vulnerability was found in SourceCodester Service Provider Management System 1.0. It has been declared as critical. This vulnerability affects unknown code of the file /classes/Master.php?f=save_inquiry. The manipulation of the argument id leads to sql injection. The attack can be initiated remotely. VDB-233890 is the identifier assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-12",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-37942 ‼\n\nJenkins External Monitor Job Type Plugin 206.v9a_94ff0b_4a_10 and earlier does not configure its XML parser to prevent XML external entity (XXE) attacks.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
