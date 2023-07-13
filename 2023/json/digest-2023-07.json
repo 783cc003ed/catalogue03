@@ -1,6 +1,31 @@
 {
     "date": "2023-07-13",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29457 ‼\n\nReflected XSS attacks, occur when a malicious script is reflected off a web application to the victim's browser. The script can be activated through Action form fields, which can be sent as request to a website with a vulnerability that enables execution of malicious scripts.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3658 ‼\n\nA vulnerability, which was classified as critical, was found in SourceCodester AC Repair and Services System 1.0. Affected is an unknown function of the file Master.php?f=delete_book of the component HTTP POST Request Handler. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-234012.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3657 ‼\n\nA vulnerability, which was classified as critical, has been found in SourceCodester AC Repair and Services System 1.0. This issue affects some unknown processing of the file Master.php?f=save_book of the component HTTP POST Request Handler. The manipulation of the argument id leads to sql injection. The attack may be initiated remotely. The associated identifier of this vulnerability is VDB-234011.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29455 ‼\n\nReflected XSS attacks, also known as non-persistent attacks, occur when a malicious script is reflected off a web application to the victim's browser. The script is activated through a link, which sends a request to a website with a vulnerability that enables execution of malicious scripts.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29454 ‼\n\nStored or persistent cross-site scripting (XSS) is a type of XSS where the attacker first sends the payload to the web application, then the application saves the payload (e.g., in a database or server-side text files), and finally, the application unintentionally executes the payload for every victim visiting its web pages.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-13",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-1547 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Elra Parkmatik allows SQL Injection through SOAP Parameter Tampering, Command Line Execution through SQL Injection.This issue affects Parkmatik: before 02.01-a51.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
