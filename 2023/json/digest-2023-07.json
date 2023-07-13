@@ -1,4 +1,14 @@
 {
+    "date": "2023-07-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37567 ‼\n\nELECOM wireless LAN router WRC-1167GHBK3-A v1.24 and earlier allows a remote unauthenticated attacker to execute an arbitrary command by sending a specially crafted request to a certain port of the web management page.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34131 ‼\n\nExposure of sensitive information to an unauthorized actor vulnerability in SonicWall GMS and Analytics enables an unauthenticated attacker to access restricted web pages. This issue affects GMS: 9.3.2-SP1 and earlier versions; Analytics: 2.5.0.4-R7 and earlier versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-07-12",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-26564 ‼\n\nThe Syncfusion EJ2 ASPCore File Provider 3ac357f is vulnerable to Models/PhysicalFileProvider.cs directory traversal. As a result, an unauthenticated attacker can list files within a directory, download any file, or upload any file to any directory accessible by the web server.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
