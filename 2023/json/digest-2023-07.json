@@ -1,6 +1,11 @@
 {
     "date": "2023-07-13",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3661 ‼\n\nA vulnerability was found in SourceCodester AC Repair and Services System 1.0. It has been classified as critical. This affects an unknown part of the file /classes/Master.php?f=save_inquiry. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The associated identifier of this vulnerability is VDB-234015.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-13",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-29457 ‼\n\nReflected XSS attacks, occur when a malicious script is reflected off a web application to the victim's browser. The script can be activated through Action form fields, which can be sent as request to a website with a vulnerability that enables execution of malicious scripts.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
