@@ -1,6 +1,16 @@
 {
     "date": "2023-07-13",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35945 ‼\n\nEnvoy is a cloud-native high-performance edge/middle/service proxy. Envoyâ€™s HTTP/2 codec may leak a header map and bookkeeping structures upon receiving `RST_STREAM` immediately followed by the `GOAWAY` frames from an upstream server. In nghttp2, cleanup of pending requests due to receipt of the `GOAWAY` frame skips de-allocation of the bookkeeping structure and pending compressed header. The error return [code path] is taken if connection is already marked for not sending more requests due to `GOAWAY` frame. The clean-up code is right after the return statement, causing memory leak. Denial of service through memory exhaustion. This vulnerability was patched in versions(s) 1.26.3, 1.25.8, 1.24.9, 1.23.11.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36473 ‼\n\nDiscourse is an open source discussion platform. A CSP (Content Security Policy) nonce reuse vulnerability could allow XSS attacks to bypass CSP protection. There are no known XSS vectors at the moment, but should one be discovered, this vulnerability would allow the XSS attack to completely bypass CSP. The vulnerability is patched in the latest tests-passed, beta and stable branches.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-13",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-42045 ‼\n\nCertain Zemana products are vulnerable to Arbitrary code injection. This affects Watchdog Anti-Malware 4.1.422 and Zemana AntiMalware 3.2.28.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
