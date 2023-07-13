@@ -1,5 +1,13 @@
 {
     "date": "2023-07-13",
+    "from_channel": "defcon_news",
+    "message": "Инъекция XSS в скрытых полях ввода и мета-тегах\nhttps://codeby.net/threads/inekcija-xss-v-skrytyx-poljax-vvoda-i-meta-tegax.82093/",
+    "urls": [],
+    "webpage_description": "Это перевод статьи с PortSwigger\nВведение\nВ этом посте автор покажет, как вы можете использовать новую функцию всплывающих окон HTML в Chrome для эксплуатации XSS в мета-тегах и скрытых полях...",
+    "webpage_url": "https://codeby.net/threads/inekcija-xss-v-skrytyx-poljax-vvoda-i-meta-tegax.82093/"
+}
+{
+    "date": "2023-07-13",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-31705 ‼\n\nA Reflected Cross-site scripting (XSS) vulnerability in Sourcecodester Task Reminder System 1.0 allows an authenticated user to inject malicious javascript into the page parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
