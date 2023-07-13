@@ -1,5 +1,37 @@
 {
     "date": "2023-07-13",
+    "from_channel": "defcon_news",
+    "message": "BKMobile CMS 1.5.0 SQL Injection\nhttps://packetstormsecurity.com/files/173471/bkmobilecms150-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173471/bkmobilecms150-sql.txt"
+}
+{
+    "date": "2023-07-13",
+    "from_channel": "defcon_news",
+    "message": "Bayfront CMS 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/173446/bfcms10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173446/bfcms10-sql.txt"
+}
+{
+    "date": "2023-07-13",
+    "from_channel": "defcon_news",
+    "message": "ARTISTRY LIMITED LMS 0.5 SQL Injection\nhttps://packetstormsecurity.com/files/173445/artistrylimitedlms05-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173445/artistrylimitedlms05-sql.txt"
+}
+{
+    "date": "2023-07-13",
+    "from_channel": "defcon_news",
+    "message": "Vaidya-Mitra 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/173441/vaidyamitra10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173441/vaidyamitra10-sql.txt"
+}
+{
+    "date": "2023-07-13",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-3661 ‼\n\nA vulnerability was found in SourceCodester AC Repair and Services System 1.0. It has been classified as critical. This affects an unknown part of the file /classes/Master.php?f=save_inquiry. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The associated identifier of this vulnerability is VDB-234015.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
