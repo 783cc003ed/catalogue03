@@ -1,5 +1,10 @@
 {
     "date": "2023-07-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-42045 ‼\n\nCertain Zemana products are vulnerable to Arbitrary code injection. This affects Watchdog Anti-Malware 4.1.422 and Zemana AntiMalware 3.2.28.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-13",
     "from_channel": "defcon_news",
     "message": "Инъекция XSS в скрытых полях ввода и мета-тегах\nhttps://codeby.net/threads/inekcija-xss-v-skrytyx-poljax-vvoda-i-meta-tegax.82093/",
     "urls": [],
