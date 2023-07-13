@@ -1,5 +1,15 @@
 {
     "date": "2023-07-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31705 ‼\n\nA Reflected Cross-site scripting (XSS) vulnerability in Sourcecodester Task Reminder System 1.0 allows an authenticated user to inject malicious javascript into the page parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35070 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in VegaGroup Web Collection allows SQL Injection.This issue affects Web Collection: before 31197.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-13",
     "from_channel": "defcon_news",
     "message": "BKMobile CMS 1.5.0 SQL Injection\nhttps://packetstormsecurity.com/files/173471/bkmobilecms150-sql.txt",
     "urls": [],
