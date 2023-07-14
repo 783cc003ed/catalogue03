@@ -1,4 +1,12 @@
 {
+    "date": "2023-07-14",
+    "from_channel": "defcon_news",
+    "message": "Zero-day deploys remote code execution vulnerability via Word documents\nhttps://www.malwarebytes.com/blog/news/2023/07/zero-day-deploys-remote-code-execution-vulnerability-via-word-documents",
+    "urls": [],
+    "webpage_description": "We take a look at reports of an exploit being deployed via booby trapped Word documents.",
+    "webpage_url": "https://www.malwarebytes.com/blog/news/2023/07/zero-day-deploys-remote-code-execution-vulnerability-via-word-documents"
+}
+{
     "date": "2023-07-13",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-35945 ‼\n\nEnvoy is a cloud-native high-performance edge/middle/service proxy. Envoyâ€™s HTTP/2 codec may leak a header map and bookkeeping structures upon receiving `RST_STREAM` immediately followed by the `GOAWAY` frames from an upstream server. In nghttp2, cleanup of pending requests due to receipt of the `GOAWAY` frame skips de-allocation of the bookkeeping structure and pending compressed header. The error return [code path] is taken if connection is already marked for not sending more requests due to `GOAWAY` frame. The clean-up code is right after the return statement, causing memory leak. Denial of service through memory exhaustion. This vulnerability was patched in versions(s) 1.26.3, 1.25.8, 1.24.9, 1.23.11.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
