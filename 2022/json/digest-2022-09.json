@@ -2093,6 +2093,14 @@
 }
 {
     "date": "2022-09-06",
+    "from_channel": "aptreports",
+    "message": "#technique \n\nElevator allows to bypass the UAC and spawn an elevated process with full administrator privileges. This is done by abusing the behaviour of the RPC server that implements the UAC feature, as demonstrated by James Forshaw in his article Calling Local Windows RPC Servers from .NET. The tool does not require to drop an extra DLL or write to the Windows Registry (as is often the case with other UAC bypass techniques), and it has been successfully tested on Windows Server 2016, Windows Server 2019 and Windows 10 (it probably works on other versions of Windows).\n\nhttps://github.com/Kudaes/Elevator",
+    "urls": [],
+    "webpage_description": "UAC bypass by abusing RPC and debug objects. Contribute to Kudaes/Elevator development by creating an account on GitHub.",
+    "webpage_url": "https://github.com/Kudaes/Elevator"
+}
+{
+    "date": "2022-09-06",
     "from_channel": "defcon_news",
     "message": "Unpatched Unauthenticated Blind SSRF in WordPress Core\nhttps://www.reddit.com/r/netsec/comments/x7dtkb/unpatched_unauthenticated_blind_ssrf_in_wordpress/",
     "urls": [],

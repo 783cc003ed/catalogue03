@@ -2125,6 +2125,11 @@
 }
 {
     "date": "2022-07-01",
+    "from_channel": "aptreports",
+    "message": "#ParsedReport\n30-06-2022\n\nHacktivist Group DragonForce Malaysia Releases Windows LPE Exploit, Discloses Plans to Evolve into a Ransomware Group\n\nhttps://cloudsek.com/threatintelligence/hacktivist-group-dragonforce-malaysia-releases-windows-lpe-exploit-discloses-plans-to-evolve-into-a-ransomware-group/?utm_source=rss&utm_medium=rss&utm_campaign=hacktivist-group-dragonforce-malaysia-releases-windows-lpe-exploit-discloses-plans-to-evolve-into-a-ransomware-group\n\nActors/Campaigns:\nDragonforce (motivation: hacktivism)\n\nIndustry:\nGovernment\n\nGeo:\nIndian, Malaysia, India\n\nCVEs:\nCVE-2022-26134  [Vulners]\n    Vulners: Score: 7.5, CVSS: PENDING, \n    Vulners: Exploitation: Unknown\n    X-Force: Risk: 9.8\n    X-Force: Patch: Official fix\n    Soft:\n    - atlassian confluence data center (7.18.0, <7.17.4, <7.16.4, <7.15.2, <7.14.3, <7.13.7, <7.4.17)\n    - atlassian confluence server (7.18.0, <7.17.4, <7.16.4, <7.15.2, <7.14.3, <7.13.7, <7.4.17)\n\n\nTTPs:\nTactics: 1\nTechnics: 0"
+}
+{
+    "date": "2022-07-01",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2014-3650 ‼\n\nMultiple persistent cross-site scripting (XSS) flaws were found in the way Aerogear handled certain user-supplied content. A remote attacker could use these flaws to compromise the application with specially crafted input.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }

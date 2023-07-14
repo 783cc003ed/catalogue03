@@ -436,6 +436,14 @@
 }
 {
     "date": "2022-06-24",
+    "from_channel": "aptreports",
+    "message": "#ParsedReport\n23-06-2022\n\nWindows MSDT Zero-day Vulnerability DogWalk Detected by V3\n\nhttps://asec.ahnlab.com/en/35681\n\nThreats:\nDogwalk_vuln (tags: malware)\nFollina_vuln\n\nIOCs:\nFile: 1\nPath: 1",
+    "urls": [],
+    "webpage_description": "On June 8th, a new Windows Zero-day vulnerability named DogWalk was revealed by Hacker News (thehackernews.com). Similar to that of Follina vulnerability that targeted MS Office document files, this is a vulnerability that occurs from MSDT (Microsoft Support Diagnostic Tool), and it has a risk of copying malware in Windows Startup folder upon running the compressed “.diagcab” extension file. Although PC has to be restarted for the malicious file to operate, users are exposed to attacks since no patch has...",
+    "webpage_url": "https://asec.ahnlab.com/en/35681/"
+}
+{
+    "date": "2022-06-24",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-27238 ‼\n\nBigBlueButton version 2.4.7 (or earlier) is vulnerable to stored Cross-Site Scripting (XSS) in the private chat functionality. A threat actor could inject JavaScript payload in his/her username. The payload gets executed in the browser of the victim each time the attacker sends a private message to the victim or when notification about the attacker leaving room is displayed.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -2202,6 +2210,13 @@
 }
 {
     "date": "2022-06-07",
+    "from_channel": "aptreports",
+    "message": "#ParsedReport\n07-06-2022\n\nCaution! Microsoft Office Zero-day Vulnerability Follina (CVE-2022-30190)\n\nhttps://asec.ahnlab.com/en/34998\n\nThreats:\nFollina_vuln (tags: malware)\n\nCVEs:\nCVE-2022-30190  [Vulners]\n    Vulners: Score: 9.3, CVSS: PENDING, \n    Vulners: Exploitation: Unknown\n    X-Force: Risk: 7.8\n    X-Force: Patch: Official fix\n    Soft:\n    - microsoft windows server 2012 (r2, -)\n    - microsoft windows 10 (1607, -, 20h2, 1809, 21h1, 21h2)\n    - microsoft windows 8.1 (-)\n    - microsoft windows server 2016 (-)\n    - microsoft windows server 2008 (-, r2)\n    have more...\n\nIOCs:\nFile: 3\nRegistry: 2\nUrl: 1\nHash: 2\n\nFunctions Names: 1",
+    "webpage_description": "A new vulnerability named Follina (CVE-2022-30190) has been revealed. According to Microsoft, it is a remote code execution vulnerability that occurs when the URL protocol is used to call MSDT in calling applications such as Microsoft Word. With the privileges of the calling application, attackers can run arbitrary codes, install additional programs, and view, change or delete data. 1. Vulnerability Malware Example The vulnerability occurs when a Word file downloads and runs an HTML file responsible for the vulnerability through the...",
+    "webpage_url": "https://asec.ahnlab.com/en/34998/"
+}
+{
+    "date": "2022-06-07",
     "from_channel": "defcon_news",
     "message": "#0daytoday #Microsoft Office Word MSDTJS Code Execution Exploit CVE-2022-30190 [remote #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37779",
     "urls": []
@@ -2437,6 +2452,13 @@
 }
 {
     "date": "2022-06-03",
+    "from_channel": "aptreports",
+    "message": "#ParsedReport\n02-06-2022\n\nZero-Day Exploitation of Atlassian Confluence\n\nhttps://www.volexity.com/blog/2022/06/02/zero-day-exploitation-of-atlassian-confluence\n\nThreats:\nChinachopper (tags: rat, vpn)\nBehinder (tags: malware)\nMeterpreter_tool\nCobalt_strike\n\nGeo:\nChina\n\nCVEs:\nCVE-2022-26134  [Vulners]\n    Vulners: Score: Unknown, CVSS: Unknown, \n    Vulners: Exploitation: Unknown\n    X-Force: Risk: 9.8\n    X-Force: Patch: Unavailable\n\n\nIOCs:\nFile: 2\nIP: 15\nHash: 2\n\nLinks:\nhttps://github.com/tennc/webshell/blob/master/caidao-shell/%E8%8F%9C%E5%88%80jsp%E4%BF%AE%E6%94%B9.jsp\nhttps://github.com/volexity/threat-intel/blob/main/2022/2022-06-02%20Active%20Exploitation%20Of%20Confluence%200-day/indicators/indicators.csv\nhttps://github.com/Freakboy/Behinder\nhttps://github.com/volexity/threat-intel/blob/main/2022/2022-06-02%20Active%20Exploitation%20Of%20Confluence%200-day/indicators/yara.yar",
+    "webpage_description": "UPDATE: On June 3, 2022, Atlassian updated its security advisory with new information regarding a fix for Confluence Server and Data Center to address CVE-2022-26134. Users are encouraged to update immediately to mitigate their risk. Additional observations after publication of this blog post have been shared here, with guidance on how to verify if you have been impacted by unauthorized access.  Over the Memorial Day weekend in the United States, Volexity conducted an incident response investigation involving two Internet-facing web servers belonging to one of its customers that were running Atlassian Confluence Server software. The investigation began after suspicious activity was detected on the hosts, which included JSP webshells being written to disk. Volexity immediately used Volexity Surge Collect Pro to collect system memory and key files from the Confluence Server systems for analysis. After a thorough review of the collected data, Volexity was able to determine the server compromise stemmed from […]",
+    "webpage_url": "https://www.volexity.com/blog/2022/06/02/zero-day-exploitation-of-atlassian-confluence/"
+}
+{
+    "date": "2022-06-03",
     "from_channel": "defcon_news",
     "message": "Zero-Day Exploitation Of Atlassian Confluence\nhttps://packetstormsecurity.com/news/view/33519/Zero-Day-Exploitation-Of-Atlassian-Confluence.html",
     "urls": [],
@@ -2553,6 +2575,20 @@
     "date": "2022-06-02",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-25163 ‼\n\nImproper Input Validation vulnerability in Mitsubishi Electric MELSEC-Q Series QJ71E71-100 first 5 digits of serial number \"24061\" or prior, Mitsubishi Electric MELSEC-L series LJ71E71-100 first 5 digits of serial number \"24061\" or prior and Mitsubishi Electric MELSEC iQ-R Series RD81MES96N firmware version \"08\" or prior allows a remote unauthenticated attacker to cause a denial of service (DoS) condition or execute malicious code on the target products by sending specially crafted packets.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2022-06-02",
+    "from_channel": "aptreports",
+    "message": "#ParsedReport\n01-06-2022\n\nCVE-2022-30190: New Zero-Day Vulnerability (Follina) in Microsoft Support Diagnostic Tool\n\nhttps://www.netskope.com/blog/cve-2022-30190-new-zero-day-vulnerability-follina-in-microsoft-support-diagnostic-tool\n\nThreats:\nFollina_vuln (tags: malware, stealer, fraud)\nLog4shell_vuln\nEmotet\nRedline_stealer\n\nGeo:\nBelarus, Italy\n\nCVEs:\nCVE-2022-30190  [Vulners]\nCVE-2021-40444  [Vulners]\n    Vulners: Score: 6.8, CVSS: 2.1, \n    Vulners: Exploitation: True\n    X-Force: Risk: 8.8\n    X-Force: Patch: Official fix\n    Soft:\n    - microsoft windows 10 (-, 20h2, 21h1, 1607, 1809, 1909, 2004)\n    - microsoft windows 7 (-)\n    - microsoft windows 8.1 (-)\n    - microsoft windows rt 8.1 (-)\n    - microsoft windows server 2008 (-, r2)\n    have more...\n\nIOCs:\nFile: 5\nPath: 1\nRegistry: 2\nHash: 6\nUrl: 2",
+    "webpage_description": "Gustavo Palazolo and Ghanashyam Satpathy Summary On May 27, 2022, a Microsoft Office document was submitted from Belarus to VirusTotal, using a novel",
+    "webpage_url": "https://www.netskope.com/blog/cve-2022-30190-new-zero-day-vulnerability-follina-in-microsoft-support-diagnostic-tool"
+}
+{
+    "date": "2022-06-02",
+    "from_channel": "aptreports",
+    "message": "#ParsedReport\n01-06-2022\n\nFollina: Zero-Day Vulnerability found in MS-MSDT\n\nhttps://www.netskope.com/blog/follina-zero-day-vulnerability-found-in-ms-msdt\n\nThreats:\nFollina_vuln (tags: malware, stealer)\nLog4shell_vuln\nEmotet\nRedline_stealer\n\nGeo:\nItaly, Belarus\n\nCVEs:\nCVE-2021-40444  [Vulners]\n    Vulners: Score: 6.8, CVSS: 2.1, \n    Vulners: Exploitation: True\n    X-Force: Risk: 8.8\n    X-Force: Patch: Official fix\n    Soft:\n    - microsoft windows 10 (-, 20h2, 21h1, 1607, 1809, 1909, 2004)\n    - microsoft windows 7 (-)\n    - microsoft windows 8.1 (-)\n    - microsoft windows rt 8.1 (-)\n    - microsoft windows server 2008 (-, r2)\n    have more...\nCVE-2022-30190  [Vulners]\n\nIOCs:\nFile: 5\nPath: 1\nRegistry: 2\nHash: 6\nUrl: 2",
+    "webpage_description": "Gustavo Palazolo and Ghanashyam Satpathy Summary On May 27, 2022, a Microsoft Office document was submitted from Belarus to VirusTotal, using a novel",
+    "webpage_url": "https://www.netskope.com/blog/follina-zero-day-vulnerability-found-in-ms-msdt"
 }
 {
     "date": "2022-06-02",

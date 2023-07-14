@@ -2748,6 +2748,14 @@
 }
 {
     "date": "2022-03-15",
+    "from_channel": "aptreports",
+    "message": "Tue, 15 Mar 2022 14:43:24 +0000 cr8escape: Zero-day in CRI-O Container Engine Discovered by CrowdStrike (CVE-2022-0811) https://www.crowdstrike.com/blog/cr8escape-zero-day-vulnerability-discovered-in-cri-o-container-engine-cve-2022-0811/",
+    "urls": [],
+    "webpage_description": "Learn how CrowdStrike discovered a new vulnerability in the CRI-O Container Engine (CVE-2022-0811), and what organizations can do to remediate this vulnerability.",
+    "webpage_url": "https://www.crowdstrike.com/blog/cr8escape-zero-day-vulnerability-discovered-in-cri-o-container-engine-cve-2022-0811/"
+}
+{
+    "date": "2022-03-15",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-0956 ‼\n\nStored XSS via File Upload in GitHub repository star7th/showdoc prior to v.2.10.4.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -2775,4 +2783,12 @@
     "date": "2022-03-15",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-0893 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository pimcore/pimcore prior to 10.4.0.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2022-03-08",
+    "from_channel": "aptreports",
+    "message": "Tue, 08 Mar 2022 16:52:03 +0000 PROPHET SPIDER Exploits Citrix ShareFile Remote Code Execution Vulnerability CVE-2021-22941 to Deliver Webshell https://www.crowdstrike.com/blog/prophet-spider-exploits-citrix-sharefile/",
+    "urls": [],
+    "webpage_description": "Read our blog post to learn how PROPHET SPIDER continues to evolve their tradecraft while continuing to exploit known web-server vulnerabilities.",
+    "webpage_url": "https://www.crowdstrike.com/blog/prophet-spider-exploits-citrix-sharefile/"
 }

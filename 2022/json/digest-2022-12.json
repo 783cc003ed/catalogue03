@@ -100,6 +100,13 @@
     "webpage_url": "https://socradar.io/rce-vulnerability-cve-2022-45359-in-yith-woocommerce-gift-cards-plugin-exploited-in-attacks/"
 }
 {
+    "date": "2022-12-28",
+    "from_channel": "aptreports",
+    "message": "#ParsedReport\n28-12-2022\n\nRCE Vulnerability (CVE-2022-45359) in Yith WooCommerce Gift Cards Plugin Exploited in Attacks\n\nhttps://socradar.io/rce-vulnerability-cve-2022-45359-in-yith-woocommerce-gift-cards-plugin-exploited-in-attacks\n\nIndustry:\nE-commerce, Financial\n\nCVEs:\nCVE-2022-45359  [Vulners]\n    Vulners: Score: Unknown, CVSS: 2.7, \n    Vulners: Exploitation: Unknown\n    X-Force: Risk: 9.8\n    X-Force: Patch: Official fix\n    Soft:\n    - yithemes yith woocommerce gift cards (le3.19.0)\n\n\nIOCs:\nIP: 2\n\nSofts:\nwordpress\n\nLanguages:\nphp",
+    "webpage_description": "In late November, security researchers found a critical vulnerability in Yith's WooCommerce Gift Cards plugin. Attackers can gain remote...",
+    "webpage_url": "https://socradar.io/rce-vulnerability-cve-2022-45359-in-yith-woocommerce-gift-cards-plugin-exploited-in-attacks/"
+}
+{
     "date": "2022-12-27",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-3156 ‼\n\nA remote code execution vulnerability exists in Rockwell Automation Studio 5000 Logix Emulate software. Users are granted elevated permissions on certain product services when the software is installed. Due to this misconfiguration, a malicious user could potentially achieve remote code execution on the targeted software.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
@@ -1126,6 +1133,13 @@
 }
 {
     "date": "2022-12-14",
+    "from_channel": "aptreports",
+    "message": "#ParsedReport\n14-12-2022\n\nAPT5 Exploits Zero-Day Vulnerability on Citrix ADC and Gateway Devices\n\nhttps://socradar.io/apt5-exploits-zero-day-vulnerability-on-citrix-adc-and-gateway-devices\n\nActors/Campaigns:\nApt5\n\nIndustry:\nTelco\n\nGeo:\nAsia, Chinese\n\nCVEs:\nCVE-2022-27518  [Vulners]\n    Vulners: Score: Unknown, CVSS: 4.3, \n    Vulners: Exploitation: True\n    X-Force: Risk: 9.8\n    X-Force: Patch: Official fix\n    Soft:\n    - citrix application delivery controller firmware (<12.1-55.291, <12.1-55.291, <13.0-58.32, <12.1-65.25)\n    - citrix gateway firmware (<12.1-65.25, <13.0-58.32)\n\n\nIOCs:\nFile: 1",
+    "webpage_description": "APT5 has targeted several organizations affected by CVE-2022-27518, but Citrix and the NSA have not provided any additional information.",
+    "webpage_url": "https://socradar.io/apt5-exploits-zero-day-vulnerability-on-citrix-adc-and-gateway-devices/"
+}
+{
+    "date": "2022-12-14",
     "from_channel": "cibsecurity",
     "message": "♟️ Microsoft Patch Tuesday, December 2022 Edition ♟️\n\nMicrosoft has released its final monthly batch of security updates for 2022, fixing more than four dozen security holes in its various Windows operating systems and related software. The most pressing patches include a zero-day vulnerability in a Windows feature that tries to flag malicious files from the Web, a critical bug in PowerShell, and a dangerous flaw in Windows 11 systems that was detailed publicly prior to this week's Patch Tuesday.\n\n📖 Read\n\nvia \"Krebs on Security\".",
     "webpage_description": "Microsoft has released its final monthly batch of security updates for 2022, fixing more than four dozen security holes in its various Windows operating systems and related software. The most pressing patches include a zero-day vulnerability in a Windows feature…",
@@ -1263,6 +1277,13 @@
     "date": "2022-12-13",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-45028 ‼\n\nA cross-site scripting (XSS) vulnerability in Arris NVG443B 9.3.0h3d36 allows attackers to execute arbitrary web scripts or HTML via a crafted POST request sent to /cgi-bin/logs.ha.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2022-12-13",
+    "from_channel": "aptreports",
+    "message": "#ParsedReport\n13-12-2022\n\nFortinet Released Patch for FortiOS SSL-VPN RCE VulnerabilityCVE-2022-42475. Fortinet Released Patch for FortiOS SSL-VPN RCE Vulnerability CVE-2022-42475\n\nhttps://socradar.io/fortinet-released-patch-for-fortios-ssl-vpn-rce-vulnerability-cve-2022-42475\n\nCVEs:\nCVE-2022-42475  [Vulners]\n    Vulners: Score: Unknown, CVSS: Unknown, \n    Vulners: Exploitation: Unknown\n    X-Force: Risk: 9.8\n    X-Force: Patch: Official fix\n\n\nIOCs:\nIP: 4\n\nLanguages:\njavascript",
+    "webpage_description": "The critical flaw, identified as CVE-2022-42475 (CVSS score: 9.3), relates to a heap-based buffer overflow (CWE-122) vulnerability that...",
+    "webpage_url": "https://socradar.io/fortinet-released-patch-for-fortios-ssl-vpn-rce-vulnerability-cve-2022-42475/"
 }
 {
     "date": "2022-12-13",

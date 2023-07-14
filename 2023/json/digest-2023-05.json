@@ -1756,6 +1756,13 @@
 }
 {
     "date": "2023-05-08",
+    "from_channel": "aptreports",
+    "message": "#ParsedReport #CompletenessLow\n08-05-2023\n\nAndoryuBot New Botnet Campaign Targets Ruckus Wireless Admin Remote Code Execution Vulnerability (CVE-2023-25717)\n\nhttps://www.fortinet.com/blog/threat-research/andoryubot-new-botnet-campaign-targets-ruckus-wireless-admin-remote-code-execution-vulnerability-cve-2023-25717\n\nReport completeness: Low\n\nThreats:\nUdpflood_technique\n\nCVEs:\nCVE-2023-25717  [Vulners]\n    CVSS V3.1: 9.8, \n    Vulners: Exploitation: Unknown\n    X-Force: Risk: 9.8\n    X-Force: Patch: Official fix\n    Soft:\n    - ruckuswireless ruckus wireless admin (le10.4)\n    - ruckuswireless smartzone ap (<6.1.0.0.9240, <5.2.2.0.2064, <3.6.2.0.795, <6.1.1.0.1274)\n    - ruckuswireless smartzone (<5.2.1.3, 6.1.0.0.935, <5.2.1.3.1695)\n\n\nIOCs:\nUrl: 1\nIP: 3\nHash: 10\n\nSofts:\ncurl, telegram\n\nAlgorithms:\nxor\n\nPlatforms:\nmips, x86, arm",
+    "webpage_description": "FortiGuard Labs details how a unique botnet leverages a Ruckus vulnerability and examines its behavior once inside an infected device. Learn more.…",
+    "webpage_url": "https://www.fortinet.com/blog/threat-research/andoryubot-new-botnet-campaign-targets-ruckus-wireless-admin-remote-code-execution-vulnerability-cve-2023-25717"
+}
+{
+    "date": "2023-05-08",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-2583 ‼\n\nCode Injection in GitHub repository jsreport/jsreport prior to 3.11.3.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }

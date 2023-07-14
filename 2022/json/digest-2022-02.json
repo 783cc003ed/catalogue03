@@ -1,0 +1,14 @@
+{
+    "date": "2022-02-09",
+    "from_channel": "aptreports",
+    "message": "#technique \nExploring Windows UAC Bypasses: Techniques and Detection Strategies\n\nhttps://elastic.github.io/security-research/whitepapers/2022/02/03.exploring-windows-uac-bypass-techniques-detection-strategies/article/",
+    "urls": []
+}
+{
+    "date": "2022-02-03",
+    "from_channel": "aptreports",
+    "message": "Thu, 03 Feb 2022 20:56:31 +0000 Operation EmailThief: Active Exploitation of Zero-day XSS Vulnerability in Zimbra https://www.volexity.com/blog/2022/02/03/operation-emailthief-active-exploitation-of-zero-day-xss-vulnerability-in-zimbra/",
+    "urls": [],
+    "webpage_description": "[UPDATE] On February 4, 2022, Zimbra provided an update regarding this zero-day exploit vulnerability and reported that a hotfix for 8.8.15 P30 would be available on February 5, 2022. This vulnerability was later assigned CVE-2022-24682 and was fixed in version 8.8.15P30 Update 2 of Zimbra Collaboration Suite. In December 2021, through its Network Security Monitoring service, Volexity identified a series of targeted spear-phishing campaigns against one of its customers from a threat actor it tracks as TEMP_Heretic. Analysis of the emails from these spear phishing campaigns led to a discovery: the attacker was attempting to exploit a zero-day cross-site scripting (XSS) vulnerability in the Zimbra email platform. Zimbra is an open source email platform often used by organizations as an alternative to Microsoft Exchange. The campaigns came in multiple waves across two attack phases. The initial phase was aimed at reconnaissance and involved emails designed to simply track if a target […]",
+    "webpage_url": "https://www.volexity.com/blog/2022/02/03/operation-emailthief-active-exploitation-of-zero-day-xss-vulnerability-in-zimbra/"
+}

@@ -23,6 +23,13 @@
 }
 {
     "date": "2023-07-13",
+    "from_channel": "aptreports",
+    "message": "#ParsedReport #CompletenessLow\n13-07-2023\n\nPoC Exploit: Fake Proof of Concept with Backdoor Malware\n\nhttps://www.uptycs.com/blog/new-poc-exploit-backdoor-malware\n\nReport completeness: Low\n\nVictims:\nSystems with cve-2023-35829 and cve-2023-20871 vulnerabilities\n\nCVEs:\nCVE-2023-20871  [Vulners]\n    CVSS V3.1: 7.8, \n    Vulners: Exploitation: Unknown\n    X-Force: Risk: 7.3\n    X-Force: Patch: Official fix\n    Soft:\n    - vmware fusion (<13.0.2)\n\nCVE-2023-35829  [Vulners]\n    CVSS V3.1: Unknown, \n    Vulners: Exploitation: Unknown\n    X-Force: Risk: 7.8\n    X-Force: Patch: Official fix\n\nCVE-2022-34918  [Vulners]\n    CVSS V3.1: 7.8, \n    Vulners: Exploitation: Unknown\n    X-Force: Risk: 7.4\n    X-Force: Patch: Official fix\n    Soft:\n    - linux linux kernel (<5.10.130, <5.15.54, <5.18.11)\n    - debian debian linux (11.0)\n    - canonical ubuntu linux (14.04, 18.04, 20.04, 16.04, 22.04)\n    - netapp h300s firmware (-)\n    - netapp h500s firmware (-)\n    have more...\n\nChatGPT TTPs:\ndo not use without manual check\nT1036.003, T1486, T1179, T1059, T1083, T1063, T1053, T1135, T1098, T1482, have more...\n\nIOCs:\nUrl: 5\nDomain: 1\nHash: 1\nIP: 1\n\nSoft:\ncurl\n\nFunctions:\ncopy_to_kworker, add_to_bashrc, check_for_pidfile, curl_func, new_sn, prepare_root_shell, setup_modprobe_payoad\n\nLinks:\nhttps://github.com/randorisec/CVE-2022-34918-LPE-PoC\nhttps://github.com/ChriSanders22/CVE-2023-35829-poc/\nhttps://github.com/ChriSanders22/CVE-2023-20871-poc/\nhttps://github.com/apkc/CVE-2023-35829-poc",
+    "webpage_description": "Uptycs reveals how newly discovered fake PoC malware includes a backdoor for data theft, offering strategies for detection, recovery & prevention.",
+    "webpage_url": "https://www.uptycs.com/blog/new-poc-exploit-backdoor-malware"
+}
+{
+    "date": "2023-07-13",
     "from_channel": "defcon_news",
     "message": "Инъекция XSS в скрытых полях ввода и мета-тегах\nhttps://codeby.net/threads/inekcija-xss-v-skrytyx-poljax-vvoda-i-meta-tegax.82093/",
     "urls": [],

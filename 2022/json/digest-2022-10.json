@@ -50,6 +50,12 @@
 }
 {
     "date": "2022-10-31",
+    "from_channel": "aptreports",
+    "message": "We have collected 73 malware-related papers from XSS.  \n\n* All papers in Russian\n* Link to paper present for credit to original author\n\nCheck it out here: https://www.vx-underground.org/russian.html#xss-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F",
+    "urls": []
+}
+{
+    "date": "2022-10-31",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-3254 ‼\n\nThe WordPress Classifieds Plugin WordPress plugin before 4.3 does not properly sanitise and escape some parameters before using them in a SQL statement via an AJAX action available to unauthenticated users and when a specific premium module is active, leading to a SQL injection\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
