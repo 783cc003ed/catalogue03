@@ -1,6 +1,11 @@
 {
     "date": "2023-07-15",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3682 ‼\n\nA vulnerability, which was classified as critical, was found in Nesote Inout Blockchain EasyPayments 1.0. Affected is an unknown function of the file /index.php/payment/getcoinaddress of the component POST Parameter Handler. The manipulation of the argument coinid leads to sql injection. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-234228. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-15",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-3679 ‼\n\nA vulnerability was found in SourceCodester Lost and Found Information System 1.0. It has been rated as critical. Affected by this issue is some unknown functionality of the file /classes/Master.php?f=save_inquiry of the component HTTP POST Request Handler. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The identifier of this vulnerability is VDB-234224.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
