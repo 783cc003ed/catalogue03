@@ -1,4 +1,14 @@
 {
+    "date": "2023-07-16",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3686 ‼\n\nA vulnerability was found in Bylancer QuickAI OpenAI 3.8.1. It has been declared as critical. This vulnerability affects unknown code of the file /blog of the component GET Parameter Handler. The manipulation of the argument s leads to sql injection. The attack can be initiated remotely. The identifier of this vulnerability is VDB-234232. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-16",
+    "from_channel": "proxy_bar",
+    "message": "CVE-2023-20110\nCisco Smart Software Manager On-Prem SQL Injection Vulnerability \nexploit\n\n#cisco #sql #exploit"
+}
+{
     "date": "2023-07-15",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-2268 ‼\n\nPlane version 0.7.1 allows an unauthenticated attacker to view all stored server files of all users.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
