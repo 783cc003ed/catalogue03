@@ -1,5 +1,11 @@
 {
     "date": "2023-07-27",
+    "from_channel": "finsecurity",
+    "message": "Никакой угрозы в самом \"тапе\" то нет. Конечно, неплохо видеть отображение \"куда этот тап ведет\" - в телеграм это видно. Но даже если в слепую, там же куча инструментов защиты в самом http и настроенном веб-сервере/приложении, от тех же XSS",
+    "urls": []
+}
+{
+    "date": "2023-07-27",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-37977 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in WPFunnels Team Drag & Drop Sales Funnel Builder for WordPress â€“ WPFunnels plugin <=Â 2.7.16 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
