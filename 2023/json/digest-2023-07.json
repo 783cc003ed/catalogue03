@@ -1,5 +1,30 @@
 {
     "date": "2023-07-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3982 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository omeka/omeka-s prior to 4.0.2.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36941 ‼\n\nA cross-site scripting (XSS) vulnerability in PHPGurukul Online Fire Reporting System Using PHP and MySQL 1.2 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the team name, leader, and member fields.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3981 ‼\n\nServer-Side Request Forgery (SSRF) in GitHub repository omeka/omeka-s prior to 4.0.2.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3980 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository omeka/omeka-s prior to 4.0.2.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-31200 ‼\n\nAtmail 5.62 allows XSS via the mail/parse.php?file=html/$this-%3ELanguage/help/filexp.html&FirstLoad=1&HelpFile=file.html Search Terms field.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-27",
     "from_channel": "finsecurity",
     "message": "Никакой угрозы в самом \"тапе\" то нет. Конечно, неплохо видеть отображение \"куда этот тап ведет\" - в телеграм это видно. Но даже если в слепую, там же куча инструментов защиты в самом http и настроенном веб-сервере/приложении, от тех же XSS",
     "urls": []
