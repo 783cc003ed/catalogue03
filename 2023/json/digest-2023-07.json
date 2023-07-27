@@ -1,5 +1,60 @@
 {
     "date": "2023-07-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37977 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in WPFunnels Team Drag & Drop Sales Funnel Builder for WordPress â€“ WPFunnels plugin <=Â 2.7.16 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37894 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in RadiusTheme Variation Images Gallery for WooCommerce plugin <=Â 2.3.3 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37970 ‼\n\nAuth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in Matthew Fries MF Gig Calendar plugin <=Â 1.2 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37981 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in WPKube Authors List plugin <=Â 2.0.2 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37993 ‼\n\nAuth. Stored Cross-Site Scripting (XSS) vulnerability in maennchen1.De wpShopGermany IT-RECHT KANZLEI plugin <=Â 1.7 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37975 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in RadiusTheme Variation Swatches for WooCommerce plugin <=Â 2.3.7 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38490 ‼\n\nKirby is a content management system. A vulnerability in versions prior to 3.5.8.3, 3.6.6.3, 3.7.5.2, 3.8.4.1, and 3.9.6 only affects Kirby sites that use the `Xml` data handler (e.g. `Data::decode($string, 'xml')`) or the `Xml::parse()` method in site or plugin code. The Kirby core does not use any of the affected methods.XML External Entities (XXE) is a little used feature in the XML markup language that allows to include data from external files in an XML structure. If the name of the external file can be controlled by an attacker, this becomes a vulnerability that can be abused for various system impacts like the disclosure of internal or confidential data that is stored on the server (arbitrary file disclosure) or to perform network requests on behalf of the server (server-side request forgery, SSRF).Kirby's `Xml::parse()` method used PHP's `LIBXML_NOENT` constant, which enabled the processing of XML external entities during the parsing operation. The `Xml::parse()` method is used in the `Xml` data handler (e.g. `Data::decode($string, 'xml')`). Both the vulnerable method and the data handler are not used in the Kirby core. However they may be used in site or plugin code, e.g. to parse RSS feeds or other XML files. If those files are of an external origin (e.g. uploaded by a user or retrieved from an external URL), attackers may be able to include an external entity in the XML file that will then be processed in the parsing process. Kirby sites that don't use XML parsing in site or plugin code are *not* affected.The problem has been patched in Kirby 3.5.8.3, 3.6.6.3, 3.7.5.2, 3.8.4.1, and Kirby 3.9.6. In all of the mentioned releases, the maintainers have removed the `LIBXML_NOENT` constant as processing of external entities is out of scope of the parsing logic. This protects all uses of the method against the described vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3973 ‼\n\nCross-site Scripting (XSS) - Reflected in GitHub repository jgraph/drawio prior to 21.6.3.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37979 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Saturday Drive Ninja Forms Contact Form plugin <=Â 3.6.25 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37976 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Radio Forge Muses Player with Skins plugin <=Â 2.5 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37980 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Gravity Master Custom Field For WP Job Manager plugin <=Â 1.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-07-27",
     "from_channel": "freedomf0x",
     "message": "CVE-2023-29336\nДырка в драйвере ядра Win32k и эксплуатируется при открытии специально созданного падонками успешными людьми RTF-файла. \nLPE до system\nАналитика\n\n\n#windows #lpe"
 }
