@@ -1,5 +1,21 @@
 {
     "date": "2023-07-27",
+    "from_channel": "freedomf0x",
+    "message": "CVE-2023-29336\nДырка в драйвере ядра Win32k и эксплуатируется при открытии специально созданного падонками успешными людьми RTF-файла. \nLPE до system\nАналитика\n\n\n#windows #lpe"
+}
+{
+    "date": "2023-07-27",
+    "from_channel": "proxy_bar",
+    "message": "CVE-2023-29336\nДырка в драйвере ядра Win32k и эксплуатируется при открытии специально созданного падонками успешными людьми RTF-файла. \nLPE до system\nАналитика\n\n\n#windows #lpe"
+}
+{
+    "date": "2023-07-27",
+    "from_channel": "RalfHackerChannel",
+    "message": "🔨KRBUACBypass\n\nBy adding a KERB-AD-RESTRICTION-ENTRY to the service ticket, but filling in a fake MachineID, we can easily bypass UAC and gain SYSTEM privileges.\n\nResearch:\nhttps://www.tiraniddo.dev/2022/03/bypassing-uac-in-most-complex-way.html\n\nSource: \nhttps://github.com/wh0amitz/KRBUACBypass\n\n#ad #kerberos #uac #bypass",
+    "urls": []
+}
+{
+    "date": "2023-07-27",
     "from_channel": "defcon_news",
     "message": "xForUp Simple File Uploader 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/173789/xforupsfu10-sql.txt",
     "urls": [],
