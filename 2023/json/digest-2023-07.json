@@ -1,4 +1,76 @@
 {
+    "date": "2023-07-27",
+    "from_channel": "defcon_news",
+    "message": "xForUp Simple File Uploader 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/173789/xforupsfu10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173789/xforupsfu10-sql.txt"
+}
+{
+    "date": "2023-07-27",
+    "from_channel": "defcon_news",
+    "message": "B-OBEC V.092019 SQL Injection\nhttps://packetstormsecurity.com/files/173786/bobec092019-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173786/bobec092019-sql.txt"
+}
+{
+    "date": "2023-07-27",
+    "from_channel": "defcon_news",
+    "message": "BMIT BMS 2.1 SQL Injection\nhttps://packetstormsecurity.com/files/173785/bmitbms21-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173785/bmitbms21-sql.txt"
+}
+{
+    "date": "2023-07-27",
+    "from_channel": "defcon_news",
+    "message": "AMSS++ 5.21.09 SQL Injection\nhttps://packetstormsecurity.com/files/173780/amss52109-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173780/amss52109-sql.txt"
+}
+{
+    "date": "2023-07-27",
+    "from_channel": "defcon_news",
+    "message": "AMS Logistics 2.2 SQL Injection\nhttps://packetstormsecurity.com/files/173779/amslogistics22-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173779/amslogistics22-sql.txt"
+}
+{
+    "date": "2023-07-27",
+    "from_channel": "defcon_news",
+    "message": "Aicte India LMS 3.0 SQL Injection\nhttps://packetstormsecurity.com/files/173776/aicteindialms30-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173776/aicteindialms30-sql.txt"
+}
+{
+    "date": "2023-07-27",
+    "from_channel": "defcon_news",
+    "message": "Cloud Base Multiple School Generate And Management System 4.6.0 SQL Injection\nhttps://packetstormsecurity.com/files/173771/cbmsgms460-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173771/cbmsgms460-sql.txt"
+}
+{
+    "date": "2023-07-27",
+    "from_channel": "defcon_news",
+    "message": "Ciuis CRM 1.0.7 Local File Inclusion\nhttps://packetstormsecurity.com/files/173770/ciuiscrm107-lfi.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173770/ciuiscrm107-lfi.txt"
+}
+{
+    "date": "2023-07-27",
+    "from_channel": "defcon_news",
+    "message": "Job Portal CMS 2.3.0.2 SQL Injection\nhttps://packetstormsecurity.com/files/173769/jobportalcms2302-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173769/jobportalcms2302-sql.txt"
+}
+{
     "date": "2023-07-26",
     "from_channel": "defcon_news",
     "message": "Journal Management Software 1.2.4 SQL Injection\nhttps://packetstormsecurity.com/files/173748/jms124-sql.txt",
