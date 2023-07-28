@@ -1,5 +1,13 @@
 {
     "date": "2023-07-28",
+    "from_channel": "defcon_news",
+    "message": "Exploitation Of Recent Citrix ShareFile RCE Vulnerability Begins\nhttps://packetstormsecurity.com/news/view/34846/Exploitation-Of-Recent-Citrix-ShareFile-RCE-Vulnerability-Begins.html",
+    "urls": [],
+    "webpage_description": "The first attempts to exploit CVE-2023-24489, a recent critical Citrix ShareFile remote code execution vulnerability, have been observed.",
+    "webpage_url": "https://packetstormsecurity.com/news/view/34846/Exploitation-Of-Recent-Citrix-ShareFile-RCE-Vulnerability-Begins.html"
+}
+{
+    "date": "2023-07-28",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-3987 ‼\n\nA vulnerability was found in SourceCodester Simple Online Mens Salon Management System 1.0. It has been classified as critical. Affected is an unknown function of the file /admin/?page=user/manage_user&id=3. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-235608.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
