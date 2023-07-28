@@ -1147,7 +1147,7 @@
     "message": "Инъекция XSS в скрытых полях ввода и мета-тегах\nhttps://codeby.net/threads/inekcija-xss-v-skrytyx-poljax-vvoda-i-meta-tegax.82093/",
     "urls": [],
     "webpage_description": "Это перевод статьи с PortSwigger\nВведение\nВ этом посте автор покажет, как вы можете использовать новую функцию всплывающих окон HTML в Chrome для эксплуатации XSS в мета-тегах и скрытых полях...",
-    "webpage_url": "https://codeby.net/threads/inekcija-xss-v-skrytyx-poljax-vvoda-i-meta-tegax.82093/"
+    "webpage_url": "https://codeby.net/threads/inekcija-xss-v-skrytyx-poljax-vvoda-i-meta-tegax.82093/?utm_source=telegram&utm_medium=banner&utm_campaign=xss"
 }
 {
     "date": "2023-07-13",
