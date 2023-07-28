@@ -1,5 +1,13 @@
 {
     "date": "2023-07-28",
+    "from_channel": "defcon_news",
+    "message": "Zimbra Patched An XSS Zero-Day Vulnerability Under Active Attack\nhttps://latesthackingnews.com/2023/07/28/zimbra-patched-an-xss-zero-day-vulnerability-under-active-attack/",
+    "urls": [],
+    "webpage_description": "Zimbra recently addressed a severe zero-day vulnerability found actively exploited in the wild. While the vulnerability previously received a fix, Zimbra re-released the XSS zero-day patch with the latest software version, urging users to update. Active",
+    "webpage_url": "https://latesthackingnews.com/2023/07/28/zimbra-patched-an-xss-zero-day-vulnerability-under-active-attack/"
+}
+{
+    "date": "2023-07-28",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-39023 ‼\n\nuniversity compass v2.2.0 and below was discovered to contain a code injection vulnerability in the component org.compass.core.executor.DefaultExecutorManager.configure. This vulnerability is exploited via passing an unchecked argument.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
