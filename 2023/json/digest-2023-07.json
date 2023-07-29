@@ -1,4 +1,12 @@
 {
+    "date": "2023-07-29",
+    "from_channel": "freedomf0x",
+    "message": "Proof of Concept for CVE-2023-38646. \n\nThis vulnerability has been declared as critical, because it allows an unauthenticated attacker to execute arbitrary commands with the same privileges as the Metabase server. This vulnerability means the Metabase server can become a potential entry point for malicious attacks, which could compromise the integrity of the whole system it operates on.\n\nhttps://github.com/Zenmovie/CVE-2023-38646",
+    "urls": [],
+    "webpage_description": "Proof of Concept for CVE-2023-38646. Contribute to Zenmovie/CVE-2023-38646 development by creating an account on GitHub.",
+    "webpage_url": "https://github.com/Zenmovie/CVE-2023-38646"
+}
+{
     "date": "2023-07-28",
     "from_channel": "defcon_news",
     "message": "Zimbra Patched An XSS Zero-Day Vulnerability Under Active Attack\nhttps://latesthackingnews.com/2023/07/28/zimbra-patched-an-xss-zero-day-vulnerability-under-active-attack/",
