@@ -1,6 +1,18 @@
 {
     "date": "2023-08-02",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38556 ‼\n\nImproper input validation vulnerability in SEIKO EPSON printer Web Config allows a remote attacker to turned off the printer.[Note] Web Config is the software that allows users to check the status and change the settings of SEIKO EPSON printers via a web browser. Web Config is pre-installed in some printers provided by SEIKO EPSON CORPORATION. For the details of the affected product names/model numbers, refer to the information provided by the vendor.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-02",
+    "from_channel": "github_repos",
+    "message": "wh0amitz/KRBUACBypass\nUAC Bypass By Abusing Kerberos Tickets\nLanguage: C#\n#infosec #kerberos #redteam #redteam_tools #uac_bypass #windows\nStars: 254 Issues: 1 Forks: 28\nhttps://github.com/wh0amitz/KRBUACBypass",
+    "webpage_description": "UAC Bypass By Abusing Kerberos Tickets. Contribute to wh0amitz/KRBUACBypass development by creating an account on GitHub.",
+    "webpage_url": "https://github.com/wh0amitz/KRBUACBypass"
+}
+{
+    "date": "2023-08-02",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-31928 ‼\n\nA reflected cross-site scripting (XSS) vulnerability exists in Brocade Webtools PortSetting.html of Brocade Fabric OS version before Brocade Fabric OS v9.2.0 that could allow a remote unauthenticated attacker to execute arbitrary JavaScript code in a target userâ€™s session with the Brocade Webtools application.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
