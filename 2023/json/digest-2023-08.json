@@ -1,5 +1,12 @@
 {
     "date": "2023-08-02",
+    "from_channel": "defcon_news",
+    "message": "KRBUACBypass - UAC Bypass By Abusing Kerberos Tickets\nhttp://www.kitploit.com/2023/08/krbuacbypass-uac-bypass-by-abusing.html",
+    "urls": [],
+    "webpage_url": "https://www.kitploit.com/2023/08/krbuacbypass-uac-bypass-by-abusing.html"
+}
+{
+    "date": "2023-08-02",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-38556 ‼\n\nImproper input validation vulnerability in SEIKO EPSON printer Web Config allows a remote attacker to turned off the printer.[Note] Web Config is the software that allows users to check the status and change the settings of SEIKO EPSON printers via a web browser. Web Config is pre-installed in some printers provided by SEIKO EPSON CORPORATION. For the details of the affected product names/model numbers, refer to the information provided by the vendor.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
