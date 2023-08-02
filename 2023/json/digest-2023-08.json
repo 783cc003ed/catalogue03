@@ -1,5 +1,45 @@
 {
     "date": "2023-08-02",
+    "from_channel": "defcon_news",
+    "message": "Cryptolive CMS 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/173904/cryptolivecms10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173904/cryptolivecms10-sql.txt"
+}
+{
+    "date": "2023-08-02",
+    "from_channel": "defcon_news",
+    "message": "Creative Commons Attribution 3.0 SQL Injection\nhttps://packetstormsecurity.com/files/173901/cca30-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173901/cca30-sql.txt"
+}
+{
+    "date": "2023-08-02",
+    "from_channel": "defcon_news",
+    "message": "Connectix Boards 0.5.2 SQL Injection\nhttps://packetstormsecurity.com/files/173894/connectixboards052-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173894/connectixboards052-sql.txt"
+}
+{
+    "date": "2023-08-02",
+    "from_channel": "defcon_news",
+    "message": "COMpose-IT CMS 2.0 SQL Injection\nhttps://packetstormsecurity.com/files/173893/composeitcms20-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173893/composeitcms20-sql.txt"
+}
+{
+    "date": "2023-08-02",
+    "from_channel": "defcon_news",
+    "message": "CMS-pro 5.0 SQL Injection\nhttps://packetstormsecurity.com/files/173891/cmspro50-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173891/cmspro50-sql.txt"
+}
+{
+    "date": "2023-08-02",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-26449 ‼\n\nThe \"OX Chat\" web service did not specify a media-type when processing responses by external resources. Malicious script code can be executed within the victims context. This can lead to session hijacking or triggering unwanted actions via the web interface and API. To exploit this an attacker would require temporary access to the users account or lure a user to a compromised account. We are now defining the accepted media-type to avoid code execution. No publicly available exploits are known.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
