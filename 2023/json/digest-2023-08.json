@@ -1,6 +1,11 @@
 {
     "date": "2023-08-02",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3978 ‼\n\nText nodes not in the HTML namespace are incorrectly literally rendered, causing text which should be escaped to not be. This could lead to an XSS attack.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-02",
+    "from_channel": "cibsecurity",
     "message": "🕴 Guardio Uncovers Zero-Day Vulnerability in Salesforce's Email Services 🕴\n\n \n\n📖 Read\n\nvia \"Dark Reading\".",
     "webpage_description": "Tel Aviv, Israel – August 2, 2023 – Guardio, a cybersecurity company leveraging cutting-edge machine learning and proprietary algorithms to deliver top-tier security solutions for both consumers and SMBs, is releasing today a report detailing their research team’s discovery of a sophisticated email phishing campaign exploiting a zero-day vulnerability in Salesforce’s legitimate email services and SMTP servers. The vulnerability allowed threat actors to craft targeted phishing emails, cleverly evading conventional detection methods by leveraging Salesforce’s domain and reputation and exploiting legacy quirks in Facebook’s web games platform.",
     "webpage_url": "https://www.darkreading.com/attacks-breaches/guardio-uncovers-zero-day-vulnerability-in-salesforce-s-email-services"
