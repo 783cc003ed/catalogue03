@@ -1,6 +1,16 @@
 {
     "date": "2023-08-02",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38138 ‼\n\nA reflected cross-site scripting (XSS) vulnerability exists in an undisclosed page of the BIG-IP Configuration utility which allows an attacker to run JavaScript in the context of the currently logged-in user.Â  Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38423 ‼\n\nA cross-site scripting (XSS) vulnerability exists in an undisclosed page of the BIG-IP Configuration utility that allows an attacker to run JavaScript in the context of the currently logged-in user.Â  Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-02",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-26316 ‼\n\nA XSS vulnerability exists in the Xiaomi cloud service Application product. The vulnerability is caused by Webview's whitelist checking function allowing javascript protocol to be loaded and can be exploited by attackers to steal Xiaomi cloud service account's cookies.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
