@@ -1,6 +1,14 @@
 {
     "date": "2023-08-03",
     "from_channel": "defcon_news",
+    "message": "MSMQ QueueJumper (RCE Vulnerability): An In-Depth Technical Analysis\nhttps://www.reddit.com/r/netsec/comments/15gwu87/msmq_queuejumper_rce_vulnerability_an_indepth/",
+    "urls": [],
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/15gwu87/msmq_queuejumper_rce_vulnerability_an_indepth/"
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "defcon_news",
     "message": "Ivanti patches second zero-day vulnerability being used in attacks\nhttps://www.malwarebytes.com/blog/news/2023/08/ivanti-patches-second-zero-day-vulnerability-actively-used-in-attacks",
     "urls": [],
     "webpage_description": "Ivanti has issued a patch to address a second critical zero-day vulnerability",
