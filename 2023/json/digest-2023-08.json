@@ -1,4 +1,12 @@
 {
+    "date": "2023-08-03",
+    "from_channel": "defcon_news",
+    "message": "Ivanti patches second zero-day vulnerability being used in attacks\nhttps://www.malwarebytes.com/blog/news/2023/08/ivanti-patches-second-zero-day-vulnerability-actively-used-in-attacks",
+    "urls": [],
+    "webpage_description": "Ivanti has issued a patch to address a second critical zero-day vulnerability",
+    "webpage_url": "https://www.malwarebytes.com/blog/news/2023/08/ivanti-patches-second-zero-day-vulnerability-actively-used-in-attacks"
+}
+{
     "date": "2023-08-02",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-3978 ‼\n\nText nodes not in the HTML namespace are incorrectly literally rendered, causing text which should be escaped to not be. This could lead to an XSS attack.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
