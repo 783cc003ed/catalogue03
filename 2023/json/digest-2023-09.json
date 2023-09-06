@@ -1,5 +1,30 @@
 {
     "date": "2023-09-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36489 ‼\n\nMultiple TP-LINK products allow a network-adjacent unauthenticated attacker to execute arbitrary OS commands. Affected products/versions are as follows: TL-WR802N firmware versions prior to 'TL-WR802N(JP)_V4_221008', TL-WR841N firmware versions prior to 'TL-WR841N(JP)_V14_230506', and TL-WR902AC firmware versions prior to 'TL-WR902AC(JP)_V3_230506'.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37284 ‼\n\nImproper authentication vulnerability in Archer C20 firmware versions prior to 'Archer C20(JP)_V1_230616' allows a network-adjacent unauthenticated attacker to execute an arbitrary OS command via a crafted request to bypass authentication.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32619 ‼\n\nArcher C50 firmware versions prior to 'Archer C50(JP)_V3_230505' and Archer C55 firmware versions prior to 'Archer C55(JP)_V1_230506' use hard-coded credentials to login to the affected device, which may allow a network-adjacent unauthenticated attacker to execute an arbitrary OS command.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38563 ‼\n\nArcher C1200 firmware versions prior to 'Archer C1200(JP)_V2_230508' and Archer C9 firmware versions prior to 'Archer C9(JP)_V3_230508' allow a network-adjacent unauthenticated attacker to execute arbitrary OS commands.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38568 ‼\n\nArcher A10 firmware versions prior to 'Archer A10(JP)_V2_230504' allows a network-adjacent unauthenticated attacker to execute arbitrary OS commands.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-06",
     "from_channel": "defcon_news",
     "message": "XSS vulnerability in Proton Mail allowed to leak unencrypted emails\nhttps://www.reddit.com/r/netsec/comments/16bfujl/xss_vulnerability_in_proton_mail_allowed_to_leak/",
     "urls": [],
