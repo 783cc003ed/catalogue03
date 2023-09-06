@@ -1,6 +1,19 @@
 {
     "date": "2023-09-06",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2021-36646 ‼\n\nA Cross Site Scrtpting (XSS) vulnerability in KodExplorer 4.45 allows remote attackers to run arbitrary code via /index.php page.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-06",
+    "from_channel": "defcon_news",
+    "message": "ImgHosting 1.3 SQL Injection\nhttps://packetstormsecurity.com/files/174510/imghosting13-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174510/imghosting13-sql.txt"
+}
+{
+    "date": "2023-09-06",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-41940 ‼\n\nJenkins TAP Plugin 2.3 and earlier does not escape TAP file contents, resulting in a stored cross-site scripting (XSS) vulnerability exploitable by attackers able to control TAP file contents.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
