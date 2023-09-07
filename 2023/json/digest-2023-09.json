@@ -1,5 +1,20 @@
 {
     "date": "2023-09-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-30644 ‼\n\nAdobe Illustrator versions 26.0.2 (and earlier) and 25.4.5 (and earlier) are affected by a Use-After-Free vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2021-44189 ‼\n\nAdobe After Effects versions 22.0 (and earlier) and 18.4.2 (and earlier) are affected by an Use-After-Free vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a malicious file.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-07",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39711 ‼\n\nMultiple cross-site scripting (XSS) vulnerabilities in Free and Open Source Inventory Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via injecting a crafted payload into the Subtotal and Paidbill parameters under the Add New Put section.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-07",
     "from_channel": "defcon_news",
     "message": "JPC2 CMS 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174541/jpc2cms10-sql.txt",
     "urls": [],
