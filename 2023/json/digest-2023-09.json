@@ -1,6 +1,11 @@
 {
     "date": "2023-09-07",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37798 ‼\n\nA stored cross-site scripting (XSS) vulnerability in the new REDCap project creation function of Vanderbilt REDCap 13.1.35 allows attackers to execute arbitrary web scripts or HTML via injecting a crafted payload into the project title parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-07",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-30800 ‼\n\nThe web server used by MikroTik RouterOS version 6 is affected by a heap memory corruption issue. A remote and unauthenticated attacker can corrupt the server's heap memory by sending a crafted HTTP request. As a result, the web interface crashes and is immediately restarted. The issue was fixed in RouterOS 6.49.10 stable. RouterOS version 7 is not affected.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
