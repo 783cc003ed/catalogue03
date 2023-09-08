@@ -1,5 +1,20 @@
 {
     "date": "2023-09-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41615 ‼\n\nZoo Management System v1.0 was discovered to contain multiple SQL injection vulnerabilities in the Admin sign-in page via the username and password fields.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2021-45811 ‼\n\nA SQL injection vulnerability in the \"Search\" functionality of \"tickets.php\" page in osTicket 1.15.x allows authenticated attackers to execute arbitrary SQL commands via the \"keywords\" and \"topic_id\" URL parameters combination.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41594 ‼\n\nDairy Farm Shop Management System Using PHP and MySQL v1.1 was discovered to contain multiple SQL injection vulnerabilities in the Login function via the Username and Password parameters.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-08",
     "from_channel": "defcon_news",
     "message": "BLASTPASS: NSO Group iPhone Zero-Click, Zero-Day Exploit Captured in the Wild\nhttps://www.reddit.com/r/netsec/comments/16cv8ig/blastpass_nso_group_iphone_zeroclick_zeroday/",
     "urls": [],
