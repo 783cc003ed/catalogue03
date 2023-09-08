@@ -1,4 +1,17 @@
 {
+    "date": "2023-09-08",
+    "from_channel": "defcon_news",
+    "message": "BLASTPASS: NSO Group iPhone Zero-Click, Zero-Day Exploit Captured in the Wild\nhttps://www.reddit.com/r/netsec/comments/16cv8ig/blastpass_nso_group_iphone_zeroclick_zeroday/",
+    "urls": [],
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/16cv8ig/blastpass_nso_group_iphone_zeroclick_zeroday/"
+}
+{
+    "date": "2023-09-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41161 ‼\n\nMultiple stored cross-site scripting (XSS) vulnerabilities in Usermin 2.000 allow remote attackers to inject arbitrary web script or HTML via the key comment to different pages such as public key details, Export key, sign key, send to key server page, and fetch from key server page tab.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-09-07",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-37798 ‼\n\nA stored cross-site scripting (XSS) vulnerability in the new REDCap project creation function of Vanderbilt REDCap 13.1.35 allows attackers to execute arbitrary web scripts or HTML via injecting a crafted payload into the project title parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
