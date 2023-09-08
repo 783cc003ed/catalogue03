@@ -1,5 +1,13 @@
 {
     "date": "2023-09-08",
+    "from_channel": "sysadm_in_channel",
+    "message": "/ NSO Group iPhone Zero-Click, Zero-Day Exploit Captured in the Wild\n\n— https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/",
+    "urls": [],
+    "webpage_description": "Citizen Lab found an actively exploited zero-click vulnerability being used to deliver NSO Group’s Pegasus mercenary spyware while checking the device of an individual employed by a Washington DC-based civil society organization with international offices. We refer to the exploit chain as BLASTPASS. The exploit chain was capable of compromising iPhones running the latest version of iOS (16.6) without any interaction from the victim.",
+    "webpage_url": "https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/"
+}
+{
+    "date": "2023-09-08",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-34041 ‼\n\nCloud foundry routing release versions prior to 0.278.0 are vulnerable to abuse of HTTP Hop-by-Hop Headers. An unauthenticated attacker can use this vulnerability for headers like B3 or X-B3-SpanID to affect the identification value recorded in the logs in foundations.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
