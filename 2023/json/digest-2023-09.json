@@ -1,5 +1,29 @@
 {
     "date": "2023-09-08",
+    "from_channel": "defcon_news",
+    "message": "U.S. Dept Of Defense: Blind Sql Injection in https://█████/qsSearch.aspx\nhttps://vulners.com/hackerone/H1:2081316?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "Description: access https:// ████████/qsSearch.aspx Click to sort capture packets ``` POST /qsSearch.aspx HTTP/1.1 Host:  ████████ Cookie: ASP.NET_SessionId=qrwzcesx1pczpna5a1bumabn;...",
+    "webpage_url": "https://vulners.com/hackerone/H1:2081316?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-09-08",
+    "from_channel": "defcon_news",
+    "message": "U.S. Dept Of Defense: Blind Sql Injection in https://████████/\nhttps://vulners.com/hackerone/H1:2072306?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "Description: first  browse url https:// █████████/DSF/SmartStore.aspx?gktTg9gFCEBknhRFawes89EY4WcuDKHZNYh58W8kzOWv0SM9Nk6SFMv570fOCer/BHfPrtRYtqRvYJ88zd0KsQ==&random=0.7493498572981403#!/Storefront find login  then notice register  ████████  ███████...",
+    "webpage_url": "https://vulners.com/hackerone/H1:2072306?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-09-08",
+    "from_channel": "defcon_news",
+    "message": "U.S. Dept Of Defense: CVE-2023-24488 xss on https://██████/\nhttps://vulners.com/hackerone/H1:2045549?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "Description: References Impact malicios js inejction , cookie stealing System Host(s)  █████████ Affected Product(s) and Version(s) CVE Numbers CVE-2023-24488 Steps to Reproduce ...",
+    "webpage_url": "https://vulners.com/hackerone/H1:2045549?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-09-08",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-39318 ‼\n\nThe html/template package does not properly handle HTML-like \"\" comment tokens, nor hashbang \"#!\" comment tokens, in <script> contexts. This may cause the template parser to improperly interpret the contents of <script> contexts, causing actions to be improperly escaped. This may be leveraged to perform an XSS attack.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
