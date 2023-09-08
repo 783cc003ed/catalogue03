@@ -1,5 +1,20 @@
 {
     "date": "2023-09-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39712 ‼\n\nMultiple cross-site scripting (XSS) vulnerabilities in Free and Open Source Inventory Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via injecting a crafted payload into the Name, Address, and Company parameters under the Add New Put section.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-42268 ‼\n\nJeecg boot up to v3.5.3 was discovered to contain a SQL injection vulnerability via the component /jeecg-boot/jmreport/show.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-08",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41575 ‼\n\nMultiple stored cross-site scripting (XSS) vulnerabilities in /bbdms/sign-up.php of Blood Bank & Donor Management v2.2 allow attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Full Name, Message, or Address parameters.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-08",
     "from_channel": "defcon_news",
     "message": "U.S. Dept Of Defense: Blind Sql Injection in https://█████/qsSearch.aspx\nhttps://vulners.com/hackerone/H1:2081316?utm_source=rss&utm_medium=rss&utm_campaign=rss",
     "urls": [],
