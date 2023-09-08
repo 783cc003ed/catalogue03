@@ -1,5 +1,13 @@
 {
     "date": "2023-09-08",
+    "from_channel": "defcon_news",
+    "message": "Yelp: yelp.com and biz.yelp.com ATO via XSS + Cookie Bridge\nhttps://vulners.com/hackerone/H1:2089042?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "Summary I've found an XSS on biz.yelp.com where the unverified email will be reflected in a message, prompting the user to verify the email. This XSS can be combined with the cookie bridge functionality to target other uses with the XSS. The XSS...",
+    "webpage_url": "https://vulners.com/hackerone/H1:2089042?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-09-08",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-41615 ‼\n\nZoo Management System v1.0 was discovered to contain multiple SQL injection vulnerabilities in the Admin sign-in page via the username and password fields.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
