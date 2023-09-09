@@ -1,4 +1,14 @@
 {
+    "date": "2023-09-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4845 ‼\n\nA vulnerability was found in SourceCodester Simple Membership System 1.0. It has been declared as critical. This vulnerability affects unknown code of the file account_edit_query.php. The manipulation of the argument admin_id leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-239254 is the identifier assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4846 ‼\n\nA vulnerability was found in SourceCodester Simple Membership System 1.0. It has been rated as critical. This issue affects some unknown processing of the file delete_member.php. The manipulation of the argument mem_id leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-239255.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-09-08",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-39712 ‼\n\nMultiple cross-site scripting (XSS) vulnerabilities in Free and Open Source Inventory Management System v1.0 allows attackers to execute arbitrary web scripts or HTML via injecting a crafted payload into the Name, Address, and Company parameters under the Add New Put section.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
