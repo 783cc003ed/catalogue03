@@ -1,6 +1,11 @@
 {
     "date": "2023-09-09",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4864 ‼\n\nA vulnerability, which was classified as problematic, was found in SourceCodester Take-Note App 1.0. This affects an unknown part of the file index.php. The manipulation of the argument noteContent with the input <script>alert('xss')</script> leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-239349 was assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-09",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-4852 ‼\n\nA vulnerability was found in IBOS OA 4.5.5 and classified as critical. This issue affects some unknown processing of the file ?r=dashboard/database/optimize. The manipulation leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-239261 was assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
