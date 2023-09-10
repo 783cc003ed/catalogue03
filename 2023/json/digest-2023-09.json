@@ -1,4 +1,14 @@
 {
+    "date": "2023-09-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4879 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository instantsoft/icms2 prior to 2.16.1.-git.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4878 ‼\n\nServer-Side Request Forgery (SSRF) in GitHub repository instantsoft/icms2 prior to 2.16.1-git.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-09-09",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-4864 ‼\n\nA vulnerability, which was classified as problematic, was found in SourceCodester Take-Note App 1.0. This affects an unknown part of the file index.php. The manipulation of the argument noteContent with the input <script>alert('xss')</script> leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-239349 was assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
