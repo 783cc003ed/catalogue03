@@ -1,4 +1,11 @@
 {
+    "date": "2023-09-11",
+    "from_channel": "cibsecurity",
+    "message": "🕴 Overcoming the Rising Threat of Session Hijacking 🕴\n\nPasskeys and multifactor authentication aren't enough for combating infostealer malware, which can exfiltrate corporate data before anyone knows an attack happened.\n\n📖 Read\n\nvia \"Dark Reading\".",
+    "webpage_description": "Passkeys and multifactor authentication aren't enough for combating infostealer malware, which can exfiltrate corporate data before anyone knows an attack happened.",
+    "webpage_url": "https://www.darkreading.com/vulnerabilities-threats/overcoming-rising-threat-session-hijacking"
+}
+{
     "date": "2023-09-10",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-4879 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository instantsoft/icms2 prior to 2.16.1.-git.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
