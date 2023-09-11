@@ -1,6 +1,16 @@
 {
     "date": "2023-09-11",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41103 ‼\n\nInteract 7.9.79.5 allows stored Cross-site Scripting (XSS) attacks in several locations, allowing an attacker to store a JavaScript payload.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-11",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41593 ‼\n\nMultiple cross-site scripting (XSS) vulnerabilities in Dairy Farm Shop Management System Using PHP and MySQL v1.1 allow attackers to execute arbitrary web scripts and HTML via a crafted payload injected into the Category and Category Field parameters.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-11",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-30058 ‼\n\nnovel-plus 3.6.2 is vulnerable to SQL Injection.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
