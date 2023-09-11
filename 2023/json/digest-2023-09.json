@@ -1,6 +1,35 @@
 {
     "date": "2023-09-11",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30058 ‼\n\nnovel-plus 3.6.2 is vulnerable to SQL Injection.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-11",
+    "from_channel": "defcon_news",
+    "message": "WordPress Slimstat Analytics 5.0.9 Cross Site Scripting / SQL Injection\nhttps://packetstormsecurity.com/files/174604/wpslimstat509-xsssql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174604/wpslimstat509-xsssql.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-09-11",
+    "from_channel": "defcon_news",
+    "message": "VMware vRealize Log Insight Unauthenticated Remote Code Execution\nhttps://packetstormsecurity.com/files/174606/vmware_vrli_rce.rb.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174606/vmware_vrli_rce.rb.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-09-11",
+    "from_channel": "defcon_news",
+    "message": "Shuttle Booking Software 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174581/shuttlebs10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174581/shuttlebs10-sql.txt"
+}
+{
+    "date": "2023-09-11",
+    "from_channel": "cibsecurity",
     "message": "🕴 Overcoming the Rising Threat of Session Hijacking 🕴\n\nPasskeys and multifactor authentication aren't enough for combating infostealer malware, which can exfiltrate corporate data before anyone knows an attack happened.\n\n📖 Read\n\nvia \"Dark Reading\".",
     "webpage_description": "Passkeys and multifactor authentication aren't enough for combating infostealer malware, which can exfiltrate corporate data before anyone knows an attack happened.",
     "webpage_url": "https://www.darkreading.com/vulnerabilities-threats/overcoming-rising-threat-session-hijacking"
