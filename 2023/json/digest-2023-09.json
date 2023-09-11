@@ -1,5 +1,13 @@
 {
     "date": "2023-09-11",
+    "from_channel": "r0_Crew",
+    "message": "Dissecting and Exploiting TCP/IP RCE Vulnerability “EvilESP”\n\nhttps://securityintelligence.com/x-force/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/\n\n#expdev #windows #1day",
+    "urls": [],
+    "webpage_description": "See how one IBM X-Force researcher reverse engineered the patch for CVE-2022-34718, and unpack the affected protocols, how the bug was identified, and how it was reproduced.",
+    "webpage_url": "https://securityintelligence.com/x-force/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/"
+}
+{
+    "date": "2023-09-11",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-41103 ‼\n\nInteract 7.9.79.5 allows stored Cross-site Scripting (XSS) attacks in several locations, allowing an attacker to store a JavaScript payload.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
