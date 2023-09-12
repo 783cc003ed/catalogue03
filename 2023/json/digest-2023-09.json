@@ -1,4 +1,9 @@
 {
+    "date": "2023-09-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38878 ‼\n\nA reflected cross-site scripting (XSS) vulnerability in DevCode OpenSTAManager versions 2.4.24 to 2.4.47 may allow a remote attacker to execute arbitrary JavaScript in the web browser of a victim by injecting a malicious payload into the 'error' and 'error_description' parameters of 'oauth2.php'.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-09-11",
     "from_channel": "r0_Crew",
     "message": "Dissecting and Exploiting TCP/IP RCE Vulnerability “EvilESP”\n\nhttps://securityintelligence.com/x-force/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/\n\n#expdev #windows #1day",
