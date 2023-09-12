@@ -1,5 +1,80 @@
 {
     "date": "2023-09-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36744 ‼\n\nMicrosoft Exchange Server Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38146 ‼\n\nWindows Themes Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38148 ‼\n\nInternet Connection Sharing (ICS) Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41764 ‼\n\nMicrosoft Office Spoofing Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38147 ‼\n\nWindows Miracast Wireless Display Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36792 ‼\n\nVisual Studio Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36788 ‼\n\n.NET Framework Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36794 ‼\n\nVisual Studio Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36760 ‼\n\n3D Viewer Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36745 ‼\n\nMicrosoft Exchange Server Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36796 ‼\n\nVisual Studio Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36773 ‼\n\n3D Builder Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36771 ‼\n\n3D Builder Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36757 ‼\n\nMicrosoft Exchange Server Spoofing Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36739 ‼\n\n3D Viewer Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-12",
     "from_channel": "defcon_news",
     "message": "Equipment Rental Script 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174619/ers10-sql.txt",
     "urls": [],
