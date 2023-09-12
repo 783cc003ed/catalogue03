@@ -1,6 +1,26 @@
 {
     "date": "2023-09-12",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3710 ‼\n\nImproper Input Validation vulnerability in Honeywell PM43 on 32 bit, ARM (Printer web page modules) allows Command Injection.This issue affects PM43 versions prior to P10.19.050004.Â Update to the latest available firmware version of the respective printers to version MR19.5 (e.g. P10.19.050006).\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39208 ‼\n\nImproper input validation in Zoom Desktop Client for Linux before version 5.15.10 may allow an unauthenticated user to conduct a denial of service via network access.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4921 ‼\n\nA use-after-free vulnerability in the Linux kernel's net/sched: sch_qfq component can be exploited to achieve local privilege escalation.When the plug qdisc is used as a class of the qfq qdisc, sending network packets triggers use-after-free in qfq_dequeue() due to the incorrect .peek handler of sch_plug and lack of error checking in agg_dequeue().We recommend upgrading past commit 8fc134fee27f2263988ae38920bc03da416b03d8.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-21523 ‼\n\nA Stored Cross-site Scripting (XSS) vulnerability in the Management Console (User Management and Alerts) of BlackBerry AtHoc version 7.15 could allow an attacker to execute script commands in the context of the affected user account.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-12",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-30962 ‼\n\nThe Gotham Cerberus service was found to have a stored cross-site scripting (XSS) vulnerability that could have allowed an attacker with access to Gotham to launch attacks against other users. This vulnerability is resolved in Cerberus 100.230704.0-27-g031dd58 .\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
