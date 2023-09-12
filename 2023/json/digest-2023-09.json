@@ -1,5 +1,23 @@
 {
     "date": "2023-09-12",
+    "from_channel": "defcon_news",
+    "message": "Internet Bug Bounty: SSRF Vulnerability through Connection test feature\nhttps://vulners.com/hackerone/H1:2123113?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "An SSRF (Server-Side Request Forgery) attack can potentially be executed through the connection test feature, specifically when interacting with the Slack API. This attack allows an attacker to see the plain response, providing them with...",
+    "webpage_url": "https://vulners.com/hackerone/H1:2123113?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-09-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-24093 ‼\n\nAdobe Commerce versions 2.4.3-p1 (and earlier) and 2.3.7-p2 (and earlier) are affected by an improper input validation vulnerability. Exploitation of this issue does not require user interaction and could result in a post-authentication arbitrary code execution.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37875 ‼\n\nImproper encoding or escaping of output in Wing FTP Server (User Web Client) allows Cross-Site Scripting (XSS).This issue affects Wing FTP Server: <= 7.2.0.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-12",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-38878 ‼\n\nA reflected cross-site scripting (XSS) vulnerability in DevCode OpenSTAManager versions 2.4.24 to 2.4.47 may allow a remote attacker to execute arbitrary JavaScript in the web browser of a victim by injecting a malicious payload into the 'error' and 'error_description' parameters of 'oauth2.php'.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
