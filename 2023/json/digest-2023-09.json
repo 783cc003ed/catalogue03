@@ -1,5 +1,10 @@
 {
     "date": "2023-09-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41013 ‼\n\nCross Site Scripting (XSS) in Webmail Calendar in IceWarp 10.3.1 allows remote attackers to inject arbitrary web script or HTML via the \"p4\" field.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-12",
     "from_channel": "defcon_news",
     "message": "Blog Patrowl: OmniSpace, from automated 0day XSS to RCE by @Pepito_oh\nhttps://www.reddit.com/r/netsec/comments/16gqwsv/blog_patrowl_omnispace_from_automated_0day_xss_to/",
     "urls": [],
