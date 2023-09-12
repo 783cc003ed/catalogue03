@@ -1,5 +1,15 @@
 {
     "date": "2023-09-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-40732 ‼\n\nA vulnerability has been identified in QMS Automotive (All versions < V12.39). The QMS.Mobile module of the affected application does not invalidate the session token on logout. This could allow an attacker to perform session hijacking attacks.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38075 ‼\n\nA vulnerability has been identified in JT2Go (All versions < V14.3.0.1), Teamcenter Visualization V13.3 (All versions < V13.3.0.12), Teamcenter Visualization V14.0 (All versions), Teamcenter Visualization V14.1 (All versions < V14.1.0.11), Teamcenter Visualization V14.2 (All versions < V14.2.0.6), Teamcenter Visualization V14.3 (All versions < V14.3.0.1). The affected application contains a use-after-free vulnerability that could be triggered while parsing specially crafted WRL files. An attacker could leverage this vulnerability to execute code in the context of the current process. (ZDI-CAN-20842)\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-12",
     "from_channel": "defcon_news",
     "message": "Internet Bug Bounty: SSRF Vulnerability through Connection test feature\nhttps://vulners.com/hackerone/H1:2123113?utm_source=rss&utm_medium=rss&utm_campaign=rss",
     "urls": [],
