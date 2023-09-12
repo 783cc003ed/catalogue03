@@ -1,5 +1,13 @@
 {
     "date": "2023-09-12",
+    "from_channel": "defcon_news",
+    "message": "Blog Patrowl: OmniSpace, from automated 0day XSS to RCE by @Pepito_oh\nhttps://www.reddit.com/r/netsec/comments/16gqwsv/blog_patrowl_omnispace_from_automated_0day_xss_to/",
+    "urls": [],
+    "webpage_description": "Posted by MaKyOtOx - No votes and no comments",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/16gqwsv/blog_patrowl_omnispace_from_automated_0day_xss_to/"
+}
+{
+    "date": "2023-09-12",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-40732 ‼\n\nA vulnerability has been identified in QMS Automotive (All versions < V12.39). The QMS.Mobile module of the affected application does not invalidate the session token on logout. This could allow an attacker to perform session hijacking attacks.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
