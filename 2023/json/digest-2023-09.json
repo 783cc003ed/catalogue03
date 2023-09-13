@@ -1,5 +1,15 @@
 {
     "date": "2023-09-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29306 ‼\n\nAdobe Connect versions 12.3 and earlier are affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29305 ‼\n\nAdobe Connect versions 12.3 and earlier are affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-13",
     "from_channel": "defcon_news",
     "message": "Mozilla Rushes to Patch WebP Critical Zero-Day Exploit in Firefox and Thunderbird\nhttps://thehackernews.com/2023/09/mozilla-rushes-to-patch-webp-critical.html",
     "urls": []
