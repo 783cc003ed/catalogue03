@@ -1,6 +1,11 @@
 {
     "date": "2023-09-13",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3588 ‼\n\nA stored Cross-site Scripting (XSS) vulnerability affecting Teamwork Cloud from No Magic Release 2021x through No Magic Release 2022x allows an attacker to execute arbitrary script code.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-13",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-38215 ‼\n\nAdobe Experience Manager versions 6.5.17 and earlier are affected by a reflected Cross-Site Scripting (XSS) vulnerability. If a low-privileged attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
