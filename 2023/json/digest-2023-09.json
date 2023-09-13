@@ -1,5 +1,21 @@
 {
     "date": "2023-09-13",
+    "from_channel": "defcon_news",
+    "message": "PHP Shopping Cart 4.2 SQL Injection\nhttps://packetstormsecurity.com/files/174641/phpshoppingcart42-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174641/phpshoppingcart42-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-09-13",
+    "from_channel": "defcon_news",
+    "message": "Fundraising Script 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174640/fundraisingscript10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174640/fundraisingscript10-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-09-13",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2021-44172 ‼\n\nAn exposure of sensitive information to an unauthorized actor vulnerability [CWE-200] in FortiClientEMS versions 7.0.0 through 7.0.4, 7.0.6 through 7.0.7, in all 6.4 and 6.2 version management interface may allow an unauthenticated attacker to gain information on environment variables such as the EMS installation path.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
