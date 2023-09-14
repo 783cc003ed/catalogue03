@@ -1,5 +1,15 @@
 {
     "date": "2023-09-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36250 ‼\n\nCSV Injection vulnerability in GNOME time tracker version 3.0.2, allows local attackers to execute arbitrary code via crafted .tsv file when creating a new record.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-42178 ‼\n\nLenosp 1.0.0-1.2.0 is vulnerable to SQL Injection via the log query module.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-14",
     "from_channel": "defcon_news",
     "message": "Azure HDInsight Flaws Allow Data Access, Session Hijacking, Payload Delivery\nhttps://packetstormsecurity.com/news/view/35014/Azure-HDInsight-Flaws-Allow-Data-Access-Session-Hijacking-Payload-Delivery.html",
     "urls": [],
