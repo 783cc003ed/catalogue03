@@ -1,5 +1,10 @@
 {
     "date": "2023-09-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4832 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Aceka Company Management allows SQL Injection.This issue affects Company Management: before 3072 .\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-14",
     "from_channel": "defcon_news",
     "message": "NucleiFuzzer - Powerful Automation Tool For Detecting XSS, SQLi, SSRF, Open-Redirect, Etc.. Vulnerabilities In Web Applications\nhttp://www.kitploit.com/2023/09/nucleifuzzer-powerful-automation-tool.html",
     "urls": [],
