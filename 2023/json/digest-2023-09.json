@@ -1,5 +1,12 @@
 {
     "date": "2023-09-14",
+    "from_channel": "defcon_news",
+    "message": "NucleiFuzzer - Powerful Automation Tool For Detecting XSS, SQLi, SSRF, Open-Redirect, Etc.. Vulnerabilities In Web Applications\nhttp://www.kitploit.com/2023/09/nucleifuzzer-powerful-automation-tool.html",
+    "urls": [],
+    "webpage_url": "https://www.kitploit.com/2023/09/nucleifuzzer-powerful-automation-tool.html"
+}
+{
+    "date": "2023-09-14",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-36250 ‼\n\nCSV Injection vulnerability in GNOME time tracker version 3.0.2, allows local attackers to execute arbitrary code via crafted .tsv file when creating a new record.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
