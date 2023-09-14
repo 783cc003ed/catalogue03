@@ -1,6 +1,31 @@
 {
     "date": "2023-09-14",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41159 ‼\n\nA Stored Cross-Site Scripting (XSS) vulnerability while editing the autoreply file page in Usermin 2.000 allows remote attackers to inject arbitrary web script or HTML by editing the forward file manually.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41588 ‼\n\nA cross-site scripting (XSS) vulnerability in Time to SLA plugin v10.13.5 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the durationFormat parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41160 ‼\n\nA Stored Cross-Site Scripting (XSS) vulnerability in the SSH configuration tab in Usermin 2.001 allows remote attackers to inject arbitrary web script or HTML via the key name field while adding an authorized key.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41156 ‼\n\nA Stored Cross-Site Scripting (XSS) vulnerability in the filter and forward mail tab in Usermin 2.001 allows remote attackers to inject arbitrary web script or HTML via the save to new folder named field while creating a new filter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-14",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38912 ‼\n\nSQL injection vulnerability in Super Store Finder PHP Script v.3.6 allows a remote attacker to execute arbitrary code via a crafted payload to the username parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-14",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-4832 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Aceka Company Management allows SQL Injection.This issue affects Company Management: before 3072 .\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
