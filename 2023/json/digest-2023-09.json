@@ -1,4 +1,19 @@
 {
+    "date": "2023-09-15",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41592 ‼\n\nFroala Editor v4.0.1 to v4.1.1 was discovered to contain a cross-site scripting (XSS) vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-15",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-42405 ‼\n\nSQL injection vulnerability in FIT2CLOUD RackShift v1.7.1 allows attackers to execute arbitrary code via the `sort` parameter to taskService.list(), bareMetalService.list(), and switchService.list().\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-15",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38891 ‼\n\nSQL injection vulnerability in Vtiger CRM v.7.5.0 allows a remote authenticated attacker to escalate privileges via the getQueryColumnsList function in ReportRun.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-09-14",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-41159 ‼\n\nA Stored Cross-Site Scripting (XSS) vulnerability while editing the autoreply file page in Usermin 2.000 allows remote attackers to inject arbitrary web script or HTML by editing the forward file manually.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
