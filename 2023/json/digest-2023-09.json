@@ -1,4 +1,9 @@
 {
+    "date": "2023-09-17",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38040 ‼\n\nA reflected XSS vulnerability exists in Revive Adserver 5.4.1 and earlier versions..\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-09-16",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-39777 ‼\n\nA cross-site scripting (XSS) vulnerability in the Admin Control Panel of vBulletin 5.7.5 and 6.0.0 allows attackers to execute arbitrary web scripts or HTML via the /login.php?do=login url parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
