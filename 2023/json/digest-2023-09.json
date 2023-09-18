@@ -1,6 +1,21 @@
 {
     "date": "2023-09-18",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38582 ‼\n\n** UNSUPPPORTED WHEN ASSIGNED ** Persistent cross-site scripting (XSS) in the web application of MOD3GP-SY-120K allows an authenticated remote attacker to introduce arbitrary JavaScript by injecting an XSS payload into the field MAIL_RCV. When a legitimate user attempts to access to the vulnerable page of the web application, the XSS payload will be executed.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38255 ‼\n\n** UNSUPPPORTED WHEN ASSIGNED ** A potential attacker with or without (cookie theft) access to the device would be able to include malicious code (XSS) when uploading new device configuration that could affect the intended function of the device.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33831 ‼\n\nA remote command execution (RCE) vulnerability in the /api/runscript endpoint of FUXA 1.1.13 allows attackers to execute arbitrary commands via a crafted POST request.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-18",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-42359 ‼\n\nSQL injection vulnerability in Exam Form Submission in PHP with Source Code v.1.0 allows a remote attacker to escalate privileges via the val-username parameter in /index.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
