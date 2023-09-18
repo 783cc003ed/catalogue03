@@ -1,4 +1,9 @@
 {
+    "date": "2023-09-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5033 ‼\n\nA vulnerability classified as critical has been found in OpenRapid RapidCMS 1.3.1. This affects an unknown part of the file /admin/category/cate-edit-run.php. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-239877 was assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-09-17",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-38040 ‼\n\nA reflected XSS vulnerability exists in Revive Adserver 5.4.1 and earlier versions..\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
@@ -76,7 +81,7 @@
     "from_channel": "defcon_news",
     "message": "NucleiFuzzer - Powerful Automation Tool For Detecting XSS, SQLi, SSRF, Open-Redirect, Etc.. Vulnerabilities In Web Applications\nhttp://www.kitploit.com/2023/09/nucleifuzzer-powerful-automation-tool.html",
     "urls": [],
-    "webpage_url": "https://www.kitploit.com/2023/09/nucleifuzzer-powerful-automation-tool.html?utm_source=dlvr.it&utm_medium=twitter"
+    "webpage_url": "https://www.kitploit.com/2023/09/nucleifuzzer-powerful-automation-tool.html"
 }
 {
     "date": "2023-09-14",
