@@ -1,6 +1,11 @@
 {
     "date": "2023-09-19",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4092 ‼\n\nSQL injection vulnerability in Arconte Ã�urea, in its 1.5.0.0 version. The exploitation of this vulnerability could allow an attacker to read sensitive data from the database, modify data (insert/update/delete), perform database administration operations and, in some cases, execute commands on the operating system.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-19",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-29245 ‼\n\nA SQL Injection vulnerability in Nozomi Networks Guardian and CMC, due to improper input validation in certain fields used in the Asset Intelligence functionality of our IDS, may allow an unauthenticated attacker to execute arbitrary SQL statements on the DBMS used by the web application by sending specially crafted malicious network packets.Malicious users with extensive knowledge on the underlying system may be able to extract arbitrary information from the DBMS in an uncontrolled way, or to alter its structure and data.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
