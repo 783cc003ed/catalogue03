@@ -1,6 +1,21 @@
 {
     "date": "2023-09-19",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43566 ‼\n\nIn JetBrains TeamCity before 2023.05.4 stored XSS was possible during nodes configuration\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-19",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-42452 ‼\n\nMastodon is a free, open-source social network server based on ActivityPub. In versions on the 4.x branch prior to versions 4.0.10, 4.2.8, and 4.2.0-rc2, under certain conditions, attackers can abuse the translation feature to bypass the server-side HTML sanitization, allowing unescaped HTML to execute in the browser. The impact is limited thanks to Mastodon's strict Content Security Policy, blocking inline scripts, etc. However a CSP bypass or loophole could be exploited to execute malicious XSS. Furthermore, it requires user interaction, as this can only occur upon clicking the â€œTranslateâ€� button on a malicious post. Versions 4.0.10, 4.2.8, and 4.2.0-rc2 contain a patch for this issue.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-19",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-22513 ‼\n\nThis High severity RCE (Remote Code Execution) vulnerability was introduced in version 8.0.0 of Bitbucket Data Center and Server. This RCE (Remote Code Execution) vulnerability, with a CVSS Score of 8.5, allows an authenticated attacker to execute arbitrary code which has high impact to confidentiality, high impact to integrity, high impact to availability, and requires no user interaction. Atlassian recommends that Bitbucket Data Center and Server customers upgrade to latest version, if you are unable to do so, upgrade your instance to one of the specified supported fixed versions: Bitbucket Data Center and Server 8.9: Upgrade to a release greater than or equal to 8.9.5 Bitbucket Data Center and Server 8.10: Upgrade to a release greater than or equal to 8.10.5 Bitbucket Data Center and Server 8.11: Upgrade to a release greater than or equal to 8.11.4 Bitbucket Data Center and Server 8.12: Upgrade to a release greater than or equal to 8.12.2 Bitbucket Data Center and Server 8.13: Upgrade to a release greater than or equal to 8.13.1 Bitbucket Data Center and Server 8.14: Upgrade to a release greater than or equal to 8.14.0 Bitbucket Data Center and Server version >= 8.0 and < 8.9: Upgrade to any of the listed fix versions. See the release notes ([https://confluence.atlassian.com/bitbucketserver/release-notes]). You can download the latest version of Bitbucket Data Center and Server from the download center ([https://www.atlassian.com/software/bitbucket/download-archives]). This vulnerability was discovered by a private user and reported via our Bug Bounty program\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-19",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-3892 ‼\n\nImproper Restriction of XML External Entity Reference vulnerability in MIM Assistant and Client DICOM RTst Loading modules allows XML Entity Linking / XML External Entities Blowup.In order to take advantage of this vulnerability, an attacker must craft a malicious XML document, embed this document into specific 3rd party private RTst metadata tags, transfer the now compromised DICOM object to MIM, and force MIM to archive and load the data.Users on either version are strongly encouraged to update to an unaffected version (7.2.11+, 7.3.4+).This issue was found and analyzed by MIM Software's internal security team.Â  We are unaware of any proof of concept or actual exploit available in the wild.For more information, visit https://www.mimsoftware.com/cve-2023-3892 https://www.mimsoftware.com/cve-2023-3892 This issue affects MIM Assistant: 7.2.10, 7.3.3; MIM Client: 7.2.10, 7.3.3.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
