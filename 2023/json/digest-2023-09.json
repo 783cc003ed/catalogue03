@@ -1,5 +1,20 @@
 {
     "date": "2023-09-19",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29245 ‼\n\nA SQL Injection vulnerability in Nozomi Networks Guardian and CMC, due to improper input validation in certain fields used in the Asset Intelligence functionality of our IDS, may allow an unauthenticated attacker to execute arbitrary SQL statements on the DBMS used by the web application by sending specially crafted malicious network packets.Malicious users with extensive knowledge on the underlying system may be able to extract arbitrary information from the DBMS in an uncontrolled way, or to alter its structure and data.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-19",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32649 ‼\n\nA Denial of Service (Dos) vulnerability in Nozomi Networks Guardian and CMC, due to improper input validation in certain fields used in the Asset Intelligence functionality of our IDS, allows an unauthenticated attacker to crash the IDS module by sending specially crafted malformed network packets.During the (limited) time window before the IDS module is automatically restarted, network traffic may not be analyzed.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-19",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-2567 ‼\n\nA SQL Injection vulnerability in Nozomi Networks Guardian and CMC, due to improper input validation in certain parameters used in the Query functionality, allows an authenticated attacker to execute arbitrary SQL queries on the DBMS used by the web application.Authenticated users can extract arbitrary information from the DBMS in an uncontrolled way.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-19",
     "from_channel": "defcon_news",
     "message": "Over 12,000 Juniper Firewalls Found Vulnerable to Recently Disclosed RCE Vulnerability\nhttps://thehackernews.com/2023/09/over-12000-juniper-firewalls-found.html",
     "urls": []
