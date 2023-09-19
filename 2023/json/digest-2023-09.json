@@ -1,5 +1,13 @@
 {
     "date": "2023-09-19",
+    "from_channel": "defcon_news",
+    "message": "Wind River VxWorks tarExtract directory traversal vulnerability (CVE-2023-38346)\nhttps://www.reddit.com/r/netsec/comments/16miibx/wind_river_vxworks_tarextract_directory_traversal/",
+    "urls": [],
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/16miibx/wind_river_vxworks_tarextract_directory_traversal/"
+}
+{
+    "date": "2023-09-19",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2021-26837 ‼\n\nSQL Injection vulnerability in SearchTextBox parameter in Fortra (Formerly HelpSystems) DeliverNow before version 1.2.18, allows attackers to execute arbitrary code, escalate privileges, and gain sensitive information.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
