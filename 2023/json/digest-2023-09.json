@@ -1,6 +1,56 @@
 {
     "date": "2023-09-19",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-3892 ‼\n\nImproper Restriction of XML External Entity Reference vulnerability in MIM Assistant and Client DICOM RTst Loading modules allows XML Entity Linking / XML External Entities Blowup.In order to take advantage of this vulnerability, an attacker must craft a malicious XML document, embed this document into specific 3rd party private RTst metadata tags, transfer the now compromised DICOM object to MIM, and force MIM to archive and load the data.Users on either version are strongly encouraged to update to an unaffected version (7.2.11+, 7.3.4+).This issue was found and analyzed by MIM Software's internal security team.Â  We are unaware of any proof of concept or actual exploit available in the wild.For more information, visit https://www.mimsoftware.com/cve-2023-3892 https://www.mimsoftware.com/cve-2023-3892 This issue affects MIM Assistant: 7.2.10, 7.3.3; MIM Client: 7.2.10, 7.3.3.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-19",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4093 ‼\n\nReflected and persistent XSS vulnerability in Arconte Ã�urea, in its 1.5.0.0 version. The exploitation of this vulnerability could allow an attacker to inject malicious JavaScript code, compromise the victim's browser and take control of it, redirect the user to malicious domains or access information being viewed by the legitimate user.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-19",
+    "from_channel": "defcon_news",
+    "message": "Taskhub 2.8.7 SQL Injection\nhttps://packetstormsecurity.com/files/174760/taskhub287-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174760/taskhub287-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-09-19",
+    "from_channel": "defcon_news",
+    "message": "Packers And Movers Management System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174758/pmms1-sql.tgz",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174758/pmms1-sql.tgz?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-09-19",
+    "from_channel": "defcon_news",
+    "message": "Lamano CMS 2.0 SQL Injection\nhttps://packetstormsecurity.com/files/174707/lamanocms20-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174707/lamanocms20-sql.txt"
+}
+{
+    "date": "2023-09-19",
+    "from_channel": "defcon_news",
+    "message": "Lacabane 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174706/lacabane10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174706/lacabane10-sql.txt"
+}
+{
+    "date": "2023-09-19",
+    "from_channel": "defcon_news",
+    "message": "Free And Open Source Inventory Management System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174705/fosims10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174705/fosims10-sql.txt"
+}
+{
+    "date": "2023-09-19",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-4092 ‼\n\nSQL injection vulnerability in Arconte Ã�urea, in its 1.5.0.0 version. The exploitation of this vulnerability could allow an attacker to read sensitive data from the database, modify data (insert/update/delete), perform database administration operations and, in some cases, execute commands on the operating system.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
