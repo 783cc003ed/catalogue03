@@ -1,4 +1,19 @@
 {
+    "date": "2023-09-19",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-42446 ‼\n\nPow is a authentication and user management solution for Phoenix and Plug-based apps. Starting in version 1.0.14 and prior to version 1.0.34, use of `Pow.Store.Backend.MnesiaCache` is susceptible to session hijacking as expired keys are not being invalidated correctly on startup. A session may expire when all `Pow.Store.Backend.MnesiaCache` instances have been shut down for a period that is longer than a session's remaining TTL. Version 1.0.34 contains a patch for this issue. As a workaround, expired keys, including all expired sessions, can be manually invalidated.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-19",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41443 ‼\n\nSQL injection vulnerability in Novel-Plus v.4.1.0 allows a remote attacker to execute arbitrary code via a crafted script to the sort parameter in /sys/menu/list.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-19",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37611 ‼\n\nCross Site Scripting (XSS) vulnerability in Neos CMS 8.3.3 allows a remote authenticated attacker to execute arbitrary code via a crafted SVG file to the neos/management/media component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-09-18",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-38582 ‼\n\n** UNSUPPPORTED WHEN ASSIGNED ** Persistent cross-site scripting (XSS) in the web application of MOD3GP-SY-120K allows an authenticated remote attacker to introduce arbitrary JavaScript by injecting an XSS payload into the field MAIL_RCV. When a legitimate user attempts to access to the vulnerable page of the web application, the XSS payload will be executed.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
