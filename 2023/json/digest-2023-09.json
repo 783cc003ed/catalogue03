@@ -1,6 +1,16 @@
 {
     "date": "2023-09-19",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2021-26837 ‼\n\nSQL Injection vulnerability in SearchTextBox parameter in Fortra (Formerly HelpSystems) DeliverNow before version 1.2.18, allows attackers to execute arbitrary code, escalate privileges, and gain sensitive information.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-19",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5060 ‼\n\nCross-site Scripting (XSS) - DOM in GitHub repository librenms/librenms prior to 23.9.1.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-19",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-42446 ‼\n\nPow is a authentication and user management solution for Phoenix and Plug-based apps. Starting in version 1.0.14 and prior to version 1.0.34, use of `Pow.Store.Backend.MnesiaCache` is susceptible to session hijacking as expired keys are not being invalidated correctly on startup. A session may expire when all `Pow.Store.Backend.MnesiaCache` instances have been shut down for a period that is longer than a session's remaining TTL. Version 1.0.34 contains a patch for this issue. As a workaround, expired keys, including all expired sessions, can be manually invalidated.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
