@@ -1,4 +1,49 @@
 {
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31012 ‼\n\nNVIDIA DGX H100 BMC contains a vulnerability in the REST service where an attacker may cause improper input validation. A successful exploit of this vulnerability may lead to escalation of privileges and information disclosure.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-25533 ‼\n\nNVIDIA DGX H100 BMC contains a vulnerability in the web UI, where an attacker may cause improper input validation. A successful exploit of this vulnerability may lead to information disclosure, code execution, and escalation of privileges.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31013 ‼\n\nNVIDIA DGX H100 BMC contains a vulnerability in the REST service, where an attacker may cause improper input validation. A successful exploit of this vulnerability may lead to escalation of privileges and information disclosure.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31010 ‼\n\nNVIDIA DGX H100 BMC contains a vulnerability in IPMI, where an attacker may cause improper input validation. A successful exploit of this vulnerability may lead to escalation of privileges, information disclosure, and denial of service.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31011 ‼\n\nNVIDIA DGX H100 BMC contains a vulnerability in the REST service where an attacker may cause improper input validation. A successful exploit of this vulnerability may lead to escalation of privileges and information disclosure.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31008 ‼\n\nNVIDIA DGX H100 BMC contains a vulnerability in IPMI, where an attacker may cause improper input validation. A successful exploit of this vulnerability may lead to code execution, denial of services, escalation of privileges, and information disclosure.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-25528 ‼\n\nNVIDIA DGX H100 baseboard management controller (BMC) contains a vulnerability in a web server plugin, where an unauthenticated attacker may cause a stack overflow by sending a specially crafted network packet. A successful exploit of this vulnerability may lead to arbitrary code execution, denial of service, information disclosure, and data tampering.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-25534 ‼\n\nNVIDIA DGX H100 BMC contains a vulnerability in IPMI, where an attacker may cause improper input validation. A successful exploit of this vulnerability may lead to code execution, denial of service, escalation of privileges, information disclosure, and data tampering.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-25529 ‼\n\nNVIDIA DGX H100 BMC contains a vulnerability in the host KVM daemon, where an unauthenticated attacker may cause a leak of another userâ€™s session token by observing timing discrepancies between server responses. A successful exploit of this vulnerability may lead to information disclosure, escalation of privileges, and data tampering.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-09-19",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-43566 ‼\n\nIn JetBrains TeamCity before 2023.05.4 stored XSS was possible during nodes configuration\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
