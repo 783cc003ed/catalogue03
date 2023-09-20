@@ -1,6 +1,31 @@
 {
     "date": "2023-09-20",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43499 ‼\n\nJenkins Build Failure Analyzer Plugin 2.4.1 and earlier does not escape Failure Cause names in build logs, resulting in a stored cross-site scripting (XSS) vulnerability exploitable by attackers able to create or update Failure Causes.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43495 ‼\n\nJenkins 2.423 and earlier, LTS 2.414.1 and earlier does not escape the value of the 'caption' constructor parameter of 'ExpandableDetailsNote', resulting in a stored cross-site scripting (XSS) vulnerability exploitable by attackers able to control this parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-42656 ‼\n\nIn Progress MOVEit Transfer versions released before 2021.1.8 (13.1.8), 2022.0.8 (14.0.8), 2022.1.9 (14.1.9), 2023.0.6 (15.0.6), a reflected cross-site scriptingÂ (XSS) vulnerability has been identified in MOVEit Transfer's web interface.Â  An attacker could craft a malicious payload targetingÂ MOVEit Transfer users during the package composition procedure.Â  If a MOVEit user interacts with the crafted payload, the attacker would be able to execute malicious JavaScript within the context of the victims browser.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-40043 ‼\n\nIn Progress MOVEit Transfer versions released before 2021.1.8 (13.1.8), 2022.0.8 (14.0.8), 2022.1.9 (14.1.9), 2023.0.6 (15.0.6), a SQL injection vulnerability has been identified in the MOVEit Transfer web interfaceÂ that could allow a MOVEit system administrator account to gain unauthorized access to the MOVEit Transfer database. AÂ MOVEit system administrator could submit a crafted payload to the MOVEit Transfer web interface which could result in modification and disclosure of MOVEit database content.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-42660 ‼\n\nIn Progress MOVEit Transfer versions released before 2021.1.8 (13.1.8), 2022.0.8 (14.0.8), 2022.1.9 (14.1.9), 2023.0.6 (15.0.6), a SQL injection vulnerability has been identified in the MOVEit Transfer machine interfaceÂ that could allow an authenticated attacker to gain unauthorized access to the MOVEit Transfer database. An attacker could submit a crafted payload to the MOVEit Transfer machine interface which could result in modification and disclosure of MOVEit database content.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-45447 ‼\n\nM4 PDF plugin for Prestashop sites, in its 3.2.3 version and before, is vulnerable to a directory traversal vulnerability. The â€œfâ€� parameter is not properly checked in the resource /m4pdf/pdf.php, returning any file given its relative path. An attacker that exploits this vulnerability could download /etc/passwd from the server if the file exists.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
