@@ -1,6 +1,53 @@
 {
     "date": "2023-09-20",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-40619 ‼\n\nphpPgAdmin 7.14.4 and earlier is vulnerable to deserialization of untrusted data which may lead to remote code execution because user-controlled data is directly passed to the PHP 'unserialize()' function in multiple places. An example is the functionality to manage tables in 'tables.php' where the 'ma[]' POST parameter is deserialized.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43374 ‼\n\nHoteldruid v3.0.5 was discovered to contain a SQL injection vulnerability via the id_utente_log parameter at /hoteldruid/personalizza.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43375 ‼\n\nHoteldruid v3.0.5 was discovered to contain multiple SQL injection vulnerabilities at /hoteldruid/clienti.php via the annonascita, annoscaddoc, giornonascita, giornoscaddoc, lingua_cli, mesenascita, and mesescaddoc parameters.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-40618 ‼\n\nA reflected cross-site scripting (XSS) vulnerability in OpenKnowledgeMaps Head Start versions 4, 5, 6, 7 as well as Visual Project Explorer 1.0, allows remote attackers to execute arbitrary JavaScript in the web browser of a user, by including a malicious payload into the 'service' parameter in 'headstart_snapshot.php'.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43376 ‼\n\nA cross-site scripting (XSS) vulnerability in /hoteldruid/clienti.php of Hoteldruid v3.0.5 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the nometipotariffa1 parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43373 ‼\n\nHoteldruid v3.0.5 was discovered to contain a SQL injection vulnerability via the n_utente_agg parameter at /hoteldruid/interconnessioni.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43371 ‼\n\nHoteldruid v3.0.5 was discovered to contain a SQL injection vulnerability via the numcaselle parameter at /hoteldruid/creaprezzi.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43377 ‼\n\nA cross-site scripting (XSS) vulnerability in /hoteldruid/visualizza_contratto.php of Hoteldruid v3.0.5 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the destinatario_email1 parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "🕴 Fake WinRAR PoC Exploit Conceals VenomRAT Malware 🕴\n\nA supposed exploit for a notable RCE vulnerability in the popular Windows file-archiving utility delivers a big sting for unwitting researchers and cybercriminals.\n\n📖 Read\n\nvia \"Dark Reading\".",
+    "webpage_description": "A supposed exploit for a notable RCE vulnerability in the popular Windows file-archiving utility delivers a big sting for unwitting researchers and cybercriminals.",
+    "webpage_url": "https://www.darkreading.com/application-security/fake-winrar-poc-exploit-conceals-venomrat-malware"
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-43499 ‼\n\nJenkins Build Failure Analyzer Plugin 2.4.1 and earlier does not escape Failure Cause names in build logs, resulting in a stored cross-site scripting (XSS) vulnerability exploitable by attackers able to create or update Failure Causes.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
