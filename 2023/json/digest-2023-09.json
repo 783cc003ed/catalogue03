@@ -1,5 +1,13 @@
 {
     "date": "2023-09-20",
+    "from_channel": "sysadm_in_channel",
+    "message": "/ GitLab Critical Security Release: 16.3.4 and 16.2.7\n\nThese versions contain important security fixes, and GitLab strongly recommend that all GitLab installations be upgraded to one of these versions immediately.\n\nIn short: A stored XSS vulnerability was discovered in GitLab.com that allowed an attacker to inject HTML in any note, issue description, or wiki page by abusing syntax_highlight_filter.rb. The vulnerability was caused by the lack of proper input sanitization. The attacker could inject a script tag by using the base tag and loading the script from their own domain, bypassing the CSP. This could lead to the creation of tokens and take over of SSO accounts.\n\n— https://about.gitlab.com/releases/2023/09/18/security-release-gitlab-16-3-4-released/",
+    "urls": [],
+    "webpage_description": "Learn more about GitLab Critical Security Release: 16.3.4 and 16.2.7 for GitLab Community Edition (CE) and Enterprise Edition (EE).",
+    "webpage_url": "https://about.gitlab.com/releases/2023/09/18/security-release-gitlab-16-3-4-released/"
+}
+{
+    "date": "2023-09-20",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-31012 ‼\n\nNVIDIA DGX H100 BMC contains a vulnerability in the REST service where an attacker may cause improper input validation. A successful exploit of this vulnerability may lead to escalation of privileges and information disclosure.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
