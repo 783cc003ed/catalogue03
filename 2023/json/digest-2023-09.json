@@ -1,5 +1,15 @@
 {
     "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-45447 ‼\n\nM4 PDF plugin for Prestashop sites, in its 3.2.3 version and before, is vulnerable to a directory traversal vulnerability. The â€œfâ€� parameter is not properly checked in the resource /m4pdf/pdf.php, returning any file given its relative path. An attacker that exploits this vulnerability could download /etc/passwd from the server if the file exists.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5084 ‼\n\nCross-site Scripting (XSS) - Reflected in GitHub repository hestiacp/hestiacp prior to 1.8.8.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
     "from_channel": "defcon_news",
     "message": "Mozilla Critical Services: Stored Xss on bugzilla.mozilla.org via comment edit feature from non-admin to admin.\nhttps://vulners.com/hackerone/H1:2111291?utm_source=rss&utm_medium=rss&utm_campaign=rss",
     "urls": [],
