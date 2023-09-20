@@ -1,5 +1,18 @@
 {
     "date": "2023-09-20",
+    "from_channel": "defcon_news",
+    "message": "Mozilla Critical Services: Stored Xss on bugzilla.mozilla.org via comment edit feature from non-admin to admin.\nhttps://vulners.com/hackerone/H1:2111291?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "Hi There ! There is Stored xss on comment feature. The XSS executed when admin tries to edit the comment. The XSS fires. I tried to Bypass the CSP But was not able to. Steps To Reproduce. 1. Create a report in bugzilla.mozilla.org as users. 2. ...",
+    "webpage_url": "https://vulners.com/hackerone/H1:2111291"
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41375 ‼\n\nUse after free vulnerability exists in Kostac PLC Programming Software Version 1.6.11.0. Arbitrary code may be executed by having a user open a specially crafted project file which was saved using Kostac PLC Programming Software Version 1.6.9.0 and earlier because the issue exists in parsing of KPP project files. The vendor states that Kostac PLC Programming Software Version 1.6.10.0 or later implements the function which prevents a project file alteration. Therefore, to mitigate the impact of these vulnerabilities, a project file which was saved using Kostac PLC Programming Software Version 1.6.9.0 and earlier needs to be saved again using Kostac PLC Programming Software Version 1.6.10.0 or later.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
     "from_channel": "sysadm_in_channel",
     "message": "/ GitLab Critical Security Release: 16.3.4 and 16.2.7\n\nThese versions contain important security fixes, and GitLab strongly recommend that all GitLab installations be upgraded to one of these versions immediately.\n\nIn short: A stored XSS vulnerability was discovered in GitLab.com that allowed an attacker to inject HTML in any note, issue description, or wiki page by abusing syntax_highlight_filter.rb. The vulnerability was caused by the lack of proper input sanitization. The attacker could inject a script tag by using the base tag and loading the script from their own domain, bypassing the CSP. This could lead to the creation of tokens and take over of SSO accounts.\n\n— https://about.gitlab.com/releases/2023/09/18/security-release-gitlab-16-3-4-released/",
     "urls": [],
