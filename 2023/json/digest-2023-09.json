@@ -1,6 +1,21 @@
 {
     "date": "2023-09-20",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-42335 ‼\n\nUnrestricted File Upload vulnerability in Fl3xx Dispatch 2.10.37 and fl3xx Crew 2.10.37 allows a remote attacker to execute arbitrary code via the add attachment function in the New Expense component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38876 ‼\n\nA reflected cross-site scripting (XSS) vulnerability in msaad1999's PHP-Login-System 2.0.1 allows remote attackers to execute arbitrary JavaScript in the web browser of a user, by including a malicious payload into the 'selector' parameter in '/reset-password'.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38875 ‼\n\nA reflected cross-site scripting (XSS) vulnerability in msaad1999's PHP-Login-System 2.0.1 allows remote attackers to execute arbitrary JavaScript in the web browser of a user, by including a malicious payload into the 'validator' parameter in '/reset-password'.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-20",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-40619 ‼\n\nphpPgAdmin 7.14.4 and earlier is vulnerable to deserialization of untrusted data which may lead to remote code execution because user-controlled data is directly passed to the PHP 'unserialize()' function in multiple places. An example is the functionality to manage tables in 'tables.php' where the 'ma[]' POST parameter is deserialized.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
