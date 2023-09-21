@@ -1,4 +1,19 @@
 {
+    "date": "2023-09-21",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39675 ‼\n\nSimpleImportProduct Prestashop Module v6.2.9 was discovered to contain a SQL injection vulnerability via the key parameter at send.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-21",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36234 ‼\n\nCross Site Scripting (XSS) vulnerability in Netbox 3.5.1, allows attackers to execute arbitrary code via Name field in device-roles/add function.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-21",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34575 ‼\n\nSQL injection vulnerability in PrestaShop opartsavecart through 2.0.7 allows remote attackers to run arbitrary SQL commands via OpartSaveCartDefaultModuleFrontController::initContent() and OpartSaveCartDefaultModuleFrontController::displayAjaxSendCartByEmail() methods.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-09-20",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-42335 ‼\n\nUnrestricted File Upload vulnerability in Fl3xx Dispatch 2.10.37 and fl3xx Crew 2.10.37 allows a remote attacker to execute arbitrary code via the add attachment function in the New Expense component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
