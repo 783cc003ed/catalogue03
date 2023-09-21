@@ -1,6 +1,11 @@
 {
     "date": "2023-09-21",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-42279 ‼\n\nDreamer CMS 4.1.3 is vulnerable to SQL Injection.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-21",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-42807 ‼\n\nFrappe LMS is an open source learning management system. In versions 1.0.0 and prior, on the People Page of LMS, there was an SQL Injection vulnerability. The issue has been fixed in the `main` branch. Users won't face this issue if they are using the latest main branch of the app.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
