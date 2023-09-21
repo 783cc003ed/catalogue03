@@ -1,6 +1,16 @@
 {
     "date": "2023-09-21",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43274 ‼\n\nPhpjabbers PHP Shopping Cart 4.2 is vulnerable to SQL Injection via the id parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-21",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43309 ‼\n\nThere is a stored cross-site scripting (XSS) vulnerability in Webmin 2.002 and below via the Cluster Cron Job tab Input field, which allows attackers to run malicious scripts by injecting a specially crafted payload.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-21",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-4292 ‼\n\nFrauscher Sensortechnik GmbH FDS101 for FAdC/FAdCi v1.4.24 and all previous versions are vulnerable to a SQL injection vulnerability via manipulated parameters of the web interface without authentication. The database contains limited, non-critical log information.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
