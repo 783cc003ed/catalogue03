@@ -1,6 +1,16 @@
 {
     "date": "2023-09-21",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38343 ‼\n\nAn XXE (XML external entity injection) vulnerability exists in the CSEP component of Ivanti Endpoint Manager before 2022 SU4. External entity references are enabled in the XML parser configuration. Exploitation of this vulnerability can lead to file disclosure or Server Side Request Forgery.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-21",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34576 ‼\n\nSQL injection vulnerability in updatepos.php in PrestaShop opartfaq through 1.0.3 allows remote attackers to run arbitrary SQL commands via unspedified vector.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-21",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-42279 ‼\n\nDreamer CMS 4.1.3 is vulnerable to SQL Injection.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
