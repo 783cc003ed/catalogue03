@@ -1,6 +1,11 @@
 {
     "date": "2023-09-22",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-42812 ‼\n\nGalaxy is an open-source platform for FAIR data analysis. Prior to version 22.05, Galaxy is vulnerable to server-side request forgery, which allows a malicious to issue arbitrary HTTP/HTTPS requests from the application server to internal hosts and read their responses. Version 22.05 contains a patch for this issue.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-22",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-43144 ‼\n\nProjectworldsl Assets-management-system-in-php 1.0 is vulnerable to SQL Injection via the \"id\" parameter in delete.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
