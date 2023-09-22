@@ -1,6 +1,11 @@
 {
     "date": "2023-09-22",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-40989 ‼\n\nSQL injection vulnerbility in jeecgboot jeecg-boot v 3.0, 3.5.3 that allows a remote attacker to execute arbitrary code via a crafted request to the report/jeecgboot/jmreport/queryFieldBySql component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-22",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-42812 ‼\n\nGalaxy is an open-source platform for FAIR data analysis. Prior to version 22.05, Galaxy is vulnerable to server-side request forgery, which allows a malicious to issue arbitrary HTTP/HTTPS requests from the application server to internal hosts and read their responses. Version 22.05 contains a patch for this issue.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
