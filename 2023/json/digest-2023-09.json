@@ -1,4 +1,19 @@
 {
+    "date": "2023-09-22",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31716 ‼\n\nFUXA <= 1.1.12 has a Local File Inclusion vulnerability via file=fuxa.log\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-22",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31717 ‼\n\nA SQL Injection attack in FUXA <= 1.1.12 allows exfiltration of confidential information from the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-22",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31719 ‼\n\nFUXA <= 1.1.12 is vulnerable to SQL Injection via /api/signin.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-09-21",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-38343 ‼\n\nAn XXE (XML external entity injection) vulnerability exists in the CSEP component of Ivanti Endpoint Manager before 2022 SU4. External entity references are enabled in the XML parser configuration. Exploitation of this vulnerability can lead to file disclosure or Server Side Request Forgery.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
