@@ -1,6 +1,31 @@
 {
     "date": "2023-09-25",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43458 ‼\n\nCross Site Scripting (XSS) vulnerability in Resort Reservation System v.1.0 allows a remote attacker to execute arbitrary code and obtain sensitive information via the room, name, and description parameters in the manage_room function.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-42426 ‼\n\nCross-site scripting (XSS) vulnerability in Froala Froala Editor v.4.1.1 allows remote attackers to execute arbitrary code via the 'Insert link' parameter in the 'Insert Image' component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43132 ‼\n\nszvone vmqphp <=1.13 is vulnerable to SQL Injection. Unauthorized remote users can use sql injection attacks to obtain the hash of the administrator password.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-4244 ‼\n\nA flaw was found in codeplex-codehaus. A directory traversal attack (also known as path traversal) aims to access files and directories stored outside the intended folder. By manipulating files with \"dot-dot-slash (../)\" sequences and their variations or by using absolute file paths, it may be possible to access arbitrary files and directories stored on the file system, including application source code, configuration, and other critical system files.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-4137 ‼\n\nA reflected cross-site scripting (XSS) vulnerability was found in the 'oob' OAuth endpoint due to incorrect null-byte handling. This issue allows a malicious link to insert an arbitrary URI into a Keycloak error page. This flaw requires a user or administrator to interact with a link in order to be vulnerable. This may compromise user details, allowing it to be changed or collected by an attacker.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-25",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-43319 ‼\n\nCross Site Scripting (XSS) vulnerability in the Sign-In page of IceWarp WebClient 10.3.5 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the username parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
