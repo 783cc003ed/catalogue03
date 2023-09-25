@@ -1,5 +1,35 @@
 {
     "date": "2023-09-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43319 ‼\n\nCross Site Scripting (XSS) vulnerability in the Sign-In page of IceWarp WebClient 10.3.5 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the username parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41863 ‼\n\nUnauth. Stored Cross-Site Scripting (XSS) vulnerability in Pepro Dev. Group PeproDev CF7 Database plugin <=Â 1.7.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41867 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in AcyMailing Newsletter Team AcyMailing plugin <=Â 8.6.2 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39640 ‼\n\nUpLight cookiebanner before 1.5.1 was discovered to contain a SQL injection vulnerability via the component Hook::getHookModuleExecList().\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41871 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Poll Maker Team Poll Maker plugin <=Â 4.7.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41868 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Ram Ratan Maurya, Codestag StagTools plugin <=Â 2.3.7 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-25",
     "from_channel": "defcon_news",
     "message": "Analysis of CVE-2023-38831 Zero-Day vulnerability in WinRAR\nhttps://www.reddit.com/r/netsec/comments/16s2b18/analysis_of_cve202338831_zeroday_vulnerability_in/",
     "urls": [],
