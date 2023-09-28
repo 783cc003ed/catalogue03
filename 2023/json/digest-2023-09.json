@@ -1,5 +1,26 @@
 {
     "date": "2023-09-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-26149 ‼\n\nVersions of the package quill-mention before 4.0.0 are vulnerable to Cross-site Scripting (XSS) due to improper user-input sanitization, via the renderList function. **Note:**If the mentions list is sourced from unsafe (user-sourced) data, this might allow an injection attack when a Quill user hits @.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-44276 ‼\n\nOPNsense before 23.7.5 allows XSS via the index.php sequence parameter to the Lobby Dashboard.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-44275 ‼\n\nOPNsense before 23.7.5 allows XSS via the index.php column_count parameter to the Lobby Dashboard.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-28",
+    "from_channel": "phd_soc",
+    "message": "Вот я и задал вопрос, про \"стандарты райтапа\". Иначе, ну это пурга какая-то. Не баг баунти, а \" Купить за грош пятаков\" Ну стоимость работы спеца в ББ, несопоставима с нанятым по договору спецом (просто аудит, или аудит плюс варианты решения проблемы - разная стоимость) Доказывать, что \"найденное\", это \" Крит\" это вообще за гранью. РоС и описание, чего и как делает, не достаточно? Надо ещё анализ кривого кода (библиотеки и тд), да? Поэтому и кормят ББ всякими XSS. Который тоже кстати вероятно развить до...",
+    "urls": []
+}
+{
+    "date": "2023-09-28",
     "from_channel": "phd_soc",
     "message": "Или условную LFI можно развить до RCE, из отчетов не всегда может быть это понятно.",
     "urls": []
