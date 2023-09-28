@@ -1,5 +1,25 @@
 {
     "date": "2023-09-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38870 ‼\n\nA SQL injection vulnerability exists in gugoan Economizzer commit 3730880 (April 2023) and v.0.9-beta1. The cash book has a feature to list accomplishments by category, and the 'category_id' parameter is vulnerable to SQL Injection.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38874 ‼\n\nA remote code execution (RCE) vulnerability via an insecure file upload exists in gugoan's Economizzer v.0.9-beta1 and commit 3730880 (April 2023). A malicious attacker can upload a PHP web shell as an attachment when adding a new cash book entry. Afterwards, the attacker may visit the web shell and execute arbitrary commands.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38872 ‼\n\nAn Insecure Direct Object Reference (IDOR) vulnerability in gugoan Economizzer commit 3730880 (April 2023) and v.0.9-beta1 allows any unauthenticated attacker to access cash book entry attachments of any other user, if they know the Id of the attachment.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5244 ‼\n\nCross-site Scripting (XSS) - Reflected in GitHub repository microweber/microweber prior to 2.0.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-28",
     "from_channel": "defcon_news",
     "message": "Update Chrome Now: Google Releases Patch for Actively Exploited Zero-Day Vulnerability\nhttps://thehackernews.com/2023/09/update-chrome-now-google-releases-patch.html",
     "urls": []
