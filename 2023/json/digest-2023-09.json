@@ -1,5 +1,19 @@
 {
     "date": "2023-09-28",
+    "from_channel": "phd_soc",
+    "message": "Или условную LFI можно развить до RCE, из отчетов не всегда может быть это понятно.",
+    "urls": []
+}
+{
+    "date": "2023-09-28",
+    "from_channel": "phd_soc",
+    "message": "Возвращаясь к теме ББ. А есть у кого-то стандарты описания? Или в \"свободной\" Форме? https://github.com/kh4sh3i/bug-bounty-writeups#cross-site-scripting-xss",
+    "urls": [],
+    "webpage_description": "A  curated list of available Bug Bounty & Disclosure Programs and Write-ups. - GitHub - kh4sh3i/bug-bounty-writeups: A  curated list of available Bug Bounty & Disclosure Programs an...",
+    "webpage_url": "https://github.com/kh4sh3i/bug-bounty-writeups"
+}
+{
+    "date": "2023-09-28",
     "from_channel": "sysadm_in_channel",
     "message": "/ (0Day) Exim AUTH Out-Of-Bounds Write Remote Code Execution Vulnerability\n\nhttps://www.zerodayinitiative.com/advisories/ZDI-23-1469/",
     "urls": [],
