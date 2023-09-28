@@ -1,5 +1,13 @@
 {
     "date": "2023-09-28",
+    "from_channel": "sysadm_in_channel",
+    "message": "/ (0Day) Exim AUTH Out-Of-Bounds Write Remote Code Execution Vulnerability\n\nhttps://www.zerodayinitiative.com/advisories/ZDI-23-1469/",
+    "urls": [],
+    "webpage_description": "(0Day) Exim AUTH Out-Of-Bounds Write Remote Code Execution Vulnerability",
+    "webpage_url": "https://www.zerodayinitiative.com/advisories/ZDI-23-1469/"
+}
+{
+    "date": "2023-09-28",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-38870 ‼\n\nA SQL injection vulnerability exists in gugoan Economizzer commit 3730880 (April 2023) and v.0.9-beta1. The cash book has a feature to list accomplishments by category, and the 'category_id' parameter is vulnerable to SQL Injection.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
