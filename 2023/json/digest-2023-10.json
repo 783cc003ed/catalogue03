@@ -1,6 +1,21 @@
 {
     "date": "2023-10-05",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43983 ‼\n\nPresto Changeo attributegrid up to 2.0.3 was discovered to contain a SQL injection vulnerability via the component disable_json.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-05",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-44024 ‼\n\nSQL injection vulnerability in KnowBand Module One Page Checkout, Social Login & Mailchimp (supercheckout) v.8.0.3 and before allows a remote attacker to execute arbitrary code via a crafted request to the updateCheckoutBehaviour function in the supercheckout.php component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-05",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-40920 ‼\n\nPrixan prixanconnect up to v1.62 was discovered to contain a SQL injection vulnerability via the component CartsGuruCatalogModuleFrontController::importProducts().\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-05",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-43072 ‼\n\nDell SmartFabric Storage Software v1.4 (and earlier) contains an improper access control vulnerability in the CLI. A local possibly unauthenticated attacker could potentially exploit this vulnerability, leading to ability to execute arbritrary shell commands.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
