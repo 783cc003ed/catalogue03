@@ -1,4 +1,310 @@
 {
+    "date": "2023-09-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5300 ‼\n\nA vulnerability classified as critical has been found in TTSPlanning up to 20230925. This affects an unknown part. The manipulation of the argument uid leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-240939.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43708 ‼\n\nOs Commerce is currently susceptible to a Cross-Site Scripting (XSS) vulnerability.This vulnerability allows attackers to inject JS through the \"configuration_title[1](MODULE_PAYMENT_SAGE_PAY_SERVER_TEXT_TITLE)\" parameter,potentially leading to unauthorized execution of scripts within a user's web browser.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43703 ‼\n\nOs Commerce is currently susceptible to a Cross-Site Scripting (XSS) vulnerability.This vulnerability allows attackers to inject JS through the \"product_info[][name]\" parameter,potentially leading to unauthorized execution of scripts within a user's web browser.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43710 ‼\n\nOs Commerce is currently susceptible to a Cross-Site Scripting (XSS) vulnerability.This vulnerability allows attackers to inject JS through the \"configuration_title[1][MODULE_SHIPPING_PERCENT_TEXT_TITLE]\" parameter,potentially leading to unauthorized execution of scripts within a user's web browser.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43709 ‼\n\nOs Commerce is currently susceptible to a Cross-Site Scripting (XSS) vulnerability.This vulnerability allows attackers to inject JS through the \"configuration_title[1](MODULE)\" parameter,potentially leading to unauthorized execution of scripts within a user's web browser.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5319 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.18.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43707 ‼\n\nOs Commerce is currently susceptible to a Cross-Site Scripting (XSS) vulnerability.This vulnerability allows attackers to inject JS through the \"CatalogsPageDescriptionForm[1][name]\" parameter,potentially leading to unauthorized execution of scripts within a user's web browser.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5316 ‼\n\nCross-site Scripting (XSS) - DOM in GitHub repository thorsten/phpmyfaq prior to 3.1.18.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43705 ‼\n\nOs Commerce is currently susceptible to a Cross-Site Scripting (XSS) vulnerability.This vulnerability allows attackers to inject JS through the \"translation_value[1]\" parameter,potentially leading to unauthorized execution of scripts within a user's web browser.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43704 ‼\n\nOs Commerce is currently susceptible to a Cross-Site Scripting (XSS) vulnerability.This vulnerability allows attackers to inject JS through the \"title\" parameter,potentially leading to unauthorized execution of scripts within a user's web browser.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43706 ‼\n\nOs Commerce is currently susceptible to a Cross-Site Scripting (XSS) vulnerability.This vulnerability allows attackers to inject JS through the \"email_templates_key\" parameter,potentially leading to unauthorized execution of scripts within a user's web browser.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5317 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.18.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43711 ‼\n\nOs Commerce is currently susceptible to a Cross-Site Scripting (XSS) vulnerability.This vulnerability allows attackers to inject JS through the \"admin_firstname\" parameter,potentially leading to unauthorized execution of scripts within a user's web browser.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5320 ‼\n\nCross-site Scripting (XSS) - DOM in GitHub repository thorsten/phpmyfaq prior to 3.1.18.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43702 ‼\n\nOs Commerce is currently susceptible to a Cross-Site Scripting (XSS) vulnerability.This vulnerability allows attackers to inject JS through the \"tracking_number\" parameter,potentially leading to unauthorized execution of scripts within a user's web browser.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5285 ‼\n\nA vulnerability classified as critical was found in Tongda OA 2017. Affected by this vulnerability is an unknown functionality of the file general/hr/recruit/recruitment/delete.php. The manipulation of the argument RECRUITMENT_ID leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 11.10 is able to address this issue. It is recommended to upgrade the affected component. The identifier VDB-240913 was assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5283 ‼\n\nA vulnerability was found in SourceCodester Engineers Online Portal 1.0. It has been rated as critical. This issue affects some unknown processing of the file teacher_signup.php. The manipulation of the argument firstname/lastname leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-240911.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5293 ‼\n\nA vulnerability, which was classified as critical, was found in ECshop 4.1.5. Affected is an unknown function of the file /admin/leancloud.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-240924.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43655 ‼\n\nComposer is a dependency manager for PHP. Users publishing a composer.phar to a public web-accessible server where the composer.phar can be executed as a php file may be subject to a remote code execution vulnerability if PHP also has `register_argc_argv` enabled in php.ini. Versions 2.6.4, 2.2.22 and 1.10.27 patch this vulnerability. Users are advised to upgrade. Users unable to upgrade should make sure `register_argc_argv` is disabled in php.ini, and avoid publishing composer.phar to the web as this is not best practice.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5282 ‼\n\nA vulnerability was found in SourceCodester Engineers Online Portal 1.0. It has been declared as critical. This vulnerability affects unknown code of the file seed_message_student.php. The manipulation of the argument teacher_id leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-240910 is the identifier assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5279 ‼\n\nA vulnerability has been found in SourceCodester Engineers Online Portal 1.0 and classified as critical. Affected by this vulnerability is an unknown functionality of the file my_classmates.php. The manipulation of the argument teacher_class_student_id leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-240907.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5280 ‼\n\nA vulnerability was found in SourceCodester Engineers Online Portal 1.0 and classified as critical. Affected by this issue is some unknown functionality of the file my_students.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-240908.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5281 ‼\n\nA vulnerability was found in SourceCodester Engineers Online Portal 1.0. It has been classified as critical. This affects an unknown part of the file remove_inbox_message.php. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-240909 was assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-26218 ‼\n\nThe Web Client component of TIBCO Software Inc.'s TIBCO Nimbus contains easily exploitable Reflected Cross Site Scripting (XSS) vulnerabilities that allow a low privileged attacker to social engineer a legitimate user with network access to execute scripts targeting the affected system or the victim's local system. A successful attack using this vulnerability requires human interaction from a person other than the attacker. Affected releases are TIBCO Software Inc.'s TIBCO Nimbus: versions 10.6.0 and below.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5278 ‼\n\nA vulnerability, which was classified as critical, was found in SourceCodester Engineers Online Portal 1.0. Affected is an unknown function of the file login.php. The manipulation of the argument username/password leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-240906 is the identifier assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5276 ‼\n\nA vulnerability classified as critical was found in SourceCodester Engineers Online Portal 1.0. This vulnerability affects unknown code of the file downloadable_student.php. The manipulation of the argument id leads to sql injection. The attack can be initiated remotely. The identifier of this vulnerability is VDB-240904.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5270 ‼\n\nA vulnerability was found in SourceCodester Best Courier Management System 1.0. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file view_parcel.php. The manipulation of the argument id leads to sql injection. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-240883.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5271 ‼\n\nA vulnerability was found in SourceCodester Best Courier Management System 1.0. It has been rated as critical. Affected by this issue is some unknown functionality of the file edit_parcel.php. The manipulation of the argument email leads to sql injection. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-240884.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5269 ‼\n\nA vulnerability was found in SourceCodester Best Courier Management System 1.0. It has been classified as critical. Affected is an unknown function of the file parcel_list.php of the component GET Parameter Handler. The manipulation of the argument s leads to sql injection. The exploit has been disclosed to the public and may be used. VDB-240882 is the identifier assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5272 ‼\n\nA vulnerability classified as critical has been found in SourceCodester Best Courier Management System 1.0. This affects an unknown part of the file edit_parcel.php of the component GET Parameter Handler. The manipulation of the argument id leads to sql injection. The exploit has been disclosed to the public and may be used. The identifier VDB-240885 was assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5268 ‼\n\nA vulnerability was found in DedeBIZ 6.2 and classified as critical. This issue affects some unknown processing of the file /src/admin/makehtml_taglist_action.php. The manipulation of the argument mktime leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-240881 was assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "defcon_news",
+    "message": "U.S. Dept Of Defense: [██████] Reflected XSS via Keycloak on ██████\nhttps://vulners.com/hackerone/H1:2126954?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "Description: Keycloak 8.0 and prior contains a cross-site scripting vulnerability. An attacker can execute arbitrary script and thus steal cookie-based authentication credentials and launch other attacks. A lack of proper input validation made it...",
+    "webpage_url": "https://vulners.com/hackerone/H1:2126954"
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5266 ‼\n\nA vulnerability, which was classified as critical, was found in DedeBIZ 6.2. This affects an unknown part of the file /src/admin/tags_main.php. The manipulation of the argument ids leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-240879.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41666 ‼\n\nAuth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in Stockdio Stock Quotes List plugin <=Â 2.9.9 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5265 ‼\n\nA vulnerability, which was classified as critical, has been found in Tongda OA 2017. Affected by this issue is some unknown functionality of the file general/hr/manage/staff_transfer/delete.php. The manipulation of the argument TRANSFER_ID leads to sql injection. The exploit has been disclosed to the public and may be used. Upgrading to version 11.10 is able to address this issue. It is recommended to upgrade the affected component. VDB-240878 is the identifier assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39308 ‼\n\nUnauth. Stored Cross-Site Scripting (XSS) vulnerability in UserFeedback Team User Feedback plugin <=Â 1.0.7 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41658 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in I Thirteen Web Solution Photo Gallery Slideshow & Masonry Tiled Gallery plugin <=Â 1.0.13 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41687 ‼\n\nAuth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in Irina Sokolovskaya Goods Catalog plugin <=Â 2.4.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5267 ‼\n\nA vulnerability has been found in Tongda OA 2017 and classified as critical. This vulnerability affects unknown code of the file general/hr/recruit/hr_pool/delete.php. The manipulation of the argument EXPERT_ID leads to sql injection. The exploit has been disclosed to the public and may be used. Upgrading to version 11.10 is able to address this issue. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-240880.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41657 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Groundhogg Inc. HollerBox plugin <=Â 2.3.2 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5264 ‼\n\nA vulnerability classified as critical was found in huakecms 3.0. Affected by this vulnerability is an unknown functionality of the file /admin/cms_content.php. The manipulation of the argument cid leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-240877 was assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41661 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in PressPage Entertainment Inc. Smarty for WordPress plugin <=Â 3.1.35 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41663 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Giovambattista Fazioli WP Bannerize Pro plugin <=Â 1.6.9 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41655 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Andreas Heigl authLdap plugin <=Â 2.5.9 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41691 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Pensopay WooCommerce PensoPay plugin <=Â 6.3.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41662 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Ulf Benjaminsson WP-dTree plugin <=Â 4.4.5 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "defcon_news",
+    "message": "JetBrains TeamCity Unauthenticated Remote Code Execution\nhttps://packetstormsecurity.com/files/174860/jetbrains_teamcity_rce_cve_2023_42793.rb.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/174860/jetbrains_teamcity_rce_cve_2023_42793.rb.txt"
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5258 ‼\n\nA vulnerability classified as critical has been found in OpenRapid RapidCMS 1.3.1. This affects an unknown part of the file /resource/addgood.php. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-240867.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5260 ‼\n\nA vulnerability, which was classified as critical, has been found in SourceCodester Simple Membership System 1.0. This issue affects some unknown processing of the file group_validator.php. The manipulation of the argument club_id leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-240869 was assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43944 ‼\n\nA Stored Cross Site Scripting (XSS) vulnerability was found in SourceCodester Task Management System 1.0. It allows attackers to execute arbitrary code via parameter field in index.php?page=project_list.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5261 ‼\n\nA vulnerability, which was classified as critical, was found in Tongda OA 2017. Affected is an unknown function of the file general/hr/manage/staff_title_evaluation/delete.php. The manipulation of the argument EVALUATION_ID leads to sql injection. The exploit has been disclosed to the public and may be used. Upgrading to version 11.10 is able to address this issue. It is recommended to upgrade the affected component. VDB-240870 is the identifier assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43909 ‼\n\nHospital Management System thru commit 4770d was discovered to contain a SQL injection vulnerability via the app_contact parameter in appsearch.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-26146 ‼\n\nAll versions of the package ithewei/libhv are vulnerable to Cross-site Scripting (XSS) such that when a file with a name containing a malicious payload is served by the application, the filename is displayed without proper sanitization when it is rendered.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-44469 ‼\n\nA Server-Side Request Forgery issue in the OpenID Connect Issuer in LemonLDAP::NG before 2.17.1 allows authenticated remote attackers to send GET requests to arbitrary URLs through the request_uri authorization parameter. This is similar to CVE-2020-10770.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-26147 ‼\n\nAll versions of the package ithewei/libhv are vulnerable to HTTP Response Splitting when untrusted user input is used to build headers values. An attacker can add the \\r\\n (carriage return line feeds) characters to end the HTTP response headers and inject malicious content, like for example additional headers or new response body, leading to a potential XSS vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43662 ‼\n\nShokoServer is a media server which specializes in organizing anime. In affected versions the `/api/Image/WithPath` endpoint is accessible without authentication and is supposed to return default server images. The endpoint accepts the parameter `serverImagePath`, which is not sanitized in any way before being passed to `System.IO.File.OpenRead`, which results in an arbitrary file read. This issue may lead to an arbitrary file read which is exacerbated in the windows installer which installs the ShokoServer as administrator. Any unauthenticated attacker may be able to access sensitive information and read files stored on the server. The `/api/Image/WithPath` endpoint has been removed in commit `6c57ba0f0` which will be included in subsequent releases. Users should limit access to the `/api/Image/WithPath` endpoint or manually patch their installations until a patched release is made. This issue was discovered by the GitHub Security lab and is also indexed as GHSL-2023-191.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43014 ‼\n\nAsset Management System v1.0 is vulnerable toan Authenticated SQL Injection vulnerabilityon the 'first_name' and 'last_name' parametersof user.php page, allowing an authenticatedattacker to dump all the contents of the databasecontents.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43013 ‼\n\nAsset Management System v1.0 is vulnerable to anunauthenticated SQL Injection vulnerability on the'email' parameter of index.php page, allowing anexternal attacker to dump all the contents of thedatabase contents and bypass the login control.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43657 ‼\n\ndiscourse-encrypt is a plugin that provides a secure communication channel through Discourse. Improper escaping of encrypted topic titles could lead to a cross site scripting (XSS) issue when a site has content security policy (CSP) headers disabled. Having CSP disabled is a non-default configuration, and having it disabled with discourse-encrypt installed will result in a warning in the Discourse admin dashboard. This has been fixed in commit `9c75810af9` which is included in the latest version of the discourse-encrypt plugin. Users are advised to upgrade. Users unable to upgrade should ensure that CSP headers are enabled and properly configured.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-28",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30415 ‼\n\nSourcecodester Packers and Movers Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at /inquiries/view_inquiry.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-09-28",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-43884 ‼\n\nA Cross-site scripting (XSS) vulnerability in Reference ID from the panel Transactions, of Subrion v4.2.1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into 'Reference ID' parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
