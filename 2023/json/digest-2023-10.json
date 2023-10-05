@@ -1,5 +1,10 @@
 {
     "date": "2023-10-05",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-4145 ‼\n\nA content spoofing flaw was found in OpenShift's OAuth endpoint. This flaw allows a remote, unauthenticated attacker to inject text into a webpage, enabling the obfuscation of a phishing operation.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-05",
     "from_channel": "defcon_news",
     "message": "Beyond XSS: Explore the Web Front-end Security Universe\nhttps://www.reddit.com/r/netsec/comments/170d0ww/beyond_xss_explore_the_web_frontend_security/",
     "urls": [],
