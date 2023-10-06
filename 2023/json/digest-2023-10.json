@@ -1,4 +1,89 @@
 {
+    "date": "2023-10-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5452 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository snipe/snipe-it prior to v6.2.2.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45239 ‼\n\nA lack of input validation exists in tac_plus prior to commit 4fdf178 which, when pre or post auth commands are enabled, allows an attacker who can control the username, rem-addr, or NAC address sent to tac_plus to inject shell commands and gain remote code execution on the tac_plus server.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-21252 ‼\n\nIn validatePassword of WifiConfigurationUtil.java, there is a possible way to get the device into a boot loop due to improper input validation. This could lead to local denial of service with no additional execution privileges needed. User interaction is not needed for exploitation.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-44384 ‼\n\nDiscourse-jira is a Discourse plugin allows Jira projects, issue types, fields and field options will be synced automatically. An administrator user can make an SSRF attack by setting the Jira URL to an arbitrary location and enabling the `discourse_jira_verbose_log` site setting. A moderator user could manipulate the request path to the Jira API, allowing them to perform arbitrary GET requests using the Jira API credentials, potentially with elevated permissions, used by the application.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39928 ‼\n\nA use-after-free vulnerability exists in the MediaRecorder API of Webkit WebKitGTK 2.40.5. A specially crafted web page can abuse this vulnerability to cause memory corruption and potentially arbitrary code execution. A user would need to to visit a malicious webpage to trigger this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-23366 ‼\n\nA path traversal vulnerability has been reported to affect Music Station. If exploited, the vulnerability could allow authenticated users to read the contents of unexpected files and expose sensitive data via a network.We have already fixed the vulnerability in the following version:Music Station 5.3.22 and later\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-23365 ‼\n\nA path traversal vulnerability has been reported to affect Music Station. If exploited, the vulnerability could allow authenticated users to read the contents of unexpected files and expose sensitive data via a network.We have already fixed the vulnerability in the following version:Music Station 5.3.22 and later\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-42445 ‼\n\nGradle is a build tool with a focus on build automation and support for multi-language development. In some cases, when Gradle parses XML files, resolving XML external entities is not disabled. Combined with an Out Of Band XXE attack (OOB-XXE), just parsing XML can lead to exfiltration of local text files to a remote server. Gradle parses XML files for several purposes. Most of the time, Gradle parses XML files it generated or were already present locally. Only Ivy XML descriptors and Maven POM files can be fetched from remote repositories and parsed by Gradle. In Gradle 7.6.3 and 8.4, resolving XML external entities has been disabled for all use cases to protect against this vulnerability. Gradle will now refuse to parse XML files that have XML external entities.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-44766 ‼\n\nA Cross Site Scripting (XSS) vulnerability in Concrete CMS v.9.2.1 allows an attacker to execute arbitrary code via a crafted script to the SEO - Extra from Page Settings.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-44770 ‼\n\nA Cross-Site Scripting (XSS) vulnerability in Zenario CMS v.9.4.59197 allows an attacker to execute arbitrary code via a crafted script to the Organizer - Spare alias.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-44761 ‼\n\nMultiple Cross Site Scripting (XSS) vulnerabilities in Concrete CMS v.9.2.1 allow a local attacker to execute arbitrary code via a crafted script to the Forms of the Data objects.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-44762 ‼\n\nA Cross Site Scripting (XSS) vulnerability in Concrete CMS v.9.2.1 allows an attacker to execute arbitrary code via a crafted script to the Tags from Settings - Tags.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-44764 ‼\n\nA Cross Site Scripting (XSS) vulnerability in Concrete CMS v.9.2.1 allows an attacker to execute arbitrary code via a crafted script to the SITE parameter from installation or in the Settings.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-44765 ‼\n\nA Cross Site Scripting (XSS) vulnerability in Concrete CMS v.9.2.1 allows an attacker to execute arbitrary code via a crafted script to Plural Handle of the Data Objects from System & Settings.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-44771 ‼\n\nA Cross-Site Scripting (XSS) vulnerability in Zenario CMS v.9.4.59197 allows a local attacker to execute arbitrary code via a crafted script to the Page Layout.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-44758 ‼\n\nGDidees CMS 3.0 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Page Title.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-06",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4530 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Turna Advertising Administration Panel allows SQL Injection.This issue affects Advertising Administration Panel: before 1.1.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-10-05",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-43983 ‼\n\nPresto Changeo attributegrid up to 2.0.3 was discovered to contain a SQL injection vulnerability via the component disable_json.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
