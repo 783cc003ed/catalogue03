@@ -1,6 +1,16 @@
 {
     "date": "2023-10-09",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-39854 ‼\n\nThe web interface of ATX Ucrypt through 3.5 allows authenticated users (or attackers using default credentials for the admin, master, or user account) to include files via a URL in the /hydra/view/get_cc_url url parameter. There can be resultant SSRF.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45373 ‼\n\nAn issue was discovered in the ProofreadPage extension for MediaWiki before 1.35.12, 1.36.x through 1.39.x before 1.39.5, and 1.40.x before 1.40.1. XSS can occur via formatNumNoSeparators.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-09",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-45352 ‼\n\nAtos Unify OpenScape Common Management Portal V10 before V10 R4.17.0 and V10 R5.1.0 allows an authenticated attacker to execute arbitrary code on the operating system via a Common Management Portal web interface Path traversal vulnerability allowing write access outside the intended folders. This is also known as OCMP-6592.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
