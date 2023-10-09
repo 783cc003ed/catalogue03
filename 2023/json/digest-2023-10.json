@@ -1,6 +1,21 @@
 {
     "date": "2023-10-09",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-44812 ‼\n\nCross Site Scripting (XSS) vulnerability in mooSocial v.3.1.8 allows a remote attacker to execute arbitrary code via a crafted payload to the admin_redirect_url parameter of the user login function.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-44392 ‼\n\nGarden provides automation for Kubernetes development and testing. Prior tov ersions 0.13.17 and 0.12.65, Garden has a dependency on the cryo library, which is vulnerable to code injection due to an insecure implementation of deserialization. Garden stores serialized objects using cryo in the Kubernetes `ConfigMap` resources prefixed with `test-result` and `run-result` to cache Garden test and run results. These `ConfigMaps` are stored either in the `garden-system` namespace or the configured user namespace. When a user invokes the command `garden test` or `garden run` objects stored in the `ConfigMap` are retrieved and deserialized. This can be used by an attacker with access to the Kubernetes cluster to store malicious objects in the `ConfigMap`, which can trigger a remote code execution on the users machine when cryo deserializes the object. In order to exploit this vulnerability, an attacker must have access to the Kubernetes cluster used to deploy garden remote environments. Further, a user must actively invoke either a `garden test` or `garden run` which has previously cached results. The issue has been patched in Garden versions `0.13.17` (Bonsai) and `0.12.65` (Acorn). Only Garden versions prior to these are vulnerable. No known workarounds are available.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-09",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-44813 ‼\n\nCross Site Scripting (XSS) vulnerability in mooSocial v.3.1.8 allows a remote attacker to execute arbitrary code via a crafted payload to the mode parameter of the invite friend login function.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-09",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-44393 ‼\n\nPiwigo is an open source photo gallery application. Prior to version 14.0.0beta4, a reflected cross-site scripting (XSS) vulnerability is in the` /admin.php?page=plugins&tab=new&installstatus=ok&plugin_id=[here]` page. This vulnerability can be exploited by an attacker to inject malicious HTML and JS code into the HTML page, which could then be executed by admin users when they visit the URL with the payload. The vulnerability is caused by the insecure injection of the `plugin_id` value from the URL into the HTML page. An attacker can exploit this vulnerability by crafting a malicious URL that contains a specially crafted `plugin_id` value. When a victim who is logged in as an administrator visits this URL, the malicious code will be injected into the HTML page and executed. This vulnerability can be exploited by any attacker who has access to a malicious URL. However, only users who are logged in as administrators are affected. This is because the vulnerability is only present on the `/admin.php?page=plugins&tab=new&installstatus=ok&plugin_id=[here]` page, which is only accessible to administrators. Version 14.0.0.beta4 contains a patch for this issue.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
