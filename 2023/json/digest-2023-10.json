@@ -1,5 +1,36 @@
 {
     "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30805 ‼\n\nThe Sangfor Next-Gen Application Firewall version NGAF8.0.17 is vulnerable to an operating system command injection vulnerability. A remote and unauthenticated attacker can execute arbitrary commands by sending a crafted HTTP POST request to the /LogInOut.php endpoint. This is due to mishandling of shell meta-characters in the \"un\" parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30803 ‼\n\nThe Sangfor Next-Gen Application Firewall version NGAF8.0.17 is vulnerable to an authentication bypass vulnerability. A remote and unauthenticated attacker can bypass authentication and access administrative functionality by sending HTTP requests using a crafted Y-forwarded-for header.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30806 ‼\n\nThe Sangfor Next-Gen Application Firewall version NGAF8.0.17 is vulnerable to an operating system command injection vulnerability. A remote and unauthenticated attacker can execute arbitrary commands by sending a crafted HTTP POST request to the /cgi-bin/login.cgi endpoint. This is due to mishandling of shell meta-characters in the PHPSESSID cookie.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30804 ‼\n\nThe Sangfor Next-Gen Application Firewall version NGAF8.0.17 is vulnerable to an authenticated file disclosure vulnerability. A remote and authenticated attacker can read arbitrary system files using the svpn_html/loadfile.php endpoint. This issue is exploitable by a remote and unauthenticated attacker when paired with CVE-2023-30803.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30802 ‼\n\nThe Sangfor Next-Gen Application Firewall version NGAF8.0.17 is vulnerable to a source code disclosure vulnerability. A remote and unauthenticated attacker can obtain PHP source code by sending an HTTP request with an invalid Content-Length field.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "defcon_news",
+    "message": "HTTP/2 Rapid Reset Zero-Day Vulnerability Exploited to Launch Record DDoS Attacks\nhttps://thehackernews.com/2023/10/http2-rapid-reset-zero-day.html",
+    "urls": []
+}
+{
+    "date": "2023-10-10",
     "from_channel": "defcon_news",
     "message": "Webedition CMS 2.9.8.8 Server-Side Request Forgery\nhttps://packetstormsecurity.com/files/175021/webeditioncms2988-ssrf.txt",
     "urls": [],
