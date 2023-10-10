@@ -1,5 +1,10 @@
 {
     "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35796 ‼\n\nA vulnerability has been identified in SINEMA Server V14 (All versions). The affected application improperly sanitizes certain SNMP configuration data retrieved from monitored devices. An attacker with access to a monitored device could perform a stored cross-site scripting (XSS) attack that may lead to arbitrary code execution with `SYSTEM` privileges on the application server. (ZDI-CAN-19823)\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
     "from_channel": "RalfHackerChannel",
     "message": "🥔 Coerced Potato\n\nNew tool for local privilege escalation on a Windows machine, from a service account to NT SYSTEM. Should work on any recent versions of Windows.\n\n⚙️ Tool:\nhttps://github.com/hackvens/CoercedPotato\n\n📝 Research:\nhttps://blog.hackvens.fr/articles/CoercedPotato.html\n\n#windows #lpe #seimpersonateprivilege #potato",
     "urls": []
