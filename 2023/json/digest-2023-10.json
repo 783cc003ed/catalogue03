@@ -1,6 +1,16 @@
 {
     "date": "2023-10-10",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2020-18336 ‼\n\nCross Site Scripting (XSS) vulnerability found in Typora v.0.9.65 allows a remote attacker to obtain sensitive information via the PDF file exporting function.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-42474 ‼\n\nSAP BusinessObjects Web Intelligence - version 420, has a URL with parameter that could be vulnerable to XSS attack. The attacker could send a malicious link to a user that would possibly allow an attacker to retrieve the sensitive information.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-43899 ‼\n\nhansun CMS v1.0 was discovered to contain a SQL injection vulnerability via the component /ajax/ajax_login.ashx.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
