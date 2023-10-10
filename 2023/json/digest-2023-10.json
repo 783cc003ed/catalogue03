@@ -1,5 +1,13 @@
 {
     "date": "2023-10-10",
+    "from_channel": "defcon_news",
+    "message": "Webedition CMS 2.9.8.8 Server-Side Request Forgery\nhttps://packetstormsecurity.com/files/175021/webeditioncms2988-ssrf.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/175021/webeditioncms2988-ssrf.txt"
+}
+{
+    "date": "2023-10-10",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-41373 ‼\n\nA directory traversal vulnerability exists in the BIG-IP Configuration Utility that may allow an authenticated attacker to execute commands on the BIG-IP system. For BIG-IP system running in Appliance mode, a successful exploit can allow the attacker to cross a security boundary.Â Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
