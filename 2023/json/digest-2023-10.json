@@ -1,6 +1,111 @@
 {
     "date": "2023-10-10",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45648 ‼\n\nImproper Input Validation vulnerability in Apache Tomcat.TomcatÂ from 11.0.0-M1 through 11.0.0-M11, from 10.1.0-M1 through 10.1.13, from 9.0.0-M1 through 9.0.81 and from 8.5.0 through 8.5.93 did not correctly parse HTTP trailer headers. A specially crafted, invalid trailer header could cause Tomcat to treat a single request as multiple requests leading to the possibility of request smuggling when behind a reverse proxy.Users are recommended to upgrade to version 11.0.0-M12 onwards, 10.1.14 onwards, 9.0.81 onwards or 8.5.94 onwards, which fix the issue.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5497 ‼\n\nA vulnerability classified as critical has been found in Tongda OA 2017 11.10. Affected is an unknown function of the file general/hr/salary/welfare_manage/delete.php. The manipulation of the argument WELFARE_ID leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-241650 is the identifier assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41765 ‼\n\nLayer 2 Tunneling Protocol Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41771 ‼\n\nLayer 2 Tunneling Protocol Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36780 ‼\n\nSkype for Business Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36718 ‼\n\nMicrosoft Virtual Trusted Platform Module Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36571 ‼\n\nMicrosoft Message Queuing Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41767 ‼\n\nLayer 2 Tunneling Protocol Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41773 ‼\n\nLayer 2 Tunneling Protocol Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36710 ‼\n\nWindows Media Foundation Core Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36573 ‼\n\nMicrosoft Message Queuing Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38166 ‼\n\nLayer 2 Tunneling Protocol Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36574 ‼\n\nMicrosoft Message Queuing Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36578 ‼\n\nMicrosoft Message Queuing Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36789 ‼\n\nSkype for Business Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36415 ‼\n\nAzure Identity SDK Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36417 ‼\n\nMicrosoft SQL ODBC Driver Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36592 ‼\n\nMicrosoft Message Queuing Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35349 ‼\n\nMicrosoft Message Queuing Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36414 ‼\n\nAzure Identity SDK Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36902 ‼\n\nWindows Runtime Remote Code Execution Vulnerability\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-5495 ‼\n\nA vulnerability was found in QDocs Smart School 6.4.1. It has been classified as critical. This affects an unknown part of the file /course/filterRecords/ of the component HTTP POST Request Handler. The manipulation of the argument searchdata[0][title]/searchdata[0][searchfield]/searchdata[0][searchvalue] leads to sql injection. It is possible to initiate the attack remotely. The associated identifier of this vulnerability is VDB-241647. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
