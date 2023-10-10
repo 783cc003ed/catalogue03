@@ -1,5 +1,11 @@
 {
     "date": "2023-10-10",
+    "from_channel": "RalfHackerChannel",
+    "message": "🥔 Coerced Potato\n\nNew tool for local privilege escalation on a Windows machine, from a service account to NT SYSTEM. Should work on any recent versions of Windows.\n\n⚙️ Tool:\nhttps://github.com/hackvens/CoercedPotato\n\n📝 Research:\nhttps://blog.hackvens.fr/articles/CoercedPotato.html\n\n#windows #lpe #seimpersonateprivilege #potato",
+    "urls": []
+}
+{
+    "date": "2023-10-10",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2020-18336 ‼\n\nCross Site Scripting (XSS) vulnerability found in Typora v.0.9.65 allows a remote attacker to obtain sensitive information via the PDF file exporting function.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
