@@ -1,6 +1,24 @@
 {
     "date": "2023-10-10",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41373 ‼\n\nA directory traversal vulnerability exists in the BIG-IP Configuration Utility that may allow an authenticated attacker to execute commands on the BIG-IP system. For BIG-IP system running in Appliance mode, a successful exploit can allow the attacker to cross a security boundary.Â Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-44763 ‼\n\nConcrete CMS v9.2.1 is affected by Arbitrary File Upload vulnerability via the Thumbnail\" file upload, which allows Cross-Site Scripting (XSS).\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "sysadm_in_channel",
+    "message": "/ HTTP/2 Zero-Day Vulnerability Results in Record-Breaking DDoS Attacks\n\nhttps://blog.cloudflare.com/zero-day-rapid-reset-http2-record-breaking-ddos-attack/",
+    "urls": [],
+    "webpage_description": "The “HTTP/2 Rapid Reset” attack exploits a weakness in the HTTP/2 protocol to generate enormous, hyper-volumetric DDoS attacks. Cloudflare has mitigated a barrage of these attacks in recent months, including an attack three times larger than any previous attack we’ve observed",
+    "webpage_url": "https://blog.cloudflare.com/zero-day-rapid-reset-http2-record-breaking-ddos-attack/"
+}
+{
+    "date": "2023-10-10",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-35796 ‼\n\nA vulnerability has been identified in SINEMA Server V14 (All versions). The affected application improperly sanitizes certain SNMP configuration data retrieved from monitored devices. An attacker with access to a monitored device could perform a stored cross-site scripting (XSS) attack that may lead to arbitrary code execution with `SYSTEM` privileges on the application server. (ZDI-CAN-19823)\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
