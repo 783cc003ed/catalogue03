@@ -1,6 +1,11 @@
 {
     "date": "2023-10-11",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-44961 ‼\n\nSQL Injection vulnerability in Koha Library Software 23.0.5.04 and before allows a remote attacker to obtain sensitive information via the intranet/cgi bin/cataloging/ysearch.pl. component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-11",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-34354 ‼\n\nA stored cross-site scripting (XSS) vulnerability exists in the upload_brand.cgi functionality of peplink Surf SOHO HW1 v6.3.5 (in QEMU). A specially crafted HTTP request can lead to execution of arbitrary javascript in another user's browser. An attacker can make an authenticated HTTP request to trigger this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
