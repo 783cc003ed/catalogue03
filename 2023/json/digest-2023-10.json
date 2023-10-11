@@ -1,5 +1,16 @@
 {
     "date": "2023-10-11",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34354 ‼\n\nA stored cross-site scripting (XSS) vulnerability exists in the upload_brand.cgi functionality of peplink Surf SOHO HW1 v6.3.5 (in QEMU). A specially crafted HTTP request can lead to execution of arbitrary javascript in another user's browser. An attacker can make an authenticated HTTP request to trigger this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-11",
+    "from_channel": "finsecurity",
+    "message": "Добрый вечер, ребята есть вопрос про sql injection  кто может помочь? Мне бы уточнить коль что",
+    "urls": []
+}
+{
+    "date": "2023-10-11",
     "from_channel": "defcon_news",
     "message": "Smart School 6.4.1 SQL Injection\nhttps://packetstormsecurity.com/files/175071/smartschool641-sql.txt",
     "urls": [],
