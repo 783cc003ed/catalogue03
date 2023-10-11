@@ -1,6 +1,21 @@
 {
     "date": "2023-10-11",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37538 ‼\n\nHCL Digital Experience is susceptible to cross site scripting (XSS). One subcomponent is vulnerable to reflected XSS. In reflected XSS, an attacker must induce a victim to click on a crafted URL from some delivery mechanism (email, other web site).\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-11",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-44095 ‼\n\nUse-After-Free (UAF) vulnerability in the surfaceflinger module.Successful exploitation of this vulnerability can cause system crash.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-11",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38216 ‼\n\nAdobe Bridge versions 12.0.4 (and earlier) and 13.0.3 (and earlier) are affected by a Use After Free vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a malicious file.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-11",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-4990 ‼\n\nDirectory traversal vulnerability in MCL-Net versions prior to 4.6 Update Package (P01) may allow attackers to read arbitrary files.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
