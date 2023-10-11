@@ -1,5 +1,10 @@
 {
     "date": "2023-10-11",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4990 ‼\n\nDirectory traversal vulnerability in MCL-Net versions prior to 4.6 Update Package (P01) may allow attackers to read arbitrary files.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-11",
     "from_channel": "proxy_bar",
     "message": "CVE-2023-36802 \nwindows Local Privilege Escalation\nUsage:\nWindows_MSKSSRV_LPE_CVE-2023-6802.exe <pid>\nгде pid — это идентификатор процесса (в десятичном формате), который требуется повысить до SYSTEM\nPOC\n\n#win #lpe"
 }
