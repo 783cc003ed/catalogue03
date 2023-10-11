@@ -1,5 +1,15 @@
 {
     "date": "2023-10-11",
+    "from_channel": "proxy_bar",
+    "message": "CVE-2023-36802 \nwindows Local Privilege Escalation\nUsage:\nWindows_MSKSSRV_LPE_CVE-2023-6802.exe <pid>\nгде pid — это идентификатор процесса (в десятичном формате), который требуется повысить до SYSTEM\nPOC\n\n#win #lpe"
+}
+{
+    "date": "2023-10-11",
+    "from_channel": "proxy_bar",
+    "message": "Update:\nHow I made a heap overflow in curl\n\n#curl #libcurl #ssrf"
+}
+{
+    "date": "2023-10-11",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-45194 ‼\n\nUse of default credentials vulnerability in MR-GM2 firmware Ver. 3.00.03 and earlier, and MR-GM3 (-D/-K/-S/-DK/-DKS/-M/-W) firmware Ver. 1.03.45 and earlier allows a network-adjacent unauthenticated attacker to intercept wireless LAN communication, when the affected product performs the communication without changing the pre-shared key from the factory-default configuration.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
