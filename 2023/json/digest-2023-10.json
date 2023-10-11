@@ -1,4 +1,14 @@
 {
+    "date": "2023-10-11",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36126 ‼\n\nThere is a Cross Site Scripting (XSS) vulnerability in the \"theme\" parameter of preview.php in PHPJabbers Appointment Scheduler v3.0\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-11",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-26220 ‼\n\nThe Spotfire Library component of TIBCO Software Inc.'s Spotfire Analyst and Spotfire Server contains an easily exploitable vulnerability that allows a low privileged attacker with network access to execute a Stored Cross Site Scripting (XSS) on the affected system. A successful attack using this vulnerability requires human interaction from a person other than the attacker. Affected releases are TIBCO Software Inc.'s Spotfire Analyst: versions 11.4.7 and below, versions 11.5.0, 11.6.0, 11.7.0, 11.8.0, 12.0.0, 12.0.1, 12.0.2, 12.0.3, and 12.0.4, versions 12.1.0 and 12.1.1 and Spotfire Server: versions 11.4.11 and below, versions 11.5.0, 11.6.0, 11.6.1, 11.6.2, 11.6.3, 11.7.0, 11.8.0, 11.8.1, 12.0.0, 12.0.1, 12.0.2, 12.0.3, 12.0.4, and 12.0.5, versions 12.1.0 and 12.1.1.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-10-10",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-45648 ‼\n\nImproper Input Validation vulnerability in Apache Tomcat.TomcatÂ from 11.0.0-M1 through 11.0.0-M11, from 10.1.0-M1 through 10.1.13, from 9.0.0-M1 through 9.0.81 and from 8.5.0 through 8.5.93 did not correctly parse HTTP trailer headers. A specially crafted, invalid trailer header could cause Tomcat to treat a single request as multiple requests leading to the possibility of request smuggling when behind a reverse proxy.Users are recommended to upgrade to version 11.0.0-M12 onwards, 10.1.14 onwards, 9.0.81 onwards or 8.5.94 onwards, which fix the issue.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
