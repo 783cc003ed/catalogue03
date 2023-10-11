@@ -1,5 +1,21 @@
 {
     "date": "2023-10-11",
+    "from_channel": "defcon_news",
+    "message": "Smart School 6.4.1 SQL Injection\nhttps://packetstormsecurity.com/files/175071/smartschool641-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/175071/smartschool641-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-10-11",
+    "from_channel": "defcon_news",
+    "message": "Gaatitrack 1.0-2023 SQL Injection\nhttps://packetstormsecurity.com/files/175037/gaatitrack102023-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/175037/gaatitrack102023-sql.txt"
+}
+{
+    "date": "2023-10-11",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-37538 ‼\n\nHCL Digital Experience is susceptible to cross site scripting (XSS). One subcomponent is vulnerable to reflected XSS. In reflected XSS, an attacker must induce a victim to click on a crafted URL from some delivery mechanism (email, other web site).\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
