@@ -1,4 +1,9 @@
 {
+    "date": "2023-10-12",
+    "from_channel": "proxy_bar",
+    "message": "ДатаСексуалы на месте ? \nВся туса в сборе: 0day,rce,dos,eop,xss и дюша метЁлкин \nПереходите сразу к таблице\nТолько вот с CVE-2023-36778 НЕ угадали"
+}
+{
     "date": "2023-10-11",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-44961 ‼\n\nSQL Injection vulnerability in Koha Library Software 23.0.5.04 and before allows a remote attacker to obtain sensitive information via the intranet/cgi bin/cataloging/ysearch.pl. component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
