@@ -1,10 +1,30 @@
 {
     "date": "2023-10-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5046 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Biltay Technology Procost allows SQL Injection, Command Line Execution through SQL Injection.This issue affects Procost: before 1390.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-23651 ‼\n\nAuth. (subscriber+) SQL Injection (SQLi) vulnerability in MainWP Google Analytics ExtensionÂ plugin <= 4.0.4 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5045 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Biltay Technology Kayisi allows SQL Injection, Command Line Execution through SQL Injection.This issue affects Kayisi: before 1286.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-12",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-23737 ‼\n\nUnauth. SQL Injection (SQLi) vulnerability in MainWP MainWP Broken Links Checker Extension plugin <=Â 4.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-12",
     "from_channel": "defcon_news",
     "message": "Dawa Pharma 1.0-2022 SQL Injection\nhttps://packetstormsecurity.com/files/175078/dawapharma10-sql.txt",
     "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
-    "webpage_url": "https://packetstormsecurity.com/files/175078/dawapharma10-sql.txt"
+    "webpage_url": "https://packetstormsecurity.com/files/175078/dawapharma10-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
 }
 {
     "date": "2023-10-12",
