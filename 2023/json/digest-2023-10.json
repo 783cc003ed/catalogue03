@@ -1,6 +1,11 @@
 {
     "date": "2023-10-12",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-27314 ‼\n\nONTAP 9 versions prior to 9.8P19, 9.9.1P16, 9.10.1P12, 9.11.1P8, 9.12.1P2 and 9.13.1 are susceptible to a vulnerability which could allow a remote unauthenticated attacker to cause a crash of the HTTP service.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-12",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-5046 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Biltay Technology Procost allows SQL Injection, Command Line Execution through SQL Injection.This issue affects Procost: before 1390.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
