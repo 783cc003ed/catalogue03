@@ -1,5 +1,13 @@
 {
     "date": "2023-10-12",
+    "from_channel": "defcon_news",
+    "message": "Dawa Pharma 1.0-2022 SQL Injection\nhttps://packetstormsecurity.com/files/175078/dawapharma10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/175078/dawapharma10-sql.txt"
+}
+{
+    "date": "2023-10-12",
     "from_channel": "proxy_bar",
     "message": "ДатаСексуалы на месте ? \nВся туса в сборе: 0day,rce,dos,eop,xss и дюша метЁлкин \nПереходите сразу к таблице\nТолько вот с CVE-2023-36778 НЕ угадали"
 }
