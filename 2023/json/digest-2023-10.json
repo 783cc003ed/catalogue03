@@ -1,5 +1,20 @@
 {
     "date": "2023-10-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4517 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository hestiacp/hestiacp prior to 1.8.6.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4829 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository froxlor/froxlor prior to 2.0.22.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45162 ‼\n\nAffected 1E Platform versions have a Blind SQL Injection vulnerability that can lead to arbitrary code execution.Â Application of the relevant hotfix remediates this issue.for v8.1.2 apply hotfix Q23166for v8.4.1 apply hotfix Q23164for v9.0.1 apply hotfix Q23173SaaS implementations on v23.7.1 will automatically have hotfix Q23173 applied. Customers with SaaS versions below this are urged to upgrade urgently - please contact 1E to arrange this\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-13",
     "from_channel": "defcon_news",
     "message": "WordPress Core 6.3.1 XSS / DoS / Arbitrary Shortcode Execution\nhttps://packetstormsecurity.com/files/175088/wpcore631-exec.txt",
     "urls": [],
