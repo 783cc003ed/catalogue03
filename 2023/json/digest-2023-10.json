@@ -1,5 +1,13 @@
 {
     "date": "2023-10-13",
+    "from_channel": "defcon_news",
+    "message": "2023 microsoft office XSS\nhttps://www.reddit.com/r/netsec/comments/175wdm3/2023_microsoft_office_xss/",
+    "urls": [],
+    "webpage_description": "Posted by Z4ck_01 - 1 vote and no comments",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/175wdm3/2023_microsoft_office_xss/"
+}
+{
+    "date": "2023-10-13",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-41262 ‼\n\nAn issue was discovered in /fcgi/scrut_fcgi.fcgi in Plixer Scrutinizer before 19.3.1. The csvExportReport endpoint action generateCSV is vulnerable to SQL injection through the sorting parameter, allowing an unauthenticated user to execute arbitrary SQL statements in the context of the application's backend database server.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
