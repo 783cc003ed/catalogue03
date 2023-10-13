@@ -1,5 +1,40 @@
 {
     "date": "2023-10-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38221 ‼\n\nAdobe Commerce versions 2.4.7-beta1 (and earlier), 2.4.6-p2 (and earlier), 2.4.5-p4 (and earlier) and 2.4.4-p5 (and earlier) are affected by an Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability that could lead in arbitrary code execution by an admin-privilege authenticated attacker. Exploitation of this issue does not require user interaction and attack complexity is high as it requires knowledge of tooling beyond just using the UI.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38218 ‼\n\nAdobe Commerce versions 2.4.7-beta1 (and earlier), 2.4.6-p2 (and earlier), 2.4.5-p4 (and earlier) and 2.4.4-p5 (and earlier) are affected by an improper input validation vulnerability. An authenticated attacker can trigger an insecure direct object reference in the `V1/customers/me` endpoint to achieve information exposure and privilege escalation.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-26367 ‼\n\nAdobe Commerce versions 2.4.7-beta1 (and earlier), 2.4.6-p2 (and earlier), 2.4.5-p4 (and earlier) and 2.4.4-p5 (and earlier) are affected by an Improper Input Validation vulnerability that could lead to arbitrary file system read by an admin-privilege authenticated attacker. Exploitation of this issue does not require user interaction.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38219 ‼\n\nAdobe Commerce versions 2.4.7-beta1 (and earlier), 2.4.6-p2 (and earlier), 2.4.5-p4 (and earlier) and 2.4.4-p5 (and earlier) are affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject malicious scripts into vulnerable form fields. Malicious JavaScript may be executed in a victimâ€™s browser when they browse to the page containing the vulnerable field. Payload is stored in an admin area, resulting in high confidentiality and integrity impact.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38250 ‼\n\nAdobe Commerce versions 2.4.7-beta1 (and earlier), 2.4.6-p2 (and earlier), 2.4.5-p4 (and earlier) and 2.4.4-p5 (and earlier) are affected by an Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability that could lead in arbitrary code execution by an admin-privilege authenticated attacker. Exploitation of this issue does not require user interaction and attack complexity is high as it requires knowledge of tooling beyond just using the UI.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-26366 ‼\n\nAdobe Commerce versions 2.4.7-beta1 (and earlier), 2.4.6-p2 (and earlier), 2.4.5-p4 (and earlier) and 2.4.4-p5 (and earlier) are affected by a Server-Side Request Forgery (SSRF) vulnerability that could lead to arbitrary file system read. A high-privileged authenticated attacker can force the application to make arbitrary requests via injection of arbitrary URLs. Exploitation of this issue does not require user interaction, scope is changed due to the fact that an attacker can enforce file read outside the application's path boundary.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-13",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-38249 ‼\n\nAdobe Commerce versions 2.4.7-beta1 (and earlier), 2.4.6-p2 (and earlier), 2.4.5-p4 (and earlier) and 2.4.4-p5 (and earlier) are affected by an Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability that could lead in arbitrary code execution by an admin-privilege authenticated attacker. Exploitation of this issue does not require user interaction and attack complexity is high as it requires knowledge of tooling beyond just using the UI.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-13",
     "from_channel": "defcon_news",
     "message": "2023 microsoft office XSS\nhttps://www.reddit.com/r/netsec/comments/175wdm3/2023_microsoft_office_xss/",
     "urls": [],
