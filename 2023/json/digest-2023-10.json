@@ -1,6 +1,11 @@
 {
     "date": "2023-10-13",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45391 ‼\n\nA stored cross-site scripting (XSS) vulnerability in the Create A New Employee function of Granding UTime Master v9.0.7-Build:Apr 4,2023 allows authenticated attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the First Name parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-13",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-4517 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository hestiacp/hestiacp prior to 1.8.6.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
