@@ -1,5 +1,13 @@
 {
     "date": "2023-10-13",
+    "from_channel": "defcon_news",
+    "message": "WordPress Core 6.3.1 XSS / DoS / Arbitrary Shortcode Execution\nhttps://packetstormsecurity.com/files/175088/wpcore631-exec.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/175088/wpcore631-exec.txt"
+}
+{
+    "date": "2023-10-13",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-5572 ‼\n\nServer-Side Request Forgery (SSRF) in GitHub repository vriteio/vrite prior to 0.3.0.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
