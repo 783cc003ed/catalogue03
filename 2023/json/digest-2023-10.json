@@ -1,6 +1,76 @@
 {
     "date": "2023-10-18",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45608 ‼\n\nAuth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in Nicola Modugno Smart Cookie Kit plugin <=Â 2.3.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32089 ‼\n\nPega Platform versions 8.1 to 8.8.2 are affected by an XSS issue with Pin description\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46006 ‼\n\nSourcecodester Best Courier Management System 1.0 is vulnerable to SQL Injection via the parameter id in /edit_user.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45067 ‼\n\nAuth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in Ashish Ajani WordPress Simple HTML Sitemap plugin <=Â 2.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31217 ‼\n\nAuth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in MyTechTalky User Location and IP plugin <=Â 1.6 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32088 ‼\n\nPega Platform versions 8.1 to Infinity 23.1.0 are affected by an XSS issue with ad-hoc case creation\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45073 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Michael Koch Mendeley Plugin plugin <=Â 1.3.2 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45071 ‼\n\nUnauth. Stored Cross-Site Scripting (XSS) vulnerability in 10Web Form Builder Team Form Maker by 10Web â€“ Mobile-Friendly Drag & Drop Contact Form Builder plugin <=Â 1.15.18 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45065 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Mad Fish Digital Bulk NoIndex & NoFollow Toolkit plugin <=Â 1.42 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46005 ‼\n\nSourcecodester Best Courier Management System 1.0 is vulnerable to SQL Injection via the parameter id in /edit_branch.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45070 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in 10Web Form Builder Team Form Maker by 10Web â€“ Mobile-Friendly Drag & Drop Contact Form Builder plugin <=Â 1.15.18 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-32087 ‼\n\nPega Platform versions 8.1 to Infinity 23.1.0 are affected by an XSS issue with task creation\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46007 ‼\n\nSourcecodester Best Courier Management System 1.0 is vulnerable to SQL Injection via the parameter id in /edit_staff.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45072 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Kardi Order auto complete for WooCommerce plugin <=Â 1.2.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-45727 ‼\n\nProself Enterprise/Standard Edition Ver5.62 and earlier, Proself Gateway Edition Ver1.65 and earlier, and Proself Mail Sanitize Edition Ver1.08 and earlier allow a remote unauthenticated attacker to conduct XML External Entity (XXE) attacks. By processing a specially crafted request containing malformed XML data, arbitrary files on the server containing account information may be read by the attacker.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
