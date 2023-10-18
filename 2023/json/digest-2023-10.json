@@ -1,5 +1,45 @@
 {
     "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45628 ‼\n\nAuth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in QROkes QR Twitter Widget plugin <=Â 0.2.3 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45632 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in WebDorado SpiderVPlayer plugin <=Â 1.5.22 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45602 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Shopfiles Ltd Ebook Store plugin <=Â 5.785 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5631 ‼\n\nRoundcube before 1.4.15, 1.5.x before 1.5.5, and 1.6.x before 1.6.4 allows stored XSS via an HTML e-mail message with a crafted SVG document because of program/lib/Roundcube/rcube_washtml.php behavior. This could allow a remote attackerto load arbitrary JavaScript code.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-30781 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Theme Blvd Tweeple plugin <=Â 0.9.5 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45604 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Scott Reilly Get Custom Field Values plugin <=Â 4.0.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45630 ‼\n\nUnauth. Stored Cross-Site Scripting (XSS) vulnerability in wpdevart Gallery â€“ Image and Video Gallery with Thumbnails plugin <=Â 2.0.3 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45607 ‼\n\nAuth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in Hector Cabrera WordPress Popular Posts plugin <=Â 6.3.2 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
     "from_channel": "defcon_news",
     "message": "Signal Debunks Rumors About Zero-Day Vulnerability In The App\nhttps://latesthackingnews.com/2023/10/18/signal-debunks-rumors-about-zero-day-vulnerability-in-the-app/",
     "urls": [],
