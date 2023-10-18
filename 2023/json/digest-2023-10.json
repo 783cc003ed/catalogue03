@@ -1,4 +1,24 @@
 {
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-22089 ‼\n\nVulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-22072 ‼\n\nVulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). The supported version that is affected is 12.2.1.3.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41713 ‼\n\nSonicOS Use of Hard-coded Password vulnerability in the 'dynHandleBuyToolbar' demo function.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-18",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-41631 ‼\n\neSST Monitoring v2.147.1 was discovered to contain a remote code execution (RCE) vulnerability via the file upload function.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-10-17",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-43794 ‼\n\nNocodb is an open source Airtable alternative. Affected versions of nocodb contain a SQL injection vulnerability, that allows an authenticated attacker with creator access to query the underlying database. By supplying a specially crafted payload to the given an attacker can inject arbitrary SQL queries to be executed. Since this is a blind SQL injection, an attacker may need to use time-based payloads which would include a function to delay execution for a given number of seconds. The response time indicates, whether the result of the query execution was true or false. Depending on the result, the HTTP response will be returned after a given number of seconds, indicating TRUE, or immediately, indicating FALSE. In that way, an attacker can reveal the data present in the database. This vulnerability has been addressed in version 0.111.0. Users are advised to upgrade. There are no known workarounds for this vulnerability. This issue is also tracked as `GHSL-2023-141`.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
