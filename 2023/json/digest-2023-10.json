@@ -1,5 +1,13 @@
 {
     "date": "2023-10-18",
+    "from_channel": "defcon_news",
+    "message": "Signal Debunks Rumors About Zero-Day Vulnerability In The App\nhttps://latesthackingnews.com/2023/10/18/signal-debunks-rumors-about-zero-day-vulnerability-in-the-app/",
+    "urls": [],
+    "webpage_description": "Following the rumors about a zero-day flaw in the Signal app, the developers have debunked the reports. As explained, they found no traces of any zero-day vulnerability in the app, asking for evidence (if any)",
+    "webpage_url": "https://latesthackingnews.com/2023/10/18/signal-debunks-rumors-about-zero-day-vulnerability-in-the-app/?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-10-18",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-45608 ‼\n\nAuth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in Nicola Modugno Smart Cookie Kit plugin <=Â 2.3.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
