@@ -1,4 +1,9 @@
 {
+    "date": "2023-10-19",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5336 ‼\n\nThe iPanorama 360 â€“ WordPress Virtual Tour Builder plugin for WordPress is vulnerable to SQL Injection via the plugin's shortcode in versions up to, and including, 1.8.0 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers with contributor-level and above permissions to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-10-18",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-45628 ‼\n\nAuth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in QROkes QR Twitter Widget plugin <=Â 0.2.3 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
