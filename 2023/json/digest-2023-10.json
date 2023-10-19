@@ -1,6 +1,24 @@
 {
     "date": "2023-10-19",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45379 ‼\n\nIn the module \"Rotator Img\" (posrotatorimg) in versions at least up to 1.1 from PosThemes for PrestaShop, a guest can perform SQL injection.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-19",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-37830 ‼\n\nInterway a.s WebJET CMS 8.6.896 is vulnerable to Cross Site Scripting (XSS).\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-19",
+    "from_channel": "defcon_news",
+    "message": "Atlassian Confluence Unauthenticated Remote Code Execution\nhttps://packetstormsecurity.com/files/175225/atlassian_confluence_rce_cve_2023_22515.rb.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/175225/atlassian_confluence_rce_cve_2023_22515.rb.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-10-19",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-46227 ‼\n\nDeserialization of Untrusted Data Vulnerability in Apache Software Foundation Apache InLong.This issue affects Apache InLong: from 1.4.0 through 1.8.0, the attacker can use \\t to bypass.Â Users are advised to upgrade to Apache InLong's 1.9.0 or cherry-pick [1] to solve it.[1] https://github.com/apache/inlong/pull/8814\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
