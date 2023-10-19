@@ -1,6 +1,11 @@
 {
     "date": "2023-10-19",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45376 ‼\n\nIn the module \"Carousels Pack - Instagram, Products, Brands, Supplier\" (hicarouselspack) for PrestaShop up to version 1.5.0 from HiPresta for PrestaShop, a guest can perform SQL injection via HiCpProductGetter::getViewedProduct().`\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-19",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-34366 ‼\n\nA use-after-free vulnerability exists in the Figure stream parsing functionality of Ichitaro 2023 1.0.1.59372. A specially crafted document can cause memory corruption, resulting in arbitrary code execution. Victim would need to open a malicious file to trigger this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
