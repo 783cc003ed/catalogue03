@@ -1,6 +1,11 @@
 {
     "date": "2023-10-19",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45278 ‼\n\nDirectory Traversal vulnerability in the storage functionality of the API in Yamcs 5.8.6 allows attackers to delete arbitrary files via crafted HTTP DELETE request.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-19",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-35186 ‼\n\nThe SolarWinds Access Rights Manager was susceptible to Remote Code Execution Vulnerability. This vulnerability allows an authenticated user to abuse SolarWinds service resulting in remote code execution.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
