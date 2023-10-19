@@ -1,6 +1,36 @@
 {
     "date": "2023-10-19",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35186 ‼\n\nThe SolarWinds Access Rights Manager was susceptible to Remote Code Execution Vulnerability. This vulnerability allows an authenticated user to abuse SolarWinds service resulting in remote code execution.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-19",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-31046 ‼\n\nA Path Traversal vulnerability exists in PaperCut NG before 22.1.1 and PaperCut MF before 22.1.1. Under specific conditions, this could potentially allow an attacker to achieve read-only access to the server's filesystem.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-19",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35187 ‼\n\nThe SolarWinds Access Rights Manager was susceptible to a Directory Traversal Remote Code Vulnerability. This vulnerability allows an unauthenticated user to achieve the Remote Code Execution.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-19",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35182 ‼\n\nThe SolarWinds Access Rights Manager was susceptible to Remote Code Execution Vulnerability. This vulnerability can be abused by unauthenticated users on SolarWinds ARM Server.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-19",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35184 ‼\n\nThe SolarWinds Access Rights Manager was susceptible to Remote Code Execution Vulnerability. This vulnerability allows an unauthenticated user to abuse a SolarWinds service resulting in a remote code execution.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-19",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-35180 ‼\n\nThe SolarWinds Access Rights Manager was susceptible to Remote Code Execution Vulnerability. This vulnerability allows authenticated users to abuse SolarWinds ARM API.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-19",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-45379 ‼\n\nIn the module \"Rotator Img\" (posrotatorimg) in versions at least up to 1.1 from PosThemes for PrestaShop, a guest can perform SQL injection.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
