@@ -1,6 +1,31 @@
 {
     "date": "2023-10-19",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-34366 ‼\n\nA use-after-free vulnerability exists in the Figure stream parsing functionality of Ichitaro 2023 1.0.1.59372. A specially crafted document can cause memory corruption, resulting in arbitrary code execution. Victim would need to open a malicious file to trigger this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-19",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45826 ‼\n\nLeantime is an open source project management system. A 'userId' variable in `app/domain/files/repositories/class.files.php` is not parameterized. An authenticated attacker can send a carefully crafted POST request to `/api/jsonrpc` to exploit an SQL injection vulnerability. Confidentiality is impacted as it allows for dumping information from the database. This issue has been addressed in version 2.4-beta-4. Users are advised to upgrade. There are no known workarounds for this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-19",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43986 ‼\n\nDM Concept configurator before v4.9.4 was discovered to contain a SQL injection vulnerability via the component ConfiguratorAttachment::getAttachmentByToken.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-19",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45381 ‼\n\nIn the module \"Creative Popup\" (creativepopup) up to version 1.6.9 from WebshopWorks for PrestaShop, a guest can perform SQL injection via `cp_download_popup().`\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-19",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-40153 ‼\n\nThe affected product is vulnerable to a cross-site scripting vulnerability, which could allow an attacker to access the web application to introduce arbitrary Java Script by injecting an XSS payload into the 'hostname' parameter of the vulnerable software.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-19",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-45278 ‼\n\nDirectory Traversal vulnerability in the storage functionality of the API in Yamcs 5.8.6 allows attackers to delete arbitrary files via crafted HTTP DELETE request.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
