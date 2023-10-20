@@ -1,6 +1,11 @@
 {
     "date": "2023-10-20",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-3342 ‼\n\nThe Jetpack CRM plugin for WordPress is vulnerable to PHAR deserialization via the â€˜zbscrmcsvimpfâ€™ parameter in the 'zeroBSCRM_CSVImporterLitehtml_app' function in versions up to, and including, 5.3.1. While the function performs a nonce check, steps 2 and 3 of the check do not take any action upon a failed check. These steps then perform a 'file_exists' check on the value of 'zbscrmcsvimpf'. If a phar:// archive is supplied, its contents will be deserialized and an object injected in the execution stream. This allows an unauthenticated attacker to obtain object injection if they are able to upload a phar archive (for instance if the site supports image uploads) and then trick an administrator into performing an action, such as clicking a link.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-20",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-45471 ‼\n\nThe QAD Search Server is vulnerable to Stored Cross-Site Scripting (XSS) in versions up to, and including, 1.0.0.315 due to insufficient checks on indexes. This makes it possible for unauthenticated attackers to create a new index and inject a malicious web script into its name, that will execute whenever a user accesses the search page.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
