@@ -1,6 +1,16 @@
 {
     "date": "2023-10-20",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46287 ‼\n\nXSS exists in NagVis before 1.9.38 via the select function in share/server/core/functions/html.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46287 ‼\n\nXSS exists in NagVis before 1.9.38 via the select function in share/server/core/functions/html.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-20",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-44256 ‼\n\nA server-side request forgery vulnerability [CWE-918] in Fortinet FortiAnalyzer version 7.4.0, version 7.2.0 through 7.2.3 and before 7.0.8 and FortiManager version 7.4.0, version 7.2.0 through 7.2.3 and before 7.0.8 allows a remote attacker with low privileges to view sensitive data from internal servers or perform a local port scan via a crafted HTTP request.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
