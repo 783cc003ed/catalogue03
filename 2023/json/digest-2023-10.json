@@ -6,6 +6,11 @@
 {
     "date": "2023-10-20",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-2325 ‼\n\nStored XSS Vulnerability in M-Files Classic Web versions before 23.10Â and LTS Service Release Versions before 23.2 LTS SR4 and 23.8 LTS SR1allows attacker to execute script on users browser via stored HTML document.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-20",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-45471 ‼\n\nThe QAD Search Server is vulnerable to Stored Cross-Site Scripting (XSS) in versions up to, and including, 1.0.0.315 due to insufficient checks on indexes. This makes it possible for unauthenticated attackers to create a new index and inject a malicious web script into its name, that will execute whenever a user accesses the search page.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
