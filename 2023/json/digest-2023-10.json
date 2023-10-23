@@ -1,4 +1,9 @@
 {
+    "date": "2023-10-23",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5693 ‼\n\nA vulnerability was found in CodeAstro Internet Banking System 1.0 and classified as critical. This issue affects some unknown processing of the file pages_reset_pwd.php. The manipulation of the argument email leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-243131.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-10-21",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-46054 ‼\n\nCross Site Scripting (XSS) vulnerability in WBCE CMS v.1.6.1 and before allows a remote attacker to escalate privileges via a crafted script to the website_footer parameter in the admin/settings/save.php component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
