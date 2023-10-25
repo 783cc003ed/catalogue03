@@ -1,4 +1,10 @@
 {
+    "date": "2023-10-25",
+    "from_channel": "defcon_news",
+    "message": "Act Now: VMware Releases Patch for Critical vCenter Server RCE Vulnerability\nhttps://thehackernews.com/2023/10/act-now-vmware-releases-patch-for.html",
+    "urls": []
+}
+{
     "date": "2023-10-24",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-46059 ‼\n\nCross Site Scripting (XSS) vulnerability in Geeklog-Core geeklog v.2.2.2 allows a remote attacker to execute arbitrary code via a crafted payload to the Service, and website URL to Ping parameters of the admin/trackback.php component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
