@@ -1,6 +1,56 @@
 {
     "date": "2023-10-25",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46414 ‼\n\nTOTOLINK X6000R v9.4.0cu.652_B20230116 was discovered to contain a remote command execution (RCE) vulnerability via the sub_ 41D494 function.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46421 ‼\n\nTOTOLINK X6000R v9.4.0cu.652_B20230116 was discovered to contain a remote command execution (RCE) vulnerability via the sub_411D00 function.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46419 ‼\n\nTOTOLINK X6000R v9.4.0cu.652_B20230116 was discovered to contain a remote command execution (RCE) vulnerability via the sub_415730 function.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45137 ‼\n\nXWiki Platform is a generic wiki platform offering runtime services for applications built on top of it. `org.xwiki.platform:xwiki-platform-web` starting in version 3.1-milestone-2 and prior to version 13.4-rc-1, as well as `org.xwiki.platform:xwiki-platform-web-templates` prior to versions 14.10.12 and 15.5-rc-1, are vulnerable to cross-site scripting. When trying to create a document that already exists, XWiki displays an error message in the form for creating it. Due to missing escaping, this error message is vulnerable to raw HTML injection and thus XSS. The injected code is the document reference of the existing document so this requires that the attacker first creates a non-empty document whose name contains the attack code. This has been patched in `org.xwiki.platform:xwiki-platform-web` version 13.4-rc-1 and `org.xwiki.platform:xwiki-platform-web-templates` versions 14.10.12 and 15.5-rc-1 by adding the appropriate escaping. The vulnerable template file `createinline.vm` is part of XWiki's WAR and can be patched by manually applying the changes from the fix.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46423 ‼\n\nTOTOLINK X6000R v9.4.0cu.652_B20230116 was discovered to contain a remote command execution (RCE) vulnerability via the sub_417094 function.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5044 ‼\n\nCode injection via nginx.ingress.kubernetes.io/permanent-redirect annotation.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46415 ‼\n\nTOTOLINK X6000R v9.4.0cu.652_B20230116 was discovered to contain a remote command execution (RCE) vulnerability via the sub_41E588 function.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46417 ‼\n\nTOTOLINK X6000R v9.4.0cu.652_B20230116 was discovered to contain a remote command execution (RCE) vulnerability via the sub_415498 function.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46420 ‼\n\nTOTOLINK X6000R v9.4.0cu.652_B20230116 was discovered to contain a remote command execution (RCE) vulnerability via the sub_41590C function.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-25",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46418 ‼\n\nTOTOLINK X6000R v9.4.0cu.652_B20230116 was discovered to contain a remote command execution (RCE) vulnerability via the sub_412688 function.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-25",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-46659 ‼\n\nJenkins Edgewall Trac Plugin 1.13 and earlier does not escape the Trac website URL on the build page, resulting in a stored cross-site scripting (XSS) vulnerability exploitable by attackers with Item/Configure permission.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
