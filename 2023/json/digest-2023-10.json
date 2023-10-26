@@ -1,6 +1,26 @@
 {
     "date": "2023-10-26",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-44267 ‼\n\nOnline Art Gallery v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities.Â Â The 'lnm' parameter of the header.php resourceÂ does not validate the characters received and theyÂ are sent unfiltered to the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-26",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46748 ‼\n\nAn authenticated SQL injection vulnerability exists in the BIG-IP Configuration utility which may allow an authenticated attacker with network access to the Configuration utility through the BIG-IP management port and/or self IP addresses to execute arbitrary system commands.Â Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-26",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5804 ‼\n\nA vulnerability was found in PHPGurukul Nipah Virus Testing Management System 1.0 and classified as critical. This issue affects some unknown processing of the file login.php. The manipulation of the argument username leads to sql injection. The attack may be initiated remotely. The identifier VDB-243617 was assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-26",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33559 ‼\n\nA local file inclusion vulnerability via the lang parameter in OcoMon before v4.0.1 allows attackers to execute arbitrary code by supplying a crafted PHP file.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-26",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-46435 ‼\n\nSourcecodester Packers and Movers Management System v1.0 is vulnerable to SQL Injection via mpms/?p=services/view_service&id.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
