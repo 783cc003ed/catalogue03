@@ -1,4 +1,14 @@
 {
+    "date": "2023-10-26",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46583 ‼\n\nCross-Site Scripting (XSS) vulnerability in PHPGurukul Nipah virus (NiV) \" Testing Management System v.1.0 allows attackers to execute arbitrary code via a crafted payload injected into the State field.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-26",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46584 ‼\n\nSQL Injection vulnerability in PHPGurukul Nipah virus (NiV) \" Testing Management System v.1.0 allows a remote attacker to escalate privileges via a crafted request to the new-user-testing.php endpoint.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-10-25",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-46414 ‼\n\nTOTOLINK X6000R v9.4.0cu.652_B20230116 was discovered to contain a remote command execution (RCE) vulnerability via the sub_ 41D494 function.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
