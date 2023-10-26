@@ -1,6 +1,14 @@
 {
     "date": "2023-10-26",
     "from_channel": "defcon_news",
+    "message": "WordPress AI ChatBot 4.8.9 SQL Injection / Traversal / File Deletion\nhttps://packetstormsecurity.com/files/175371/wpaichatbot489-sqltraversaldelete.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/175371/wpaichatbot489-sqltraversaldelete.txt"
+}
+{
+    "date": "2023-10-26",
+    "from_channel": "defcon_news",
     "message": "Pro-Russian Hackers Target XSS In Roundcube\nhttps://packetstormsecurity.com/news/view/35163/Pro-Russian-Hackers-Target-XSS-In-Roundcube.html",
     "urls": [],
     "webpage_description": "Previously unknown XSS in Roundcube let Winter Vivern steal government emails.",
