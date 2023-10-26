@@ -1,6 +1,11 @@
 {
     "date": "2023-10-26",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5798 ‼\n\nThe Assistant WordPress plugin before 1.4.4 does not validate a parameter before making a request to it via wp_remote_get(), which could allow users with a role as low as Editor to perform SSRF attacks\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-26",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-43906 ‼\n\nXolo CMS v0.11 was discovered to contain a reflected cross-site scripting (XSS) vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
