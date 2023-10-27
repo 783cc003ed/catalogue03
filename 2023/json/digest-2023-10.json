@@ -1,6 +1,41 @@
 {
     "date": "2023-10-27",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-34833 ‼\n\nAn issue was discovered in VERMEG AgileReporter 21.3. An admin can enter an XSS payload in the Analysis component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-34832 ‼\n\nAn issue was discovered in VERMEG AgileReporter 21.3. XXE can occur via an XML document to the Analysis component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-29009 ‼\n\nbaserCMS is a website development framework with WebAPI that runs on PHP8 and CakePHP4. There is a XSS Vulnerability in Favorites Feature to baserCMS. This issue has been patched in version 4.8.0.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-34834 ‼\n\nAn issue was discovered in VERMEG AgileReporter 21.3. Attackers can gain privileges via an XSS payload in an Add Comment action to the Activity log.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5828 ‼\n\nA vulnerability was found in Nanning Ontall Longxing Industrial Development Zone Project Construction and Installation Management System up to 20231026. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file login.aspx. The manipulation of the argument tbxUserName leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-243727.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46208 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in StylemixThemes Motors â€“ Car Dealer, Classifieds & Listing plugin <=Â 1.4.6 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-40121 ‼\n\nIn appendEscapedSQLString of DatabaseUtils.java, there is a possible SQL injection due to unsafe deserialization. This could lead to local information disclosure with User execution privileges needed. User interaction is not needed for exploitation.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-27",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-34886 ‼\n\nA remote code execution vulnerability was found in the firmware used in some Lenovo printers, which can be caused by a remote user pushing an illegal string to the server-side interface via a script, resulting in a stack overflow.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
