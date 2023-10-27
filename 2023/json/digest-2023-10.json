@@ -1,6 +1,36 @@
 {
     "date": "2023-10-27",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46192 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Internet Marketing Ninjas Internal Link Building plugin <=Â 1.2.3 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46093 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in LionScripts.Com Webmaster Tools plugin <=Â 2.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46194 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Eric Teubert Archivist â€“ Custom Archive Templates plugin <=Â 1.7.5 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46199 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Triberr plugin <=Â 4.1.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46153 ‼\n\nUnauth. Stored Cross-Site Scripting (XSS) vulnerability in UserFeedback Team User Feedback plugin <=Â 1.0.9 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46091 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Bala Krishna, Sergey Yakovlev Category SEO Meta Tags plugin <=Â 2.5 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-27",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-5805 ‼\n\nA vulnerability was found in SourceCodester Simple Real Estate Portal System 1.0. It has been classified as critical. Affected is an unknown function of the file view_estate.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-243618 is the identifier assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
