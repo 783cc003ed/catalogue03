@@ -1,4 +1,24 @@
 {
+    "date": "2023-10-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5805 ‼\n\nA vulnerability was found in SourceCodester Simple Real Estate Portal System 1.0. It has been classified as critical. Affected is an unknown function of the file view_estate.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-243618 is the identifier assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-44268 ‼\n\nOnline Art Gallery v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities. The 'gender' parameter of the header.php resource does not validate the characters received and they are sent unfiltered to the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-42406 ‼\n\nSQL injection vulnerability in D-Link Online behavior audit gateway DAR-7000 V31R02B1413C allows a remote attacker to obtain sensitive information and execute arbitrary code via the editrole.php component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43737 ‼\n\nOnline Art Gallery v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities. The 'fnm' parameter of the header.php resource does not validate the characters received and they are sent unfiltered to the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-10-26",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-44267 ‼\n\nOnline Art Gallery v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities.Â Â The 'lnm' parameter of the header.php resourceÂ does not validate the characters received and theyÂ are sent unfiltered to the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
