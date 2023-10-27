@@ -1,6 +1,21 @@
 {
     "date": "2023-10-27",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-44377 ‼\n\nOnline Art Gallery v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities. The 'add3' parameter of the header.php resource does not validate the characters received and they are sent unfiltered to the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5807 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in TRtek Software Education Portal allows SQL Injection.This issue affects Education Portal: before 3.2023.29.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-27",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-44376 ‼\n\nOnline Art Gallery v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities. The 'add2' parameter of the header.php resource does not validate the characters received and they are sent unfiltered to the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-27",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-46192 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Internet Marketing Ninjas Internal Link Building plugin <=Â 1.2.3 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
