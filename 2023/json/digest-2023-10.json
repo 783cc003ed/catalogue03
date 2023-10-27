@@ -1,6 +1,13 @@
 {
     "date": "2023-10-27",
     "from_channel": "cibsecurity",
+    "message": "🦿 New Cyberattack From Winter Vivern Exploits a Zero-Day Vulnerability in Roundcube Webmail 🦿\n\nAfter reading the technical details about this zero-day that targeted governmental entities and a think tank in Europe and learning about the Winter Vivern threat actor, get tips on mitigating this cybersecurity attack.\n\n📖 Read\n\nvia \"Tech Republic\".",
+    "webpage_description": "ESET reported that this cyberattack targeted governmental entities and a think tank in Europe.",
+    "webpage_url": "https://www.techrepublic.com/article/winter-vivern-exploits-zero-day-roundcube-webmail/"
+}
+{
+    "date": "2023-10-27",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-46394 ‼\n\nA stored cross-site scripting (XSS) vulnerability in /home/user/edit_submit of gougucms v4.08.18 allows attackers to execute arbitrary web scripts or HTML via injecting a crafted payload into the headimgurl parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
