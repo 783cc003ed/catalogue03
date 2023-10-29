@@ -1,5 +1,13 @@
 {
     "date": "2023-10-29",
+    "from_channel": "defcon_news",
+    "message": "phpBB: Authenticated path traversal to Stored XSS and Denial-of-Service\nhttps://vulners.com/hackerone/H1:2168002?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "Denial-of-Service The vulnerabiity lies on the line 552 of acp_icons.phpfile, when importing emoji from a file we can tell phpBB which file to import from via the paramter pak, without any sanitization, the pak paramter gets passed dirrectly to...",
+    "webpage_url": "https://vulners.com/hackerone/H1:2168002?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-10-29",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2007-10003 ‼\n\nA vulnerability, which was classified as critical, has been found in The Hackers Diet Plugin up to 0.9.6b on WordPress. This issue affects some unknown processing of the file ajax_blurb.php of the component HTTP POST Request Handler. The manipulation of the argument user leads to sql injection. The attack may be initiated remotely. Upgrading to version 0.9.7b is able to address this issue. The patch is named 7dd8acf7cd8442609840037121074425d363b694. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-243803.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
