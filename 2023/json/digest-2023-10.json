@@ -1,4 +1,14 @@
 {
+    "date": "2023-10-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5836 ‼\n\nA vulnerability was found in SourceCodester Task Reminder System 1.0. It has been rated as critical. Affected by this issue is some unknown functionality of the file classes/Users.php?f=delete. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The identifier of this vulnerability is VDB-243800.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-29",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46854 ‼\n\nProxmox proxmox-widget-toolkit before 4.0.9, as used in multiple Proxmox products, allows XSS via the edit notes feature.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-10-27",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-34833 ‼\n\nAn issue was discovered in VERMEG AgileReporter 21.3. An admin can enter an XSS payload in the Analysis component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
