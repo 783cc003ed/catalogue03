@@ -1,4 +1,12 @@
 {
+    "date": "2023-10-30",
+    "from_channel": "sysadm_in_channel",
+    "message": "/ Winter Vivern exploits zero-day vulnerability in Roundcube Webmail servers\n\nhttps://www.welivesecurity.com/en/eset-research/winter-vivern-exploits-zero-day-vulnerability-roundcube-webmail-servers/",
+    "urls": [],
+    "webpage_description": "ESET Research discover campaigns by the Winter Vivern APT group that exploit a zero-day XSS vulnerability in the Roundcube Webmail server and target governmental entities and a think tank in Europe.",
+    "webpage_url": "https://www.welivesecurity.com/en/eset-research/winter-vivern-exploits-zero-day-vulnerability-roundcube-webmail-servers/"
+}
+{
     "date": "2023-10-29",
     "from_channel": "defcon_news",
     "message": "phpBB: Authenticated path traversal to Stored XSS and Denial-of-Service\nhttps://vulners.com/hackerone/H1:2168002?utm_source=rss&utm_medium=rss&utm_campaign=rss",
