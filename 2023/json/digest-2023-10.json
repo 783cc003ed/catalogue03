@@ -1,6 +1,11 @@
 {
     "date": "2023-10-30",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-42804 ‼\n\nBigBlueButton is an open-source virtual classroom. BigBlueButton prior to version 2.6.0-beta.1 has a path traversal vulnerability that allows an attacker with a valid starting folder path, to traverse and read other files without authentication, assuming the files have certain extensions (txt, swf, svg, png). In version 2.6.0-beta.1, input validation was added on the parameters being passed and dangerous characters are stripped. There are no known workarounds.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-30",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-36920 ‼\n\nIn SAP Enable Now - versions WPB_MANAGER 1.0, WPB_MANAGER_CE 10, WPB_MANAGER_HANA 10, ENABLE_NOW_CONSUMP_DEL 1704, the X-FRAME-OPTIONS response header is not implemented, allowing an unauthenticated attacker to attempt clickjacking, which could result in disclosure or modification of information.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
