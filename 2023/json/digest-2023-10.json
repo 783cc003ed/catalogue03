@@ -1,5 +1,23 @@
 {
     "date": "2023-10-30",
+    "from_channel": "defcon_news",
+    "message": "Critical PHPFox RCE Vulnerability Risked Social Networks\nhttps://latesthackingnews.com/2023/10/30/critical-phpfox-rce-vulnerability-risked-social-networks/",
+    "urls": [],
+    "webpage_description": "Heads up, phpFox users! A critical remote code execution vulnerability existed in the phpFox service that allowed community takeovers. Following the bug report, phpFox patched the flaw with the latest service version to which, the",
+    "webpage_url": "https://latesthackingnews.com/2023/10/30/critical-phpfox-rce-vulnerability-risked-social-networks/"
+}
+{
+    "date": "2023-10-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-42431 ‼\n\nCross-site Scripting (XSS) vulnerability in BlueSpiceAvatars extension of BlueSpice allows logged in user to inject arbitrary HTML into the profile image dialog on Special:Preferences. This only applies to the genuine user context.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5832 ‼\n\nImproper Input Validation in GitHub repository mintplex-labs/anything-llm prior to 0.1.0.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-30",
     "from_channel": "sysadm_in_channel",
     "message": "/ Winter Vivern exploits zero-day vulnerability in Roundcube Webmail servers\n\nhttps://www.welivesecurity.com/en/eset-research/winter-vivern-exploits-zero-day-vulnerability-roundcube-webmail-servers/",
     "urls": [],
