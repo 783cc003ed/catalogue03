@@ -1,5 +1,15 @@
 {
     "date": "2023-10-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36920 ‼\n\nIn SAP Enable Now - versions WPB_MANAGER 1.0, WPB_MANAGER_CE 10, WPB_MANAGER_HANA 10, ENABLE_NOW_CONSUMP_DEL 1704, the X-FRAME-OPTIONS response header is not implemented, allowing an unauthenticated attacker to attempt clickjacking, which could result in disclosure or modification of information.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-30",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-21360 ‼\n\nIn Bluetooth, there is a possible out of bounds write due to improper input validation. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-30",
     "from_channel": "defcon_news",
     "message": "Critical PHPFox RCE Vulnerability Risked Social Networks\nhttps://latesthackingnews.com/2023/10/30/critical-phpfox-rce-vulnerability-risked-social-networks/",
     "urls": [],
