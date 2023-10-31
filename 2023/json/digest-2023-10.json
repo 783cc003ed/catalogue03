@@ -1,6 +1,101 @@
 {
     "date": "2023-10-31",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45996 ‼\n\nSQL injection vulnerability in Senayan Library Management Systems Slims v.9 and Bulian v.9.6.1 allows a remote attacker to obtain sensitive information and execute arbitrary code via a crafted script to the reborrowLimit parameter in the member_type.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46210 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in WebCource WC Captcha plugin <=Â 1.4 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5435 ‼\n\nThe Up down image slideshow gallery plugin for WordPress is vulnerable to SQL Injection via the plugin's shortcode in versions up to, and including, 12.0 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers with subscriber-level and above permissions to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5437 ‼\n\nThe WP fade in text news plugin for WordPress is vulnerable to SQL Injection via the plugin's shortcode in versions up to, and including, 12.0 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers with subscriber-level and above permissions to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5429 ‼\n\nThe Information Reel plugin for WordPress is vulnerable to SQL Injection via the plugin's shortcode in versions up to, and including, 10.0 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers with subscriber-level and above permissions to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-36263 ‼\n\nPrestashop opartlimitquantity 1.4.5 and before is vulnerable to SQL Injection. OpartlimitquantityAlertlimitModuleFrontController::displayAjaxPushAlertMessage()` has sensitive SQL calls that can be executed with a trivial http call and exploited to forge a SQL injection.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5434 ‼\n\nThe Superb slideshow gallery plugin for WordPress is vulnerable to SQL Injection via the plugin's shortcode in versions up to, and including, 13.1 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers with subscriber-level and above permissions to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5439 ‼\n\nThe Wp photo text slider 50 plugin for WordPress is vulnerable to SQL Injection via the plugin's shortcode in versions up to, and including, 8.0 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers with subscriber-level and above permissions to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5433 ‼\n\nThe Message ticker plugin for WordPress is vulnerable to SQL Injection via the plugin's shortcode in versions up to, and including, 9.2 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers with subscriber-level and above permissions to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5464 ‼\n\nThe Jquery accordion slideshow plugin for WordPress is vulnerable to SQL Injection via the plugin's shortcode in versions up to, and including, 8.1 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers with subscriber-level and above permissions to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5430 ‼\n\nThe Jquery news ticker plugin for WordPress is vulnerable to SQL Injection via the plugin's shortcode in versions up to, and including, 3.0 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers with subscriber-level and above permissions to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5436 ‼\n\nThe Vertical marquee plugin for WordPress is vulnerable to SQL Injection via the plugin's shortcode in versions up to, and including, 7.1 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers with subscriber-level and above permissions to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5873 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository pimcore/pimcore prior to 11.1.0.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5428 ‼\n\nThe Image vertical reel scroll slideshow plugin for WordPress is vulnerable to SQL Injection via the plugin's shortcode in versions up to, and including, 9.0 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers with subscriber-level and above permissions to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5438 ‼\n\nThe wp image slideshow plugin for WordPress is vulnerable to SQL Injection via the plugin's shortcode in versions up to, and including, 12.0 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers with subscriber-level and above permissions to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5431 ‼\n\nThe Left right image slideshow gallery plugin for WordPress is vulnerable to SQL Injection via the plugin's shortcode in versions up to, and including, 12.0 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers with subscriber-level and above permissions to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5412 ‼\n\nThe Image horizontal reel scroll slideshow plugin for WordPress is vulnerable to SQL Injection via the plugin's shortcode in versions up to, and including, 13.2 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers with subscriber-level and above permissions to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46451 ‼\n\nBest Courier Management System v1.0 is vulnerable to Cross Site Scripting (XSS) in the change username field.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-31",
+    "from_channel": "Leakers_squad",
+    "message": "💉Database Hacking with common SQL Injection commands\n\n📝According to the Open Web Application Security Project (OWASP), the command injection is one of the most serious and numerous attacks for web applications.\n\n🔗 https://telegra.ph/Database-Hacking-with-common-SQL-Injection-commands-10-30\n\n🔖#infosec #cybersecurity #hacking #pentesting #security\n\n▪️hold for 10 seconds if you see error page\n\nBY @Mr_Neophyte\nContact for posting these content in your channel\n\n✔️Share with Your Mate.\n\nIf you want to report any copyright violation, please write to us at  @Leakers_squad_bot and we will ensure to remove that post within 48 hours\nRead this"
+}
+{
+    "date": "2023-10-31",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-43798 ‼\n\nBigBlueButton is an open-source virtual classroom. BigBlueButton prior to versions 2.6.12 and 2.7.0-rc.1 is vulnerable to Server-Side Request Forgery (SSRF). This issue is a bypass of CVE-2023-33176. A patch in versions 2.6.12 and 2.7.0-rc.1 disabled follow redirect at `httpclient.execute` since the software no longer has to follow it when using `finalUrl`. There are no known workarounds. We recommend upgrading to a patched version of BigBlueButton.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
