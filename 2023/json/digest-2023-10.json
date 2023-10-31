@@ -1,4 +1,19 @@
 {
+    "date": "2023-10-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43798 ‼\n\nBigBlueButton is an open-source virtual classroom. BigBlueButton prior to versions 2.6.12 and 2.7.0-rc.1 is vulnerable to Server-Side Request Forgery (SSRF). This issue is a bypass of CVE-2023-33176. A patch in versions 2.6.12 and 2.7.0-rc.1 disabled follow redirect at `httpclient.execute` since the software no longer has to follow it when using `finalUrl`. There are no known workarounds. We recommend upgrading to a patched version of BigBlueButton.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-39172 ‼\n\nA stored XSS in the process overview (bersicht zugewiesener Vorgaenge) in mbsupport openVIVA c2 20220101 allows a remote, authenticated, low-privileged attacker to execute arbitrary code in the victim's browser via name field of a process.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45672 ‼\n\nFrigate is an open source network video recorder. Prior to version 0.13.0 Beta 3, an unsafe deserialization vulnerability was identified in the endpoints used to save configurations for Frigate. This can lead to unauthenticated remote code execution. This can be performed through the UI at `/config` or through a direct call to `/api/config/save`. Exploiting this vulnerability requires the attacker to both know very specific information about a user's Frigate server and requires an authenticated user to be tricked into clicking a specially crafted link to their Frigate instance. This vulnerability could exploited by an attacker under the following circumstances: Frigate publicly exposed to the internet (even with authentication); attacker knows the address of a user's Frigate instance; attacker crafts a specialized page which links to the user's Frigate instance; attacker finds a way to get an authenticated user to visit their specialized page and click the button/link. Input is initially accepted through `http.py`. The user-provided input is then parsed and loaded by `load_config_with_no_duplicates`. However, `load_config_with_no_duplicates` does not sanitize this input by merit of using `yaml.loader.Loader` which can instantiate custom constructors. A provided payload will be executed directly at `frigate/util/builtin.py:110`. This issue may lead to pre-authenticated Remote Code Execution. Version 0.13.0 Beta 3 contains a patch.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-10-30",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-42804 ‼\n\nBigBlueButton is an open-source virtual classroom. BigBlueButton prior to version 2.6.0-beta.1 has a path traversal vulnerability that allows an attacker with a valid starting folder path, to traverse and read other files without authentication, assuming the files have certain extensions (txt, swf, svg, png). In version 2.6.0-beta.1, input validation was added on the parameters being passed and dangerous characters are stripped. There are no known workarounds.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
