@@ -1,6 +1,21 @@
 {
     "date": "2023-10-31",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-3007 ‼\n\n** UNSUPPPORTED WHEN ASSIGNED ** The vulnerability exists in Syska SW100 Smartwatch due to an improper implementation and/or configuration of Nordic Device Firmware Update (DFU) which is used for performing Over-The-Air (OTA) firmware updates on the Bluetooth Low Energy (BLE) devices. An unauthenticated attacker could exploit this vulnerability by setting arbitrary values to handle on the vulnerable device over Bluetooth.Successful exploitation of this vulnerability could allow the attacker to perform firmware update, device reboot or data manipulation on the target device.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2016-1203 ‼\n\nImproper file verification vulnerability in SaAT Netizen installer ver.1.2.0.424 and earlier, and SaAT Netizen ver.1.2.0.8 (Build427) and earlier allows a remote unauthenticated attacker to conduct a man-in-the-middle attack. A successful exploitation may result in a malicious file being downloaded and executed.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-31",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5099 ‼\n\nThe HTML filter and csv-file search plugin for WordPress is vulnerable to Local File Inclusion in versions up to, and including, 2.7 via the 'src' attribute of the 'csvsearch' shortcode. This allows authenticated attackers, with contributor-level permissions and above, to include and execute arbitrary files on the server, allowing the execution of any PHP code in those files. This can be used to bypass access controls, obtain sensitive data, or achieve code execution in cases where images and other â€œsafeâ€� file types can be uploaded and included.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-10-31",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-45996 ‼\n\nSQL injection vulnerability in Senayan Library Management Systems Slims v.9 and Bulian v.9.6.1 allows a remote attacker to obtain sensitive information and execute arbitrary code via a crafted script to the reborrowLimit parameter in the member_type.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
