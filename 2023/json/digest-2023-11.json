@@ -1,6 +1,11 @@
 {
     "date": "2023-11-01",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-4197 ‼\n\nImproper input validation in Dolibarr ERP CRM <= v18.0.1 fails to strip certain PHP code from user-supplied input when creating a Website, allowing an attacker to inject and evaluate arbitrary PHP code.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-01",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-47094 ‼\n\nAn issue was discovered in Virtualmin 7.7. A Stored Cross-Site Scripting (XSS) vulnerability was discovered in the Account Plans tab of System Settings via the Plan Name field. Whenever the module is accessed, the XSS payload is executed.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
