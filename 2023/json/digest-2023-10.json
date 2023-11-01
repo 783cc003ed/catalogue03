@@ -1,5 +1,13 @@
 {
     "date": "2023-10-31",
+    "from_channel": "defcon_news",
+    "message": "TikTok: CRLF injection leads to internal XSS on PangleGlobal\nhttps://vulners.com/hackerone/H1:2189960?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "A cross-site scripting vulnerability was found on a Pangle endpoint due to CRLF injection on the 'file_name' parameter. This was caused by the reflection of user-supplied data without appropriate HTML escaping or output encoding and could have...",
+    "webpage_url": "https://vulners.com/hackerone/H1:2189960?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
+    "date": "2023-10-31",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-31212 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in CRM Perks Database for Contact Form 7, WPforms, Elementor forms contact-form-entries allows SQL Injection.This issue affects Database for Contact Form 7, WPforms, Elementor forms: from n/a through 1.3.0.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
