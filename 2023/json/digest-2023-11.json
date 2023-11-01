@@ -1,5 +1,10 @@
 {
     "date": "2023-11-01",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2022-48457 ‼\n\nIn TeleService, there is a possible system crash due to improper input validation. This could lead to local denial of service with no additional execution privileges needed\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-01",
     "from_channel": "defcon_news",
     "message": "Critical phpFox RCE Vulnerability Risked Social Networks\nhttps://www.reddit.com/r/netsec/comments/17l9uju/critical_phpfox_rce_vulnerability_risked_social/",
     "urls": [],
