@@ -1,6 +1,16 @@
 {
     "date": "2023-11-01",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5480 ‼\n\nInappropriate implementation in Payments in Google Chrome prior to 119.0.6045.105 allowed a remote attacker to bypass XSS preventions via a malicious file. (Chromium security severity: High)\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-01",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5766 ‼\n\nA remote code execution vulnerability in Remote Desktop Manager 2023.2.33 and earlier on Windows allows an attacker to remotely execute code from another windows user session on the same host via a specially crafted TCP packet.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-01",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-40062 ‼\n\nSolarWinds Platform Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability. If executed, this vulnerability would allow a low-privileged user to execute commands with SYSTEM privileges.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
