@@ -1,6 +1,46 @@
 {
     "date": "2023-11-01",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-40062 ‼\n\nSolarWinds Platform Incomplete List of Disallowed Inputs Remote Code Execution Vulnerability. If executed, this vulnerability would allow a low-privileged user to execute commands with SYSTEM privileges.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-01",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-20005 ‼\n\nMultiple vulnerabilities in the web-based management interface of Cisco Firepower Management Center (FMC) Software could allow an unauthenticated, remote attacker to conduct a stored cross-site scripting (XSS) attack against a user of the interface of an affected device. These vulnerabilities are due to insufficient validation of user-supplied input by the web-based management interface. An attacker could exploit these vulnerabilities by inserting crafted input into various data fields in an affected interface. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface, or access sensitive, browser-based information. In some cases, it is also possible to cause a temporary availability impact to portions of the FMC Dashboard.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-01",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5178 ‼\n\nA use-after-free vulnerability was found in drivers/nvme/target/tcp.c` in `nvmet_tcp_free_crypto` due to a logical bug in the NVMe-oF/TCP subsystem in the Linux kernel. This issue may allow a malicious user to cause a use-after-free and double-free problem, which may permit remote code execution or lead to local privilege escalation in case that the attacker already has local privileges.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-01",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33226 ‼\n\nThe Network Configuration Manager was susceptible to a Directory Traversal Remote Code Execution Vulnerability. This vulnerability allows a low-level user to perform the actions with SYSTEM privileges.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-01",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-33227 ‼\n\nThe Network Configuration Manager was susceptible to a Directory Traversal Remote Code Execution Vulnerability This vulnerability allows a low level user to perform the actions with SYSTEM privileges.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-01",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46911 ‼\n\nThere is a Cross Site Scripting (XSS) vulnerability in the choose_style_tree.do interface of Jspxcms v10.2.0 backend.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-01",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-20206 ‼\n\nMultiple vulnerabilities in the web-based management interface of Cisco Firepower Management Center (FMC) Software could allow an unauthenticated, remote attacker to conduct a stored cross-site scripting (XSS) attack against a user of the interface of an affected device. These vulnerabilities are due to insufficient validation of user-supplied input by the web-based management interface. An attacker could exploit these vulnerabilities by inserting crafted input into various data fields in an affected interface. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface, or access sensitive, browser-based information. In some cases, it is also possible to cause a temporary availability impact to portions of the FMC Dashboard.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-01",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-20074 ‼\n\nMultiple vulnerabilities in the web-based management interface of Cisco Firepower Management Center (FMC) Software could allow an unauthenticated, remote attacker to conduct a stored cross-site scripting (XSS) attack against a user of the interface of an affected device. These vulnerabilities are due to insufficient validation of user-supplied input by the web-based management interface. An attacker could exploit these vulnerabilities by inserting crafted input into various data fields in an affected interface. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface, or access sensitive, browser-based information. In some cases, it is also possible to cause a temporary availability impact to portions of the FMC Dashboard.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-01",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-48457 ‼\n\nIn TeleService, there is a possible system crash due to improper input validation. This could lead to local denial of service with no additional execution privileges needed\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
