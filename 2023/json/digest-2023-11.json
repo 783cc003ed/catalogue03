@@ -1,5 +1,10 @@
 {
     "date": "2023-11-02",
+    "from_channel": "proxy_bar",
+    "message": "exploit for cve-2023-46747 \nF5 BIG-IP unauthenticated remote code execution \n*\nexploit"
+}
+{
+    "date": "2023-11-02",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-45113 ‼\n\nOnline Examination System v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities. The 'name' parameter of the feed.php resource does not validate the characters received and they are sent unfiltered to the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
