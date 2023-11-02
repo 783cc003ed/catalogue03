@@ -1,6 +1,16 @@
 {
     "date": "2023-11-02",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5923 ‼\n\nA vulnerability classified as critical has been found in Campcodes Simple Student Information System 1.0. This affects an unknown part of the file /admin/index.php. The manipulation of the argument id leads to sql injection. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-244323.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5924 ‼\n\nA vulnerability classified as critical was found in Campcodes Simple Student Information System 1.0. This vulnerability affects unknown code of the file /admin/courses/view_course.php. The manipulation of the argument id leads to sql injection. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-244324.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-02",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-46925 ‼\n\nReportico 7.1.21 is vulnerable to Cross Site Scripting (XSS).\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
