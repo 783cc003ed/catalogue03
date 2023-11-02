@@ -1,4 +1,14 @@
 {
+    "date": "2023-11-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-44025 ‼\n\nSQL injection vulnerability in addify Addifyfreegifts v.1.0.2 and before allows a remote attacker to execute arbitrary code via a crafted script to the getrulebyid function in the AddifyfreegiftsModel.php component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46448 ‼\n\nReflected Cross-Site Scripting (XSS) vulnerability in dmpop Mejiro Commit Versions Prior To 3096393 allows attackers to run arbitrary code via crafted string in metadata of uploaded images.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
     "date": "2023-11-01",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-5480 ‼\n\nInappropriate implementation in Payments in Google Chrome prior to 119.0.6045.105 allowed a remote attacker to bypass XSS preventions via a malicious file. (Chromium security severity: High)\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
