@@ -1,6 +1,11 @@
 {
     "date": "2023-11-02",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-46925 ‼\n\nReportico 7.1.21 is vulnerable to Cross Site Scripting (XSS).\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-02",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-45333 ‼\n\nOnline Food Ordering System v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities. The 'verified' parameter of the routers/add-users.php resource does not validate the characters received and they are sent unfiltered to the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
