@@ -1,6 +1,66 @@
 {
     "date": "2023-11-02",
     "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45113 ‼\n\nOnline Examination System v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities. The 'name' parameter of the feed.php resource does not validate the characters received and they are sent unfiltered to the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45017 ‼\n\nOnline Bus Booking System v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities. The 'destination' parameter of the search.php resource does not validate the characters received and they are sent unfiltered to the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45111 ‼\n\nOnline Examination System v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities.Â The 'email' parameter of the feed.php resource does not validate the characters received and they are sent unfiltered to the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45015 ‼\n\nOnline Bus Booking System v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities. The 'date' parameter of the bus_info.php resource does not validate the characters received and they are sent unfiltered to the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45112 ‼\n\nOnline Examination System v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities. The 'feedback' parameter of the feed.php resource does not validate the characters received and they are sent unfiltered to the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45018 ‼\n\nOnline Bus Booking System v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities. The 'username' parameter of the includes/login.php resource does not validate the characters received and they are sent unfiltered to the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45014 ‼\n\nOnline Bus Booking System v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities. The 'bus_id' parameter of the bus_info.php resource does not validate the characters received and they are sent unfiltered to the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45013 ‼\n\nOnline Bus Booking System v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities. The 'user_query' parameter of the bus_info.php resource does not validate the characters received and they are sent unfiltered to the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45114 ‼\n\nOnline Examination System v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities. The 'subject' parameter of the feed.php resource does not validate the characters received and they are sent unfiltered to the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45012 ‼\n\nOnline Bus Booking System v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities.Â The 'user_email' parameter of the bus_info.php resource does not validate the characters received and they are sent unfiltered to the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45016 ‼\n\nOnline Bus Booking System v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities. The 'source' parameter of the search.php resource does not validate the characters received and they are sent unfiltered to the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-45019 ‼\n\nOnline Bus Booking System v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities. The 'category' parameter of the category.php resource does not validate the characters received and they are sent unfiltered to the database.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-02",
+    "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-44025 ‼\n\nSQL injection vulnerability in addify Addifyfreegifts v.1.0.2 and before allows a remote attacker to execute arbitrary code via a crafted script to the getrulebyid function in the AddifyfreegiftsModel.php component.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
