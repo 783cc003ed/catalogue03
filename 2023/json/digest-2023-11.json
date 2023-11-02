@@ -1,5 +1,15 @@
 {
     "date": "2023-11-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-43193 ‼\n\nSubmitty before v22.06.00 is vulnerable to Cross Site Scripting (XSS). An attacker can create a malicious link in the forum that leads to XSS.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-02",
+    "from_channel": "cibsecurity",
+    "message": "‼ CVE-2023-5918 ‼\n\nA vulnerability, which was classified as critical, was found in SourceCodester Visitor Management System 1.0. Affected is an unknown function of the file manage_user.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-244308.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-11-02",
     "from_channel": "proxy_bar",
     "message": "exploit for cve-2023-46747 \nF5 BIG-IP unauthenticated remote code execution \n*\nexploit"
 }
