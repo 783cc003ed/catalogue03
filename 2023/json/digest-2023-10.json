@@ -1975,6 +1975,11 @@
     "message": "‼ CVE-2023-4530 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Turna Advertising Administration Panel allows SQL Injection.This issue affects Advertising Administration Panel: before 1.1.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
+    "date": "2023-10-06",
+    "from_channel": "it_secur",
+    "message": "🗞 Inception 7.\n\n•  Очередной подгон наших коллег с форума XSS.IS. На этот раз с нами делятся журналом, в котором содержится авторский и платный материал форума (описание в файле выше или на скриншотах).\n\n•  Скачивайте, делитесь с друзьями и не забывайте прожать свой царский лайк. Ребята очень старались 👍\n\n➡ Топик на форуме с обсуждением выпуска: https://xss.is/threads/99403/\n\n•  VT.\n\n#RU #XSS"
+}
+{
     "date": "2023-10-05",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-43983 ‼\n\nPresto Changeo attributegrid up to 2.0.3 was discovered to contain a SQL injection vulnerability via the component disable_json.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
