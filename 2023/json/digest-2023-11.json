@@ -1,4 +1,11 @@
 {
+    "date": "2023-11-10",
+    "from_channel": "cibsecurity",
+    "message": "🦿 Microsoft and SysAid Find Clop Malware Vulnerability 🦿\n\nSysAid has patched a zero-day vulnerability that could allow attackers to exfiltrate data and launch ransomware.\n\n📖 Read\n\nvia \"Tech Republic\".",
+    "webpage_description": "SysAid has patched a zero-day vulnerability that could allow attackers to exfiltrate data and launch ransomware.",
+    "webpage_url": "https://www.techrepublic.com/article/sysaid-clop-malware-vulnerability-exploitation/"
+}
+{
     "date": "2023-11-09",
     "from_channel": "sysadm_in_channel",
     "message": "Veeam ONE allows an unauthenticated user to gain information about the SQL server connection Veeam ONE uses to access its configuration database. \n\nThis may lead to remote code execution on the SQL server hosting the Veeam ONE configuration database.\n\nAnde next: CVE-2023-38548\nA vulnerability in Veeam ONE allows an unprivileged user who has access to the Veeam ONE Web Client the ability to acquire the NTLM hash of the account used by the Veeam ONE Reporting Service..: \n\nhttps://www.veeam.com/kb4508",
