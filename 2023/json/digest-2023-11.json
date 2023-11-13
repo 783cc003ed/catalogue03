@@ -1,4 +1,20 @@
 {
+    "date": "2023-11-13",
+    "from_channel": "defcon_news",
+    "message": "Travel 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/175642/travel10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/175642/travel10-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-11-13",
+    "from_channel": "defcon_news",
+    "message": "Elementor Website Builder SQL Injection\nhttps://packetstormsecurity.com/files/175639/ewb3-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/175639/ewb3-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
     "date": "2023-11-10",
     "from_channel": "cibsecurity",
     "message": "🦿 Microsoft and SysAid Find Clop Malware Vulnerability 🦿\n\nSysAid has patched a zero-day vulnerability that could allow attackers to exfiltrate data and launch ransomware.\n\n📖 Read\n\nvia \"Tech Republic\".",
