@@ -1,4 +1,36 @@
 {
+    "date": "2023-11-14",
+    "from_channel": "defcon_news",
+    "message": "Apache ActiveMQ Unauthenticated Remote Code Execution\nhttps://packetstormsecurity.com/files/175676/apache_activemq_rce_cve_2023_46604.rb.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/175676/apache_activemq_rce_cve_2023_46604.rb.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-11-14",
+    "from_channel": "defcon_news",
+    "message": "Cisco IOX XE Unauthenticated Remote Code Execution\nhttps://packetstormsecurity.com/files/175674/cisco_ios_xe_rce.rb.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/175674/cisco_ios_xe_rce.rb.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-11-14",
+    "from_channel": "defcon_news",
+    "message": "WordPress Contact Form To Any API 1.1.2 SQL Injection\nhttps://packetstormsecurity.com/files/175654/wpcftaa112-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/175654/wpcftaa112-sql.txt"
+}
+{
+    "date": "2023-11-14",
+    "from_channel": "defcon_news",
+    "message": "Penglead 2.0 SQL Injection\nhttps://packetstormsecurity.com/files/175649/penglead20-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/175649/penglead20-sql.txt"
+}
+{
     "date": "2023-11-13",
     "from_channel": "defcon_news",
     "message": "Travel 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/175642/travel10-sql.txt",
