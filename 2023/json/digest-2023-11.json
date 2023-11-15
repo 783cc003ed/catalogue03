@@ -1,4 +1,10 @@
 {
+    "date": "2023-11-15",
+    "from_channel": "freedomf0x",
+    "message": "CVE-2023-36427\n\n#LPE #POC\n\nhttps://github.com/tandasat/CVE-2023-36427#cve-2023-36427",
+    "urls": []
+}
+{
     "date": "2023-11-14",
     "from_channel": "defcon_news",
     "message": "Apache ActiveMQ Unauthenticated Remote Code Execution\nhttps://packetstormsecurity.com/files/175676/apache_activemq_rce_cve_2023_46604.rb.txt",
