@@ -1,4 +1,9 @@
 {
+    "date": "2023-11-16",
+    "from_channel": "it_secur",
+    "message": "🔝 OWASP API Security Top 10 2023.\n\n•  API1:2023 - Broken Object Level Authorization;\n•  API2:2023 - Broken Authentication;\n•  API3:2023 - Broken Object Property Level Authorization;\n•  API4:2023 - Unrestricted Resource Consumption;\n•  API5:2023 - Broken Function Level Authorization;\n•  API6:2023 - Unrestricted Access to Sensitive Business Flows;\n•  API7:2023 - Server Side Request Forgery;\n•  API8:2023 - Security Misconfiguration;\n•  API9:2023 - Improper Inventory Management;\n•  API10:2023 - Unsafe Consumption of APIs.\n\n➡ https://blog.devsecopsguides.com\n\n#DevSecOps #Security #API"
+}
+{
     "date": "2023-11-15",
     "from_channel": "freedomf0x",
     "message": "CVE-2023-36427\n\n#LPE #POC\n\nhttps://github.com/tandasat/CVE-2023-36427#cve-2023-36427",
