@@ -1,4 +1,12 @@
 {
+    "date": "2023-11-17",
+    "from_channel": "defcon_news",
+    "message": "U.S. Dept Of Defense: XSS in Cisco Endpoint\nhttps://vulners.com/hackerone/H1:2233421?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
+    "webpage_description": "Description: Multiple vulnerabilities in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct cross-site...",
+    "webpage_url": "https://vulners.com/hackerone/H1:2233421?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+}
+{
     "date": "2023-11-16",
     "from_channel": "it_secur",
     "message": "🔝 OWASP API Security Top 10 2023.\n\n•  API1:2023 - Broken Object Level Authorization;\n•  API2:2023 - Broken Authentication;\n•  API3:2023 - Broken Object Property Level Authorization;\n•  API4:2023 - Unrestricted Resource Consumption;\n•  API5:2023 - Broken Function Level Authorization;\n•  API6:2023 - Unrestricted Access to Sensitive Business Flows;\n•  API7:2023 - Server Side Request Forgery;\n•  API8:2023 - Security Misconfiguration;\n•  API9:2023 - Improper Inventory Management;\n•  API10:2023 - Unsafe Consumption of APIs.\n\n➡ https://blog.devsecopsguides.com\n\n#DevSecOps #Security #API"
