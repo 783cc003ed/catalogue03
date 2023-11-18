@@ -1,4 +1,9 @@
 {
+    "date": "2023-11-18",
+    "from_channel": "proxy_bar",
+    "message": "CVE-2023-4357 Chrome XXE\n*\nPOC\nприкольно, осталось песочницу обойти 👌\n\n#chrome #sandbox"
+}
+{
     "date": "2023-11-17",
     "from_channel": "defcon_news",
     "message": "U.S. Dept Of Defense: XSS in Cisco Endpoint\nhttps://vulners.com/hackerone/H1:2233421?utm_source=rss&utm_medium=rss&utm_campaign=rss",
