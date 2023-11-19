@@ -1,5 +1,13 @@
 {
     "date": "2023-11-19",
+    "from_channel": "defcon_news",
+    "message": "XXE уязвимости\nhttps://codeby.net/threads/xxe-ujazvimosti.82591/",
+    "urls": [],
+    "webpage_description": "Привет уважаемые форумчане!\n\nПеред тем, как мы начнем рассматривать очень интересную и сложную тему, мне бы хотелось сказать несколько слов. Меня можно поздравить, я перестал быть куратором курса...",
+    "webpage_url": "https://codeby.net/threads/xxe-ujazvimosti.82591/"
+}
+{
+    "date": "2023-11-19",
     "from_channel": "freedomf0x",
     "message": "#LPE exploit for CVE-2023-2598\nhttps://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598",
     "urls": []
@@ -9,6 +17,19 @@
     "from_channel": "freedomf0x",
     "message": "#CVE-2023-46214\nSplunk RCE - PoC\nhttps://github.com/nathan31337/Splunk-RCE-poc",
     "urls": []
+}
+{
+    "date": "2023-11-19",
+    "from_channel": "RalfHackerChannel",
+    "message": "CVE-2023-46214: Splunk RCE\n\nhttps://github.com/nathan31337/Splunk-RCE-poc\n\n#git #exploit #pentest #redteam",
+    "urls": [],
+    "webpage_description": "Contribute to nathan31337/Splunk-RCE-poc development by creating an account on GitHub.",
+    "webpage_url": "https://github.com/nathan31337/Splunk-RCE-poc"
+}
+{
+    "date": "2023-11-19",
+    "from_channel": "proxy_bar",
+    "message": "CVE-2023-46214 - Splunk RCE\n*\nProof of concept exploit\n\n#splunk"
 }
 {
     "date": "2023-11-18",
