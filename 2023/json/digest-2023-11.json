@@ -1,4 +1,16 @@
 {
+    "date": "2023-11-19",
+    "from_channel": "freedomf0x",
+    "message": "#LPE exploit for CVE-2023-2598\nhttps://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598",
+    "urls": []
+}
+{
+    "date": "2023-11-19",
+    "from_channel": "freedomf0x",
+    "message": "#CVE-2023-46214\nSplunk RCE - PoC\nhttps://github.com/nathan31337/Splunk-RCE-poc",
+    "urls": []
+}
+{
     "date": "2023-11-18",
     "from_channel": "proxy_bar",
     "message": "CVE-2023-4357 Chrome XXE\n*\nPOC\nприкольно, осталось песочницу обойти 👌\n\n#chrome #sandbox"
