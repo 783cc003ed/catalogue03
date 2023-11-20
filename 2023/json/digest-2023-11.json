@@ -1,6 +1,14 @@
 {
     "date": "2023-11-20",
     "from_channel": "defcon_news",
+    "message": "PHPJabbers Availability Booking Calendar 5.0 CSV Injection\nhttps://packetstormsecurity.com/files/175804/phpjabbersabc50-csvinject.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/175804/phpjabbersabc50-csvinject.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-11-20",
+    "from_channel": "defcon_news",
     "message": "CVE-2023-45878: Vulnerability in Gibbon Edu Leads to Unauthenticated RCE\nhttps://www.reddit.com/r/netsec/comments/17zjtmj/cve202345878_vulnerability_in_gibbon_edu_leads_to/",
     "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
