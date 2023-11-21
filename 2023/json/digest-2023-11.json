@@ -1,4 +1,11 @@
 {
+    "date": "2023-11-21",
+    "from_channel": "cibsecurity",
+    "message": "🕴 Exploit for Critical Windows Defender Bypass Goes Public 🕴\n\nThreat actors were actively exploiting CVE-2023-36025 in Windows SmartScreen as a zero-day vulnerability before Microsoft patched it in November.\n\n📖 Read\n\nvia \"Dark Reading\".",
+    "webpage_description": "Threat actors were actively exploiting CVE-2023-36025 in Windows SmartScreen as a zero-day vulnerability before Microsoft patched it in November.",
+    "webpage_url": "https://www.darkreading.com/vulnerabilities-threats/exploit-critical-windows-defender-bypass-public"
+}
+{
     "date": "2023-11-20",
     "from_channel": "defcon_news",
     "message": "PHPJabbers Availability Booking Calendar 5.0 CSV Injection\nhttps://packetstormsecurity.com/files/175804/phpjabbersabc50-csvinject.txt",
