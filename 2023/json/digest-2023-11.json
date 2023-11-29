@@ -1,5 +1,13 @@
 {
     "date": "2023-11-29",
+    "from_channel": "defcon_news",
+    "message": "Google Patches Seventh Chrome Zero-Day Of 2023\nhttps://packetstormsecurity.com/news/view/35242/Google-Patches-Seventh-Chrome-Zero-Day-Of-2023.html",
+    "urls": [],
+    "webpage_description": "The latest Chrome security update addresses the seventh exploited zero-day vulnerability documented in the browser in 2023.",
+    "webpage_url": "https://packetstormsecurity.com/news/view/35242/Google-Patches-Seventh-Chrome-Zero-Day-Of-2023.html"
+}
+{
+    "date": "2023-11-29",
     "from_channel": "freedomf0x",
     "message": "Недавно решил пройти задачи, связанные с client-side на rootme.\nПервым типом таких тасков выбрал XSS. Поэтому в этой статье кратко рассказал о разновидностях этой атаки и продемонстрировал решение Self XSS - DOM Secrets"
 }
