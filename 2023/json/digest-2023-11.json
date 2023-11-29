@@ -1,4 +1,9 @@
 {
+    "date": "2023-11-29",
+    "from_channel": "freedomf0x",
+    "message": "Недавно решил пройти задачи, связанные с client-side на rootme.\nПервым типом таких тасков выбрал XSS. Поэтому в этой статье кратко рассказал о разновидностях этой атаки и продемонстрировал решение Self XSS - DOM Secrets"
+}
+{
     "date": "2023-11-28",
     "from_channel": "sysadm_in_channel",
     "message": "/ Analysis of CVE-2023-46214 + PoC. Remote Code Execution (RCE) vulnerability in Splunk Enterprise\n\nhttps://blog.hrncirik.net/cve-2023-46214-analysis",
