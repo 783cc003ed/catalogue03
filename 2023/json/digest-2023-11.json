@@ -1,6 +1,14 @@
 {
     "date": "2023-11-29",
     "from_channel": "defcon_news",
+    "message": "Update now! Chrome fixes actively exploited zero-day vulnerability\nhttps://www.malwarebytes.com/blog/news/2023/11/update-now-chrome-fixes-actively-exploited-zero-day-vulnerability",
+    "urls": [],
+    "webpage_description": "Google's released an update to Chrome which includes seven security fixes. Make sure you're using the latest version!",
+    "webpage_url": "https://www.malwarebytes.com/blog/news/2023/11/update-now-chrome-fixes-actively-exploited-zero-day-vulnerability"
+}
+{
+    "date": "2023-11-29",
+    "from_channel": "defcon_news",
     "message": "Google Patches Seventh Chrome Zero-Day Of 2023\nhttps://packetstormsecurity.com/news/view/35242/Google-Patches-Seventh-Chrome-Zero-Day-Of-2023.html",
     "urls": [],
     "webpage_description": "The latest Chrome security update addresses the seventh exploited zero-day vulnerability documented in the browser in 2023.",
