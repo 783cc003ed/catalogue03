@@ -38,7 +38,8 @@
 {
     "date": "2023-11-21",
     "from_channel": "cibsecurity",
-    "message": "🕴 Exploit for Critical Windows Defender Bypass Goes Public 🕴\n\nThreat actors were actively exploiting CVE-2023-36025 in Windows SmartScreen as a zero-day vulnerability before Microsoft patched it in November.\n\n📖 Read\n\nvia \"Dark Reading\"."
+    "message": "🕴 Exploit for Critical Windows Defender Bypass Goes Public 🕴\n\nThreat actors were actively exploiting CVE-2023-36025 in Windows SmartScreen as a zero-day vulnerability before Microsoft patched it in November.\n\n📖 Read\n\nvia \"Dark Reading\".",
+    "webpage_url": "https://www.darkreading.com/vulnerabilities-threats/exploit-critical-windows-defender-bypass-public"
 }
 {
     "date": "2023-11-20",
