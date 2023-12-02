@@ -1,4 +1,9 @@
 {
+    "date": "2023-11-30",
+    "from_channel": "it_secur",
+    "message": "⚙ All in One. Hacking tools.\n\n•  Hackingtool — это комплексный хакерский инструмент, который включает в себя все основные тулзы пентестеров и хакеров.\n\n•  Репозиторий имеет 29.6K звёзд и постоянно обновляется. Включает в себя инструменты из следующих категорий:\n\n - Anonymously Hiding Tools;\n - Information gathering tools;\n - Wordlist Generator;\n - Wireless attack tools;\n - SQL Injection Tools;\n - Phishing attack tools;\n - Web Attack tools;\n - Post exploitation tools;\n - Forensic tools;\n - Payload creation tools;\n - Exploit framework;\n - Reverse engineering tools;\n - DDOS Attack Tools;\n - Remote Administrator Tools (RAT);\n - XSS Attack Tools;\n - Steganograhy tools;\n - SocialMedia Bruteforce;\n - Android Hacking tools;\n - IDN Homograph Attack;\n - Email Verify tools;\n - Hash cracking tools;\n - Wifi Deauthenticate;\n - SocialMedia Finder;\n - Payload Injector;\n - Web crawling;\n - Mix tools.\n\n•  https://github.com/Z4nzu/hackingtool\n\n#ИБ"
+}
+{
     "date": "2023-11-29",
     "from_channel": "defcon_news",
     "message": "Update now! Chrome fixes actively exploited zero-day vulnerability\nhttps://www.malwarebytes.com/blog/news/2023/11/update-now-chrome-fixes-actively-exploited-zero-day-vulnerability",
