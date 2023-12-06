@@ -1,4 +1,52 @@
 {
+    "date": "2023-12-05",
+    "from_channel": "defcon_news",
+    "message": "Argument injection leading to unauthenticated RCE and authentication bypass in Atos Unify OpenScape Session Border Controller (and Branch, BCF products)\nhttps://www.reddit.com/r/netsec/comments/18b692k/argument_injection_leading_to_unauthenticated_rce/",
+    "urls": [],
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/18b692k/argument_injection_leading_to_unauthenticated_rce/"
+}
+{
+    "date": "2023-12-04",
+    "from_channel": "defcon_news",
+    "message": "PHPJabbers Appointment Scheduler 3.0 CSV Injection\nhttps://packetstormsecurity.com/files/176058/phpjabbersas30-csvinject.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/176058/phpjabbersas30-csvinject.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-12-04",
+    "from_channel": "defcon_news",
+    "message": "PHPJabbers Car Rental 3.0 CSV Injection\nhttps://packetstormsecurity.com/files/176045/phpjabberscarrental30-csvinject.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/176045/phpjabberscarrental30-csvinject.txt"
+}
+{
+    "date": "2023-12-04",
+    "from_channel": "defcon_news",
+    "message": "PHPJabbers Shuttle Booking Software 2.0 CSV Injection\nhttps://packetstormsecurity.com/files/176038/phpjabberssbs20-csvinject.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/176038/phpjabberssbs20-csvinject.txt"
+}
+{
+    "date": "2023-12-04",
+    "from_channel": "defcon_news",
+    "message": "PHPJabbers Time Slots Booking Calendar 4.0 CSV Injection\nhttps://packetstormsecurity.com/files/176034/phpjabberstsbc40-csvinject.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/176034/phpjabberstsbc40-csvinject.txt"
+}
+{
+    "date": "2023-12-04",
+    "from_channel": "defcon_news",
+    "message": "GaatiTrack Courier Management System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/176030/gaatitrackcms10-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/176030/gaatitrackcms10-sql.txt"
+}
+{
     "date": "2023-12-03",
     "from_channel": "Social_engineering",
     "message": "📚 APT война с Виндой.\n\n•  Если Вы активный читатель S.E., то наверняка помните, что ранее я делился с Вами ссылками на перевод книги \"APT война с Виндой\". \n\n•  Дело в том, что часть этой книги была опубликована на хабре, а вторая часть на XSS. Но мир не без добрых людей, перевод данной книги был собран в единый pdf файл и теперь не нужно прыгать по страничкам на разных ресурсах.\n\n☁️ Я залил книгу в наше облако, можете переходить, скачивать, читать и делиться с друзьями. Приятного чтения и хороших выходных =)\n\nS.E. ▪️ infosec.work"
