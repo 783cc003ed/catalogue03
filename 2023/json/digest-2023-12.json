@@ -1,4 +1,12 @@
 {
+    "date": "2023-12-06",
+    "from_channel": "defcon_news",
+    "message": "Unicode XSS via Combining Characters\nhttps://www.reddit.com/r/netsec/comments/18bctu4/unicode_xss_via_combining_characters/",
+    "urls": [],
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/18bctu4/unicode_xss_via_combining_characters/"
+}
+{
     "date": "2023-12-05",
     "from_channel": "defcon_news",
     "message": "Argument injection leading to unauthenticated RCE and authentication bypass in Atos Unify OpenScape Session Border Controller (and Branch, BCF products)\nhttps://www.reddit.com/r/netsec/comments/18b692k/argument_injection_leading_to_unauthenticated_rce/",
