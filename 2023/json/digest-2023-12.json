@@ -1,4 +1,28 @@
 {
+    "date": "2023-12-08",
+    "from_channel": "defcon_news",
+    "message": "ISPConfig 3.2.11 PHP Code Injection\nhttps://packetstormsecurity.com/files/176126/KIS-2023-13.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/176126/KIS-2023-13.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-12-08",
+    "from_channel": "defcon_news",
+    "message": "osCommerce 4 SQL Injection\nhttps://packetstormsecurity.com/files/176124/oscommerce4-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/176124/oscommerce4-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-12-08",
+    "from_channel": "defcon_news",
+    "message": "WordPress 6.4.2 Patches Remote Code Execution Vulnerability\nhttps://packetstormsecurity.com/news/view/35282/WordPress-6.4.2-Patches-Remote-Code-Execution-Vulnerability.html",
+    "urls": [],
+    "webpage_description": "WordPress 6.4.2 patches a flaw that could be chained with another vulnerability to execute arbitrary code.",
+    "webpage_url": "https://packetstormsecurity.com/news/view/35282/WordPress-6.4.2-Patches-Remote-Code-Execution-Vulnerability.html"
+}
+{
     "date": "2023-12-07",
     "from_channel": "defcon_news",
     "message": "CVE-2023-46818: PHP Code Injection Vulnerability in ISPConfig <= 3.2.11\nhttps://www.reddit.com/r/netsec/comments/18czyrt/cve202346818_php_code_injection_vulnerability_in/",
