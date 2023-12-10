@@ -1,5 +1,13 @@
 {
     "date": "2023-12-10",
+    "from_channel": "freedomf0x",
+    "message": "#CVE-2023-30547\n#PoC #Exploit for VM2 Sandbox Escape Vulnerability\n\nhttps://github.com/rvizx/CVE-2023-30547",
+    "urls": [],
+    "webpage_description": "PoC Exploit  for VM2 Sandbox Escape Vulnerability. Contribute to rvizx/CVE-2023-30547 development by creating an account on GitHub.",
+    "webpage_url": "https://github.com/rvizx/CVE-2023-30547"
+}
+{
+    "date": "2023-12-10",
     "from_channel": "defcon_news",
     "message": "New payload to exploit Error-based SQL injection - Oracle database\nhttps://www.reddit.com/r/netsec/comments/18eyrrt/new_payload_to_exploit_errorbased_sql_injection/",
     "urls": [],
