@@ -1,4 +1,12 @@
 {
+    "date": "2023-12-10",
+    "from_channel": "defcon_news",
+    "message": "New payload to exploit Error-based SQL injection - Oracle database\nhttps://www.reddit.com/r/netsec/comments/18eyrrt/new_payload_to_exploit_errorbased_sql_injection/",
+    "urls": [],
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/18eyrrt/new_payload_to_exploit_errorbased_sql_injection/"
+}
+{
     "date": "2023-12-08",
     "from_channel": "defcon_news",
     "message": "HackerOne: Server Side Request Forgery (SSRF) via Analytics Reports\nhttps://vulners.com/hackerone/H1:2262382?utm_source=rss&utm_medium=rss&utm_campaign=rss",
