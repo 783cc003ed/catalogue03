@@ -1,6 +1,14 @@
 {
     "date": "2023-12-11",
     "from_channel": "defcon_news",
+    "message": "WordPress Bravo Translate 1.2 SQL Injection\nhttps://packetstormsecurity.com/files/176137/wpbravotranslate12-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/176137/wpbravotranslate12-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2023-12-11",
+    "from_channel": "defcon_news",
     "message": "wrapwrap: using PHP filters to wrap a file with a prefix and suffix (SSRF, file read)\nhttps://www.reddit.com/r/netsec/comments/18fppnh/wrapwrap_using_php_filters_to_wrap_a_file_with_a/",
     "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
