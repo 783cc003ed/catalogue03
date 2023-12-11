@@ -1,4 +1,12 @@
 {
+    "date": "2023-12-11",
+    "from_channel": "freedomf0x",
+    "message": "#exploit\n\n1. #SonicWall WXA - Authentication Bypass and #RCE Vulnerability\n\nhttps://www.praetorian.com/blog/sonicwall-wxa-authentication-bypass-and-rce-vulnerability\n\n2. #CVE-2023-49964:\nFreeMarker Server-Side Template Injection in #Alfresco\n\nhttps://github.com/mbadanoiu/CVE-2023-49964\n\n3. CVE-2022-21392:\n#LPE via NMR SUID in #Oracle Enterprise Manager\n\nhttps://github.com/mbadanoiu/CVE-2022-21392",
+    "urls": [],
+    "webpage_description": "We found that SonicWall WXA distributed a hardcoded key to the end-user , which can lead to unauthenticated remote code execution.",
+    "webpage_url": "https://www.praetorian.com/blog/sonicwall-wxa-authentication-bypass-and-rce-vulnerability/"
+}
+{
     "date": "2023-12-10",
     "from_channel": "freedomf0x",
     "message": "#CVE-2023-30547\n#PoC #Exploit for VM2 Sandbox Escape Vulnerability\n\nhttps://github.com/rvizx/CVE-2023-30547",
