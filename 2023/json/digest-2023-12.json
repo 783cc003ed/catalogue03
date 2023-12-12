@@ -39,6 +39,12 @@
     "webpage_url": "https://www.reddit.com/r/netsec/comments/18eyrrt/new_payload_to_exploit_errorbased_sql_injection/"
 }
 {
+    "date": "2023-12-09",
+    "from_channel": "Leakers_squad",
+    "message": "🔤Networking Basics🔤\n\nNetworking provides access to a vast amount of information available on the internet. \n\n🔓Basic network protocols: \nUnderstand the fundamentals of protocols like TCP/IP, UDP, ICMP, and HTTP. \n\n🔓Network scanning: \nLearn about tools and techniques used to discover and map network resources, such as port scanning, network sniffing, and network mapping. \n\n🔓Network vulnerabilities: \nIdentify common network vulnerabilities, including misconfigurations, weak authentication, open ports, insecure protocols, and weak encryption. \n\n🔓Exploitation techniques: \nFamiliarize yourself with exploitation methods, such as packet injection, man-in-the-middle attacks, DNS spoofing, ARP poisoning, and session hijacking. \n\n🔓Network security tools: \nGain knowledge of various security tools like Wireshark, Nmap, Metasploit, Burp Suite, Snort, and tcpdump for network monitoring, analysis, and penetration testing.\n\n🔓Firewall and IDS/IPS evasion: \nUnderstand how to bypass firewalls and intrusion detection/prevention systems to avoid detection while conducting network attacks. \n\n🔓Social engineering in network hacking:\n \nStudy techniques used to manipulate people for gaining unauthorized access to networks, like phishing, pretexting, baiting, and shoulder surfing. \n\n🔓Wireless network hacking: \nLearn about the security vulnerabilities present in wireless networks, such as Wi-Fi cracking, WEP/WPA2 attacks, rogue access points, and wireless packet injection. \n\n🔓Network forensics: \nAcquire knowledge on investigating and analyzing network-based security incidents, examining network logs, packet captures, and identifying potentials network breaches.\n \n🔓Network hardening: \nUnderstand techniques to secure networks by implementing security best practices, including proper network segmentation, regular patching, strong authentication measures, and encryption.\n\n☘PASS : @its_me_kali \n\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲           \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
+    "urls": []
+}
+{
     "date": "2023-12-08",
     "from_channel": "defcon_news",
     "message": "HackerOne: Server Side Request Forgery (SSRF) via Analytics Reports\nhttps://vulners.com/hackerone/H1:2262382?utm_source=rss&utm_medium=rss&utm_campaign=rss",
