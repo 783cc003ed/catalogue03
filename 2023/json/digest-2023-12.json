@@ -1,4 +1,10 @@
 {
+    "date": "2023-12-12",
+    "from_channel": "defcon_news",
+    "message": "New Critical RCE Vulnerability Discovered in Apache Struts 2 - Patch Now\nhttps://thehackernews.com/2023/12/new-critical-rce-vulnerability.html",
+    "urls": []
+}
+{
     "date": "2023-12-11",
     "from_channel": "defcon_news",
     "message": "WordPress Bravo Translate 1.2 SQL Injection\nhttps://packetstormsecurity.com/files/176137/wpbravotranslate12-sql.txt",
