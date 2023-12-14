@@ -1,6 +1,14 @@
 {
     "date": "2023-12-14",
     "from_channel": "defcon_news",
+    "message": "\"История одного взлома: Моя свадьба с SQL Injection. Как я нашел себя в объятиях 'Бэд Бой' базы данных и вышел оттуда целым!\"\nhttps://codeby.net/threads/istorija-odnogo-vzloma-moja-svadba-s-sql-injection-kak-ja-nashel-sebja-v-objatijax-behd-boj-bazy-dannyx-i-vyshel-ottuda-celym.82451/",
+    "urls": [],
+    "webpage_description": "Да, я прошел курс по SQL Injection Master и теперь мое ядро базы данных полным ходом работает на чистом \"юморе\"! Мои знания на момент начала курса по sql были минимальные, делать простые выборки...",
+    "webpage_url": "https://codeby.net/threads/istorija-odnogo-vzloma-moja-svadba-s-sql-injection-kak-ja-nashel-sebja-v-objatijax-behd-boj-bazy-dannyx-i-vyshel-ottuda-celym.82451/"
+}
+{
+    "date": "2023-12-14",
+    "from_channel": "defcon_news",
     "message": "New Hacker Group 'GambleForce' Tageting APAC Firms Using SQL Injection Attacks\nhttps://thehackernews.com/2023/12/new-hacker-group-gambleforce-tageting.html",
     "urls": []
 }
