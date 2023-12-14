@@ -1,4 +1,40 @@
 {
+    "date": "2023-12-14",
+    "from_channel": "defcon_news",
+    "message": "New Hacker Group 'GambleForce' Tageting APAC Firms Using SQL Injection Attacks\nhttps://thehackernews.com/2023/12/new-hacker-group-gambleforce-tageting.html",
+    "urls": []
+}
+{
+    "date": "2023-12-14",
+    "from_channel": "freedomf0x",
+    "message": "1. #CVE-2023-36424:\n\n#Windows Kernel Pool (clfs.sys) Corruption Privilege Escalation\n\nhttps://ssd-disclosure.com/ssd-advisory-windows-kernel-pool-clfs-sys-corruption-privilege-escalation\n\n2. CVE-2023-46818:\n\nISPConfig <=3.2.11 (language_edit.php) #PHP Code Injection\n\nhttps://seclists.org/fulldisclosure/2023/Dec/2\n\n3. CVE-2023-26035:\n\nUnauth #RCE in ZoneMinder Snapshots\n\nhttps://github.com/rvizx/CVE-2023-26035",
+    "urls": []
+}
+{
+    "date": "2023-12-13",
+    "from_channel": "defcon_news",
+    "message": "New WordPress Update Addressed A POP Chain RCE Vulnerability\nhttps://latesthackingnews.com/2023/12/13/new-wordpress-update-addressed-a-pop-chain-rce-vulnerability/",
+    "urls": [],
+    "webpage_description": "Heads up, WordPress admins! Ensure updating your websites at the earliest as a severe remote code execution (RCE) vulnerability threatens WordPress sites, triggering full website takeover. WordPress patched the flaw with the latest version 6.4.2. A",
+    "webpage_url": "https://latesthackingnews.com/2023/12/13/new-wordpress-update-addressed-a-pop-chain-rce-vulnerability/"
+}
+{
+    "date": "2023-12-13",
+    "from_channel": "defcon_news",
+    "message": "Sensing Vulnerabilities in your pfSense Firewall: From XSS to RCE\nhttps://www.reddit.com/r/netsec/comments/18govys/sensing_vulnerabilities_in_your_pfsense_firewall/",
+    "urls": [],
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/18govys/sensing_vulnerabilities_in_your_pfsense_firewall/"
+}
+{
+    "date": "2023-12-13",
+    "from_channel": "sysadm_in_channel",
+    "message": "/ pfSense Security: Sensing Code Vulnerabilities \n\nAttackers can combine the vulnerabilities to execute arbitrary code on the pfSense appliance remotely. An attacker can trick an authenticated pfSense user into clicking on a maliciously crafted link containing an XSS payload that exploits the command injection vulnerability:\n\nhttps://www.sonarsource.com/blog/pfsense-vulnerabilities-sonarcloud/",
+    "urls": [],
+    "webpage_description": "Our Clean Code solution SonarCloud discovered multiple vulnerabilities leading to remote code execution on pfSense CE 2.7.0. Let's see how SonarCloud found them and how it can keep your code clean.",
+    "webpage_url": "https://www.sonarsource.com/blog/pfsense-vulnerabilities-sonarcloud/"
+}
+{
     "date": "2023-12-12",
     "from_channel": "defcon_news",
     "message": "New Critical RCE Vulnerability Discovered in Apache Struts 2 - Patch Now\nhttps://thehackernews.com/2023/12/new-critical-rce-vulnerability.html",
