@@ -1,4 +1,9 @@
 {
+    "date": "2023-12-15",
+    "from_channel": "proxy_bar",
+    "message": "CVE-2023-49070 - Apache ofbiz\npre-auth RCE POC\n\n#apache"
+}
+{
     "date": "2023-12-14",
     "from_channel": "defcon_news",
     "message": "\"История одного взлома: Моя свадьба с SQL Injection. Как я нашел себя в объятиях 'Бэд Бой' базы данных и вышел оттуда целым!\"\nhttps://codeby.net/threads/istorija-odnogo-vzloma-moja-svadba-s-sql-injection-kak-ja-nashel-sebja-v-objatijax-behd-boj-bazy-dannyx-i-vyshel-ottuda-celym.82451/",
