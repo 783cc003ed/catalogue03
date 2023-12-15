@@ -1,5 +1,13 @@
 {
     "date": "2023-12-15",
+    "from_channel": "defcon_news",
+    "message": "CVE-2023-47271: Remote Code Execution Vulnerability in PKP-WAL <= 3.4.0-3\nhttps://www.reddit.com/r/netsec/comments/18ifr59/cve202347271_remote_code_execution_vulnerability/",
+    "urls": [],
+    "webpage_description": "Posted by eg1x - 1 vote and no comments",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/18ifr59/cve202347271_remote_code_execution_vulnerability/"
+}
+{
+    "date": "2023-12-15",
     "from_channel": "proxy_bar",
     "message": "CVE-2023-49070 - Apache ofbiz\npre-auth RCE POC\n\n#apache"
 }
