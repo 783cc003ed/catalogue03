@@ -1,4 +1,12 @@
 {
+    "date": "2023-12-16",
+    "from_channel": "freedomf0x",
+    "message": "1. #CVE-2023-6295:\nso-widgets-bundle < 1.51.0 - Admin+ #LFI\n\nhttps://0day.work/cve-2023-6295-so-widgets-bundle-1-51-0-admin-local-file-inclusion\n\n2. CVE-2023-49954:\nSQL Injection in 3CX CRM Integration\n\nhttps://github.com/CVE-2023-49954/CVE-2023-49954.github.io\n\n3. #Whatsapp #Exploit to spoofing impersonate of reply message\n\nhttps://github.com/lichti/whats-spoofing",
+    "urls": [],
+    "webpage_description": "In this blog post I'll describe the details of CVE-2023-6295, a local file inclusion in WordPress' so-widgets-bundle plugin.",
+    "webpage_url": "https://0day.work/cve-2023-6295-so-widgets-bundle-1-51-0-admin-local-file-inclusion/"
+}
+{
     "date": "2023-12-15",
     "from_channel": "defcon_news",
     "message": "CVE-2023-47271: Remote Code Execution Vulnerability in PKP-WAL <= 3.4.0-3\nhttps://www.reddit.com/r/netsec/comments/18ifr59/cve202347271_remote_code_execution_vulnerability/",
