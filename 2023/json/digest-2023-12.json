@@ -1,4 +1,12 @@
 {
+    "date": "2023-12-19",
+    "from_channel": "freedomf0x",
+    "message": "#SharePoint Pre-Auth Code Injection #RCE chain #CVE-2023-29357 & CVE-2023-24955 #PoC\n\nhttps://gist.github.com/testanull/dac6029d306147e6cc8dce9424d09868",
+    "urls": [],
+    "webpage_description": "SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 & CVE-2023-24955 PoC - SharePwn_public.py",
+    "webpage_url": "https://gist.github.com/testanull/dac6029d306147e6cc8dce9424d09868"
+}
+{
     "date": "2023-12-16",
     "from_channel": "freedomf0x",
     "message": "1. #CVE-2023-6295:\nso-widgets-bundle < 1.51.0 - Admin+ #LFI\n\nhttps://0day.work/cve-2023-6295-so-widgets-bundle-1-51-0-admin-local-file-inclusion\n\n2. CVE-2023-49954:\nSQL Injection in 3CX CRM Integration\n\nhttps://github.com/CVE-2023-49954/CVE-2023-49954.github.io\n\n3. #Whatsapp #Exploit to spoofing impersonate of reply message\n\nhttps://github.com/lichti/whats-spoofing",
