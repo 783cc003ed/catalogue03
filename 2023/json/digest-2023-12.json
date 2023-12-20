@@ -1,4 +1,12 @@
 {
+    "date": "2023-12-20",
+    "from_channel": "freedomf0x",
+    "message": "1. #CVE-2023-50917:\n#MajorDoMo Unauthenticated #RCE\n\nhttps://github.com/Chocapikk/CVE-2023-50917\n\n2. CVE-2023-41772:\nUIFuckUp #exploit to gain system privileges as user on #Windows 10 (>=1809) and 11\n\nhttps://github.com/R41N3RZUF477/CVE-2023-41772\n\n3. CVE-2023-49786:\n#Asterisk 20.1.0 - DoS via DTLS\n\nhttps://packetstormsecurity.com/files/176251/Asterisk-20.1.0-Denial-Of-Service.html",
+    "urls": [],
+    "webpage_description": "MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques - GitHub - Chocapikk/CVE-2023-50917: MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques",
+    "webpage_url": "https://github.com/Chocapikk/CVE-2023-50917"
+}
+{
     "date": "2023-12-19",
     "from_channel": "freedomf0x",
     "message": "#SharePoint Pre-Auth Code Injection #RCE chain #CVE-2023-29357 & CVE-2023-24955 #PoC\n\nhttps://gist.github.com/testanull/dac6029d306147e6cc8dce9424d09868",
