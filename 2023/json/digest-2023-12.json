@@ -1,6 +1,14 @@
 {
     "date": "2023-12-21",
     "from_channel": "defcon_news",
+    "message": "Google Rushes To Patch Eighth Chrome Zero Day This Year\nhttps://packetstormsecurity.com/news/view/35326/Google-Rushes-To-Patch-Eighth-Chrome-Zero-Day-This-Year.html",
+    "urls": [],
+    "webpage_description": "Google warns of in-the-wild exploitation of CVE-2023-7024, a new Chrome vulnerability, the eighth documented this year.",
+    "webpage_url": "https://packetstormsecurity.com/news/view/35326/Google-Rushes-To-Patch-Eighth-Chrome-Zero-Day-This-Year.html"
+}
+{
+    "date": "2023-12-21",
+    "from_channel": "defcon_news",
     "message": "Urgent: New Chrome Zero-Day Vulnerability Exploited in the Wild - Update ASAP\nhttps://thehackernews.com/2023/12/urgent-new-chrome-zero-day.html",
     "urls": []
 }
