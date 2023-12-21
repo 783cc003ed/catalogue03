@@ -1,4 +1,10 @@
 {
+    "date": "2023-12-21",
+    "from_channel": "defcon_news",
+    "message": "Urgent: New Chrome Zero-Day Vulnerability Exploited in the Wild - Update ASAP\nhttps://thehackernews.com/2023/12/urgent-new-chrome-zero-day.html",
+    "urls": []
+}
+{
     "date": "2023-12-20",
     "from_channel": "freedomf0x",
     "message": "1. #CVE-2023-50917:\n#MajorDoMo Unauthenticated #RCE\n\nhttps://github.com/Chocapikk/CVE-2023-50917\n\n2. CVE-2023-41772:\nUIFuckUp #exploit to gain system privileges as user on #Windows 10 (>=1809) and 11\n\nhttps://github.com/R41N3RZUF477/CVE-2023-41772\n\n3. CVE-2023-49786:\n#Asterisk 20.1.0 - DoS via DTLS\n\nhttps://packetstormsecurity.com/files/176251/Asterisk-20.1.0-Denial-Of-Service.html",
