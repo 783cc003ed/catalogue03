@@ -1,6 +1,14 @@
 {
     "date": "2023-12-21",
     "from_channel": "defcon_news",
+    "message": "Critical RCE Vulnerability Patched in Backup Migration Plugin\nhttps://blog.sucuri.net/2023/12/critical-rce-vulnerability-patched-in-backup-migration-plugin.html",
+    "urls": [],
+    "webpage_description": "Get insights on the severe vulnerability in the Backup Migration WordPress plugin and its latest critical security patch. Understand its impact, patch details, and the vital role of auto-updates and firewalls in securing your website.",
+    "webpage_url": "https://blog.sucuri.net/2023/12/critical-rce-vulnerability-patched-in-backup-migration-plugin.html"
+}
+{
+    "date": "2023-12-21",
+    "from_channel": "defcon_news",
     "message": "Google Rushes To Patch Eighth Chrome Zero Day This Year\nhttps://packetstormsecurity.com/news/view/35326/Google-Rushes-To-Patch-Eighth-Chrome-Zero-Day-This-Year.html",
     "urls": [],
     "webpage_description": "Google warns of in-the-wild exploitation of CVE-2023-7024, a new Chrome vulnerability, the eighth documented this year.",
