@@ -1,4 +1,20 @@
 {
+    "date": "2023-12-22",
+    "from_channel": "defcon_news",
+    "message": "Hospital Management System 4.0 XSS / Shell Upload / SQL Injection\nhttps://packetstormsecurity.com/files/176302/hms40-sqlxssshellupload.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/176302/hms40-sqlxssshellupload.txt"
+}
+{
+    "date": "2023-12-22",
+    "from_channel": "defcon_news",
+    "message": "GilaCMS 1.15.4 SQL Injection\nhttps://packetstormsecurity.com/files/176301/gilacms1154-sql.txt",
+    "urls": [],
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/176301/gilacms1154-sql.txt"
+}
+{
     "date": "2023-12-21",
     "from_channel": "defcon_news",
     "message": "Critical RCE Vulnerability Patched in Backup Migration Plugin\nhttps://blog.sucuri.net/2023/12/critical-rce-vulnerability-patched-in-backup-migration-plugin.html",
