@@ -1,4 +1,12 @@
 {
+    "date": "2023-12-28",
+    "from_channel": "defcon_news",
+    "message": "New payloads to exploit Error-based SQL injection - PostgreSQL database\nhttps://old.reddit.com/r/netsec/comments/18st310/new_payloads_to_exploit_errorbased_sql_injection/",
+    "urls": [],
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://old.reddit.com/r/netsec/comments/18st310/new_payloads_to_exploit_errorbased_sql_injection/"
+}
+{
     "date": "2023-12-26",
     "from_channel": "sysadm_in_channel",
     "message": "/ use-after-free vulnerability in the implementation in Linux kernel nf_tables\n\nOpenwall note: https://www.openwall.com/lists/oss-security/2023/12/22/6\n\nExploit prototype - https://www.openwall.com/lists/oss-security/2023/12/22/6/1",
