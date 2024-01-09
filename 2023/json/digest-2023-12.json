@@ -1,4 +1,379 @@
 {
+    "date": "2023-12-31",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-52265‼️\n\nIDURAR aka idurarerpcrm through 2.0.1 allows stored XSS via a PATCH request with a crafted JSON email template in the apiemailupdate data.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-52265"
+}
+{
+    "date": "2023-12-31",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-52264‼️\n\nThe beesblog aka Bees Blog component before 1.6.2 for thirty bees allows Reflected XSS because controllersfrontpost.php sharingurl is mishandled.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-52264"
+}
+{
+    "date": "2023-12-31",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-7180‼️\n\nA vulnerability has been found in Tongda OA 2017 up to 11.9 and classified as critical. Affected by this vulnerability is an unknown functionality of the file generalprojectprojdelete.php. The manipulation of the argument PROJIDSTR leads to sql injection. The exploit has been disclosed to the public and may be used. Upgrading to version 11.10 is able to address this issue. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB249367. NOTE The vendor was contacted early about this disclosure but did not respond in any way.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-7180"
+}
+{
+    "date": "2023-12-31",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-7179‼️\n\nA vulnerability, which was classified as critical, was found in Campcodes Online College Library System 1.0. Affected is an unknown function of the file admincategoryrow.php of the component HTTP POST Request Handler. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB249366 is the identifier assigned to this vulnerability.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-7179"
+}
+{
+    "date": "2023-12-31",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-7178‼️\n\nA vulnerability, which was classified as critical, has been found in Campcodes Online College Library System 1.0. This issue affects some unknown processing of the file adminbookrow.php of the component HTTP POST Request Handler. The manipulation of the argument id leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB249365 was assigned to this vulnerability.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-7178"
+}
+{
+    "date": "2023-12-31",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-50651‼️\n\nTOTOLINK X6000R v9.4.0cu.852B20230719 was discovered to contain a remote command execution RCE vulnerability via the component cgibincstecgi.cgi.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-50651"
+}
+{
+    "date": "2023-12-31",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-50589‼️\n\nGrupo Embras GEOSIAP ERP v2.2.167.02 was discovered to contain a SQL injection vulnerability via the codLogin parameter on the login page.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-50589"
+}
+{
+    "date": "2023-12-31",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-49299‼️\n\nImproper Input Validation vulnerability in Apache DolphinScheduler. An authenticated user can cause arbitrary, unsandboxed javascript to be executed on the server.This issue affects Apache DolphinScheduler until 3.1.9.  Users are recommended to upgrade to version 3.1.9, which fixes the issue.  \n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-49299"
+}
+{
+    "date": "2023-12-31",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-7177‼️\n\nA vulnerability classified as critical was found in Campcodes Online College Library System 1.0. This vulnerability affects unknown code of the file adminbookadd.php of the component HTTP POST Request Handler. The manipulation of the argument category leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB249364.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-7177"
+}
+{
+    "date": "2023-12-31",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-7176‼️\n\nA vulnerability classified as critical has been found in Campcodes Online College Library System 1.0. This affects an unknown part of the file adminreturnadd.php of the component HTTP POST Request Handler. The manipulation of the argument student leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB249363.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-7176"
+}
+{
+    "date": "2023-12-31",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-50578‼️\n\nMingsoft MCMS v5.2.9 was discovered to contain a SQL injection vulnerability via the categoryType parameter at contentlist.do.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-50578"
+}
+{
+    "date": "2023-12-31",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-50550‼️\n\nlayui up to v2.74 was discovered to contain a crosssite scripting XSS vulnerability via the datacontent parameter.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-50550"
+}
+{
+    "date": "2023-12-31",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-7175‼️\n\nA vulnerability was found in Campcodes Online College Library System 1.0. It has been rated as critical. Affected by this issue is some unknown functionality of the file adminborrowadd.php of the component HTTP POST Request Handler. The manipulation of the argument student leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB249362 is the identifier assigned to this vulnerability.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-7175"
+}
+{
+    "date": "2023-12-31",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-7172‼️\n\nA vulnerability, which was classified as critical, has been found in PHPGurukul Hospital Management System 1.0. Affected by this issue is some unknown functionality of the component Admin Dashboard. The manipulation leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB249356.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-7172"
+}
+{
+    "date": "2023-12-31",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-52257‼️\n\nLogoBee 0.2 allows updates.php?id XSS.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-52257"
+}
+{
+    "date": "2023-12-31",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-41543‼️\n\nSQL injection vulnerability in jeecgboot v3.5.3, allows remote attackers to escalate privileges and obtain sensitive information via the component sysreplicatecheck.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-41543"
+}
+{
+    "date": "2023-12-31",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-41542‼️\n\nSQL injection vulnerability in jeecgboot version 3.5.3, allows remote attackers to escalate privileges and obtain sensitive information via the jmreportqurestSql component.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-41542"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-52240‼️\n\nThe Kantega SAML SSO OIDC Kerberos Single Signon apps before 6.20.0 for Atlassian products allow XSS if SAML POST Binding is enabled. This affects 4.4.2 through 4.14.8 before 4.14.9, 5.0.0 through 5.11.4 before 5.11.5, and 6.0.0 through 6.19.0 before 6.20.0. The full product names are Kantega SAML SSO OIDC Kerberos Single Signon for Jira Data Center  Server Kantega SSO Enterprise, Kantega SAML SSO OIDC Kerberos Single Signon for Confluence Data Center  Server Kantega SSO Enterprise, Kantega SAML SSO OIDC Kerberos Single Signon for Bitbucket Data Center  Server Kantega SSO Enterprise, Kantega SAML SSO OIDC Kerberos Single Signon for Bamboo Data Center  Server Kantega SSO Enterprise, and Kantega SAML SSO OIDC Kerberos Single Signon for FeCru Server Kantega SSO Enterprise. Here, FeCru refers to the Atlassian Fisheye and Crucible products running together.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-52240"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-50071‼️\n\nSourcecodester Customer Support System 1.0 has multiple SQL injection vulnerabilities in customersupportajax.php?actionsavedepartment via id or name.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-50071"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-50070‼️\n\nSourcecodester Customer Support System 1.0 has multiple SQL injection vulnerabilities in customersupportajax.php?actionsaveticket via departmentid, customerid, and subject.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-50070"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-50035‼️\n\nPHPGurukul Small CRM 3.0 is vulnerable to SQL Injection on the Users login panel because of \"password\" parameter is directly used in the SQL query without any sanitization and the SQL Injection payload being executed.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-50035"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2020-17163‼️\n\nVisual Studio Code Python Extension Remote Code Execution Vulnerability\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17163"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-50571‼️\n\neasyrulesmvel v4.1.0 was discovered to contain a remote code execution RCE vulnerability via the component MVELRule.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-50571"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-4675‼️\n\nImproper Neutralization of Special Elements used in an SQL Command 'SQL Injection' vulnerability in GM Information Technologies MDO allows SQL Injection.This issue affects MDO through 20231229.   NOTE The vendor was contacted early about this disclosure but did not respond in any way.    \n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-4675"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-4674‼️\n\nImproper Neutralization of Special Elements used in an SQL Command 'SQL Injection' vulnerability in Yaztek Software Technologies and Computer Systems ECommerce Software allows SQL Injection.This issue affects ECommerce Software through 20231229.   NOTE The vendor was contacted early about this disclosure but did not respond in any way.    \n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-4674"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-4541‼️\n\nImproper Neutralization of Special Elements used in an SQL Command 'SQL Injection' vulnerability in Ween Software Admin Panel allows SQL Injection.This issue affects Admin Panel through 20231229.   NOTE The vendor was contacted early about this disclosure but did not respond in any way.    \n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-4541"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-51676‼️\n\nServerSide Request Forgery SSRF vulnerability in Leevio Happy Addons for Elementor.This issue affects Happy Addons for Elementor from na through 3.9.1.1.  \n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-51676"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-51545‼️\n\nCrossSite Request Forgery CSRF, Deserialization of Untrusted Data vulnerability in ThemeHigh Job Manager  Career  Manage job board listings, and recruitments.This issue affects Job Manager  Career  Manage job board listings, and recruitments from na through 1.4.4.  \n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-51545"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-51505‼️\n\nDeserialization of Untrusted Data vulnerability in realmag777 Active Products Tables for WooCommerce. Professional products tables for WooCommerce store.This issue affects Active Products Tables for WooCommerce. Professional products tables for WooCommerce store  from na through 1.0.6.  \n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-51505"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-51470‼️\n\nDeserialization of Untrusted Data vulnerability in Jacques Malgrange Rencontre  Dating Site.This issue affects Rencontre  Dating Site from na through 3.11.1.  \n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-51470"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-51422‼️\n\nDeserialization of Untrusted Data vulnerability in Saleswonder Team Webinar Plugin Create liveevergreenautomatedinstant webinars, stream  Zoom Meetings  WebinarIgnition.This issue affects Webinar Plugin Create liveevergreenautomatedinstant webinars, stream  Zoom Meetings  WebinarIgnition from na through 3.05.0.  \n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-51422"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-51414‼️\n\nDeserialization of Untrusted Data vulnerability in EnvialoSimple EnvaloSimple Email Marketing y Newsletters.This issue affects EnvaloSimple Email Marketing y Newsletters from na through 2.1.  \n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-51414"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-7080‼️\n\nThe V8 inspector intentionally allows arbitrary code execution within the Workers sandbox for debugging. wrangler dev would previously start an inspector server listening on all network interfaces. This would allow an attacker on the local network to connect to the inspector and run arbitrary code. Additionally, the inspector server did not validate OriginHost headers, granting an attacker that can trick any user on the local network into opening a malicious website the ability to run code. If wrangler dev remote was being used, an attacker could access production resources if they were bound to the worker.  This issue was fixed in wrangler3.19.0 and wrangler2.20.2. Whilst wrangler dev's inspector server listens on local interfaces by default as of wrangler3.16.0, an  SSRF vulnerability in miniflare httpsgithub.comcloudflareworkerssdksecurityadvisoriesGHSAfwvg273922v7  CVE20237078 allowed access from the local network until wrangler3.18.0. wrangler3.19.0 and wrangler2.20.2 introduced validation for the OriginHost headers. \n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-7080"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-50837‼️\n\nImproper Neutralization of Special Elements used in an SQL Command 'SQL Injection' vulnerability in WebFactory Ltd Login Lockdown  Protect Login Form.This issue affects Login Lockdown  Protect Login Form from na through 2.06.  \n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-50837"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-44089‼️\n\nImproper Neutralization of Input During Web Page Generation 'Crosssite Scripting' vulnerability in Pandora FMS on all allows CrossSite Scripting XSS. It was possible to execute malicious JS code on Visual Consoles. This issue affects Pandora FMS from 700 through 774.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-44089"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-44088‼️\n\nImproper Neutralization of Special Elements used in an SQL Command 'SQL Injection' vulnerability in Pandora FMS on all allows SQL Injection. Arbitrary SQL queries were allowed to be executed using any account with low privileges. This issue affects Pandora FMS from 700 through 774.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-44088"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-41815‼️\n\nImproper Neutralization of Input During Web Page Generation 'Crosssite Scripting' vulnerability in Pandora FMS on all allows CrossSite Scripting XSS. Malicious code could be executed in the File Manager section. This issue affects Pandora FMS from 700 through 774.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-41815"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-41814‼️\n\nImproper Neutralization of Input During Web Page Generation 'Crosssite Scripting' vulnerability in Pandora FMS on all allows CrossSite Scripting XSS. Through an HTML payload iframe tag it is possible to carry out XSS attacks when the user receiving the messages opens their notifications. This issue affects Pandora FMS from 700 through 774.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-41814"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-41813‼️\n\nImproper Neutralization of Input During Web Page Generation 'Crosssite Scripting' vulnerability in Pandora FMS on all allows CrossSite Scripting XSS. Allows you to edit the Web Console user notification options. This issue affects Pandora FMS from 700 through 774.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-41813"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-52135‼️\n\nImproper Neutralization of Special Elements used in an SQL Command 'SQL Injection' vulnerability in WS Form WS Form LITE  Drag  Drop Contact Form Builder for WordPress.This issue affects WS Form LITE  Drag  Drop Contact Form Builder for WordPress from na through 1.9.170.  \n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-52135"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-51420‼️\n\nImproper Control of Generation of Code 'Code Injection' vulnerability in Soft8Soft LLC Verge3D Publishing and ECommerce.This issue affects Verge3D Publishing and ECommerce from na through 4.5.2.  \n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-51420"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-49830‼️\n\nImproper Control of Generation of Code 'Code Injection' vulnerability in Brainstorm Force Astra Pro.This issue affects Astra Pro from na through 4.3.1.  \n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-49830"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-47840‼️\n\nImproper Control of Generation of Code 'Code Injection' vulnerability in Qode Interactive Qode Essential Addons.This issue affects Qode Essential Addons from na through 1.5.2.  \n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-47840"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-46623‼️\n\nImproper Control of Generation of Code 'Code Injection' vulnerability in TienCOP WP EXtra.This issue affects WP EXtra from na through 6.2.  \n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-46623"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-45751‼️\n\nImproper Control of Generation of Code 'Code Injection' vulnerability in POSIMYTH Nexter Extension.This issue affects Nexter Extension from na through 2.0.3.  \n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-45751"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-40606‼️\n\nImproper Control of Generation of Code 'Code Injection' vulnerability in Kanban for WordPress Kanban Boards for WordPress.This issue affects Kanban Boards for WordPress from na through 2.5.21.  \n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-40606"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-32095‼️\n\nImproper Control of Generation of Code 'Code Injection' vulnerability in Milan Dini? Rename Media Files.This issue affects Rename Media Files from na through 1.0.1.  \n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-32095"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-25054‼️\n\nImproper Control of Generation of Code 'Code Injection' vulnerability in David F. Carr RSVPMaker.This issue affects RSVPMaker from na through 10.6.6.  \n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-25054"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-22677‼️\n\nImproper Control of Generation of Code 'Code Injection' vulnerability in BinaryStash WP Booklet.This issue affects WP Booklet from na through 2.1.8.  \n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-22677"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-7161‼️\n\nA vulnerability classified as critical has been found in Netentsec NSASG Application Security Gateway 6.3.1. This affects an unknown part of the file index.php?paraindex of the component Login. The manipulation of the argument checkVirtualSiteId leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB249183.\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
+    "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-7161"
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-23634‼️\n\nSQL Injection vulnerability in Documize version 5.4.2, allows remote attackers to execute arbitrary code via the user parameter of the apidashboardactivity endpoint.\n\n📖 Read more\n\nVia \"National Vulnerability Database\""
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-7157‼️\n\nA vulnerability was found in SourceCodester Free and Open Source Inventory Management System 1.0 and classified as critical. This issue affects some unknown processing of the file appajaxsellreturndata.php. The manipulation of the argument columns0data leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB249179.\n\n📖 Read more\n\nVia \"National Vulnerability Database\""
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-7156‼️\n\nA vulnerability has been found in Campcodes Online College Library System 1.0 and classified as critical. This vulnerability affects unknown code of the file index.php of the component Search. The manipulation of the argument category leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB249178 is the identifier assigned to this vulnerability.\n\n📖 Read more\n\nVia \"National Vulnerability Database\""
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-31302‼️\n\nCross Site Scripting XSS vulnerability in Sesami Cash Point  Transport Optimizer CPTO 6.3.8.6 718, allows remote attackers to execute arbitrary code via the Teller field.\n\n📖 Read more\n\nVia \"National Vulnerability Database\""
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-31295‼️\n\nCSV Injection vulnerability in Sesami Cash Point  Transport Optimizer CPTO version 6.3.8.6 718, allows remote attackers to obtain sensitive information via the User Profile field.\n\n📖 Read more\n\nVia \"National Vulnerability Database\""
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-7155‼️\n\nA vulnerability, which was classified as critical, was found in SourceCodester Free and Open Source Inventory Management System 1.0. This affects an unknown part of the file ampleappactioneditproduct.php. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB249177 was assigned to this vulnerability.\n\n📖 Read more\n\nVia \"National Vulnerability Database\""
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-31299‼️\n\nCross Site Scripting XSS vulnerability in Sesami Cash Point  Transport Optimizer CPTO version 6.3.8.6 718, allows remote attackers to execute arbitrary code via the Barcode field of a container.\n\n📖 Read more\n\nVia \"National Vulnerability Database\""
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-31296‼️\n\nCSV Injection vulnerability in Sesami Cash Point  Transport Optimizer CPTO version 6.3.8.6 718, allows attackers to obtain sensitive information via the User Name field.\n\n📖 Read more\n\nVia \"National Vulnerability Database\""
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-7148‼️\n\nA vulnerability has been found in ShifuML shifu 0.12.0 and classified as critical. Affected by this vulnerability is an unknown functionality of the file srcmainjavamlshifushifucoreDataPurifier.java of the component Java Expression Language Handler. The manipulation of the argument FilterExpression leads to code injection. The attack can be launched remotely. The complexity of an attack is rather high. The exploitation appears to be difficult. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB249151.\n\n📖 Read more\n\nVia \"National Vulnerability Database\""
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-31294‼️\n\nCSV Injection vulnerability in Sesami Cash Point  Transport Optimizer CPTO version 6.3.8.6 718, allows remote attackers to obtain sensitive information via the Delivery Name field.\n\n📖 Read more\n\nVia \"National Vulnerability Database\""
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-7146‼️\n\nA vulnerability, which was classified as critical, has been found in gopeak MasterLab up to 3.3.10. This issue affects the function sqlInjectDelete of the file appctrlframeworkFeature.php of the component HTTP POST Request Handler. The manipulation of the argument phone leads to sql injection. The exploit has been disclosed to the public and may be used. The identifier VDB249149 was assigned to this vulnerability.\n\n📖 Read more\n\nVia \"National Vulnerability Database\""
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-7145‼️\n\nA vulnerability classified as critical was found in gopeak MasterLab up to 3.3.10. This vulnerability affects the function sqlInject of the file appctrlFramework.php of the component HTTP POST Request Handler. The manipulation of the argument pwd leads to sql injection. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB249148.\n\n📖 Read more\n\nVia \"National Vulnerability Database\""
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-31301‼️\n\nStored Cross Site Scripting XSS Vulnerability in Sesami Cash Point  Transport Optimizer CPTO version 6.3.8.6 718, allows remote attackers to execute arbitrary code and obtain sensitive information via the Username field of the login form and application log.\n\n📖 Read more\n\nVia \"National Vulnerability Database\""
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-31298‼️\n\nCross Site Scripting XSS vulnerability in Sesami Cash Point  Transport Optimizer CPTO version 6.3.8.6 718, allows remote attackers to execute arbitrary code and obtain sensitive information via the User ID field when creating a new system user.\n\n📖 Read more\n\nVia \"National Vulnerability Database\""
+}
+{
+    "date": "2023-12-30",
+    "from_channel": "cibsecurity",
+    "message": "‼️CVE-2023-7144‼️\n\nA vulnerability classified as critical has been found in gopeak MasterLab up to 3.3.10. This affects the function sqlInject of the file appctrlframeworkFeature.php of the component HTTP POST Request Handler. The manipulation of the argument pwd leads to sql injection. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB249147.\n\n📖 Read more\n\nVia \"National Vulnerability Database\""
+}
+{
     "date": "2023-12-28",
     "from_channel": "defcon_news",
     "message": "New payloads to exploit Error-based SQL injection - PostgreSQL database\nhttps://old.reddit.com/r/netsec/comments/18st310/new_payloads_to_exploit_errorbased_sql_injection/",
