@@ -1,4 +1,10 @@
 {
+    "date": "2024-01-10",
+    "from_channel": "sysadm_in_channel",
+    "message": "/ Hyper-V RCE and Kerberos Bypass\n\nMS released two fixes for..:\n\nWindows Kerberos Security Feature Bypass Vulnerability\n\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-20674\n\nWindows Hyper-V Remote Code Execution Vulnerability\n\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-20700",
+    "urls": []
+}
+{
     "date": "2024-01-09",
     "from_channel": "defcon_news",
     "message": "AdvantechWeb/SCADA 9.1.5U SQL Injection\nhttps://packetstormsecurity.com/files/176418/advantechwebscada915u-sql.txt",
