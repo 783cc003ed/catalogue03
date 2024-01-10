@@ -1,6 +1,14 @@
 {
     "date": "2024-01-10",
     "from_channel": "defcon_news",
+    "message": "Unauthenticated RCE in Adobe Coldfusion – CVE-2023-26360\nhttps://old.reddit.com/r/netsec/comments/19376kz/unauthenticated_rce_in_adobe_coldfusion/",
+    "urls": [],
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://old.reddit.com/r/netsec/comments/19376kz/unauthenticated_rce_in_adobe_coldfusion/"
+}
+{
+    "date": "2024-01-10",
+    "from_channel": "defcon_news",
     "message": "WebCopilot - An Automation Tool That Enumerates Subdomains Then Filters Out Xss, Sqli, Open Redirect, Lfi, Ssrf And Rce Parameters And Then Scans For Vulnerabilities\nhttp://www.kitploit.com/2024/01/webcopilot-automation-tool-that.html",
     "urls": [],
     "webpage_url": "https://www.kitploit.com/2024/01/webcopilot-automation-tool-that.html"
