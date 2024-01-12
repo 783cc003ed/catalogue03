@@ -1,4 +1,10 @@
 {
+    "date": "2024-01-12",
+    "from_channel": "RalfHackerChannel",
+    "message": "CVE-2023-36003 (Windows LPE XAML diagnostics API) \n\nBlog: https://m417z.com/Privilege-escalation-using-the-XAML-diagnostics-API-CVE-2023-36003/\n\nPoC: https://github.com/m417z/CVE-2023-36003-POC\n\nИсправлено в патче от 12 декабря\n\n#lpe #ad #pentest #redteam",
+    "urls": []
+}
+{
     "date": "2024-01-11",
     "from_channel": "defcon_news",
     "message": "Hunting for SSRF Bugs in PDF Generators \nhttps://www.blackhillsinfosec.com/hunting-for-ssrf-bugs-in-pdf-generators/",
