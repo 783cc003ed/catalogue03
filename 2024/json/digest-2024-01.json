@@ -1,4 +1,25 @@
 {
+    "date": "2024-01-16",
+    "from_channel": "Leakers_squad",
+    "message": "====================================\n\n   💎 ☀️  SQL Injection Attack☀️💎\n\n====================================\n\n\n💉 Web Pentesting Part 1 - SQL Injection (OWASP Juice shop)♥️\n\nFiles :- bit.ly/thegodeye ✅\n\nContent :- Tutorial 🏹\n\nHacking OWASP Juice Shop and gaining admin.🟢\n\nTools Used :- \n                    > Burpsuite \n\n👍Video created By @TheGodEye 👍\n\nMake me admin in your channel for more content like this\n\nIf you want to report any copyright violation, please write to us at  @Leakers_squad_bot and we will ensure to remove that post within 48 hours\nRead this"
+}
+{
+    "date": "2024-01-15",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Opera MyFlaw Bug Could Let Hackers Run ANY File on Your Mac or Windows 🖋️\n\nCybersecurity researchers have disclosed a security flaw in the Opera web browser for Microsoft Windows and Apple macOS that could be exploited to execute any file on the underlying operating system. The remote code execution vulnerability has been codenamed MyFlaw by the Guardio Labs research team owing to the fact that it takes advantage of a feature called My Flow that makes it.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-01-13",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Critical RCE Vulnerability Uncovered in Juniper SRX Firewalls and EX Switches 🖋️\n\nJuniper Networks has released updates to fix a critical remote code execution RCE vulnerability in its SRX Series firewalls and EX Series switches. The issue, tracked as CVE202421591, is rated 9.8 on the CVSS scoring system. An outofbounds write vulnerability in JWeb of Juniper Networks Junos OS SRX Series and EX Series allows an unauthenticated, networkbased attacker to cause a.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-01-13",
+    "from_channel": "defcon_news",
+    "message": "Critical RCE Vulnerability Uncovered in Juniper SRX Firewalls and EX Switches\nhttps://thehackernews.com/2024/01/critical-rce-vulnerability-uncovered-in.html",
+    "urls": []
+}
+{
     "date": "2024-01-13",
     "from_channel": "freedomf0x",
     "message": "#CVE-2024-20656: #Windows #LPE in the VSStandardCollectorService150 service\n\nBlog: https://www.mdsec.co.uk/2024/01/cve-2024-20656-local-privilege-escalation-in-vsstandardcollectorservice150-service/\n\nPoC: https://github.com/Wh04m1001/CVE-2024-20656",
@@ -59,7 +80,7 @@
     "from_channel": "defcon_news",
     "message": "WebCopilot - An Automation Tool That Enumerates Subdomains Then Filters Out Xss, Sqli, Open Redirect, Lfi, Ssrf And Rce Parameters And Then Scans For Vulnerabilities\nhttp://www.kitploit.com/2024/01/webcopilot-automation-tool-that.html",
     "urls": [],
-    "webpage_url": "https://www.kitploit.com/2024/01/webcopilot-automation-tool-that.html?utm_source=dlvr.it&utm_medium=twitter"
+    "webpage_url": "https://www.kitploit.com/2024/01/webcopilot-automation-tool-that.html"
 }
 {
     "date": "2024-01-10",
