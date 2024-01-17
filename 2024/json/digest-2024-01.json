@@ -1,4 +1,11 @@
 {
+    "date": "2024-01-17",
+    "from_channel": "cibsecurity",
+    "message": "🕵️‍♂️ Google Chrome Zero-Day Bug Under Attack, Allows Code Injection 🕵️‍♂️\n\nThe first Chrome zeroday bug of 2024 adds to a growing list of actively exploited vulnerabilities found in Chromium and other browser technologies.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "The first Chrome zero-day bug of 2024 adds to a growing list of actively exploited vulnerabilities found in Chromium and other browser technologies.",
+    "webpage_url": "https://www.darkreading.com/cloud-security/google-chrome-zero-day-bug-attack-code-injection"
+}
+{
     "date": "2024-01-16",
     "from_channel": "cibsecurity",
     "message": "🕵️‍♂️ Patch ASAP: Max-Critical Atlassian Bug Allows Unauthenticated RCE 🕵️‍♂️\n\nRated at a CVSS score of 10, the bug is as bad as it gets, allowing remote cyberattackers unfettered access to corporate environments.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
