@@ -1,6 +1,14 @@
 {
     "date": "2024-01-18",
     "from_channel": "defcon_news",
+    "message": "How a Cross-Site Scripting Vulnerability Led to Account Takeover\nhttps://www.hackerone.com/vulnerability-management/xss-deep-dive",
+    "urls": [],
+    "webpage_description": "This is the first in a series of deep dives into the most prominent and pervasive vulnerabilities, starting with cross-site scripting.",
+    "webpage_url": "https://www.hackerone.com/vulnerability-management/xss-deep-dive?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2024-01-18",
+    "from_channel": "defcon_news",
     "message": "Update Chrome! Google patches actively exploited zero-day vulnerability\nhttps://www.malwarebytes.com/blog/news/2024/01/update-chrome-google-patches-actively-exploited-zero-day-vulnerability",
     "urls": [],
     "webpage_description": "Google has issued a security update for the Chrome browser that includes a patch for one zero-day vulnerability",
