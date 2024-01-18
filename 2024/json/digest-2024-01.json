@@ -1,5 +1,13 @@
 {
     "date": "2024-01-18",
+    "from_channel": "defcon_news",
+    "message": "Update Chrome! Google patches actively exploited zero-day vulnerability\nhttps://www.malwarebytes.com/blog/news/2024/01/update-chrome-google-patches-actively-exploited-zero-day-vulnerability",
+    "urls": [],
+    "webpage_description": "Google has issued a security update for the Chrome browser that includes a patch for one zero-day vulnerability",
+    "webpage_url": "https://www.malwarebytes.com/blog/news/2024/01/update-chrome-google-patches-actively-exploited-zero-day-vulnerability"
+}
+{
+    "date": "2024-01-18",
     "from_channel": "cibsecurity",
     "message": "🖋️ PixieFail UEFI Flaws Expose Millions of Computers to RCE, DoS, and Data Theft 🖋️\n\nMultiple security vulnerabilities have been disclosed in the TCPIP network protocol stack of an opensource reference implementation of the Unified Extensible Firmware Interface UEFI specification used widely in modern computers. Collectively dubbed PixieFail by Quarkslab, the nine issues reside in the TianoCore EFI Development Kit II EDK II and could be exploited to.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
 }
