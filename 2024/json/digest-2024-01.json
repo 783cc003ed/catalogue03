@@ -1,5 +1,12 @@
 {
     "date": "2024-01-18",
+    "from_channel": "cibsecurity",
+    "message": "🛠 mqXSS 0.2 🛠\n\nmqXSS is a client to communicate with XSS hooked browsers over MQTT. Similar to xsshunter or beef, mqxss allows interaction with remote browsers that have been injected with a XSS payload. However, instead of having the victim connect back to your server they connect through a Secure Websocket MQTT broker instead. This tool facilitates the JS payload generation and interaction with hooked browsers that communicate over WSS MQTT brokers.\n\n📖 Read more.\n\n🔗 Via \"Packet Storm - Tools\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/176634/mqxss-0.2.zip?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2024-01-18",
     "from_channel": "defcon_news",
     "message": "How a Cross-Site Scripting Vulnerability Led to Account Takeover\nhttps://www.hackerone.com/vulnerability-management/xss-deep-dive",
     "urls": [],
