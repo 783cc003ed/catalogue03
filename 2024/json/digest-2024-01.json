@@ -1,4 +1,12 @@
 {
+    "date": "2024-01-22",
+    "from_channel": "freedomf0x",
+    "message": "#CVE-2023-22527 : #Atlassian #Confluence 8.0.x - Unauthenticated Remote Code Execution (inject OGNL)\n\n#POC / Blog : https://blog.projectdiscovery.io/atlassian-confluence-ssti-remote-code-execution/\n\nNIST : https://nvd.nist.gov/vuln/detail/CVE-2023-22527",
+    "urls": [],
+    "webpage_description": "CVE-2023-22527 is a critical vulnerability within Atlassian's Confluence Server and Data Center. This vulnerability has the potential to permit unauthenticated attackers to inject OGNL expressions into the Confluence Instance, thereby enabling the execution of arbitrary code and system commands.\n\n\nTechnical Details\n\n\n\nInitial Analysis\n\nThe CVE description provided by Atlassian made",
+    "webpage_url": "https://blog.projectdiscovery.io/atlassian-confluence-ssti-remote-code-execution/"
+}
+{
     "date": "2024-01-21",
     "from_channel": "Leakers_squad",
     "message": "Top 9 eBooks for Hackers and Pentesters📚\n\nBooks Hacking Learning Channel\n\nHacking Web Applications - Hacking Exposed 🕯\nhttps://mega.nz/file/LCYWWRYI#QQ8O9k6lp7vmYWzrbxbs8ItSVbYpSluYfktCxWURZGs\n\nHacking for Dummies 🤑\nhttps://mega.nz/file/iKQ2jZSQ#ur1W05ChW7_ipTYtEK6QKpIlyoqLyS82RGsEUEzFQDQ\n\nNetwork Security Bible 💻\nhttps://mega.nz/file/mLAUEbDQ#PXzqsNN2PPc-PUVyAwbfknTHEA-QBvjwvpjjQgZnYMo\n\nEthical Hacking and Countermeasures 🛡\nhttps://mega.nz/file/2fAyRb4C#tpFivx91Ips2rR3UnVdtlgvx1oOmi-qEtCu29DlO9uQ\n\nThe Little Black Book of Computer Viruses 🧙\nhttps://mega.nz/file/SDICALSJ#3r2oy2AsGXR3P7f8K7xvL2kEVjR6ccze83cAmz9VIBc\n\nXSS Attacks - Cross Site Scripting Exploits and Defense 💼\nhttps://mega.nz/file/3XJCyD5C#qAda14pWUjd5u4wjOYmzCI52UMa1rUFulh7V0kBGZk8\n\nThe Shellcoder's Handbook 🏥\nhttps://mega.nz/file/3OZgwT6Z#8yNyiuSHVQ3gOib4rKJYtwsCwSfqAfoFj2lQtwUyI8o\n\nWireshark for Security Professionals 💻\nhttps://mega.nz/file/7TRUCZCZ#ZPFmeFnccvR4ltf_2lwTdi8PqHIArRx_bkqRP9wwq4k\n\nBY @Mr_Neophyte 😂\nContact for posting these content in your channel\n\n❤️Share with Your Mate\n\nIf you want to report any copyright violation, please write to us at  @Leakers_squad_bot and we will ensure to remove that post within 48 hours\nRead this",
