@@ -3,7 +3,7 @@
     "from_channel": "freedomf0x",
     "message": "#CVE-2023-22527 : #Atlassian #Confluence 8.0.x - Unauthenticated Remote Code Execution (inject OGNL)\n\n#POC / Blog : https://blog.projectdiscovery.io/atlassian-confluence-ssti-remote-code-execution/\n\nNIST : https://nvd.nist.gov/vuln/detail/CVE-2023-22527",
     "urls": [],
-    "webpage_description": "CVE-2023-22527 is a critical vulnerability within Atlassian's Confluence Server and Data Center. This vulnerability has the potential to permit unauthenticated attackers to inject OGNL expressions into the Confluence Instance, thereby enabling the execution of arbitrary code and system commands.\n\n\nTechnical Details\n\n\n\nInitial Analysis\n\nThe CVE description provided by Atlassian made",
+    "webpage_description": "CVE-2023-22527 is a critical vulnerability within Atlassian's Confluence Server and Data Center. This vulnerability has the potential to permit unauthenticated attackers to inject OGNL expressions into the Confluence instance, thereby enabling the execution of arbitrary code and system commands.\n\n\nTechnical Details\n\n\n\nInitial Analysis\n\nThe CVE description provided by Atlassian made",
     "webpage_url": "https://blog.projectdiscovery.io/atlassian-confluence-ssti-remote-code-execution/"
 }
 {
