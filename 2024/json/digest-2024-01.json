@@ -1,4 +1,12 @@
 {
+    "date": "2024-01-24",
+    "from_channel": "defcon_news",
+    "message": "Update now! Apple releases patch for zero-day vulnerability\nhttps://www.malwarebytes.com/blog/news/2024/01/update-now-apple-releases-patch-for-zero-day-vulnerability",
+    "urls": [],
+    "webpage_description": "Apple has released new security updates for several products including a patch for a zero-day vulnerability which has likely already been exploited.",
+    "webpage_url": "https://www.malwarebytes.com/blog/news/2024/01/update-now-apple-releases-patch-for-zero-day-vulnerability"
+}
+{
     "date": "2024-01-23",
     "from_channel": "sysadm_in_channel",
     "message": "/ Deserialization of Untrusted Data on Splunk Enterprise for Windows through Path Traversal from Separate Disk Partition\n\n- Mitigations and WorkaroundsPermalink: N/A\n- DetectionsPermalink: None\n- SeverityPermalink: High\n\nhttps://advisory.splunk.com/advisories/SVD-2024-0108",
