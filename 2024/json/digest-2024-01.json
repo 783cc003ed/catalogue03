@@ -153,7 +153,7 @@
     "message": "Hunting for SSRF Bugs in PDF Generators \nhttps://www.blackhillsinfosec.com/hunting-for-ssrf-bugs-in-pdf-generators/",
     "urls": [],
     "webpage_description": "If you’ve been on a website and noticed one of the following features, there’s a good chance you’ve stumbled upon a hot spot for server-side request forgery (SSRF) bugs:  Before […]",
-    "webpage_url": "https://www.blackhillsinfosec.com/hunting-for-ssrf-bugs-in-pdf-generators/"
+    "webpage_url": "https://www.blackhillsinfosec.com/hunting-for-ssrf-bugs-in-pdf-generators/?utm_campaign=meetedgar&utm_medium=social&utm_source=meetedgar.com"
 }
 {
     "date": "2024-01-10",
