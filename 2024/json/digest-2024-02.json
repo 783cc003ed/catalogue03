@@ -1,4 +1,12 @@
 {
+    "date": "2024-02-03",
+    "from_channel": "freedomf0x",
+    "message": "#CVE-2024-21893 : #Ivanti Connect Secure 9.x , 22.x & Ivanti Policy Secure 9.x , 22.x  & Ivanti Neurons for ZTA 'SAML component' - Server-side request forgery (#SSRF)\n\n#POC : https://github.com/h4x0r-dz/CVE-2024-21893.py\n\n#NIST : https://nvd.nist.gov/vuln/detail/CVE-2024-21893",
+    "urls": [],
+    "webpage_description": "CVE-2024-21893: SSRF Vulnerability in Ivanti Connect Secure - GitHub - h4x0r-dz/CVE-2024-21893.py: CVE-2024-21893: SSRF Vulnerability in Ivanti Connect Secure",
+    "webpage_url": "https://github.com/h4x0r-dz/CVE-2024-21893.py"
+}
+{
     "date": "2024-02-02",
     "from_channel": "phd_soc",
     "message": "без контекста такое себе, потыкать можно тут https://www.cvedetails.com/google-search-results.php?q=Lfi#gsc.tab=0&gsc.q=Lfi&gsc.page=1",
