@@ -1,5 +1,12 @@
 {
     "date": "2024-02-06",
+    "from_channel": "cibsecurity",
+    "message": "🕵️‍♂️ 'ResumeLooters' Attackers Steal Millions of Career Records 🕵️‍♂️\n\nThe cyberattackers used SQL injection and XSS to target 65 retail companies and job recruiters, stealing databases with unique emails and other sensitive records.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "The cyberattackers used SQL injection and XSS to target 65 retail companies and job recruiters, stealing databases with unique emails and other sensitive records.",
+    "webpage_url": "https://www.darkreading.com/remote-workforce/-resumelooters-attackers-steal-millions-career-records"
+}
+{
+    "date": "2024-02-06",
     "from_channel": "freedomf0x",
     "message": "Disable Windows #Defender (+ #UAC #Bypass, + Upgrade to SYSTEM)\n\nhttps://github.com/EvilGreys/Disable-Windows-Defender-",
     "urls": [],
