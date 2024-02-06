@@ -1,4 +1,23 @@
 {
+    "date": "2024-02-06",
+    "from_channel": "freedomf0x",
+    "message": "Disable Windows #Defender (+ #UAC #Bypass, + Upgrade to SYSTEM)\n\nhttps://github.com/EvilGreys/Disable-Windows-Defender-",
+    "urls": [],
+    "webpage_description": "Disable Windows Defender (+ UAC Bypass, + Upgrade to SYSTEM) - GitHub - EvilGreys/Disable-Windows-Defender-: Disable Windows Defender (+ UAC Bypass, + Upgrade to SYSTEM)",
+    "webpage_url": "https://github.com/EvilGreys/Disable-Windows-Defender-"
+}
+{
+    "date": "2024-02-06",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Recent SSRF Flaw in Ivanti VPN Products Undergoes Mass Exploitation 🖋️\n\nA recently disclosed serverside request forgery SSRF vulnerability impacting Ivanti Connect Secure and Policy Secure products has come under mass exploitation. The Shadowserver Foundation said it observed exploitation attempts originating from more than 170 unique IP addresses that aim to establish a reverse shell, among others. The attacks exploit CVE202421893 CVSS.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-02-06",
+    "from_channel": "defcon_news",
+    "message": "Recent SSRF Flaw in Ivanti VPN Products Undergoes Mass Exploitation\nhttps://thehackernews.com/2024/02/recently-disclosed-ssrf-flaw-in-ivanti.html",
+    "urls": []
+}
+{
     "date": "2024-02-04",
     "from_channel": "phd_soc",
     "message": "#рубрика тупых вопросов от молодых специалистов\n\nПарни, а если у нас в первой случае на хосте реверс шелл в картинке, просто подойдет CWE-434: Unrestricted Upload of File with Dangerous Type.\nА во втором blind XML XXE с загрузкой картинки svg и с эксфильтрацией через через обращение к нашему серверу к файлам dtd, вроде  CWE-611: Improper Restriction of XML External Entity Reference\n\n\nКлассифицируем первое как CWE-434, а второе как CWE-611 ИЛИ оба загоняем как CWE-434, но дальше уточняем что и как?",
