@@ -1,4 +1,11 @@
 {
+    "date": "2024-02-07",
+    "from_channel": "cibsecurity",
+    "message": "🕵️‍♂️ Linux Distros Hit By RCE Vulnerability in Shim Bootloader 🕵️‍♂️\n\nHowever, not everyone agrees with the NVD's assessment of CVE202340547 being a nearmaximum severity bug.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "However, not everyone agrees with the NVD's assessment of CVE-2023-40547 being a near-maximum severity bug.",
+    "webpage_url": "https://www.darkreading.com/vulnerabilities-threats/rce-vulnerability-in-shim-bootloader-impacts-all-linux-distros"
+}
+{
     "date": "2024-02-06",
     "from_channel": "cibsecurity",
     "message": "🕵️‍♂️ 'ResumeLooters' Attackers Steal Millions of Career Records 🕵️‍♂️\n\nThe cyberattackers used SQL injection and XSS to target 65 retail companies and job recruiters, stealing databases with unique emails and other sensitive records.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
