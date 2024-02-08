@@ -1,4 +1,12 @@
 {
+    "date": "2024-02-08",
+    "from_channel": "sysadm_in_channel",
+    "message": "/ ResumeLooters gang infects websites with XSS scripts and SQL injections to vacuum up job seekers' personal data and CVs\n\nhttps://www.group-ib.com/blog/resumelooters/",
+    "urls": [],
+    "webpage_description": "ResumeLooters gang infects websites with XSS scripts and SQL injections to vacuum up job seekers' personal data and CVs.",
+    "webpage_url": "https://www.group-ib.com/blog/resumelooters/?utm_source=twitter&utm_campaign=&utm_medium=social"
+}
+{
     "date": "2024-02-07",
     "from_channel": "cibsecurity",
     "message": "🕵️‍♂️ Linux Distros Hit By RCE Vulnerability in Shim Bootloader 🕵️‍♂️\n\nHowever, not everyone agrees with the NVD's assessment of CVE202340547 being a nearmaximum severity bug.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
