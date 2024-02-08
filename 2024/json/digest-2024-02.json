@@ -1,5 +1,11 @@
 {
     "date": "2024-02-08",
+    "from_channel": "it_secur",
+    "message": "👨‍💻 Как хакнуть chess.com детским эксплойтом.\n\n•  История обнаружения XSS-уязвимости на крупнейшем шахматном сайте интернета со 100 миллионами участников – Chess.com\n\n➡️ Оригинал: https://skii.dev/rook-to-xss/\n\n➡️ Перевод: https://habr.com/post/790330/\n\n#ИБ #web",
+    "urls": []
+}
+{
+    "date": "2024-02-08",
     "from_channel": "sysadm_in_channel",
     "message": "/ ResumeLooters gang infects websites with XSS scripts and SQL injections to vacuum up job seekers' personal data and CVs\n\nhttps://www.group-ib.com/blog/resumelooters/",
     "urls": [],
