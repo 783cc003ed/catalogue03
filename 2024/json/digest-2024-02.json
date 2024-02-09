@@ -1,6 +1,11 @@
 {
     "date": "2024-02-09",
     "from_channel": "cibsecurity",
+    "message": "🖋️ Fortinet Warns of Critical FortiOS SSL VPN Vulnerability Under Active Exploitation 🖋️\n\nFortinet has disclosed a new critical security flaw in FortiOS SSL VPN that it said is likely being exploited in the wild. The vulnerability, CVE202421762 CVSS score 9.6, allows for the execution of arbitrary code and commands. \"A outofbounds write vulnerability CWE787 in FortiOS may allow a remote unauthenticated attacker to execute arbitrary code or command via specially.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-02-09",
+    "from_channel": "cibsecurity",
     "message": "🖋️ Warning: New Ivanti Auth Bypass Flaw Affects Connect Secure and ZTA Gateways 🖋️\n\nIvanti has alerted customers of yet another highseverity security flaw in its Connect Secure, Policy Secure, and ZTA gateway devices that could allow attackers to bypass authentication. The issue, tracked as CVE202422024, is rated 8.3 out of 10 on the CVSS scoring system. \"An XML external entity or XXE vulnerability in the SAML component of Ivanti Connect Secure 9.x, 22.x, Ivanti.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
 }
 {
