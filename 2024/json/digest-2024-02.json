@@ -1,5 +1,12 @@
 {
     "date": "2024-02-10",
+    "from_channel": "defcon_news",
+    "message": "SqliSniper - Advanced Time-based Blind SQL Injection Fuzzer For HTTP Headers\nhttp://www.kitploit.com/2024/02/sqlisniper-advanced-time-based-blind.html",
+    "urls": [],
+    "webpage_url": "https://www.kitploit.com/2024/02/sqlisniper-advanced-time-based-blind.html"
+}
+{
+    "date": "2024-02-10",
     "from_channel": "freedomf0x",
     "message": "#CVE-2024-22024 : #Ivanti Connect Secure 9.x, 22.x & Ivanti Policy Secure 9.x, 22.x & ZTA Gateways 22.6R1.3 'SAML Component' - Unauthenticated XML External Entity (XXE) \n\n#POC N/A : https://github.com/0dteam/CVE-2024-22024\n\nCVE-2023-46805 : Ivanti Connect Secure 9.x, 22.x & Ivanti Policy Secure 9.x, 22.x 'Web Component' - Authentication Bypass\n\nSCAN : https://github.com/Chocapikk/CVE-2023-46805\n\nCVE-2024-21887 : Ivanti Connect Secure 9.x, 22.x & Ivanti Policy Secure 9.x, 22.x 'Web Component' - (Authenticated Administrator) Arbitrary Command Execution\n\nPOC N/A : https://github.com/imhunterand/CVE-2024-21887\n\nHigh Signal Detection and Exploitation of Ivanti's Pulse Connect Secure Auth Bypass & #RCE\n\nBlog : https://www.assetnote.io/resources/research/high-signal-detection-and-exploitation-of-ivantis-pulse-connect-secure-auth-bypass-rce",
     "urls": [],
