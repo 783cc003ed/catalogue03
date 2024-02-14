@@ -1,4 +1,15 @@
 {
+    "date": "2024-02-14",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ DarkMe Malware Targets Traders Using Microsoft SmartScreen Zero-Day Vulnerability 🖋️\n\nA newly disclosed security flaw in the Microsoft Defender SmartScreen has been exploited as a zeroday by an advanced persistent threat actor called Water Hydra aka DarkCasino targeting financial market traders. Trend Micro, which began tracking the campaign in late December 2023, said it entails the exploitation of CVE202421412, a security bypass vulnerability related to Internet.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-02-14",
+    "from_channel": "defcon_news",
+    "message": "DarkMe Malware Targets Traders Using Microsoft SmartScreen Zero-Day Vulnerability\nhttps://thehackernews.com/2024/02/darkme-malware-targets-traders-using.html",
+    "urls": []
+}
+{
     "date": "2024-02-13",
     "from_channel": "cibsecurity",
     "message": "🖋️ Alert: CISA Warns of Active 'Roundcube' Email Attacks - Patch Now 🖋️\n\nThe U.S. Cybersecurity and Infrastructure Security Agency CISA on Monday added a mediumseverity security flaw impacting Roundcube email software to its Known Exploited Vulnerabilities KEV catalog, based on evidence of active exploitation. The issue, tracked as CVE202343770 CVSS score 6.1, relates to a crosssite scripting XSS flaw that stems from the handling of.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
