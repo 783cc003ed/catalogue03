@@ -1,4 +1,15 @@
 {
+    "date": "2024-02-16",
+    "from_channel": "proxy_bar",
+    "message": "CVE-2024-21413 \nExpect Script POC\n*\nMicrosoft Outlook Remote Code Execution Vulnerability (through the preview panel) CVSS:3.1 9.8 / 8.5\n*\nLink"
+}
+{
+    "date": "2024-02-16",
+    "from_channel": "freedomf0x",
+    "message": "https://aceresponder.com/blog/exploiting-empire-c2-framework #RCE\n\nhttps://github.com/ACE-Responder/Empire-C2-RCE-PoC",
+    "urls": []
+}
+{
     "date": "2024-02-14",
     "from_channel": "proxy_bar",
     "message": "Грязный BASH\nоднострочник для быстрого обнаружения XSS в файлах PHP\n*\nrg --no-heading \"echo.*\\\\\\$_GET\" | grep \"\\.php:\" | grep -v -e \"(\\$_GET\" -e \"( \\$_GET\" -e \"esc_\" -e \"admin_url\" -e \"(int)\" -e htmlentities",
