@@ -1,5 +1,11 @@
 {
     "date": "2024-02-19",
+    "from_channel": "phd_soc",
+    "message": "но кстати годная штука для начала дискуссии, я хотел с кем-нибудь локальным аргументированно посраться, что с локализацией ББ площадок внутри России качество репортов скатилось до значительной доли XSS/CSRF, а годноты типа прикольных IDOR'ов, response splitting, header injection или сложных багов с ATO заносить особо некому\n\nкак раз у тебя формула есть))",
+    "urls": []
+}
+{
+    "date": "2024-02-19",
     "from_channel": "defcon_news",
     "message": "CVE-2024-23724: Ghost CMS Stored XSS Leading to Owner Takeover\nhttps://old.reddit.com/r/netsec/comments/1apxmfj/cve202423724_ghost_cms_stored_xss_leading_to/",
     "urls": [],
