@@ -1,5 +1,13 @@
 {
     "date": "2024-02-19",
+    "from_channel": "freedomf0x",
+    "message": "#CVE-2024-21413 | #Microsoft #Outlook Remote Code Execution Vulnerability #PoC\n\nhttps://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+    "urls": [],
+    "webpage_description": "Microsoft-Outlook-Remote-Code-Execution-Vulnerability - xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+    "webpage_url": "https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability"
+}
+{
+    "date": "2024-02-19",
     "from_channel": "cibsecurity",
     "message": "🖋️ Russian-Linked Hackers Breach 80+ Organizations via Roundcube Flaws 🖋️\n\nThreat actors operating with interests aligned to Belarus and Russia have been linked to a new cyber espionage campaign that likely exploited crosssite scripting XSS vulnerabilities in Roundcube webmail servers to target over 80 organizations. These entities are primarily located in Georgia, Poland, and Ukraine, according to Recorded Future, which attributed the intrusion set to a threat.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
 }
