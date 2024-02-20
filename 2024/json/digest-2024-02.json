@@ -1,4 +1,12 @@
 {
+    "date": "2024-02-20",
+    "from_channel": "defcon_news",
+    "message": "Ivanti Connect Secure Under Attack: Uncovering Five Exploitable CVEs - XXE\nhttps://old.reddit.com/r/netsec/comments/1av6bwx/ivanti_connect_secure_under_attack_uncovering/",
+    "urls": [],
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://old.reddit.com/r/netsec/comments/1av6bwx/ivanti_connect_secure_under_attack_uncovering/"
+}
+{
     "date": "2024-02-19",
     "from_channel": "phd_soc",
     "message": "но кстати годная штука для начала дискуссии, я хотел с кем-нибудь локальным аргументированно посраться, что с локализацией ББ площадок внутри России качество репортов скатилось до значительной доли XSS/CSRF, а годноты типа прикольных IDOR'ов, response splitting, header injection или сложных багов с ATO заносить особо некому\n\nкак раз у тебя формула есть))",
