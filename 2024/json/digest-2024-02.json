@@ -1,5 +1,12 @@
 {
     "date": "2024-02-20",
+    "from_channel": "cibsecurity",
+    "message": "🕵️‍♂️ Joomla XSS Bugs Open Millions of Websites to RCE 🕵️‍♂️\n\nImproper content filtering in a core function allows multiple paths to exploitation for CVE202421726.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "Improper content filtering in a core function allows multiple paths to exploitation for CVE-2024-21726.",
+    "webpage_url": "https://www.darkreading.com/application-security/joomla-xss-bugs-open-millions-websites-rce"
+}
+{
+    "date": "2024-02-20",
     "from_channel": "defcon_news",
     "message": "Ivanti Connect Secure Under Attack: Uncovering Five Exploitable CVEs - XXE\nhttps://old.reddit.com/r/netsec/comments/1av6bwx/ivanti_connect_secure_under_attack_uncovering/",
     "urls": [],
