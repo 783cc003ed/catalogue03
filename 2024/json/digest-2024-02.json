@@ -1,5 +1,12 @@
 {
     "date": "2024-02-21",
+    "from_channel": "cibsecurity",
+    "message": "🕵️‍♂️ Critical Vulnerability in VMware vSphere Plug-in Allows Session Hijacking 🕵️‍♂️\n\nAdmins are urged to remove vSphere's vulnerable Enhanced Authentication Plugin, which was discontinued nearly three years ago but is still widely in use.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "Admins are urged to remove vSphere's vulnerable Enhanced Authentication Plug-in, which was discontinued nearly three years ago but is still widely in use.",
+    "webpage_url": "https://www.darkreading.com/application-security/critical-vulnerability-vmware-vsphere-plugin-session-hijacking"
+}
+{
+    "date": "2024-02-21",
     "from_channel": "Social_engineering",
     "message": "🚀 Академия Codeby запускает новый поток курса WAPT: \"Тестирование WEB-приложений на проникновение\"\n\n📚 На курсе WAPT изучаются методы сбора информации, активный фаззинг, эксплуатация уязвимостей, повышение привилегий и социальная инженерия.\n\n📅 Старт: 1 марта\n\n🌐 Кому полезен курс:\n- Специалистам в сфере информационной безопасности\n- Пентестерам с опытом и без\n- Разработчикам веб-приложений\n- Аудитории CTF-соревнований\n\n👨‍💻 За 4 месяца вы:\n- Научитесь анализировать защиту веб-сервисов от популярных видов атак и находить уязвимости в веб-приложениях\n- Получите навыки в таких атаках как SQL-injection и CMD injection\n- Освоите Cross Site Scripting, PHP injection, Server Side Template injection\n\n🚀 Готовы взламывать и защищать веб-приложения? Присоединяйтесь к курсу от Codeby – одной из сильнейших команд по пентесту!\n\n📌 Узнать подробнее о курсе"
 }
