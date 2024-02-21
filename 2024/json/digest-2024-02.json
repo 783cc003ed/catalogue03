@@ -1,5 +1,12 @@
 {
     "date": "2024-02-20",
+    "from_channel": "github_repos",
+    "message": "xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability\nMicrosoft-Outlook-Remote-Code-Execution-Vulnerability\nLanguage: Python\nStars: 294 Issues: 0 Forks: 54\nhttps://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+    "webpage_description": "Microsoft-Outlook-Remote-Code-Execution-Vulnerability - xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+    "webpage_url": "https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability"
+}
+{
+    "date": "2024-02-20",
     "from_channel": "cibsecurity",
     "message": "🕵️‍♂️ Joomla XSS Bugs Open Millions of Websites to RCE 🕵️‍♂️\n\nImproper content filtering in a core function allows multiple paths to exploitation for CVE202421726.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
     "webpage_description": "Improper content filtering in a core function allows multiple paths to exploitation for CVE-2024-21726.",
