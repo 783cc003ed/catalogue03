@@ -1,4 +1,19 @@
 {
+    "date": "2024-02-22",
+    "from_channel": "github_repos",
+    "message": "icyguider/UAC-BOF-Bonanza\nCollection of UAC Bypass Techniques Weaponized as BOFs\nLanguage: C\nStars: 223 Issues: 0 Forks: 32\nhttps://github.com/icyguider/UAC-BOF-Bonanza",
+    "webpage_description": "Collection of UAC Bypass Techniques Weaponized as BOFs - icyguider/UAC-BOF-Bonanza",
+    "webpage_url": "https://github.com/icyguider/UAC-BOF-Bonanza"
+}
+{
+    "date": "2024-02-22",
+    "from_channel": "freedomf0x",
+    "message": "Unauthenticated Remote Code Execution – Bricks <= 1.9.6\n\nhttps://github.com/Chocapikk/CVE-2024-25600",
+    "urls": [],
+    "webpage_description": "Unauthenticated Remote Code Execution – Bricks <= 1.9.6 - Chocapikk/CVE-2024-25600",
+    "webpage_url": "https://github.com/Chocapikk/CVE-2024-25600"
+}
+{
     "date": "2024-02-21",
     "from_channel": "cibsecurity",
     "message": "🕵️‍♂️ Critical Vulnerability in VMware vSphere Plug-in Allows Session Hijacking 🕵️‍♂️\n\nAdmins are urged to remove vSphere's vulnerable Enhanced Authentication Plugin, which was discontinued nearly three years ago but is still widely in use.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
