@@ -1,4 +1,33 @@
 {
+    "date": "2024-02-25",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Authorities Claim LockBit Admin \"LockBitSupp\" Has Engaged with Law Enforcement 🖋️\n\nLockBitSupp, the individuals behind the persona representing the LockBit ransomware service on cybercrime forums such as Exploit and XSS, \"has engaged with law enforcement,\" authorities said. The development comes following the takedown of the prolific ransomwareasaservice RaaS operation as part of a coordinated international operation codenamed Cronos. Over 14,000 rogue.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-02-24",
+    "from_channel": "defcon_news",
+    "message": "Go Go XSS Gadgets: Chaining a DOM Clobbering Exploit in the Wild\nhttps://old.reddit.com/r/netsec/comments/1ayziu5/go_go_xss_gadgets_chaining_a_dom_clobbering/",
+    "urls": [],
+    "webpage_description": "Posted by poltess0 - 1 vote and no comments",
+    "webpage_url": "https://old.reddit.com/r/netsec/comments/1ayziu5/go_go_xss_gadgets_chaining_a_dom_clobbering/"
+}
+{
+    "date": "2024-02-23",
+    "from_channel": "defcon_news",
+    "message": "Joomla! patches XSS flaws that could lead to remote code execution\nhttps://www.malwarebytes.com/blog/news/2024/02/joomla-patches-xss-flaws-that-could-lead-to-remote-code-execution",
+    "urls": [],
+    "webpage_description": "Time to get patching!",
+    "webpage_url": "https://www.malwarebytes.com/blog/news/2024/02/joomla-patches-xss-flaws-that-could-lead-to-remote-code-execution"
+}
+{
+    "date": "2024-02-23",
+    "from_channel": "defcon_news",
+    "message": "Code injection or backdoor: A new look at Ivanti's CVE-2021-44529\nhttps://old.reddit.com/r/netsec/comments/1axyni7/code_injection_or_backdoor_a_new_look_at_ivantis/",
+    "urls": [],
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://old.reddit.com/r/netsec/comments/1axyni7/code_injection_or_backdoor_a_new_look_at_ivantis/"
+}
+{
     "date": "2024-02-22",
     "from_channel": "github_repos",
     "message": "icyguider/UAC-BOF-Bonanza\nCollection of UAC Bypass Techniques Weaponized as BOFs\nLanguage: C\nStars: 223 Issues: 0 Forks: 32\nhttps://github.com/icyguider/UAC-BOF-Bonanza",
@@ -150,7 +179,7 @@
     "from_channel": "freedomf0x",
     "message": "#CVE-2024-22024 : #Ivanti Connect Secure 9.x, 22.x & Ivanti Policy Secure 9.x, 22.x & ZTA Gateways 22.6R1.3 'SAML Component' - Unauthenticated XML External Entity (XXE) \n\n#POC N/A : https://github.com/0dteam/CVE-2024-22024\n\nCVE-2023-46805 : Ivanti Connect Secure 9.x, 22.x & Ivanti Policy Secure 9.x, 22.x 'Web Component' - Authentication Bypass\n\nSCAN : https://github.com/Chocapikk/CVE-2023-46805\n\nCVE-2024-21887 : Ivanti Connect Secure 9.x, 22.x & Ivanti Policy Secure 9.x, 22.x 'Web Component' - (Authenticated Administrator) Arbitrary Command Execution\n\nPOC N/A : https://github.com/imhunterand/CVE-2024-21887\n\nHigh Signal Detection and Exploitation of Ivanti's Pulse Connect Secure Auth Bypass & #RCE\n\nBlog : https://www.assetnote.io/resources/research/high-signal-detection-and-exploitation-of-ivantis-pulse-connect-secure-auth-bypass-rce",
     "urls": [],
-    "webpage_description": "Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure - GitHub - 0dteam/CVE-2024-22024: Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure",
+    "webpage_description": "Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure - 0dteam/CVE-2024-22024",
     "webpage_url": "https://github.com/0dteam/CVE-2024-22024"
 }
 {
@@ -210,7 +239,6 @@
     "from_channel": "freedomf0x",
     "message": "Disable Windows #Defender (+ #UAC #Bypass, + Upgrade to SYSTEM)\n\nhttps://github.com/EvilGreys/Disable-Windows-Defender-",
     "urls": [],
-    "webpage_description": "Disable Windows Defender (+ UAC Bypass, + Upgrade to SYSTEM) - GitHub - EvilGreys/Disable-Windows-Defender-: Disable Windows Defender (+ UAC Bypass, + Upgrade to SYSTEM)",
     "webpage_url": "https://github.com/EvilGreys/Disable-Windows-Defender-"
 }
 {
