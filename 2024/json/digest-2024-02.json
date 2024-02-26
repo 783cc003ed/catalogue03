@@ -1,4 +1,12 @@
 {
+    "date": "2024-02-26",
+    "from_channel": "defcon_news",
+    "message": "Exploiting inconsistent UTF-8 handling in mbstring to bypass an XSS filter in Joomla\nhttps://old.reddit.com/r/netsec/comments/1b0cv4q/exploiting_inconsistent_utf8_handling_in_mbstring/",
+    "urls": [],
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://old.reddit.com/r/netsec/comments/1b0cv4q/exploiting_inconsistent_utf8_handling_in_mbstring/"
+}
+{
     "date": "2024-02-25",
     "from_channel": "cibsecurity",
     "message": "🖋️ Authorities Claim LockBit Admin \"LockBitSupp\" Has Engaged with Law Enforcement 🖋️\n\nLockBitSupp, the individuals behind the persona representing the LockBit ransomware service on cybercrime forums such as Exploit and XSS, \"has engaged with law enforcement,\" authorities said. The development comes following the takedown of the prolific ransomwareasaservice RaaS operation as part of a coordinated international operation codenamed Cronos. Over 14,000 rogue.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
