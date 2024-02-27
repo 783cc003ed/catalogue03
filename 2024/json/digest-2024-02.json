@@ -1,4 +1,9 @@
 {
+    "date": "2024-02-27",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ WordPress LiteSpeed Plugin Vulnerability Puts 5 Million Sites at Risk 🖋️\n\nA security vulnerability has been disclosed in the LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges. Tracked as CVE202340000, the vulnerability was addressed in October 2023 in version 5.7.0.1. \"This plugin suffers from unauthenticated sitewide stored crosssite scripting vulnerability and could allow any unauthenticated user.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
     "date": "2024-02-26",
     "from_channel": "defcon_news",
     "message": "Exploiting inconsistent UTF-8 handling in mbstring to bypass an XSS filter in Joomla\nhttps://old.reddit.com/r/netsec/comments/1b0cv4q/exploiting_inconsistent_utf8_handling_in_mbstring/",
