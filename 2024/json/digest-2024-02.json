@@ -1,4 +1,19 @@
 {
+    "date": "2024-02-28",
+    "from_channel": "sysadm_in_channel",
+    "message": "/ XSS Vulnerability in LiteSpeed Cache Plugin Affecting 4+ Million Sites\n\nThe plugin LiteSpeed Cache (free version), which has over 4 million active installations, is known as the most popular caching plugin in WordPress.\n\nThis plugin suffers from unauthenticated site-wide stored XSS vulnerability and could allow any unauthenticated user from stealing sensitive information to, in this case, privilege escalation on the WordPress site by performing a single HTTP request.\n\nhttps://patchstack.com/articles/xss-vulnerability-in-litespeed-cache-plugin-affecting-4-million-sites/",
+    "urls": [],
+    "webpage_description": "There is a vulnerability in the LiteSpeed Cache plugin - Unauth Site Wide Stored XSS in <= 5.7 affecting 4+ millions of sites.",
+    "webpage_url": "https://patchstack.com/articles/xss-vulnerability-in-litespeed-cache-plugin-affecting-4-million-sites/"
+}
+{
+    "date": "2024-02-28",
+    "from_channel": "cibsecurity",
+    "message": "📔 Ads for Zero-Day Exploit Sales Surge 70% Annually 📔\n\nGroupIB research warns of rising use of zeroday threats in targeted attacks.\n\n📖 Read more.\n\n🔗 Via \"Infosecurity Magazine\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "Group-IB research warns of rising use of zero-day threats in targeted attacks",
+    "webpage_url": "https://www.infosecurity-magazine.com/news/ads-zeroday-exploit-sales-surge-70/"
+}
+{
     "date": "2024-02-27",
     "from_channel": "cibsecurity",
     "message": "🖋️ WordPress LiteSpeed Plugin Vulnerability Puts 5 Million Sites at Risk 🖋️\n\nA security vulnerability has been disclosed in the LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges. Tracked as CVE202340000, the vulnerability was addressed in October 2023 in version 5.7.0.1. \"This plugin suffers from unauthenticated sitewide stored crosssite scripting vulnerability and could allow any unauthenticated user.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
