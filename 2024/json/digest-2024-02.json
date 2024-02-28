@@ -1,5 +1,10 @@
 {
     "date": "2024-02-28",
+    "from_channel": "it_secur",
+    "message": "🌍 Web LLM Attacks.\n\n•  What are LLMs?\n•  Interactive Interfaces and Use Cases;\n•  Security Considerations;\n•  Protecting Against LLM Attacks;\n•  Exploiting LLM APIs with excessive agency;\n•  Exploiting vulnerabilities in LLM APIs;\n•  Indirect prompt injection;\n•  Exploiting insecure output handling in LLMs;\n•  LLM Zero-Shot Learning Attacks;\n•  LLM Homographic Attacks;\n•  LLM Model Poisoning with Code Injection;\n•  Chained Prompt Injection;\n•  Conclusion;\n•  References;\n•  Security Researchers.\n\n#web #LLM"
+}
+{
+    "date": "2024-02-28",
     "from_channel": "sysadm_in_channel",
     "message": "/ XSS Vulnerability in LiteSpeed Cache Plugin Affecting 4+ Million Sites\n\nThe plugin LiteSpeed Cache (free version), which has over 4 million active installations, is known as the most popular caching plugin in WordPress.\n\nThis plugin suffers from unauthenticated site-wide stored XSS vulnerability and could allow any unauthenticated user from stealing sensitive information to, in this case, privilege escalation on the WordPress site by performing a single HTTP request.\n\nhttps://patchstack.com/articles/xss-vulnerability-in-litespeed-cache-plugin-affecting-4-million-sites/",
     "urls": [],
