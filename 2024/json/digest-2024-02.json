@@ -1,4 +1,12 @@
 {
+    "date": "2024-02-29",
+    "from_channel": "freedomf0x",
+    "message": "#Apache Solr Backup/Restore APIs #RCE Poc (#CVE-2023-50386)\n\nhttps://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC",
+    "urls": [],
+    "webpage_description": "Apache Solr Backup/Restore APIs RCE Poc (CVE-2023-50386) - vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC",
+    "webpage_url": "https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC"
+}
+{
     "date": "2024-02-28",
     "from_channel": "it_secur",
     "message": "🌍 Web LLM Attacks.\n\n•  What are LLMs?\n•  Interactive Interfaces and Use Cases;\n•  Security Considerations;\n•  Protecting Against LLM Attacks;\n•  Exploiting LLM APIs with excessive agency;\n•  Exploiting vulnerabilities in LLM APIs;\n•  Indirect prompt injection;\n•  Exploiting insecure output handling in LLMs;\n•  LLM Zero-Shot Learning Attacks;\n•  LLM Homographic Attacks;\n•  LLM Model Poisoning with Code Injection;\n•  Chained Prompt Injection;\n•  Conclusion;\n•  References;\n•  Security Researchers.\n\n#web #LLM"
