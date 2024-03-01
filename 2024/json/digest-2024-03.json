@@ -2,6 +2,6 @@
     "date": "2024-03-01",
     "from_channel": "cibsecurity",
     "message": "🕵️‍♂️ Microsoft Zero Day Used by Lazarus in Rootkit Attack 🕵️‍♂️\n\nNorth Korean state actors Lazarus Group used a Windows AppLocker zero day, along with a new and improved rootkit, in a recent cyberattack, researchers report.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
-    "webpage_description": "North Korean state actors Lazarus Group used a Windows AppLocker zero day, along with a new and improved rootkit, in a recent cyberattack, researchers report.",
+    "webpage_description": "North Korean state actors Lazarus Group used a Windows AppLocker zero-day, along with a new and improved rootkit, in a recent cyberattack, researchers report.",
     "webpage_url": "https://www.darkreading.com/vulnerabilities-threats/microsoft-zero-day-used-by-lazarus-in-rootkit-attack"
 }
