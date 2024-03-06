@@ -1,5 +1,13 @@
 {
     "date": "2024-03-06",
+    "from_channel": "defcon_news",
+    "message": "Code injection on Android without ptrace\nhttps://old.reddit.com/r/netsec/comments/1b86jiq/code_injection_on_android_without_ptrace/",
+    "urls": [],
+    "webpage_description": "Posted by ihavelotsofspac - 1 vote and no comments",
+    "webpage_url": "https://old.reddit.com/r/netsec/comments/1b86jiq/code_injection_on_android_without_ptrace/"
+}
+{
+    "date": "2024-03-06",
     "from_channel": "sysadm_in_channel",
     "message": "/ VMware ESXi, Workstation, and Fusion contain a use-after-free vulnerability (Critical)\n\nA malicious actor with local administrative privileges on a virtual machine may exploit this issue to execute code as the virtual machine's VMX process running on the host..:\n\nhttps://www.vmware.com/security/advisories/VMSA-2024-0006.html",
     "urls": [],
