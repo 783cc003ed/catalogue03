@@ -1,4 +1,12 @@
 {
+    "date": "2024-03-06",
+    "from_channel": "sysadm_in_channel",
+    "message": "/ VMware ESXi, Workstation, and Fusion contain a use-after-free vulnerability (Critical)\n\nA malicious actor with local administrative privileges on a virtual machine may exploit this issue to execute code as the virtual machine's VMX process running on the host..:\n\nhttps://www.vmware.com/security/advisories/VMSA-2024-0006.html",
+    "urls": [],
+    "webpage_description": "VMware ESXi, Workstation, and Fusion updates address multiple security vulnerabilities (CVE-2024-22252, CVE-2024-22253, CVE-2024-22254, CVE-2024-22255)",
+    "webpage_url": "https://www.vmware.com/security/advisories/VMSA-2024-0006.html"
+}
+{
     "date": "2024-03-05",
     "from_channel": "it_secur",
     "message": "🍎 Attacking IOS.\n\n•  Небольшое руководство, которое описывает различные методы для компрометации iOS устройств.\n\n - Launching the debugserver on the Device;\n - Dumping Application Memory;\n - Inspecting Binaries;\n - Defeating Certificate Pinning;\n - Basic Authentication;\n - TLS Certificate Pinning;\n - NSURLSession;\n - Risks of Third-Party Networking APIs;\n - URL Schemes and the openURL Method;\n - Universal Links;\n - Using (and Abusing) UIWebViews;\n - WKWebView;\n - NSLog Leakage;\n - Keylogging and the Autocorrection Database;\n - Dealing with Sensitive Data in Snapshots;\n - Leaks Due to State Preservation;\n - Format Strings;\n - Buffer Overflows and the Stack;\n - Integer Overflows and the Heap;\n - Client-Side Cross-Site Scripting;\n - SQL Injection;\n - XML Injection;\n - Keychain;\n - Encryption with CommonCrypto;\n - References.\n\n#devsecopsguides #hack"
