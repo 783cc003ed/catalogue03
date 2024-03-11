@@ -1,4 +1,12 @@
 {
+    "date": "2024-03-11",
+    "from_channel": "defcon_news",
+    "message": "CVE-2023-49785 SSRF in NextChat: An AI Chatbot That Lets You Talk to Anyone You Want To\nhttps://old.reddit.com/r/netsec/comments/1bc3plz/cve202349785_ssrf_in_nextchat_an_ai_chatbot_that/",
+    "urls": [],
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://old.reddit.com/r/netsec/comments/1bc3plz/cve202349785_ssrf_in_nextchat_an_ai_chatbot_that/"
+}
+{
     "date": "2024-03-06",
     "from_channel": "defcon_news",
     "message": "Code injection on Android without ptrace\nhttps://old.reddit.com/r/netsec/comments/1b86jiq/code_injection_on_android_without_ptrace/",
