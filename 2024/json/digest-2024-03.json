@@ -1,4 +1,11 @@
 {
+    "date": "2024-03-19",
+    "from_channel": "cibsecurity",
+    "message": "🕵️‍♂️ Cheating Hack Halts Apex Legends E-Sports Tourney 🕵️‍♂️\n\nElectronic Arts is trying to track down the RCE exploit that allowed hackers to inject cheats into games during the recent Apex Legends Global Series.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "Electronic Arts is trying to track down the RCE exploit that allowed hackers to inject cheats into games during the recent Apex Legends Global Series.",
+    "webpage_url": "https://www.darkreading.com/cyber-risk/apex-legends-tourney-spoiled-by-hackers"
+}
+{
     "date": "2024-03-18",
     "from_channel": "cibsecurity",
     "message": "🖋️ Fortra Patches Critical RCE Vulnerability in FileCatalyst Transfer Tool 🖋️\n\nFortra has released details of a nowpatched critical security flaw impacting its FileCatalyst file transfer solution that could allow unauthenticated attackers to gain remote code execution on susceptible servers. Tracked as CVE202425153, the shortcoming carries a CVSS score of 9.8 out of a maximum of 10. \"A directory traversal within the 'ftpservlet' of the FileCatalyst Workflow.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
