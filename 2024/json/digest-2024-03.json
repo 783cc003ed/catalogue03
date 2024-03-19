@@ -1,4 +1,23 @@
 {
+    "date": "2024-03-18",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Fortra Patches Critical RCE Vulnerability in FileCatalyst Transfer Tool 🖋️\n\nFortra has released details of a nowpatched critical security flaw impacting its FileCatalyst file transfer solution that could allow unauthenticated attackers to gain remote code execution on susceptible servers. Tracked as CVE202425153, the shortcoming carries a CVSS score of 9.8 out of a maximum of 10. \"A directory traversal within the 'ftpservlet' of the FileCatalyst Workflow.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-03-18",
+    "from_channel": "defcon_news",
+    "message": "Fortra Patches Critical RCE Vulnerability in FileCatalyst Transfer Tool\nhttps://thehackernews.com/2024/03/fortra-patches-critical-rce.html",
+    "urls": []
+}
+{
+    "date": "2024-03-18",
+    "from_channel": "defcon_news",
+    "message": "Blind SQL Injection in update query for OSWE - PostgreSQL Database\nhttps://old.reddit.com/r/netsec/comments/1bhiq9m/blind_sql_injection_in_update_query_for_oswe/",
+    "urls": [],
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://old.reddit.com/r/netsec/comments/1bhiq9m/blind_sql_injection_in_update_query_for_oswe/"
+}
+{
     "date": "2024-03-14",
     "from_channel": "freedomf0x",
     "message": "This is a proof of concept for #CVE-2024-25153, a Remote Code Execution vulnerability in Fortra FileCatalyst Workflow 5.x, before 5.1.6 Build 114.\n\nhttps://github.com/nettitude/CVE-2024-25153",
