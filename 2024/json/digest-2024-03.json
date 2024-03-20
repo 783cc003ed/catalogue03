@@ -1,6 +1,12 @@
 {
     "date": "2024-03-20",
     "from_channel": "sysadm_in_channel",
+    "message": "/ SQLi (SQL Injection) org.postgresql:postgresql Dependency in Bamboo Data Center and Server\n\nThis Critical severity org.postgresql:postgresql Dependency vulnerability was introduced in versions 8.2.1, 9.0.0, 9.1.0, 9.2.1, 9.3.0, 9.4.0, and 9.5.0 of Bamboo Data Center and Server.\n\nhttps://jira.atlassian.com/browse/BAM-25716",
+    "urls": []
+}
+{
+    "date": "2024-03-20",
+    "from_channel": "sysadm_in_channel",
     "message": "/ UDP-based, application-layer protocol implementations are vulnerable to network loops\n\n..An unauthenticated attacker can use maliciously-crafted packets against a UDP-based vulnerable implementation of application protocols (e.g., DNS, NTP, TFTP) that can lead to Denial-of-Service (DOS) and/or abuse of resources..: \n\nhttps://kb.cert.org/vuls/id/417980",
     "urls": [],
     "webpage_description": "UDP-based, application-layer protocol implementations are vulnerable to network loops",
