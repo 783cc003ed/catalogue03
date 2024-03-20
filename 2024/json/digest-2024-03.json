@@ -1,4 +1,20 @@
 {
+    "date": "2024-03-20",
+    "from_channel": "sysadm_in_channel",
+    "message": "/ UDP-based, application-layer protocol implementations are vulnerable to network loops\n\n..An unauthenticated attacker can use maliciously-crafted packets against a UDP-based vulnerable implementation of application protocols (e.g., DNS, NTP, TFTP) that can lead to Denial-of-Service (DOS) and/or abuse of resources..: \n\nhttps://kb.cert.org/vuls/id/417980",
+    "urls": [],
+    "webpage_description": "UDP-based, application-layer protocol implementations are vulnerable to network loops",
+    "webpage_url": "https://kb.cert.org/vuls/id/417980"
+}
+{
+    "date": "2024-03-20",
+    "from_channel": "freedomf0x",
+    "message": "Proof of Concept (PoC) for #CVE-2024-23334, demonstrating how #malicious actors can exploit vulnerabilities in aiohttp using #LFI .\n\nhttps://github.com/jhonnybonny/CVE-2024-23334",
+    "urls": [],
+    "webpage_description": "aiohttp LFI (CVE-2024-23334). Contribute to jhonnybonny/CVE-2024-23334 development by creating an account on GitHub.",
+    "webpage_url": "https://github.com/jhonnybonny/CVE-2024-23334"
+}
+{
     "date": "2024-03-19",
     "from_channel": "cibsecurity",
     "message": "🕵️‍♂️ Cheating Hack Halts Apex Legends E-Sports Tourney 🕵️‍♂️\n\nElectronic Arts is trying to track down the RCE exploit that allowed hackers to inject cheats into games during the recent Apex Legends Global Series.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
