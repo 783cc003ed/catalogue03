@@ -1,4 +1,20 @@
 {
+    "date": "2024-03-21",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Ivanti Releases Urgent Fix for Critical Sentry RCE Vulnerability 🖋️\n\nIvanti has disclosed details of a critical remote code execution flaw impacting Standalone Sentry, urging customers to apply the fixes immediately to stay protected against potential cyber threats. Tracked as CVE202341724, the vulnerability carries a CVSS score of 9.6. \"An unauthenticated threat actor can execute arbitrary commands on the underlying operating system of the appliance.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-03-21",
+    "from_channel": "defcon_news",
+    "message": "Ivanti Releases Urgent Fix for Critical Sentry RCE Vulnerability\nhttps://thehackernews.com/2024/03/ivanti-releases-urgent-fix-for-critical.html",
+    "urls": []
+}
+{
+    "date": "2024-03-21",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Atlassian Releases Fixes for Over 2 Dozen Flaws, Including Critical Bamboo Bug 🖋️\n\nAtlassian has released patches for more than two dozen security flaws, including a critical bug impacting Bamboo Data Center and Server that could be exploited without requiring user interaction. Tracked as CVE20241597, the vulnerability carries a CVSS score of 10.0, indicating maximum severity. Described as an SQL injection flaw, it's rooted in a dependency called org.postgresql.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
     "date": "2024-03-20",
     "from_channel": "sysadm_in_channel",
     "message": "/ SQLi (SQL Injection) org.postgresql:postgresql Dependency in Bamboo Data Center and Server\n\nThis Critical severity org.postgresql:postgresql Dependency vulnerability was introduced in versions 8.2.1, 9.0.0, 9.1.0, 9.2.1, 9.3.0, 9.4.0, and 9.5.0 of Bamboo Data Center and Server.\n\nhttps://jira.atlassian.com/browse/BAM-25716",
