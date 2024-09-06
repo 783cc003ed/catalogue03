@@ -1,0 +1,162 @@
+{
+    "date": "2024-06-28",
+    "from_channel": "MPSIEMChat",
+    "message": "Коллеги, нужна помощь по таблице Common_whitelist_regex\nПишем исключение для правила PTAF_XSS_Attack_Detected. Allert.key имеет следующий вид \nxss vulnerability in response (html context)|site.ru|ip|yandex llc \nВ поле specific_regex прописываем\n.*\\|.*\\|.*\\|yandex llc\nЦель - чтобы не регистрировались инциденты с ip принадлежащих yandex.\nНо исключение не работает.  Подскажите в чем может быть косяк?"
+}
+{
+    "date": "2024-06-27",
+    "from_channel": "defcon_news",
+    "message": "Common Ecommerce Vulnerabilities: Reflected XSS\nhttps://www.hackerone.com/vulnerability-management/reflected-xss-ecommerce",
+    "webpage_description": "With an example from Shopify, learn about the impact of Reflected XSS vulnerabilities in e-commerce and how to remediate them.",
+    "webpage_url": "https://www.hackerone.com/vulnerability-management/reflected-xss-ecommerce"
+}
+{
+    "date": "2024-06-27",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Prompt Injection Flaw in Vanna AI Exposes Databases to RCE Attacks 🖋️\n\nCybersecurity researchers have disclosed a highseverity security flaw in the Vanna.AI library that could be exploited to achieve remote code execution vulnerability via prompt injection techniques. The vulnerability, tracked as CVE20245565 CVSS score 8.1, relates to a case of prompt injection in the \"ask\" function that could be exploited to trick the library into executing arbitrary.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-06-27",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Prompt Injection Flaw in Vanna AI Exposes Databases to RCE Attacks 🖋️\n\nCybersecurity researchers have disclosed a highseverity security flaw in the Vanna.AI library that could be exploited to achieve remote code execution vulnerability via prompt injection techniques. The vulnerability, tracked as CVE20245565 CVSS score 8.1, relates to a case of prompt injection in the \"ask\" function that could be exploited to trick the library into executing arbitrary.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-06-27",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Critical SQLi Vulnerability Found in Fortra FileCatalyst Workflow Application 🖋️\n\nA critical security flaw has been disclosed in Fortra FileCatalyst Workflow that, if left unpatched, could allow an attacker to tamper with the application database. Tracked as CVE20245276, the vulnerability carries a CVSS score of 9.8. It impacts FileCatalyst Workflow versions 5.1.6 Build 135 and earlier. It has been addressed in version 5.1.6 build 139. \"An SQL injection vulnerability in.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-06-26",
+    "from_channel": "defcon_news",
+    "message": "Why nested deserialization is harmful: Magento XXE (CVE-2024-34102)\nhttps://www.reddit.com/r/netsec/comments/1dovfzi/why_nested_deserialization_is_harmful_magento_xxe/",
+    "webpage_description": "Posted by Mempodipper - 1 vote and no comments",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/1dovfzi/why_nested_deserialization_is_harmful_magento_xxe/"
+}
+{
+    "date": "2024-06-26",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Critical RCE Vulnerability Discovered in Ollama AI Infrastructure Tool 🖋️\n\nCybersecurity researchers have detailed a nowpatched security flaw affecting the Ollama opensource artificial intelligence AI infrastructure platform that could be exploited to achieve remote code execution. Tracked as CVE202437032, the vulnerability has been codenamed Probllama by cloud security firm Wiz. Following responsible disclosure on May 5, 2024, the issue was addressed in version.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-06-26",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ New Cyberthreat 'Boolka' Deploying BMANAGER Trojan via SQLi Attacks 🖋️\n\nA previously undocumented threat actor dubbed Boolka has been observed compromising websites with malicious scripts to deliver a modular trojan codenamed BMANAGER. \"The threat actor behind this campaign has been carrying out opportunistic SQL injection attacks against websites in various countries since at least 2022,\" GroupIB researchers Rustam Mirkasymov and Martijn van den Berk said in a.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-06-26",
+    "from_channel": "RalfHackerChannel",
+    "message": "CVE-2024-30088: Windows LPE\n\nPATCHED: June 11, 2024\n\nhttps://github.com/tykawaii98/CVE-2024-30088\n\nP.S. Протестил на Win11, работает\n\nP.P.S. @Acrono: Протестил на Win10 22H2 (19045) и на Win Server 2019, полет нормальный!\n\n#git #exploit #lpe #pentest #redteam"
+}
+{
+    "date": "2024-06-25",
+    "from_channel": "defcon_news",
+    "message": "How to Find XSS\nhttps://www.hackerone.com/ethical-hacker/how-to-find-xss",
+    "webpage_description": "Security researcher Haoxi Tan breaks down the best practices and tools for finding the different types of XSS vulnerabilities.",
+    "webpage_url": "https://www.hackerone.com/ethical-hacker/how-to-find-xss"
+}
+{
+    "date": "2024-06-24",
+    "from_channel": "defcon_news",
+    "message": "Critical RCE Vulnerability Discovered in Ollama AI Infrastructure Tool\nhttps://thehackernews.com/2024/06/critical-rce-vulnerability-discovered.html"
+}
+{
+    "date": "2024-06-21",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ New Rust-based Fickle Malware Uses PowerShell for UAC Bypass and Data Exfiltration 🖋️\n\nA new Rustbased information stealer malware called Fickle Stealer has been observed being delivered via multiple attack chains with the goal of harvesting sensitive information from compromised hosts. Fortinet FortiGuard Labs said it's aware of four different distribution methods  namely VBA dropper, VBA downloader, link downloader, and executable downloader  with some of them using a.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-06-20",
+    "from_channel": "defcon_news",
+    "message": "New Rust-based Fickle Malware Uses PowerShell for UAC Bypass and Data Exfiltration\nhttps://thehackernews.com/2024/06/new-rust-based-fickle-malware-uses.html"
+}
+{
+    "date": "2024-06-14",
+    "from_channel": "cibsecurity",
+    "message": "🦅 CVE-2024-4577: Ongoing Exploitation of a Critical PHP Vulnerability 🦅\n\n    Overview    On May 7, 2024, Devcore Principal Security Researcher Orange Tsai discovered and reported a critical Remote Code Execution RCE vulnerability, CVE20244577, to the PHP official team. This vulnerability stems from errors in character encoding conversions, particularly affecting the \"Best Fit\" feature on Windows operating systems.     Exploiting this flaw could potentially enable threat actors TAs to remotely execute arbitrary code, posing significant security risks to PHP installations across all versions running on Windows platforms. Recognizing the severity of the issue, the PHP development team promptly addressed CVE20244577 by releasing an official patch on June 6, 2024.\"    On June 8th, cybersecurity researchers at Imperva reported the first instance of TAs exploiting ...\n\n📖 Read more.\n\n🔗 Via \"CYBLE\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "Cyble analyzes the exploitation of recently patched PHP vulnerability CVE-2024-4577",
+    "webpage_url": "https://cyble.com/blog/cve-2024-4577-ongoing-exploitation-of-a-critical-php-vulnerability/"
+}
+{
+    "date": "2024-06-14",
+    "from_channel": "cibsecurity",
+    "message": "🕵️‍♂️ PoC Exploit Emerges for Critical RCE Bug in Ivanti Endpoint Manager 🕵️‍♂️\n\nA new month, a new highrisk Ivanti bug for attackers to exploit  this time, an SQL injection issue in its centralized endpoint manager.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "A new month, a new high-risk Ivanti bug for attackers to exploit — this time, an SQL injection issue in its centralized endpoint manager.",
+    "webpage_url": "https://www.darkreading.com/application-security/poc-exploit-critical-rce-bug-ivanti-endpoint-manager"
+}
+{
+    "date": "2024-06-12",
+    "from_channel": "cibsecurity",
+    "message": "🕵️‍♂️ TellYouthePass Ransomware Group Exploits Critical PHP Flaw 🕵️‍♂️\n\nAn RCE vulnerability that affects the Web scripting language on Windows systems is easy to exploit and can provide a broad attack surface.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "An RCE vulnerability that affects the Web scripting language on Windows systems is easy to exploit and can provide a broad attack surface.",
+    "webpage_url": "https://www.darkreading.com/vulnerabilities-threats/tellyouthepass-ransomware-exploits-critical-php-flaw"
+}
+{
+    "date": "2024-06-12",
+    "from_channel": "defcon_news",
+    "message": "CVE-2024-29824 Deep Dive: Ivanti EPM SQL Injection Remote Code Execution Vulnerability, IOCs, and POC\nhttps://www.reddit.com/r/netsec/comments/1de88ws/cve202429824_deep_dive_ivanti_epm_sql_injection/",
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/1de88ws/cve202429824_deep_dive_ivanti_epm_sql_injection/"
+}
+{
+    "date": "2024-06-12",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Black Basta Ransomware May Have Exploited MS Windows Zero-Day Flaw 🖋️\n\nThreat actors linked to the Black Basta ransomware may have exploited a recently disclosed privilege escalation flaw in the Microsoft Windows Error Reporting Service as zeroday, according to new findings from Symantec. The security flaw in question is CVE202426169 CVSS score 7.8, an elevation of privilege bug in the Windows Error Reporting Service that could be exploited to achieve SYSTEM.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-06-12",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Black Basta Ransomware May Have Exploited MS Windows Zero-Day Flaw 🖋️\n\nThreat actors linked to the Black Basta ransomware may have exploited a recently disclosed privilege escalation flaw in the Microsoft Windows Error Reporting Service as zeroday, according to new findings from Symantec. The security flaw in question is CVE202426169 CVSS score 7.8, an elevation of privilege bug in the Windows Error Reporting Service that could be exploited to achieve SYSTEM.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-06-12",
+    "from_channel": "defcon_news",
+    "message": "Black Basta Ransomware May Have Exploited MS Windows Zero-Day Flaw\nhttps://thehackernews.com/2024/06/black-basta-ransomware-may-have.html"
+}
+{
+    "date": "2024-06-12",
+    "from_channel": "sysadm_in_channel",
+    "message": "/ Microsoft Message Queuing (MSMQ) Remote Code Execution Vulnerability \n\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-30080"
+}
+{
+    "date": "2024-06-11",
+    "from_channel": "freedomf0x",
+    "message": "#CVE-2024-26229 #windows #LPE\n\nhttps://github.com/varwara/CVE-2024-26229",
+    "webpage_description": "CWE-781: Improper Address Validation in IOCTL with METHOD_NEITHER I/O Control Code - varwara/CVE-2024-26229",
+    "webpage_url": "https://github.com/varwara/CVE-2024-26229"
+}
+{
+    "date": "2024-06-11",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Arm Warns of Actively Exploited Zero-Day Vulnerability in Mali GPU Drivers 🖋️\n\nArm is warning of a security vulnerability impacting Mali GPU Kernel Driver that it said has been actively exploited in the wild. Tracked as CVE20244610, the useafterfree issue impacts the following products   Bifrost GPU Kernel Driver all versions from r34p0 to r40p0 Valhall GPU Kernel Driver all versions from r34p0 to r40p0  \"A local nonprivileged user can make improper GPU memory.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-06-11",
+    "from_channel": "RalfHackerChannel",
+    "message": "CVE-2024-26229: Windows LPE\n\nPATCHED: Apr 9, 2024\n\nhttps://github.com/RalfHacker/CVE-2024-26229-exploit\n\nP.S. Чуть поправил оригинальный эксплоит\n\n#git #exploit #lpe #pentest #redteam"
+}
+{
+    "date": "2024-06-11",
+    "from_channel": "defcon_news",
+    "message": "Arm Warns of Actively Exploited Zero-Day Vulnerability in Mali GPU Drivers\nhttps://thehackernews.com/2024/06/arm-warns-of-actively-exploited-zero.html"
+}
+{
+    "date": "2024-06-10",
+    "from_channel": "RalfHackerChannel",
+    "message": "🖥 Veeam Enterprise Manager Authentication Bypass\n\nMay 21st, Veeam published an advisory stating that all the versions BEFORE Veeam Backup Enterprise Manager 12.1.2.172 is affected by an authentication bypass allowing an unauthenticated attacker to bypass the authentication and log in to the Veeam Backup Enterprise Manager web interface as any user. , the CVSS for this vulnerability is 9.8.\n\n🔗 Source: \nhttps://summoning.team/blog/veeam-enterprise-manager-cve-2024-29849-auth-bypass/\n\n🔗 PoC: \nhttps://github.com/sinsinology/CVE-2024-29849\n\n#veeam #authentication #bypass #cve"
+}
+{
+    "date": "2024-06-06",
+    "from_channel": "proxy_bar",
+    "message": "CVE-2024-36801 SemСms\n*\nsql injection для версии Semcms v 4.8\n*\nSQLi + POC"
+}
+{
+    "date": "2024-06-05",
+    "from_channel": "defcon_news",
+    "message": "X-Recon - A Utility For Detecting Webpage Inputs And Conducting XSS Scans\nhttp://www.kitploit.com/2024/06/x-recon-utility-for-detecting-webpage.html",
+    "webpage_url": "https://www.kitploit.com/2024/06/x-recon-utility-for-detecting-webpage.html?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2024-06-05",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Zyxel Releases Patches for Firmware Vulnerabilities in EoL NAS Models 🖋️\n\nZyxel has released security updates to address critical flaws impacting two of its networkattached storage NAS devices that have currently reached endoflife EoL status. Successful exploitation of three of the five vulnerabilities could permit an unauthenticated attacker to execute operating system OS commands and arbitrary code on affected installations. Impacted models include NAS326.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
