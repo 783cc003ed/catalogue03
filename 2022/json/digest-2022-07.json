@@ -2,7 +2,6 @@
     "date": "2022-07-31",
     "from_channel": "hackgit",
     "message": "weaverOA-rce-poc\n\nhttps://github.com/xiaoheihei741/fanweiOA-rce-poc\n\n#poc #RCE",
-    "urls": [],
     "webpage_description": "泛微微 eoffice10 前台 getshell（eoffice10/version.json）:   漏洞等级：严重，可能为 0day 漏洞；  漏洞详情：版本号：http://XXXXXXX:8010/eoffice10/version.json - GitHub - xiaoheihei741/fanweiOA-rce-poc: 泛微微 eoffice10 前台 getshell（e...",
     "webpage_url": "https://github.com/xiaoheihei741/fanweiOA-rce-poc"
 }
@@ -10,7 +9,6 @@
     "date": "2022-07-31",
     "from_channel": "freedomf0x",
     "message": "#rce\n\nhttps://github.com/xiaoheihei741/fanweiOA-rce-poc",
-    "urls": [],
     "webpage_description": "泛微微 eoffice10 前台 getshell（eoffice10/version.json）:   漏洞等级：严重，可能为 0day 漏洞；  漏洞详情：版本号：http://XXXXXXX:8010/eoffice10/version.json - GitHub - xiaoheihei741/fanweiOA-rce-poc: 泛微微 eoffice10 前台 getshell（e...",
     "webpage_url": "https://github.com/xiaoheihei741/fanweiOA-rce-poc"
 }
@@ -18,7 +16,6 @@
     "date": "2022-07-30",
     "from_channel": "defcon_news",
     "message": "Hyperledger: Corsa Site Scripting Vulnerability (XSS)\nhttps://vulners.com/hackerone/H1:1650210?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "urls": [],
     "webpage_description": "An XSS was found in Cactus, a project that is not part of the bounty...",
     "webpage_url": "https://vulners.com/hackerone/H1:1650210?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -61,7 +58,6 @@
     "date": "2022-07-29",
     "from_channel": "defcon_news",
     "message": "Transposh WordPress Translation 1.0.8.1 SQL Injection\nhttp://exploit.kitploit.com/2022/07/transposh-wordpress-translation-1081_31.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/07/transposh-wordpress-translation-1081_31.html"
 }
@@ -69,7 +65,6 @@
     "date": "2022-07-29",
     "from_channel": "defcon_news",
     "message": "Transposh WordPress Translation 1.0.8.1 SQL Injection\nhttps://packetstormsecurity.com/files/167885/wptransposh1081-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/167885/wptransposh1081-sql.txt"
 }
@@ -102,7 +97,6 @@
     "date": "2022-07-29",
     "from_channel": "defcon_news",
     "message": "[CVE-2022-25812] Transposh <= 1.0.8.1 “save_transposh” Missing Logfile Extension Check Leading to Code Injection\nhttps://seclists.org/fulldisclosure/2022/Jul/26",
-    "urls": [],
     "webpage_url": "https://seclists.org/fulldisclosure/2022/Jul/26"
 }
 {
@@ -124,7 +118,6 @@
     "date": "2022-07-28",
     "from_channel": "defcon_news",
     "message": "Loan Management System 1.0 SQL Injection\nhttp://exploit.kitploit.com/2022/07/loan-management-system-10-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/07/loan-management-system-10-sql-injection.html"
 }
@@ -132,7 +125,6 @@
     "date": "2022-07-28",
     "from_channel": "defcon_news",
     "message": "Loan Management System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/167860/loanmgmtsys10-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/167860/loanmgmtsys10-sql.txt"
 }
@@ -161,7 +153,6 @@
     "date": "2022-07-28",
     "from_channel": "defcon_news",
     "message": "Scraping Login Credentials With XSS\nhttps://www.reddit.com/r/netsec/comments/w9yvox/scraping_login_credentials_with_xss/",
-    "urls": [],
     "webpage_description": "Posted in r/netsec by u/sanitybit • 2 points and 0 comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/w9yvox/scraping_login_credentials_with_xss/"
 }
@@ -261,38 +252,32 @@
 {
     "date": "2022-07-26",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Roxy-WI Remote Command Execution Exploit CVE-2022-31137 [remote #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37859",
-    "urls": []
+    "message": "#0daytoday #Roxy-WI Remote Command Execution Exploit CVE-2022-31137 [remote #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37859"
 }
 {
     "date": "2022-07-26",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Garage Management System 1.0 Shell Upload Exploit  [webapps #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37858",
-    "urls": []
+    "message": "#0daytoday #Garage Management System 1.0 Shell Upload Exploit  [webapps #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37858"
 }
 {
     "date": "2022-07-26",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Hospital Information System 1.0 SQL Injection Exploit  [webapps #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37857",
-    "urls": []
+    "message": "#0daytoday #Hospital Information System 1.0 SQL Injection Exploit  [webapps #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37857"
 }
 {
     "date": "2022-07-26",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Expert X Jobs Portal And Resume Builder 1.0 SQL Injection Vulnerability [#0day #Exploit]\nhttp://0day.today/exploits/37855",
-    "urls": []
+    "message": "#0daytoday #Expert X Jobs Portal And Resume Builder 1.0 SQL Injection Vulnerability [#0day #Exploit]\nhttp://0day.today/exploits/37855"
 }
 {
     "date": "2022-07-26",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #PCProtect Endpoint 5.17.470 Tampering / Privilege Escalation Vulnerability [#0day #Exploit]\nhttp://0day.today/exploits/37856",
-    "urls": []
+    "message": "#0daytoday #PCProtect Endpoint 5.17.470 Tampering / Privilege Escalation Vulnerability [#0day #Exploit]\nhttp://0day.today/exploits/37856"
 }
 {
     "date": "2022-07-26",
     "from_channel": "defcon_news",
     "message": "SonicWall urges customers to patch critical SQL injection bug ASAP\nhttps://blog.malwarebytes.com/exploits-and-vulnerabilities/2022/07/sonicwall-urges-clients-to-patch-critical-sql-injection-bug-asap/",
-    "urls": [],
     "webpage_description": "SonicWall GMS and Analytics are vulnerable to an SQL injection bug, tracked as CVE-2022-22280.",
     "webpage_url": "https://blog.malwarebytes.com/exploits-and-vulnerabilities/2022/07/sonicwall-urges-clients-to-patch-critical-sql-injection-bug-asap/?utm_campaign=RT&utm_medium=social"
 }
@@ -300,7 +285,6 @@
     "date": "2022-07-26",
     "from_channel": "defcon_news",
     "message": "Hospital Information System 1.0 SQL Injection\nhttp://exploit.kitploit.com/2022/07/hospital-information-system-10-sql.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/07/hospital-information-system-10-sql.html"
 }
@@ -308,7 +292,6 @@
     "date": "2022-07-26",
     "from_channel": "defcon_news",
     "message": "Expert X Jobs Portal And Resume Builder 1.0 SQL Injection\nhttp://exploit.kitploit.com/2022/07/expert-x-jobs-portal-and-resume-builder.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/07/expert-x-jobs-portal-and-resume-builder.html"
 }
@@ -316,7 +299,6 @@
     "date": "2022-07-26",
     "from_channel": "defcon_news",
     "message": "Hospital Information System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/167803/his10-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/167803/his10-sql.txt"
 }
@@ -324,7 +306,6 @@
     "date": "2022-07-26",
     "from_channel": "defcon_news",
     "message": "Expert X Jobs Portal And Resume Builder 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/167801/expertxjprb10-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/167801/expertxjprb10-sql.txt"
 }
@@ -351,8 +332,7 @@
 {
     "date": "2022-07-26",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Marty Marketplace Multi Vendor Ecommerce Script 1.2 SQL Injection Vulnerability [#0day #Exploit]\nhttp://0day.today/exploits/37854",
-    "urls": []
+    "message": "#0daytoday #Marty Marketplace Multi Vendor Ecommerce Script 1.2 SQL Injection Vulnerability [#0day #Exploit]\nhttp://0day.today/exploits/37854"
 }
 {
     "date": "2022-07-26",
@@ -363,7 +343,6 @@
     "date": "2022-07-26",
     "from_channel": "sysadm_in_channel",
     "message": "/ VMware ESXi TCP/IP Memory Corruption Remote Code Execution Vulnerability\n\nhttps://www.zerodayinitiative.com/advisories/ZDI-22-1021/\n\nP.S. Thx dear subscriber for the link ✌️",
-    "urls": [],
     "webpage_description": "VMware ESXi TCP/IP Memory Corruption Remote Code Execution Vulnerability",
     "webpage_url": "https://www.zerodayinitiative.com/advisories/ZDI-22-1021/"
 }
@@ -398,7 +377,7 @@
     "message": "‼ CVE-2022-35653 ‼\n\nA reflected XSS issue was identified in the LTI module of Moodle. The vulnerability exists due to insufficient sanitization of user-supplied data in the LTI module. A remote attacker can trick the victim to follow a specially crafted link and execute arbitrary HTML and script code in user's browser in context of vulnerable website to steal potentially sensitive information, change appearance of the web page, can perform phishing and drive-by-download attacks. This vulnerability does not impact authenticated users.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2022-07-25",
+    "date": "2022-07-26",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-35649 ‼\n\nThe vulnerability was found in Moodle, occurs due to improper input validation when parsing PostScript code. An omitted execution parameter results in a remote code execution risk for sites running GhostScript versions older than 9.50. Successful exploitation of this vulnerability may result in complete compromise of vulnerable system.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -436,7 +415,6 @@
     "date": "2022-07-25",
     "from_channel": "defcon_news",
     "message": "Marty Marketplace Multi Vendor Ecommerce Script 1.2 SQL Injection\nhttp://exploit.kitploit.com/2022/07/marty-marketplace-multi-vendor.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/07/marty-marketplace-multi-vendor.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -444,7 +422,6 @@
     "date": "2022-07-25",
     "from_channel": "defcon_news",
     "message": "Marty Marketplace Multi Vendor Ecommerce Script 1.2 SQL Injection\nhttps://packetstormsecurity.com/files/167796/mmves12-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/167796/mmves12-sql.txt"
 }
@@ -487,7 +464,6 @@
     "date": "2022-07-25",
     "from_channel": "sysadm_in_channel",
     "message": "/ Unauthenticated SQL injection vulnerability in SonicWall GMS\n\nhttps://www.cybersecurity-help.cz/vdb/SB2022072213",
-    "urls": [],
     "webpage_description": "The vulnerability allows a remote attacker to execute arbitrary SQL queries in database.",
     "webpage_url": "https://www.cybersecurity-help.cz/vdb/SB2022072213"
 }
@@ -495,7 +471,6 @@
     "date": "2022-07-23",
     "from_channel": "defcon_news",
     "message": "Panther Labs: reflected XSS on panther.com\nhttps://vulners.com/hackerone/H1:1601140?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "urls": [],
     "webpage_description": "Summary: When visiting  runpanther.io I got redirected to panther.com and the application failed to sanitise user's input resulting into HTML injection and possible XSS. Steps To Reproduce: {F1774502}   1. Go to https://panther.com/search/Users%3Ch1%3EHello,%20I%20am%3C/h1%3E%3Cfont%20color=red%3E%20Ibrahimatix0x01%3C/font%3E   1. You will notice that HTML codes in the search form are executed by the browser. Supporting Material/References: {F1774497} Impact The vulnerability allow a malicious user to inject html tags and could possibly execute Javascript (if WAF is successfully bypassed)which could lead to steal user's...",
     "webpage_url": "https://vulners.com/hackerone/H1:1601140?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -578,15 +553,13 @@
     "date": "2022-07-22",
     "from_channel": "defcon_news",
     "message": "Google Chrome Zero-Day Weaponized to Spy on Journalists\nhttps://www.darkreading.com/attacks-breaches/google-chrome-0-day-weaponized-to-spy-on-journalists",
-    "urls": [],
     "webpage_description": "Candiru attackers breached a news agency employee website to target journalists with DevilsTongue spyware, researchers say.",
     "webpage_url": "https://www.darkreading.com/attacks-breaches/google-chrome-0-day-weaponized-to-spy-on-journalists"
 }
 {
     "date": "2022-07-22",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Schneider Electric SpaceLogic C-Bus Home Controller (5200WHC2) Remote Root Exploit [#0day #Exploit]\nhttp://0day.today/exploits/37853",
-    "urls": []
+    "message": "#0daytoday #Schneider Electric SpaceLogic C-Bus Home Controller (5200WHC2) Remote Root Exploit [#0day #Exploit]\nhttp://0day.today/exploits/37853"
 }
 {
     "date": "2022-07-22",
@@ -617,14 +590,12 @@
 {
     "date": "2022-07-22",
     "from_channel": "defcon_news",
-    "message": "Candiru Spyware Caught Exploiting Google Chrome Zero-Day to Target Journalists\nhttps://thehackernews.com/2022/07/candiru-spyware-caught-exploiting.html",
-    "urls": []
+    "message": "Candiru Spyware Caught Exploiting Google Chrome Zero-Day to Target Journalists\nhttps://thehackernews.com/2022/07/candiru-spyware-caught-exploiting.html"
 }
 {
     "date": "2022-07-21",
     "from_channel": "ctfchat",
-    "message": "Ты сдаешь всякое говно по типу XSS в белую, но при этом умеешь жить порядочно и монетизировать свои умения правильно",
-    "urls": []
+    "message": "Ты сдаешь всякое говно по типу XSS в белую, но при этом умеешь жить порядочно и монетизировать свои умения правильно"
 }
 {
     "date": "2022-07-21",
@@ -635,7 +606,6 @@
     "date": "2022-07-21",
     "from_channel": "defcon_news",
     "message": "Gitlab Project Import RCE Analysis (CVE-2022-2185)\nhttps://www.reddit.com/r/netsec/comments/w4ikbx/gitlab_project_import_rce_analysis_cve20222185/",
-    "urls": [],
     "webpage_description": "Posted in r/netsec by u/CyberMasterV • 3 points and 0 comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/w4ikbx/gitlab_project_import_rce_analysis_cve20222185/"
 }
@@ -649,32 +619,27 @@
 {
     "date": "2022-07-21",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #OctoBot WebInterface 0.4.3 - Remote Code Execution Exploit [webapps #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37852",
-    "urls": []
+    "message": "#0daytoday #OctoBot WebInterface 0.4.3 - Remote Code Execution Exploit [webapps #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37852"
 }
 {
     "date": "2022-07-21",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #CodoForum v5.1 - Remote Code Execution Exploit CVE-2022-31854 [webapps #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37851",
-    "urls": []
+    "message": "#0daytoday #CodoForum v5.1 - Remote Code Execution Exploit CVE-2022-31854 [webapps #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37851"
 }
 {
     "date": "2022-07-21",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Dr. Fone 4.0.8 - (net_updater32.exe) Unquoted Service Path Vulnerability [#0day #Exploit]\nhttp://0day.today/exploits/37850",
-    "urls": []
+    "message": "#0daytoday #Dr. Fone 4.0.8 - (net_updater32.exe) Unquoted Service Path Vulnerability [#0day #Exploit]\nhttp://0day.today/exploits/37850"
 }
 {
     "date": "2022-07-21",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Kite 1.2021.610.0 - Unquoted Service Path Vulnerability  [remote #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37849",
-    "urls": []
+    "message": "#0daytoday #Kite 1.2021.610.0 - Unquoted Service Path Vulnerability  [remote #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37849"
 }
 {
     "date": "2022-07-21",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #IOTransfer 4.0 - Remote Code Execution Exploit CVE-2022-24562 [remote #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37848",
-    "urls": []
+    "message": "#0daytoday #IOTransfer 4.0 - Remote Code Execution Exploit CVE-2022-24562 [remote #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37848"
 }
 {
     "date": "2022-07-21",
@@ -685,8 +650,7 @@
 {
     "date": "2022-07-21",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Emporium eCommerce Online Shopping CMS 1.2 SQL Injection Vulnerability [#0day #Exploit]\nhttp://0day.today/exploits/37847",
-    "urls": []
+    "message": "#0daytoday #Emporium eCommerce Online Shopping CMS 1.2 SQL Injection Vulnerability [#0day #Exploit]\nhttp://0day.today/exploits/37847"
 }
 {
     "date": "2022-07-21",
@@ -767,7 +731,6 @@
     "date": "2022-07-20",
     "from_channel": "defcon_news",
     "message": "Emporium eCommerce Online Shopping CMS 1.2 SQL Injection\nhttp://exploit.kitploit.com/2022/07/emporium-ecommerce-online-shopping-cms.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/07/emporium-ecommerce-online-shopping-cms.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -775,7 +738,6 @@
     "date": "2022-07-20",
     "from_channel": "defcon_news",
     "message": "Emporium eCommerce Online Shopping CMS 1.2 SQL Injection\nhttps://packetstormsecurity.com/files/167770/emporiumecommcms12-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/167770/emporiumecommcms12-sql.txt"
 }
@@ -833,21 +795,18 @@
     "date": "2022-07-20",
     "from_channel": "defcon_news",
     "message": "Cloud is more fun with an SSRF\nhttps://www.reddit.com/r/netsec/comments/w3i2gk/cloud_is_more_fun_with_an_ssrf/",
-    "urls": [],
     "webpage_description": "Posted in r/netsec by u/Ancient_Title_1860 • 0 points and 0 comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/w3i2gk/cloud_is_more_fun_with_an_ssrf/"
 }
 {
     "date": "2022-07-20",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Spryker Commerce OS Remote Command Execution Vulnerability [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37846",
-    "urls": []
+    "message": "#0daytoday #Spryker Commerce OS Remote Command Execution Vulnerability [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37846"
 }
 {
     "date": "2022-07-20",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Asus GameSDK 1.0.0.4 Unquoted Service Path Vulnerability CVE-2022-35899 [remote #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37845",
-    "urls": []
+    "message": "#0daytoday #Asus GameSDK 1.0.0.4 Unquoted Service Path Vulnerability CVE-2022-35899 [remote #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37845"
 }
 {
     "date": "2022-07-20",
@@ -863,7 +822,6 @@
     "date": "2022-07-20",
     "from_channel": "defcon_news",
     "message": "8x8: LFI via Jolokia at https://█.█.█.█:1293\nhttps://vulners.com/hackerone/H1:1641661?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "urls": [],
     "webpage_description": "@shuvam321 reported to us a single exposed host in the acceptance environment. The report demonstrated a Local File Inclusion via Jolokia, e.g.: https:// █. █. █. █:1293/actuator/jolokia/exec/com.sun.management:type=DiagnosticCommand/compilerDirectivesAdd/!/etc!/hostname No sensitive information has been disclosed & we swiftly restricted access, which resolved the...",
     "webpage_url": "https://vulners.com/hackerone/H1:1641661?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -1011,14 +969,12 @@
 {
     "date": "2022-07-19",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Property Listing Script 3.1 SQL Injection Vulnerability  [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37843",
-    "urls": []
+    "message": "#0daytoday #Property Listing Script 3.1 SQL Injection Vulnerability  [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37843"
 }
 {
     "date": "2022-07-19",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Travel Tours Script 1.0 SQL Injection Vulnerability  [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37844",
-    "urls": []
+    "message": "#0daytoday #Travel Tours Script 1.0 SQL Injection Vulnerability  [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37844"
 }
 {
     "date": "2022-07-18",
@@ -1044,7 +1000,6 @@
     "date": "2022-07-18",
     "from_channel": "defcon_news",
     "message": "Orange Station 1.0 SQL Injection\nhttp://exploit.kitploit.com/2022/07/orange-station-10-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/07/orange-station-10-sql-injection.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1052,7 +1007,6 @@
     "date": "2022-07-18",
     "from_channel": "defcon_news",
     "message": "Property Listing Script 3.1 SQL Injection\nhttp://exploit.kitploit.com/2022/07/property-listing-script-31-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/07/property-listing-script-31-sql-injection.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1060,7 +1014,6 @@
     "date": "2022-07-18",
     "from_channel": "defcon_news",
     "message": "Travel Tours Script 1.0 SQL Injection\nhttp://exploit.kitploit.com/2022/07/travel-tours-script-10-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/07/travel-tours-script-10-sql-injection.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1068,7 +1021,6 @@
     "date": "2022-07-18",
     "from_channel": "defcon_news",
     "message": "Orange Station 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/167758/orangestation10-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/167758/orangestation10-sql.txt"
 }
@@ -1076,7 +1028,6 @@
     "date": "2022-07-18",
     "from_channel": "defcon_news",
     "message": "Property Listing Script 3.1 SQL Injection\nhttps://packetstormsecurity.com/files/167757/pls31-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/167757/pls31-sql.txt"
 }
@@ -1084,7 +1035,6 @@
     "date": "2022-07-18",
     "from_channel": "defcon_news",
     "message": "Travel Tours Script 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/167756/tts10-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/167756/tts10-sql.txt"
 }
@@ -1116,22 +1066,19 @@
 {
     "date": "2022-07-18",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Microsoft Office Excel Silent Builder Exploit  [remote #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37842",
-    "urls": []
+    "message": "#0daytoday #Microsoft Office Excel Silent Builder Exploit  [remote #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37842"
 }
 {
     "date": "2022-07-18",
     "from_channel": "defcon_news",
     "message": "An XSS Vulnerability Riddled Microsoft Teams\nhttps://latesthackingnews.com/2022/07/18/an-xss-vulnerability-riddled-microsoft-teams/",
-    "urls": [],
     "webpage_description": "A security researcher identified a severe XSS vulnerability affecting the Microsoft Teams software. Exploiting the bug merely required an adversary to send a maliciously crafted sticker via the app. Microsoft Teams Vulnerability Sharing the details in a",
     "webpage_url": "https://latesthackingnews.com/2022/07/18/an-xss-vulnerability-riddled-microsoft-teams/"
 }
 {
     "date": "2022-07-18",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Orange Station 1.0 SQL injection Vulnerability  [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37841",
-    "urls": []
+    "message": "#0daytoday #Orange Station 1.0 SQL injection Vulnerability  [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37841"
 }
 {
     "date": "2022-07-18",
@@ -1142,7 +1089,6 @@
     "date": "2022-07-17",
     "from_channel": "hackgit",
     "message": "CVE-2022-32119\n\nArox-Unrestricted-File-Upload\n\nhttps://github.com/JC175/CVE-2022-32119\n\n#cve #exploit",
-    "urls": [],
     "webpage_description": "CVE-2022-32119 - Arox-Unrestricted-File-Upload. Contribute to JC175/CVE-2022-32119 development by creating an account on GitHub.",
     "webpage_url": "https://github.com/JC175/CVE-2022-32119"
 }
@@ -1156,7 +1102,6 @@
     "date": "2022-07-17",
     "from_channel": "sysadm_in_channel",
     "message": "/ NFS RCE\n\nhttps://www.zerodayinitiative.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability",
-    "urls": [],
     "webpage_description": "In this excerpt of a Trend Micro Vulnerability Research Service vulnerability report, Guy Lederfein and Quintin Crist of the Trend Micro Research Team detail a recently patched remote code execution vulnerability in the Microsoft Windows operating system, originally discovered and reported by Yuki C",
     "webpage_url": "https://www.zerodayinitiative.com/blog/2022/7/13/cve-2022-30136-microsoft-windows-network-file-system-v4-remote-code-execution-vulnerability"
 }
@@ -1295,15 +1240,13 @@
     "date": "2022-07-14",
     "from_channel": "hackgit",
     "message": "iscsicpl_bypassUAC\n\niscsicpl autoelevate DLL Search Order hijacking UAC Bypass 0day\n\nThe iscsicpl.exe binary is vulnerable to a DLL Search Order hijacking vulnerability when running 32bit Microsoft binary on a 64bit host via SysWOW64. The 32bit binary, will perform a search within user %Path% for the DLL iscsiexe.dll. This can be exploited using a Proxy DLL to execute code via \"iscsicpl.exe\" as autoelevate is enabled. This exploit has been tested against the following versions of Windows desktop:\n\n▫️ Windows 11 Enterprise x64 (Version 10.0.22000.739).\n▫️ Windows 8.1 Professional x64 (Version 6.3.9600).\n\nhttps://github.com/hackerhouse-opensource/iscsicpl_bypassUAC",
-    "urls": [],
     "webpage_description": "UAC bypass for x64 Windows 7 - 11. Contribute to hackerhouse-opensource/iscsicpl_bypassUAC development by creating an account on GitHub.",
     "webpage_url": "https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC"
 }
 {
     "date": "2022-07-14",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #WordPress 6.0 - Visual Slide Box Builder 3.2.9 SQL injection Vulnerability [#0day #Exploit]\nhttp://0day.today/exploits/37840",
-    "urls": []
+    "message": "#0daytoday #WordPress 6.0 - Visual Slide Box Builder 3.2.9 SQL injection Vulnerability [#0day #Exploit]\nhttp://0day.today/exploits/37840"
 }
 {
     "date": "2022-07-14",
@@ -1326,7 +1269,7 @@
     "message": "‼ CVE-2022-30113 ‼\n\nElectronic mall system 1.0_build20200203 is affected vulnerable to SQL Injection.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2022-07-14",
+    "date": "2022-07-15",
     "from_channel": "hackgit",
     "message": "​​XSS Payload List\n\nCross-site scripting works by manipulating a vulnerable web site so that it returns malicious JavaScript to users. \n\nWhen the malicious code executes inside a victim's browser, the attacker can fully compromise their interaction with the application.\n\nhttps://github.com/AmoloHT/XSS-Payload",
     "webpage_url": "https://telegra.ph/file/8204abc7eca47d33f3895.png"
@@ -1346,8 +1289,7 @@
 {
     "date": "2022-07-14",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Sourcegraph gitserver sshCommand Remote Command Execution Exploit [remote #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37839",
-    "urls": []
+    "message": "#0daytoday #Sourcegraph gitserver sshCommand Remote Command Execution Exploit [remote #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37839"
 }
 {
     "date": "2022-07-14",
@@ -1364,7 +1306,6 @@
     "date": "2022-07-14",
     "from_channel": "defcon_news",
     "message": "This Salesforce Tableau Server XSS vulnerability will not get a CVE attributed. Here is the PoC and the fixed versions.\nhttps://www.reddit.com/r/netsec/comments/vy6imy/this_salesforce_tableau_server_xss_vulnerability/",
-    "urls": [],
     "webpage_description": "Posted in r/netsec by u/obilodeau • 2 points and 0 comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/vy6imy/this_salesforce_tableau_server_xss_vulnerability/"
 }
@@ -1372,7 +1313,6 @@
     "date": "2022-07-14",
     "from_channel": "freedomf0x",
     "message": "#threatleak \n\nhttps://www.microsoft.com/security/blog/2022/07/13/uncovering-a-macos-app-sandbox-escape-vulnerability-a-deep-dive-into-cve-2022-26706/",
-    "urls": [],
     "webpage_description": "Microsoft uncovered a vulnerability in macOS that could allow specially crafted codes to escape the App Sandbox and run unrestricted on the system. We shared these findings with Apple, and fix for this vulnerability, now identified as CVE-2022-26706, was included in the security updates on May 16, 2022.",
     "webpage_url": "https://www.microsoft.com/security/blog/2022/07/13/uncovering-a-macos-app-sandbox-escape-vulnerability-a-deep-dive-into-cve-2022-26706/"
 }
@@ -1439,14 +1379,12 @@
 {
     "date": "2022-07-13",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #JBOSS EAP/AS 6.x Remote Code Execution Exploit  [remote #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37838",
-    "urls": []
+    "message": "#0daytoday #JBOSS EAP/AS 6.x Remote Code Execution Exploit  [remote #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37838"
 }
 {
     "date": "2022-07-13",
     "from_channel": "defcon_news",
     "message": "Microsoft Teams — Cross Site Scripting (XSS) Bypass CSP ($6,000 Bug Bounty)\nhttps://www.reddit.com/r/netsec/comments/vxwg4i/microsoft_teams_cross_site_scripting_xss_bypass/",
-    "urls": [],
     "webpage_description": "Posted in r/netsec by u/numanturle • 6 points and 0 comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/vxwg4i/microsoft_teams_cross_site_scripting_xss_bypass/"
 }
@@ -1564,7 +1502,6 @@
     "date": "2022-07-12",
     "from_channel": "hackgit",
     "message": "SXSS\n\nSXSS is A CLI toolkit to detect and keep track of Blind XSS. Blind XSS is a type of Stored XSS where an attacker blindly deploys malicious scripts that will be triggered in other parts of the application. It can, for example be used to steal cookies from admin pages\n\nhttps://github.com/nkatasekonya/SXSS",
-    "urls": [],
     "webpage_description": "A CLI toolkit to detect and keep track of Blind XSS - GitHub - nkatasekonya/SXSS: A CLI toolkit to detect and keep track of Blind XSS",
     "webpage_url": "https://github.com/nkatasekonya/SXSS"
 }
@@ -1602,12 +1539,11 @@
     "date": "2022-07-12",
     "from_channel": "defcon_news",
     "message": "Severe Remote Code Execution Vulnerability Riddled OpenSSL\nhttps://latesthackingnews.com/2022/07/12/severe-remote-code-execution-vulnerability-riddled-openssl/",
-    "urls": [],
     "webpage_description": "The recent OpenSSL updates address two security bugs in the service, including a high-severity vulnerability in the RSA private key operation. Exploiting this vulnerability could allow remote code execution attacks. OpenSSL RCE Vulnerability According to a recent",
     "webpage_url": "https://latesthackingnews.com/2022/07/12/severe-remote-code-execution-vulnerability-riddled-openssl/"
 }
 {
-    "date": "2022-07-12",
+    "date": "2022-07-13",
     "from_channel": "hackgit",
     "message": "​​JSshell\n\nA JavaScript reverse shell. This is used for executing JS code remotely, exploiting blind XSS, ...\n\nhttps://github.com/shelld3v/JSshell",
     "webpage_url": "https://telegra.ph/file/3b54e4d19b86993a9ff35.png"
@@ -1630,20 +1566,17 @@
 {
     "date": "2022-07-11",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Nginx 1.20.0 - Denial of Service Exploit CVE-2021-23017 [dos #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37837",
-    "urls": []
+    "message": "#0daytoday #Nginx 1.20.0 - Denial of Service Exploit CVE-2021-23017 [dos #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37837"
 }
 {
     "date": "2022-07-11",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #WordPress Visual Slide Box Builder 3.2.9 SQL Injection Vulnerability [#0day #Exploit]\nhttp://0day.today/exploits/37836",
-    "urls": []
+    "message": "#0daytoday #WordPress Visual Slide Box Builder 3.2.9 SQL Injection Vulnerability [#0day #Exploit]\nhttp://0day.today/exploits/37836"
 }
 {
     "date": "2022-07-11",
     "from_channel": "defcon_news",
     "message": "WordPress Visual Slide Box Builder 3.2.9 SQL Injection\nhttp://exploit.kitploit.com/2022/07/wordpress-visual-slide-box-builder-329.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/07/wordpress-visual-slide-box-builder-329.html"
 }
@@ -1651,7 +1584,6 @@
     "date": "2022-07-11",
     "from_channel": "defcon_news",
     "message": "WordPress Visual Slide Box Builder 3.2.9 SQL Injection\nhttps://packetstormsecurity.com/files/167722/wpvsbb329-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/167722/wpvsbb329-sql.txt"
 }
@@ -1690,7 +1622,6 @@
     "date": "2022-07-10",
     "from_channel": "defcon_news",
     "message": "Google Patched One More Chrome Zero-Day Bug Under Attack\nhttps://latesthackingnews.com/2022/07/10/google-patched-one-more-chrome-zero-day-bug-under-attack/",
-    "urls": [],
     "webpage_description": "Another Chrome browser zero-day has surfaced online. Google has confirmed the latest Chrome zero-day bug to have caught the adversaries' attention before a patch. So, as the latest release fixes the vulnerability, users must ensure",
     "webpage_url": "https://latesthackingnews.com/2022/07/10/google-patched-one-more-chrome-zero-day-bug-under-attack/"
 }
@@ -1704,7 +1635,6 @@
     "date": "2022-07-09",
     "from_channel": "defcon_news",
     "message": "RCE Vulnerability In UnRAR Library Affected Zimbra Platform\nhttps://latesthackingnews.com/2022/07/09/rce-vulnerability-in-unrar-library-affected-zimbra-platform/",
-    "urls": [],
     "webpage_description": "A severe remote code execution vulnerability affected the Zimbra email client. The bug typically existed in the UnRAR library that could trigger RCE on the Zimbra platform. Thankfully, the bug received a fix before malicious",
     "webpage_url": "https://latesthackingnews.com/2022/07/09/rce-vulnerability-in-unrar-library-affected-zimbra-platform/"
 }
@@ -1753,8 +1683,7 @@
 {
     "date": "2022-07-08",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Dovecot IMAP Server 2.2 Improper Access Control Vulnerability [remote #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37835",
-    "urls": []
+    "message": "#0daytoday #Dovecot IMAP Server 2.2 Improper Access Control Vulnerability [remote #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37835"
 }
 {
     "date": "2022-07-07",
@@ -1819,20 +1748,17 @@
 {
     "date": "2022-07-07",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #EQS Integrity Line Cross Site Scripting / Information Disclosure Vulnerabilities [#0day #Exploit]\nhttp://0day.today/exploits/37833",
-    "urls": []
+    "message": "#0daytoday #EQS Integrity Line Cross Site Scripting / Information Disclosure Vulnerabilities [#0day #Exploit]\nhttp://0day.today/exploits/37833"
 }
 {
     "date": "2022-07-07",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Magnolia CMS 6.2.19 Cross Site Scripting Vulnerability CVE-2022-33098 [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37834",
-    "urls": []
+    "message": "#0daytoday #Magnolia CMS 6.2.19 Cross Site Scripting Vulnerability CVE-2022-33098 [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37834"
 }
 {
     "date": "2022-07-07",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Xen PV Guest Non-SELFSNOOP CPU Memory Corruption Exploit CVE-2022-26364 [remote #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37832",
-    "urls": []
+    "message": "#0daytoday #Xen PV Guest Non-SELFSNOOP CPU Memory Corruption Exploit CVE-2022-26364 [remote #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37832"
 }
 {
     "date": "2022-07-06",
@@ -1897,7 +1823,6 @@
     "date": "2022-07-05",
     "from_channel": "defcon_news",
     "message": "Abusing functionality to exploit a super SSRF in Jira Server (CVE-2022-26135)\nhttps://www.reddit.com/r/netsec/comments/vsakmq/abusing_functionality_to_exploit_a_super_ssrf_in/",
-    "urls": [],
     "webpage_description": "Posted in r/netsec by u/Mempodipper • 1 point and 0 comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/vsakmq/abusing_functionality_to_exploit_a_super_ssrf_in/"
 }
@@ -1950,7 +1875,6 @@
     "date": "2022-07-05",
     "from_channel": "defcon_news",
     "message": "Google patches “in-the-wild” Chrome zero-day – update now!\nhttps://nakedsecurity.sophos.com/2022/07/05/google-patches-in-the-wild-chrome-zero-day-update-now/",
-    "urls": [],
     "webpage_description": "Running Chrome? Do the “Help-About-Update” dance move right now, just to be sure…",
     "webpage_url": "https://nakedsecurity.sophos.com/2022/07/05/google-patches-in-the-wild-chrome-zero-day-update-now/"
 }
@@ -1965,7 +1889,6 @@
     "date": "2022-07-05",
     "from_channel": "defcon_news",
     "message": "Advanced Testimonials Manager 5.6 SQL Injection\nhttp://exploit.kitploit.com/2022/07/advanced-testimonials-manager-56-sql.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/07/advanced-testimonials-manager-56-sql.html"
 }
@@ -1973,7 +1896,6 @@
     "date": "2022-07-05",
     "from_channel": "defcon_news",
     "message": "Advanced Testimonials Manager 5.6 SQL Injection\nhttps://packetstormsecurity.com/files/167698/atm56-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/167698/atm56-sql.txt"
 }
@@ -1991,39 +1913,33 @@
     "date": "2022-07-05",
     "from_channel": "defcon_news",
     "message": "Update now! Chrome patches ANOTHER zero-day vulnerability\nhttps://blog.malwarebytes.com/exploits-and-vulnerabilities/2022/07/update-now-chrome-patches-another-zero-day-vulnerability/",
-    "urls": [],
     "webpage_description": "Google has patched a vulnerability in Chrome which was being exploited in the wild. Make sure you're using the latest version.",
     "webpage_url": "https://blog.malwarebytes.com/exploits-and-vulnerabilities/2022/07/update-now-chrome-patches-another-zero-day-vulnerability/"
 }
 {
     "date": "2022-07-05",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #DouPHP 1.2 Release 20141027 SQL Injection Vulnerability  [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37831",
-    "urls": []
+    "message": "#0daytoday #DouPHP 1.2 Release 20141027 SQL Injection Vulnerability  [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37831"
 }
 {
     "date": "2022-07-05",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Stock Management System 2020 SQL Injection Vulnerability  [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37830",
-    "urls": []
+    "message": "#0daytoday #Stock Management System 2020 SQL Injection Vulnerability  [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37830"
 }
 {
     "date": "2022-07-05",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Paymoney 3.3 Cross Site Scripting Vulnerability  [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37829",
-    "urls": []
+    "message": "#0daytoday #Paymoney 3.3 Cross Site Scripting Vulnerability  [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37829"
 }
 {
     "date": "2022-07-05",
     "from_channel": "Leakers_squad",
-    "message": "🦠 PenTesting Advanced Course 🦠\n\n◾️ Advanced methods of PenTesting with practicals ◾️\n\n1. Course Introduction\n2. OWASP Top 10.\n3. Burp Suite and Lab Setup\n4. Authentication Bypass\n5, No Rate-Limit Attacks\n6. Cross Site Scripting (XSS)\n7. Cross Site Request Forgery (CSRF)\n8. Cross Origin Resource Sharing (CORS)\n9, How to start with Bug Bounty Platforms and Reporting\n\n📍 Download Link: https://bit.ly/3Iehnb9\n\nContact for posting these content in your channel\nCredit : @Mr_Neophyte\n\n♻️Share With Credit And Support us♻️",
-    "urls": []
+    "message": "🦠 PenTesting Advanced Course 🦠\n\n◾️ Advanced methods of PenTesting with practicals ◾️\n\n1. Course Introduction\n2. OWASP Top 10.\n3. Burp Suite and Lab Setup\n4. Authentication Bypass\n5, No Rate-Limit Attacks\n6. Cross Site Scripting (XSS)\n7. Cross Site Request Forgery (CSRF)\n8. Cross Origin Resource Sharing (CORS)\n9, How to start with Bug Bounty Platforms and Reporting\n\n📍 Download Link: https://bit.ly/3Iehnb9\n\nContact for posting these content in your channel\nCredit : @Mr_Neophyte\n\n♻️Share With Credit And Support us♻️"
 }
 {
     "date": "2022-07-05",
     "from_channel": "defcon_news",
-    "message": "Update Google Chrome Browser to Patch New Zero-Day Exploit Detected in the Wild\nhttps://thehackernews.com/2022/07/update-google-chrome-browser-to-patch.html",
-    "urls": []
+    "message": "Update Google Chrome Browser to Patch New Zero-Day Exploit Detected in the Wild\nhttps://thehackernews.com/2022/07/update-google-chrome-browser-to-patch.html"
 }
 {
     "date": "2022-07-04",
@@ -2039,7 +1955,6 @@
     "date": "2022-07-04",
     "from_channel": "defcon_news",
     "message": "DouPHP 1.2 Release 20141027 SQL Injection\nhttp://exploit.kitploit.com/2022/07/douphp-12-release-20141027-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/07/douphp-12-release-20141027-sql-injection.html"
 }
@@ -2047,7 +1962,6 @@
     "date": "2022-07-04",
     "from_channel": "defcon_news",
     "message": "Stock Management System 2020 SQL Injection\nhttp://exploit.kitploit.com/2022/07/stock-management-system-2020-sql.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/07/stock-management-system-2020-sql.html"
 }
@@ -2055,7 +1969,6 @@
     "date": "2022-07-04",
     "from_channel": "defcon_news",
     "message": "DouPHP 1.2 Release 20141027 SQL Injection\nhttps://packetstormsecurity.com/files/167688/douphp12-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/167688/douphp12-sql.txt"
 }
@@ -2063,7 +1976,6 @@
     "date": "2022-07-04",
     "from_channel": "defcon_news",
     "message": "Stock Management System 2020 SQL Injection\nhttps://packetstormsecurity.com/files/167686/sms2020-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/167686/sms2020-sql.txt"
 }
@@ -2075,8 +1987,7 @@
 {
     "date": "2022-07-02",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Stock Management System 2020 SQL injection Vulnerability  [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37828",
-    "urls": []
+    "message": "#0daytoday #Stock Management System 2020 SQL injection Vulnerability  [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37828"
 }
 {
     "date": "2022-07-02",
@@ -2136,26 +2047,22 @@
 {
     "date": "2022-07-01",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #PHP Library Remote Code Execution Vulnerability  [remote #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37827",
-    "urls": []
+    "message": "#0daytoday #PHP Library Remote Code Execution Vulnerability  [remote #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37827"
 }
 {
     "date": "2022-07-01",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #TypeORM SQL Injection Vulnerability CVE-2022-33171 [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37826",
-    "urls": []
+    "message": "#0daytoday #TypeORM SQL Injection Vulnerability CVE-2022-33171 [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37826"
 }
 {
     "date": "2022-07-01",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Carel pCOWeb HVAC BACnet Gateway 2.1.0 Unauthenticated Directory Traversal Vulnerabilit [#0day #Exploit]\nhttp://0day.today/exploits/37825",
-    "urls": []
+    "message": "#0daytoday #Carel pCOWeb HVAC BACnet Gateway 2.1.0 Unauthenticated Directory Traversal Vulnerabilit [#0day #Exploit]\nhttp://0day.today/exploits/37825"
 }
 {
     "date": "2022-07-01",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #BigBlueButton 2.3 / 2.4.7 Cross Site Scripting Vulnerability [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37824",
-    "urls": []
+    "message": "#0daytoday #BigBlueButton 2.3 / 2.4.7 Cross Site Scripting Vulnerability [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37824"
 }
 {
     "date": "2022-07-01",
@@ -2168,7 +2075,6 @@
     "date": "2022-07-01",
     "from_channel": "defcon_news",
     "message": "DragonForce Malaysia Releases LPE Exploit, Threatens Ransomware\nhttps://www.darkreading.com/vulnerabilities-threats/dragonforce-malaysia-releases-lpe-exploit-threatens-ransomware",
-    "urls": [],
     "webpage_description": "The hacktivist group is ramping up its activities and ready to assault governments and businesses with escalating capabilities.",
     "webpage_url": "https://www.darkreading.com/vulnerabilities-threats/dragonforce-malaysia-releases-lpe-exploit-threatens-ransomware"
 }
@@ -2176,7 +2082,6 @@
     "date": "2022-07-01",
     "from_channel": "defcon_news",
     "message": "TypeORM SQL Injection\nhttp://exploit.kitploit.com/2022/07/typeorm-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/07/typeorm-sql-injection.html"
 }
@@ -2184,7 +2089,6 @@
     "date": "2022-07-01",
     "from_channel": "defcon_news",
     "message": "TypeORM SQL Injection\nhttps://packetstormsecurity.com/files/167634/typeorm-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/167634/typeorm-sql.txt"
 }
@@ -2192,15 +2096,13 @@
     "date": "2022-07-01",
     "from_channel": "defcon_news",
     "message": "CVE-2022-28219 Detection: Critical RCE Vulnerability in Zoho ManageEngine ADAudit Plus\nhttps://www.reddit.com/r/Malware/comments/vp20nc/cve202228219_detection_critical_rce_vulnerability/",
-    "urls": [],
     "webpage_description": "Posted in r/Malware by u/alertnoalert • 1 point and 0 comments",
     "webpage_url": "https://www.reddit.com/r/Malware/comments/vp20nc/cve202228219_detection_critical_rce_vulnerability/"
 }
 {
     "date": "2022-07-01",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #WiFi Mouse 1.7.8.5 - Remote Code Execution (v2) Exploit  [remote #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37823",
-    "urls": []
+    "message": "#0daytoday #WiFi Mouse 1.7.8.5 - Remote Code Execution (v2) Exploit  [remote #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37823"
 }
 {
     "date": "2022-07-01",
@@ -2211,7 +2113,6 @@
     "date": "2022-07-01",
     "from_channel": "defcon_news",
     "message": "BigBlueButton - Stored XSS in username (CVE-2022-31064)\nhttps://seclists.org/fulldisclosure/2022/Jun/52",
-    "urls": [],
     "webpage_url": "https://seclists.org/fulldisclosure/2022/Jun/52"
 }
 {

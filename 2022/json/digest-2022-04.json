@@ -171,14 +171,12 @@
 {
     "date": "2022-04-28",
     "from_channel": "ctfchat",
-    "message": "На xss и на reverse4you часто работа есть",
-    "urls": []
+    "message": "На xss и на reverse4you часто работа есть"
 }
 {
     "date": "2022-04-28",
     "from_channel": "ctfchat",
-    "message": "Челы под xss писали месяц скрипт под одну криптобиржу...",
-    "urls": []
+    "message": "Челы под xss писали месяц скрипт под одну криптобиржу..."
 }
 {
     "date": "2022-04-27",
@@ -256,7 +254,7 @@
     "message": "‼ CVE-2021-36895 ‼\n\nUnauthenticated Cross-Site Scripting (XSS) vulnerability in Tripetto's Tripetto plugin <= 5.1.4 on WordPress via SVG image upload.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2022-04-26",
+    "date": "2022-04-29",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2021-26628 ‼\n\nInsufficient script validation of the admin page enables XSS, which causes unauthorized users to steal admin privileges. When uploading file in a specific menu, the verification of the files is insufficient. It allows remote attackers to upload arbitrary files disguising them as image files.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -300,8 +298,7 @@
 {
     "date": "2022-04-26",
     "from_channel": "freedomf0x",
-    "message": "Интервью с Чуонгом - разрушителем рансомов, специально для портала XSS\n\n#yashechka #xss_is #HackThePlanet\n\nhttp://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/threads/66109/\n\nhttps://xss.is/threads/66109/",
-    "urls": []
+    "message": "Интервью с Чуонгом - разрушителем рансомов, специально для портала XSS\n\n#yashechka #xss_is #HackThePlanet\n\nhttp://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/threads/66109/\n\nhttps://xss.is/threads/66109/"
 }
 {
     "date": "2022-04-25",
@@ -683,8 +680,7 @@
 {
     "date": "2022-04-20",
     "from_channel": "ctfchat",
-    "message": "В казике кстати, по идеи, sql injection была ещё",
-    "urls": []
+    "message": "В казике кстати, по идеи, sql injection была ещё"
 }
 {
     "date": "2022-04-20",
@@ -859,8 +855,7 @@
 {
     "date": "2022-04-18",
     "from_channel": "freedomf0x",
-    "message": "Watchguard-RCE-POC-CVE-2022-26318",
-    "urls": []
+    "message": "Watchguard-RCE-POC-CVE-2022-26318"
 }
 {
     "date": "2022-04-18",
@@ -877,8 +872,7 @@
 {
     "date": "2022-04-17",
     "from_channel": "freedomf0x",
-    "message": "CVE-2022-1329\nWordPress-Elementor-3.6.0-3.6.1-3.6.2\ntype: RCE\n#exploit #rce #poc",
-    "urls": []
+    "message": "CVE-2022-1329\nWordPress-Elementor-3.6.0-3.6.1-3.6.2\ntype: RCE\n#exploit #rce #poc"
 }
 {
     "date": "2022-04-16",
@@ -1217,14 +1211,12 @@
 {
     "date": "2022-04-14",
     "from_channel": "ctfchat",
-    "message": "Мне кажется у нас на каждом AD есть SSRF",
-    "urls": []
+    "message": "Мне кажется у нас на каждом AD есть SSRF"
 }
 {
     "date": "2022-04-14",
     "from_channel": "ctfchat",
-    "message": "> ssrf нет в ад\n\n> почти любой ад такой ну да ну да",
-    "urls": []
+    "message": "> ssrf нет в ад\n\n> почти любой ад такой ну да ну да"
 }
 {
     "date": "2022-04-14",
@@ -1234,14 +1226,12 @@
 {
     "date": "2022-04-14",
     "from_channel": "ctfchat",
-    "message": "Ну xss только у немцев",
-    "urls": []
+    "message": "Ну xss только у немцев"
 }
 {
     "date": "2022-04-14",
     "from_channel": "ctfchat",
-    "message": "В тем более, всякие xss, csrf, ssrf и прочего дерьма же нет на цтфках как правило",
-    "urls": []
+    "message": "В тем более, всякие xss, csrf, ssrf и прочего дерьма же нет на цтфках как правило"
 }
 {
     "date": "2022-04-14",
@@ -1306,8 +1296,7 @@
 {
     "date": "2022-04-13",
     "from_channel": "sysadm_in_channel",
-    "message": "/ Microsoft patches seuously security vulnerabilities - Elevation privilege escalation and RCE\n\nWindows Common Log File System Driver Elevation of Privilege Vulnerability\n\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-24521\n\n\nRemote Procedure Call Runtime Remote Code Execution Vulnerability\n\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-26809",
-    "urls": []
+    "message": "/ Microsoft patches seuously security vulnerabilities - Elevation privilege escalation and RCE\n\nWindows Common Log File System Driver Elevation of Privilege Vulnerability\n\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-24521\n\n\nRemote Procedure Call Runtime Remote Code Execution Vulnerability\n\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-26809"
 }
 {
     "date": "2022-04-12",
@@ -1347,8 +1336,7 @@
 {
     "date": "2022-04-12",
     "from_channel": "ctfchat",
-    "message": "на xss эксплойт ины и кучу китайских форумов",
-    "urls": []
+    "message": "на xss эксплойт ины и кучу китайских форумов"
 }
 {
     "date": "2022-04-12",
@@ -1608,8 +1596,7 @@
 {
     "date": "2022-04-09",
     "from_channel": "Leakers_squad",
-    "message": "👨🏻‍💻 Web Security & Bug Bounty: Learn Penetration Testing in 2022 👨🏻‍💻\n\nBug Hunter and the Burpsuite Tool\nHTML Injections\nCommand Injection/Execution\nBroken Authentication\nBrutefroce Attacks\nBroken Access Control\nSecurity Misconfiguration\nCross Site Scripting - XSS\nSQL Injection\nXML, XPath Injection, XXE\nLogging And Monitoring Best Practices\nWeb Fundamentals\nNetworking Fundamentals\nLinux Terminal Fundamentals\nand many more...\n\nDirect Link : https://bit.ly/3jcVwVT\n\ncontact for posting these content in your channel\n@Mr_Neophyte\n\n♻️Share And Support us♻️",
-    "urls": []
+    "message": "👨🏻‍💻 Web Security & Bug Bounty: Learn Penetration Testing in 2022 👨🏻‍💻\n\nBug Hunter and the Burpsuite Tool\nHTML Injections\nCommand Injection/Execution\nBroken Authentication\nBrutefroce Attacks\nBroken Access Control\nSecurity Misconfiguration\nCross Site Scripting - XSS\nSQL Injection\nXML, XPath Injection, XXE\nLogging And Monitoring Best Practices\nWeb Fundamentals\nNetworking Fundamentals\nLinux Terminal Fundamentals\nand many more...\n\nDirect Link : https://bit.ly/3jcVwVT\n\ncontact for posting these content in your channel\n@Mr_Neophyte\n\n♻️Share And Support us♻️"
 }
 {
     "date": "2022-04-08",
@@ -1962,7 +1949,6 @@
     "date": "2022-04-02",
     "from_channel": "freedomf0x",
     "message": "#threatleak \n\nhttps://www.tenable.com/blog/spring4shell-faq-spring-framework-remote-code-execution-vulnerability",
-    "urls": [],
     "webpage_description": "A list of frequently asked questions related to Spring4Shell.",
     "webpage_url": "https://www.tenable.com/blog/spring4shell-faq-spring-framework-remote-code-execution-vulnerability"
 }
@@ -2015,21 +2001,18 @@
     "date": "2022-04-01",
     "from_channel": "defcon_news",
     "message": "CVE-2022-26233: Barco Control Room Management Suite File Path Traversal Vulnerability\nhttps://seclists.org/fulldisclosure/2022/Apr/0\n\nvia Full Disclosure",
-    "urls": [],
     "webpage_url": "https://seclists.org/fulldisclosure/2022/Apr/0"
 }
 {
     "date": "2022-04-01",
     "from_channel": "defcon_news",
     "message": "Auto-Elevate - Escalate From A Low-Integrity Administrator Account To NT AUTHORITY\\SYSTEM Without An LPE Exploit By Combining A COM UAC Bypass And Token Impersonation\nhttp://www.kitploit.com/2022/04/auto-elevate-escalate-from-low.html\n\nvia KitPloit - PenTest Tools!",
-    "urls": [],
     "webpage_url": "https://www.kitploit.com/2022/04/auto-elevate-escalate-from-low.html"
 }
 {
     "date": "2022-04-01",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #WordPress Uleak Security Dashboard 1.2.3 Cross Site Scripting Vulnerability [#0day #Exploit]\nhttps://0day.today/exploits/37570\n\nvia 0day.today",
-    "urls": []
+    "message": "#0daytoday #WordPress Uleak Security Dashboard 1.2.3 Cross Site Scripting Vulnerability [#0day #Exploit]\nhttps://0day.today/exploits/37570\n\nvia 0day.today"
 }
 {
     "date": "2022-04-01",
@@ -2045,7 +2028,6 @@
     "date": "2022-04-01",
     "from_channel": "defcon_news",
     "message": "SpringShell Zero-Day Vulnerability: All You Need To Know\nhttps://www.reddit.com/r/netsec/comments/ttkt7v/springshell_zeroday_vulnerability_all_you_need_to/\n\nvia /r/netsec - Information Security News & Discussion",
-    "urls": [],
     "webpage_description": "Posted in r/netsec by u/SRMish3 • 0 points and 0 comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/ttkt7v/springshell_zeroday_vulnerability_all_you_need_to/"
 }

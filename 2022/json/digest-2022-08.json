@@ -27,7 +27,6 @@
     "date": "2022-08-31",
     "from_channel": "defcon_news",
     "message": "WordPress Core Cross Site Scripting / SQL Injection\nhttp://exploit.kitploit.com/2022/08/wordpress-core-cross-site-scripting-sql.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/08/wordpress-core-cross-site-scripting-sql.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -35,7 +34,6 @@
     "date": "2022-08-31",
     "from_channel": "defcon_news",
     "message": "WordPress Core Cross Site Scripting / SQL Injection\nhttps://packetstormsecurity.com/files/168201/wpcore-sqlxss.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168201/wpcore-sqlxss.txt"
 }
@@ -48,8 +46,7 @@
 {
     "date": "2022-08-31",
     "from_channel": "phd_soc",
-    "message": "client side вектора сейчас тема. фишинги всякие, xss, малвари",
-    "urls": []
+    "message": "client side вектора сейчас тема. фишинги всякие, xss, малвари"
 }
 {
     "date": "2022-08-31",
@@ -272,7 +269,6 @@
     "date": "2022-08-29",
     "from_channel": "defcon_news",
     "message": "AeroCMS 0.0.1 SQL Injection\nhttp://exploit.kitploit.com/2022/08/aerocms-001-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/08/aerocms-001-sql-injection.html"
 }
@@ -280,7 +276,6 @@
     "date": "2022-08-29",
     "from_channel": "defcon_news",
     "message": "AeroCMS 0.0.1 SQL Injection\nhttps://packetstormsecurity.com/files/168189/aerocms0001-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168189/aerocms0001-sql.txt"
 }
@@ -333,7 +328,6 @@
     "date": "2022-08-28",
     "from_channel": "freedomf0x",
     "message": "#UAC #Bypass by abusing RPC and debug objects.\n\nhttps://github.com/Kudaes/Elevator",
-    "urls": [],
     "webpage_description": "UAC Bypass by abusing RPC and debug objects. Contribute to Kudaes/Elevator development by creating an account on GitHub.",
     "webpage_url": "https://github.com/Kudaes/Elevator"
 }
@@ -341,7 +335,6 @@
     "date": "2022-08-28",
     "from_channel": "defcon_news",
     "message": "Toxssin - An XSS Exploitation Command-Line Interface And Payload Generator\nhttp://www.kitploit.com/2022/08/toxssin-xss-exploitation-command-line.html",
-    "urls": [],
     "webpage_url": "https://www.kitploit.com/2022/08/toxssin-xss-exploitation-command-line.html"
 }
 {
@@ -469,7 +462,6 @@
     "date": "2022-08-26",
     "from_channel": "defcon_news",
     "message": "Update now! GitLab issues critical security release for RCE vulnerability\nhttps://www.malwarebytes.com/blog/news/2022/08/update-now-gitlab-issues-critical-security-release-for-rce-vulnerability",
-    "urls": [],
     "webpage_url": "https://www.malwarebytes.com/blog/news/2022/08/update-now-gitlab-issues-critical-security-release-for-rce-vulnerability"
 }
 {
@@ -541,7 +533,6 @@
     "date": "2022-08-25",
     "from_channel": "defcon_news",
     "message": "PrestaShop Ap Pagebuilder 2.4.4 SQL Injection\nhttp://exploit.kitploit.com/2022/08/prestashop-ap-pagebuilder-244-sql.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/08/prestashop-ap-pagebuilder-244-sql.html"
 }
@@ -549,7 +540,6 @@
     "date": "2022-08-25",
     "from_channel": "defcon_news",
     "message": "PrestaShop Ap Pagebuilder 2.4.4 SQL Injection\nhttps://packetstormsecurity.com/files/168148/prestashopappagebuilder244-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168148/prestashopappagebuilder244-sql.txt"
 }
@@ -683,7 +673,6 @@
     "date": "2022-08-23",
     "from_channel": "defcon_news",
     "message": "HTTP header Blind SQL injection Example\nhttps://www.reddit.com/r/netsec/comments/wvhkyt/http_header_blind_sql_injection_example/",
-    "urls": [],
     "webpage_description": "Posted in r/netsec by u/InformationSecurity • 2 points and 0 comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/wvhkyt/http_header_blind_sql_injection_example/"
 }
@@ -776,7 +765,6 @@
     "date": "2022-08-22",
     "from_channel": "defcon_news",
     "message": "Personnel Property Equipment 2015-2022 SQL Injection\nhttp://exploit.kitploit.com/2022/08/personnel-property-equipment-2015-2022.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/08/personnel-property-equipment-2015-2022.html"
 }
@@ -784,7 +772,6 @@
     "date": "2022-08-22",
     "from_channel": "defcon_news",
     "message": "Personnel Property Equipment 2015-2022 SQL Injection\nhttps://packetstormsecurity.com/files/168123/ppe20152022-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168123/ppe20152022-sql.txt"
 }
@@ -802,8 +789,7 @@
 {
     "date": "2022-08-22",
     "from_channel": "defcon_news",
-    "message": "Hackers Stole Crypto from Bitcoin ATMs by Exploiting Zero-Day Vulnerability\nhttps://thehackernews.com/2022/08/hackers-stole-crypto-from-bitcoin-atms.html",
-    "urls": []
+    "message": "Hackers Stole Crypto from Bitcoin ATMs by Exploiting Zero-Day Vulnerability\nhttps://thehackernews.com/2022/08/hackers-stole-crypto-from-bitcoin-atms.html"
 }
 {
     "date": "2022-08-22",
@@ -826,7 +812,6 @@
     "date": "2022-08-20",
     "from_channel": "defcon_news",
     "message": "900+ SQL Injection variations from one attacker log\nhttps://www.reddit.com/r/netsec/comments/wte1hx/900_sql_injection_variations_from_one_attacker_log/",
-    "urls": [],
     "webpage_description": "Posted in r/netsec by u/nykzhang • 21 points and 1 comment",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/wte1hx/900_sql_injection_variations_from_one_attacker_log/?utm_source=ifttt"
 }
@@ -844,8 +829,7 @@
 {
     "date": "2022-08-19",
     "from_channel": "Leakers_squad",
-    "message": "💉 How To Find SQL Injection Vulnerable Website 💉\n\n1. Go to this website https://www.punkspider.org/\n2. Change all settings to this and put .com/.co.uk \n3. Click Search!\n4. Now you get a bunch of websites, go for one with a high risk and high sqli amount. Click 'show details' once you found one you like.\n5. Now this should show up... make sure you choose a URL with sqli type. Choose your URL...\n6. Start injecting! Use like havij or something to inject.\n\n⚠️ NOTE: This tutorial is for low-ball, unpopular websites. You aren't going to hack big websites \n\n❓Want content like this in your channel or group ping me at @himanshu_jangra_official",
-    "urls": []
+    "message": "💉 How To Find SQL Injection Vulnerable Website 💉\n\n1. Go to this website https://www.punkspider.org/\n2. Change all settings to this and put .com/.co.uk \n3. Click Search!\n4. Now you get a bunch of websites, go for one with a high risk and high sqli amount. Click 'show details' once you found one you like.\n5. Now this should show up... make sure you choose a URL with sqli type. Choose your URL...\n6. Start injecting! Use like havij or something to inject.\n\n⚠️ NOTE: This tutorial is for low-ball, unpopular websites. You aren't going to hack big websites \n\n❓Want content like this in your channel or group ping me at @himanshu_jangra_official"
 }
 {
     "date": "2022-08-19",
@@ -861,7 +845,6 @@
     "date": "2022-08-19",
     "from_channel": "defcon_news",
     "message": "FLIR AX8 1.46.16 Traversal / Access Control / Command Injection / XSS\nhttp://exploit.kitploit.com/2022/08/flir-ax8-14616-traversal-access-control.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/08/flir-ax8-14616-traversal-access-control.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -869,7 +852,6 @@
     "date": "2022-08-19",
     "from_channel": "defcon_news",
     "message": "FLIR AX8 1.46.16 Traversal / Access Control / Command Injection / XSS\nhttps://packetstormsecurity.com/files/168116/flirax8-traversalexecxss.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168116/flirax8-traversalexecxss.txt"
 }
@@ -1031,7 +1013,6 @@
     "date": "2022-08-18",
     "from_channel": "defcon_news",
     "message": "Google Address Another Zero-Day Vulnerability In Chrome Browser\nhttps://latesthackingnews.com/2022/08/18/google-address-another-zero-day-vulnerability-in-chrome-browser/",
-    "urls": [],
     "webpage_description": "Heads up, Chrome users! Google has rolled out another major Chrome browser update fixing a serious zero-day vulnerability. Given its active exploitation, users must update their devices at the earliest to remain safe. Google Chrome Zero-Day",
     "webpage_url": "https://latesthackingnews.com/2022/08/18/google-address-another-zero-day-vulnerability-in-chrome-browser/"
 }
@@ -1091,7 +1072,6 @@
     "date": "2022-08-17",
     "from_channel": "defcon_news",
     "message": "Google Chrome Zero-Day Found Exploited in the Wild\nhttps://www.darkreading.com/application-security/google-chrome-zero-day-exploited-wild",
-    "urls": [],
     "webpage_description": "The high-severity security vulnerability (CVE-2022-2856) is due to improper user-input validation.",
     "webpage_url": "https://www.darkreading.com/application-security/google-chrome-zero-day-exploited-wild"
 }
@@ -1103,8 +1083,7 @@
 {
     "date": "2022-08-17",
     "from_channel": "defcon_news",
-    "message": "New Google Chrome Zero-Day Vulnerability Being Exploited in the Wild\nhttps://thehackernews.com/2022/08/new-google-chrome-zero-day.html",
-    "urls": []
+    "message": "New Google Chrome Zero-Day Vulnerability Being Exploited in the Wild\nhttps://thehackernews.com/2022/08/new-google-chrome-zero-day.html"
 }
 {
     "date": "2022-08-17",
@@ -1223,7 +1202,6 @@
     "date": "2022-08-15",
     "from_channel": "defcon_news",
     "message": "Inout RealEstate 2.1.2 SQL Injection\nhttp://exploit.kitploit.com/2022/08/inout-realestate-212-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/08/inout-realestate-212-sql-injection.html"
 }
@@ -1231,7 +1209,6 @@
     "date": "2022-08-15",
     "from_channel": "defcon_news",
     "message": "Inout RealEstate 2.1.2 SQL Injection\nhttps://packetstormsecurity.com/files/168092/inoutrealestate212-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168092/inoutrealestate212-sql.txt"
 }
@@ -1351,7 +1328,6 @@
     "date": "2022-08-12",
     "from_channel": "defcon_news",
     "message": "Gas Agency Management 2022 SQL Injection / XSS / Shell Upload\nhttp://exploit.kitploit.com/2022/08/gas-agency-management-2022-sql.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/08/gas-agency-management-2022-sql.html"
 }
@@ -1359,7 +1335,6 @@
     "date": "2022-08-12",
     "from_channel": "defcon_news",
     "message": "Readymade Job Portal Script SQL Injection\nhttp://exploit.kitploit.com/2022/08/readymade-job-portal-script-sql.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/08/readymade-job-portal-script-sql.html"
 }
@@ -1367,7 +1342,6 @@
     "date": "2022-08-12",
     "from_channel": "defcon_news",
     "message": "Gas Agency Management 2022 SQL Injection / XSS / Shell Upload\nhttps://packetstormsecurity.com/files/168067/gam2022-sqlshellxss.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168067/gam2022-sqlshellxss.txt"
 }
@@ -1375,21 +1349,18 @@
     "date": "2022-08-12",
     "from_channel": "defcon_news",
     "message": "Readymade Job Portal Script SQL Injection\nhttps://packetstormsecurity.com/files/168066/rjps-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168066/rjps-sql.txt"
 }
 {
     "date": "2022-08-12",
     "from_channel": "defcon_news",
-    "message": "Researchers Warn of Ongoing Mass Exploitation of Zimbra RCE Vulnerability\nhttps://thehackernews.com/2022/08/researchers-warn-of-ongoing-mass.html",
-    "urls": []
+    "message": "Researchers Warn of Ongoing Mass Exploitation of Zimbra RCE Vulnerability\nhttps://thehackernews.com/2022/08/researchers-warn-of-ongoing-mass.html"
 }
 {
     "date": "2022-08-11",
     "from_channel": "defcon_news",
     "message": "Microsoft: We Don't Want to Zero-Day Our Customers\nhttps://www.darkreading.com/application-security/microsoft-zero-day-customers-security-exec",
-    "urls": [],
     "webpage_description": "The head of Microsoft's Security Response Center defends keeping its initial vulnerability disclosures sparse — it is, she says, to protect customers.",
     "webpage_url": "https://www.darkreading.com/application-security/microsoft-zero-day-customers-security-exec"
 }
@@ -1452,7 +1423,6 @@
     "date": "2022-08-11",
     "from_channel": "freedomf0x",
     "message": "#DashOverride\n\nThis is a pre-authenticated #RCE exploit for VMware vRealize Operations Manager (vROPS) that impacts versions <= 8.6.3.19682901.\n\nhttps://github.com/sourceincite/DashOverride",
-    "urls": [],
     "webpage_description": "This is a pre-authenticated RCE exploit for VMware vRealize Operations Manager - GitHub - sourceincite/DashOverride: This is a pre-authenticated RCE exploit for VMware vRealize Operations Manager",
     "webpage_url": "https://github.com/sourceincite/DashOverride"
 }
@@ -1523,7 +1493,6 @@
     "date": "2022-08-10",
     "from_channel": "defcon_news",
     "message": "Many ZTNA, MFA Tools Offer Little Protection Against Cookie Session Hijacking Attacks\nhttps://www.darkreading.com/identity-and-access-management/many-ztna-mfa-tools-offer-little-protection-against-cookie-session-hijacking-attacks",
-    "urls": [],
     "webpage_description": "Many of the technologies and services that organizations are using to isolate Internet traffic from the internal network lack session validation mechanisms, security startup says.",
     "webpage_url": "https://www.darkreading.com/identity-and-access-management/many-ztna-mfa-tools-offer-little-protection-against-cookie-session-hijacking-attacks"
 }
@@ -1630,7 +1599,6 @@
     "date": "2022-08-09",
     "from_channel": "defcon_news",
     "message": "HackerOne: Ability to escape database transaction through SQL injection, leading to arbitrary code execution\nhttps://vulners.com/hackerone/H1:1663299?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "urls": [],
     "webpage_description": "HackerOne has an internal backend interface that gives debugging capabilities to its engineers. One of the features is the ability to run EXPLAIN ANALYZE queries against a connected database. This feature is accessible by a handful of engineers. The feature is vulnerable to a SQL injection that allows an attacker to escape the transaction that is wrapped around the EXPLAIN ANALYZE query. This SQL injection can be leveraged to execute arbitrary ruby on an application server. This vulnerability will be demonstrated against a local development environment. Proof of concept  go to http://localhost:8080/support/sql_query_analyzer analyze the following query using the public database connection:  ```sql SELECT         1 ; ROLLBACK ; INSERT     INTO         user_versions (             item_type             ,item_id             ,event             ,email             ,object         )     VALUES (         'User'         ,2         ,'update'         , 'uniquekeywordtotriggercode@hackerone.com'         ,'--- username:  …",
     "webpage_url": "https://vulners.com/hackerone/H1:1663299"
 }
@@ -1638,7 +1606,6 @@
     "date": "2022-08-09",
     "from_channel": "defcon_news",
     "message": "Matrimonial PHP Script 1.0 SQL Injection\nhttp://exploit.kitploit.com/2022/08/matrimonial-php-script-10-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/08/matrimonial-php-script-10-sql-injection.html"
 }
@@ -1646,7 +1613,6 @@
     "date": "2022-08-09",
     "from_channel": "defcon_news",
     "message": "Prestashop Blockwishlist 2.1.0 SQL Injection\nhttp://exploit.kitploit.com/2022/08/prestashop-blockwishlist-210-sql.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/08/prestashop-blockwishlist-210-sql.html"
 }
@@ -1654,7 +1620,6 @@
     "date": "2022-08-09",
     "from_channel": "defcon_news",
     "message": "Matrimonial PHP Script 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/168010/matrimonial10-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168010/matrimonial10-sql.txt"
 }
@@ -1662,7 +1627,6 @@
     "date": "2022-08-09",
     "from_channel": "defcon_news",
     "message": "Prestashop Blockwishlist 2.1.0 SQL Injection\nhttps://packetstormsecurity.com/files/168003/prestashopbwl210-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168003/prestashopbwl210-sql.txt"
 }
@@ -1823,7 +1787,6 @@
     "date": "2022-08-05",
     "from_channel": "defcon_news",
     "message": "Online Admission System 1.0 SQL Injection\nhttp://exploit.kitploit.com/2022/08/online-admission-system-10-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/08/online-admission-system-10-sql-injection.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1831,7 +1794,6 @@
     "date": "2022-08-05",
     "from_channel": "defcon_news",
     "message": "Online Admission System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/167975/onlineadmissionsystem10-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/167975/onlineadmissionsystem10-sql.txt"
 }
@@ -1927,7 +1889,6 @@
     "date": "2022-08-05",
     "from_channel": "defcon_news",
     "message": "Cross-Site Scripting (XSS) – The Basics\nhttp://www.ethicalhackx.com/cross-site-scripting-xss-the-basics/",
-    "urls": [],
     "webpage_description": "Learn Cross Site Scripting XSS basics, what is XSS, the vulnerability, what are types of XSS, and basic examples before we move to exploiting.",
     "webpage_url": "https://ethicalhackx.com/cross-site-scripting-xss-the-basics/"
 }
@@ -2021,7 +1982,6 @@
     "date": "2022-08-03",
     "from_channel": "defcon_news",
     "message": "Multi-Language Hotel Management 2022 1.0 SQL Injection\nhttp://exploit.kitploit.com/2022/08/multi-language-hotel-management-2022-10.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/08/multi-language-hotel-management-2022-10.html"
 }
@@ -2029,7 +1989,6 @@
     "date": "2022-08-03",
     "from_channel": "defcon_news",
     "message": "Multi-Language Hotel Management 2022 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/167912/mlhm202210-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/167912/mlhm202210-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -2069,7 +2028,6 @@
     "date": "2022-08-03",
     "from_channel": "sysadm_in_channel",
     "message": "/ XSS vulnerabilities in Google Cloud, Google Play could lead to account hijacks\n\nArticle does not has any tecnical analysys, but has discovering information:\n\nhttps://portswigger.net/daily-swig/xss-vulnerabilities-in-google-cloud-google-play-could-lead-to-account-hijacks",
-    "urls": [],
     "webpage_description": "Reflected XSS and DOM-based XSS bugs net researchers $3,000 and $5,000 bug bounties",
     "webpage_url": "https://portswigger.net/daily-swig/xss-vulnerabilities-in-google-cloud-google-play-could-lead-to-account-hijacks"
 }
@@ -2196,7 +2154,6 @@
     "date": "2022-08-01",
     "from_channel": "defcon_news",
     "message": "mPDF 7.0 Local File Inclusion\nhttp://exploit.kitploit.com/2022/08/mpdf-70-local-file-inclusion.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/08/mpdf-70-local-file-inclusion.html"
 }
@@ -2204,7 +2161,6 @@
     "date": "2022-08-01",
     "from_channel": "defcon_news",
     "message": "CodeIgniter CMS 4.2.0 SQL Injection\nhttp://exploit.kitploit.com/2022/08/codeigniter-cms-420-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/08/codeigniter-cms-420-sql-injection.html"
 }
@@ -2212,7 +2168,6 @@
     "date": "2022-08-01",
     "from_channel": "defcon_news",
     "message": "Crime Reporting System 1.0 SQL Injection\nhttp://exploit.kitploit.com/2022/08/crime-reporting-system-10-sql-injection.html",
-    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/08/crime-reporting-system-10-sql-injection.html"
 }
@@ -2220,7 +2175,6 @@
     "date": "2022-08-01",
     "from_channel": "defcon_news",
     "message": "mPDF 7.0 Local File Inclusion\nhttps://packetstormsecurity.com/files/167897/mpdf70-lfi.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/167897/mpdf70-lfi.txt"
 }
@@ -2228,7 +2182,6 @@
     "date": "2022-08-01",
     "from_channel": "defcon_news",
     "message": "CodeIgniter CMS 4.2.0 SQL Injection\nhttps://packetstormsecurity.com/files/167893/codeignitercms420-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/167893/codeignitercms420-sql.txt"
 }
@@ -2236,7 +2189,6 @@
     "date": "2022-08-01",
     "from_channel": "defcon_news",
     "message": "Crime Reporting System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/167906/crimereportingsystem10-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/167906/crimereportingsystem10-sql.txt"
 }
@@ -2264,7 +2216,6 @@
     "date": "2022-08-01",
     "from_channel": "defcon_news",
     "message": "Researcher Found XSS Flaws In Google Cloud and Google Play\nhttps://latesthackingnews.com/2022/08/01/researcher-found-xss-flaws-in-google-cloud-and-google-play/",
-    "urls": [],
     "webpage_description": "A security researcher found severe cross-site scripting (XSS) vulnerabilities in Google Cloud and Google Play. Briefly, the researcher observed a reflected XSS vulnerability in Google Cloud and a DOM-based XSS in the Google Play app.",
     "webpage_url": "https://latesthackingnews.com/2022/08/01/researcher-found-xss-flaws-in-google-cloud-and-google-play/"
 }

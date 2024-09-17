@@ -9,15 +9,13 @@
     "date": "2022-05-31",
     "from_channel": "defcon_news",
     "message": "New Microsoft Zero-Day Attack Underway\nhttps://www.darkreading.com/endpoint/attackers-actively-exploiting-new-microsoft-zero-day",
-    "urls": [],
     "webpage_description": "\"Follina\" vulnerability in Microsoft Support Diagnostic Tool (MSDT) affects all currently supported Windows versions and can be triggered via specially crafted Office documents.",
     "webpage_url": "https://www.darkreading.com/endpoint/attackers-actively-exploiting-new-microsoft-zero-day"
 }
 {
     "date": "2022-05-31",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #MyBB (prior 1.8.30) Admin Control Remote Code Execution Exploit [remote #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37758",
-    "urls": []
+    "message": "#0daytoday #MyBB (prior 1.8.30) Admin Control Remote Code Execution Exploit [remote #exploits  #0day #Exploit]\nhttp://0day.today/exploits/37758"
 }
 {
     "date": "2022-05-31",
@@ -29,32 +27,27 @@
 {
     "date": "2022-05-31",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Schneider Electric C-Bus Automation Controller (5500SHAC) 1.10 Remote Root Exploit [#0day #Exploit]\nhttp://0day.today/exploits/37757",
-    "urls": []
+    "message": "#0daytoday #Schneider Electric C-Bus Automation Controller (5500SHAC) 1.10 Remote Root Exploit [#0day #Exploit]\nhttp://0day.today/exploits/37757"
 }
 {
     "date": "2022-05-31",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #WordPress User Meta Lite / Pro 2.4.3 Path Traversal Vulnerability [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37756",
-    "urls": []
+    "message": "#0daytoday #WordPress User Meta Lite / Pro 2.4.3 Path Traversal Vulnerability [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37756"
 }
 {
     "date": "2022-05-31",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Ingredient Stock Management System 1.0 Account Takeover Vulnerability [#0day #Exploit]\nhttp://0day.today/exploits/37755",
-    "urls": []
+    "message": "#0daytoday #Ingredient Stock Management System 1.0 Account Takeover Vulnerability [#0day #Exploit]\nhttp://0day.today/exploits/37755"
 }
 {
     "date": "2022-05-31",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Ingredient Stock Management System 1.0 SQL Injection Vulnerability [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37754",
-    "urls": []
+    "message": "#0daytoday #Ingredient Stock Management System 1.0 SQL Injection Vulnerability [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37754"
 }
 {
     "date": "2022-05-31",
     "from_channel": "defcon_news",
-    "message": "#0daytoday #Fast Food Ordering System 1.0 SQL Injection Vulnerability [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37753",
-    "urls": []
+    "message": "#0daytoday #Fast Food Ordering System 1.0 SQL Injection Vulnerability [webapps #exploits #Vulnerability #0day #Exploit]\nhttp://0day.today/exploits/37753"
 }
 {
     "date": "2022-05-31",
@@ -259,14 +252,12 @@
 {
     "date": "2022-05-25",
     "from_channel": "ctfchat",
-    "message": "Таску на скулю, на RCE, на SSRF?",
-    "urls": []
+    "message": "Таску на скулю, на RCE, на SSRF?"
 }
 {
     "date": "2022-05-25",
     "from_channel": "ctfchat",
-    "message": "* или двадцать пять self-xss в каждом сервисе?)",
-    "urls": []
+    "message": "* или двадцать пять self-xss в каждом сервисе?)"
 }
 {
     "date": "2022-05-25",
@@ -454,7 +445,7 @@
     "message": "‼ CVE-2022-29305 ‼\n\nimgurl v2.31 was discovered to contain a Blind SQL injection vulnerability via /upload/localhost.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2022-05-23",
+    "date": "2022-05-24",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-30015 ‼\n\nIn Simple Food Website 1.0, a moderation can put the Cross Site Scripting Payload in any of the fields on http://127.0.0.1:1234/food/admin/all_users.php like Full Username, etc .This causes stored xss.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -724,7 +715,6 @@
     "date": "2022-05-19",
     "from_channel": "freedomf0x",
     "message": "CVE-2022-26809 RCE Exploit\n\nhttps://github.com/rkxxz/CVE-2022-26809",
-    "urls": [],
     "webpage_description": "CVE-2022-26809 RCE Exploit. Contribute to rkxxz/CVE-2022-26809 development by creating an account on GitHub.",
     "webpage_url": "https://github.com/rkxxz/CVE-2022-26809"
 }
@@ -732,7 +722,6 @@
     "date": "2022-05-19",
     "from_channel": "freedomf0x",
     "message": "CVE-2022-24500 RCE Exploit SMB Remote Code Execution Vulnerability\n\nhttps://github.com/rkxxz/CVE-2022-24500",
-    "urls": [],
     "webpage_description": "CVE-2022-24500 RCE Exploit. Contribute to rkxxz/CVE-2022-24500 development by creating an account on GitHub.",
     "webpage_url": "https://github.com/rkxxz/CVE-2022-24500"
 }
@@ -1029,8 +1018,7 @@
 {
     "date": "2022-05-16",
     "from_channel": "freedomf0x",
-    "message": "#Laravel RCE exploit. CVE-2018-15133\n\nhttps://github.com/PwnedShell/Larascript",
-    "urls": []
+    "message": "#Laravel RCE exploit. CVE-2018-15133\n\nhttps://github.com/PwnedShell/Larascript"
 }
 {
     "date": "2022-05-16",
@@ -1441,7 +1429,6 @@
     "date": "2022-05-12",
     "from_channel": "freedomf0x",
     "message": "#CVE #exploit\n\nhttps://labs.nettitude.com/blog/cve-2022-21972-windows-server-vpn-remote-kernel-use-after-free-vulnerability/",
-    "urls": [],
     "webpage_description": "CVE-2022-21972 is a Windows VPN Use after Free (UaF) vulnerability that was discovered through reverse engineering the raspptp.sys kernel driver. The vulnerability is a race condition issue and can be reliably triggered through sending crafted input to a vulnerable server. The vulnerability can be be used to corrupt memory and could be used to gain",
     "webpage_url": "https://labs.nettitude.com/blog/cve-2022-21972-windows-server-vpn-remote-kernel-use-after-free-vulnerability/"
 }
@@ -1536,7 +1523,7 @@
     "message": "‼ CVE-2022-27799 ‼\n\nAcrobat Reader DC versions 22.001.20085 (and earlier), 20.005.3031x (and earlier) and 17.012.30205 (and earlier) are affected by a use-after-free vulnerability in the processing of the acroform event that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2022-05-11",
+    "date": "2022-05-12",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2021-42646 ‼\n\nXML External Entity (XXE) vulnerability in the file based service provider creation feature of the Management Console in WSO2 API Manager 2.6.0, 3.0.0, 3.1.0, 3.2.0, and 4.0.0; and WSO2 IS as Key Manager 5.7.0, 5.9.0, and 5.10.0; and WSO2 Identity Server 5.7.0, 5.8.0, 5.9.0, 5.10.0, and 5.11.0. Allows attackers to gain read access to sensitive information or cause a denial of service via crafted GET requests.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -1648,13 +1635,12 @@
     "webpage_url": "https://krebsonsecurity.com/2022/05/microsoft-patch-tuesday-may-2022-edition/"
 }
 {
-    "date": "2022-05-11",
+    "date": "2022-05-12",
     "from_channel": "sysadm_in_channel",
-    "message": "/ Microsoft Windows LSA Spoofing vulneravility\n\nWindows LSA spoofing vulnerability provides a opprtunity for attackers to authenticate to domain controllers\n\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-26925",
-    "urls": []
+    "message": "/ Microsoft Windows LSA Spoofing vulneravility\n\nWindows LSA spoofing vulnerability provides a opprtunity for attackers to authenticate to domain controllers\n\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-26925"
 }
 {
-    "date": "2022-05-10",
+    "date": "2022-05-12",
     "from_channel": "cibsecurity",
     "message": "🕴 What to Patch Now: Actively Exploited Windows Zero-Day Threatens Domain Controllers 🕴\n\nMicrosoft's May 2022 Patch Tuesday contains several bugs in ubiquitous software that could affect millions of machines, researchers warn.\n\n📖 Read\n\nvia \"Dark Reading\".",
     "webpage_description": "Microsoft's May 2022 Patch Tuesday contains several bugs in ubiquitous software that could affect millions of machines, researchers warn.",
@@ -1816,7 +1802,6 @@
     "date": "2022-05-09",
     "from_channel": "freedomf0x",
     "message": "Beacon Object File implementation of Event Viewer deserialization #UAC #bypass\n\nhttps://github.com/Octoberfest7/EventViewerUAC_BOF",
-    "urls": [],
     "webpage_description": "Beacon Object File implementation of Event Viewer deserialization UAC bypass - GitHub - Octoberfest7/EventViewerUAC_BOF: Beacon Object File implementation of Event Viewer deserialization UAC bypass",
     "webpage_url": "https://github.com/Octoberfest7/EventViewerUAC_BOF"
 }
@@ -1920,8 +1905,7 @@
 {
     "date": "2022-05-06",
     "from_channel": "freedomf0x",
-    "message": "CVE-2022-1040-sophos-rce-poc\n\nSophos webmin portal auth bypass and rce all in one script; The vulnerability affects Sophos Firewall v18.5 MR3 (18.5.3) and older\n\nhttps://github.com/cve-hunter/CVE-2022-1040-sophos-rce",
-    "urls": []
+    "message": "CVE-2022-1040-sophos-rce-poc\n\nSophos webmin portal auth bypass and rce all in one script; The vulnerability affects Sophos Firewall v18.5 MR3 (18.5.3) and older\n\nhttps://github.com/cve-hunter/CVE-2022-1040-sophos-rce"
 }
 {
     "date": "2022-05-06",
@@ -2029,7 +2013,7 @@
     "message": "‼ CVE-2022-1588 ‼\n\nCross-site Scripting (XSS) in GitHub repository contao/contao prior to 4.13.3. Attacker can execute Malicious JS in Application :)\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2022-05-04",
+    "date": "2022-05-05",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-29942 ‼\n\nTalend Administration Center has a vulnerability that allows an authenticated user to use the Service Registry 'Add' functionality to perform SSRF HTTP GET requests on URLs in the internal network. The issue is fixed for versions 8.0.x in TPS-5189, versions 7.3.x in TPS-5175, and versions 7.2.x in TPS-5201. Earlier versions of Talend Administration Center may also be impacted; users are encouraged to update to a supported version.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -2161,8 +2145,7 @@
 {
     "date": "2022-05-03",
     "from_channel": "freedomf0x",
-    "message": "Отключаем Windows Defender (+ UAC Bypass, + Повышение до уровня SYSTEM)\n\n#xss_is\n\nhttp://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/threads/66533/",
-    "urls": []
+    "message": "Отключаем Windows Defender (+ UAC Bypass, + Повышение до уровня SYSTEM)\n\n#xss_is\n\nhttp://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/threads/66533/"
 }
 {
     "date": "2022-05-03",
@@ -2185,7 +2168,7 @@
     "message": "‼ CVE-2022-28589 ‼\n\nA stored cross-site scripting (XSS) vulnerability in Pixelimity 1.0 allows attackers to execute arbitrary web scripts or HTML via the Title field in admin/pages.php?action=add_new\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2022-05-03",
+    "date": "2022-05-04",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2021-39390 ‼\n\nStored XSS in PartKeepr 1.4.0 Edit section in multiple api endpoints via name parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }

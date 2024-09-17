@@ -2,7 +2,6 @@
     "date": "2024-01-30",
     "from_channel": "defcon_news",
     "message": "Post-auth blind Python code injection vulnerabilities detected in personal cloud storage device\nhttps://old.reddit.com/r/netsec/comments/1aeqgcv/postauth_blind_python_code_injection/",
-    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://old.reddit.com/r/netsec/comments/1aeqgcv/postauth_blind_python_code_injection/"
 }
@@ -22,7 +21,6 @@
     "date": "2024-01-25",
     "from_channel": "defcon_news",
     "message": "AI-exploits: Triton Inference Server RCE exploit\nhttps://old.reddit.com/r/netsec/comments/19ffggw/aiexploits_triton_inference_server_rce_exploit/",
-    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://old.reddit.com/r/netsec/comments/19ffggw/aiexploits_triton_inference_server_rce_exploit/"
 }
@@ -30,7 +28,6 @@
     "date": "2024-01-25",
     "from_channel": "defcon_news",
     "message": "New Zyxel RCE Vulnerability allows remote attackes execute commands as root!\nhttps://old.reddit.com/r/netsec/comments/19f9q8c/new_zyxel_rce_vulnerability_allows_remote/",
-    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://old.reddit.com/r/netsec/comments/19f9q8c/new_zyxel_rce_vulnerability_allows_remote/"
 }
@@ -43,7 +40,6 @@
     "date": "2024-01-24",
     "from_channel": "defcon_news",
     "message": "Update now! Apple releases patch for zero-day vulnerability\nhttps://www.malwarebytes.com/blog/news/2024/01/update-now-apple-releases-patch-for-zero-day-vulnerability",
-    "urls": [],
     "webpage_description": "Apple has released new security updates for several products including a patch for a zero-day vulnerability which has likely already been exploited.",
     "webpage_url": "https://www.malwarebytes.com/blog/news/2024/01/update-now-apple-releases-patch-for-zero-day-vulnerability"
 }
@@ -51,7 +47,6 @@
     "date": "2024-01-23",
     "from_channel": "sysadm_in_channel",
     "message": "/ Deserialization of Untrusted Data on Splunk Enterprise for Windows through Path Traversal from Separate Disk Partition\n\n- Mitigations and WorkaroundsPermalink: N/A\n- DetectionsPermalink: None\n- SeverityPermalink: High\n\nhttps://advisory.splunk.com/advisories/SVD-2024-0108",
-    "urls": [],
     "webpage_description": "In Splunk Enterprise for Windows versions below 9.0.8 and 9.1.3, Splunk Enterprise does not correctly sanitize path input data. This results in the unsafe deserialization of untrusted data from a separate disk partition on the machine. This vulnerability only affects Splunk Enterprise for Windows.",
     "webpage_url": "https://advisory.splunk.com//advisories/SVD-2024-0108"
 }
@@ -59,12 +54,11 @@
     "date": "2024-01-22",
     "from_channel": "freedomf0x",
     "message": "#CVE-2023-22527 : #Atlassian #Confluence 8.0.x - Unauthenticated Remote Code Execution (inject OGNL)\n\n#POC / Blog : https://blog.projectdiscovery.io/atlassian-confluence-ssti-remote-code-execution/\n\nNIST : https://nvd.nist.gov/vuln/detail/CVE-2023-22527",
-    "urls": [],
     "webpage_description": "CVE-2023-22527 is a critical vulnerability within Atlassian's Confluence Server and Data Center. This vulnerability has the potential to permit unauthenticated attackers to inject OGNL expressions into the Confluence instance, thereby enabling the execution of arbitrary code and system commands.\n\n\nTechnical Details\n\n\n\nInitial Analysis\n\nThe CVE description provided by Atlassian made",
     "webpage_url": "https://blog.projectdiscovery.io/atlassian-confluence-ssti-remote-code-execution/"
 }
 {
-    "date": "2024-01-21",
+    "date": "2024-01-23",
     "from_channel": "Leakers_squad",
     "message": "Top 9 eBooks for Hackers and Pentesters📚\n\nBooks Hacking Learning Channel\n\nHacking Web Applications - Hacking Exposed 🕯\nhttps://mega.nz/file/LCYWWRYI#QQ8O9k6lp7vmYWzrbxbs8ItSVbYpSluYfktCxWURZGs\n\nHacking for Dummies 🤑\nhttps://mega.nz/file/iKQ2jZSQ#ur1W05ChW7_ipTYtEK6QKpIlyoqLyS82RGsEUEzFQDQ\n\nNetwork Security Bible 💻\nhttps://mega.nz/file/mLAUEbDQ#PXzqsNN2PPc-PUVyAwbfknTHEA-QBvjwvpjjQgZnYMo\n\nEthical Hacking and Countermeasures 🛡\nhttps://mega.nz/file/2fAyRb4C#tpFivx91Ips2rR3UnVdtlgvx1oOmi-qEtCu29DlO9uQ\n\nThe Little Black Book of Computer Viruses 🧙\nhttps://mega.nz/file/SDICALSJ#3r2oy2AsGXR3P7f8K7xvL2kEVjR6ccze83cAmz9VIBc\n\nXSS Attacks - Cross Site Scripting Exploits and Defense 💼\nhttps://mega.nz/file/3XJCyD5C#qAda14pWUjd5u4wjOYmzCI52UMa1rUFulh7V0kBGZk8\n\nThe Shellcoder's Handbook 🏥\nhttps://mega.nz/file/3OZgwT6Z#8yNyiuSHVQ3gOib4rKJYtwsCwSfqAfoFj2lQtwUyI8o\n\nWireshark for Security Professionals 💻\nhttps://mega.nz/file/7TRUCZCZ#ZPFmeFnccvR4ltf_2lwTdi8PqHIArRx_bkqRP9wwq4k\n\nBY @Mr_Neophyte 😂\nContact for posting these content in your channel\n\n❤️Share with Your Mate\n\nIf you want to report any copyright violation, please write to us at  @Leakers_squad_bot and we will ensure to remove that post within 48 hours\nRead this",
     "webpage_description": "👺 Hacking Learning Special Channel 💻\n\n🔍 This paid channel is Collection of Paid and Leaked All Hacking tutorial.\n☢️ you will get here all mostly Hacking tutorial and Tools.\n⏳ Team is posting more and more Hacking related stuffs there day to day.\n\n ▶️Bug Bounty\n ▶️CEH v12\n ▶️Spoofing\n ▶️Social Media Hacking\n ▶️Facebook/Instagram Hacking\n ▶️Telegram/WhatsApp Hacking\n ▶️Android Hacking\n ▶️Cyber Security\n ▶️Bypass Authentication\n ▶️BTC Stealer\nEtc...\n\nList 1  -  List 2  -  List 3  -  List 4  -  List 5\n\nPrice only 20$\nPay Once - Get Membership Lifetime\n\nLearn then Earn\n \nContact with payment\n@Mr_Neophyte / @starkthebot\n                                                          T&C*",
@@ -81,7 +75,6 @@
     "date": "2024-01-18",
     "from_channel": "defcon_news",
     "message": "How a Cross-Site Scripting Vulnerability Led to Account Takeover\nhttps://www.hackerone.com/vulnerability-management/xss-deep-dive",
-    "urls": [],
     "webpage_description": "This is the first in a series of deep dives into the most prominent and pervasive vulnerabilities, starting with cross-site scripting.",
     "webpage_url": "https://www.hackerone.com/vulnerability-management/xss-deep-dive"
 }
@@ -89,7 +82,6 @@
     "date": "2024-01-18",
     "from_channel": "defcon_news",
     "message": "Update Chrome! Google patches actively exploited zero-day vulnerability\nhttps://www.malwarebytes.com/blog/news/2024/01/update-chrome-google-patches-actively-exploited-zero-day-vulnerability",
-    "urls": [],
     "webpage_description": "Google has issued a security update for the Chrome browser that includes a patch for one zero-day vulnerability",
     "webpage_url": "https://www.malwarebytes.com/blog/news/2024/01/update-chrome-google-patches-actively-exploited-zero-day-vulnerability"
 }
@@ -101,8 +93,7 @@
 {
     "date": "2024-01-18",
     "from_channel": "defcon_news",
-    "message": "PixieFail UEFI Flaws Expose Millions of Computers to RCE, DoS, and Data Theft\nhttps://thehackernews.com/2024/01/pixiefail-uefi-flaws-expose-millions-of.html",
-    "urls": []
+    "message": "PixieFail UEFI Flaws Expose Millions of Computers to RCE, DoS, and Data Theft\nhttps://thehackernews.com/2024/01/pixiefail-uefi-flaws-expose-millions-of.html"
 }
 {
     "date": "2024-01-17",
@@ -146,14 +137,12 @@
 {
     "date": "2024-01-13",
     "from_channel": "defcon_news",
-    "message": "Critical RCE Vulnerability Uncovered in Juniper SRX Firewalls and EX Switches\nhttps://thehackernews.com/2024/01/critical-rce-vulnerability-uncovered-in.html",
-    "urls": []
+    "message": "Critical RCE Vulnerability Uncovered in Juniper SRX Firewalls and EX Switches\nhttps://thehackernews.com/2024/01/critical-rce-vulnerability-uncovered-in.html"
 }
 {
     "date": "2024-01-13",
     "from_channel": "freedomf0x",
     "message": "#CVE-2024-20656: #Windows #LPE in the VSStandardCollectorService150 service\n\nBlog: https://www.mdsec.co.uk/2024/01/cve-2024-20656-local-privilege-escalation-in-vsstandardcollectorservice150-service/\n\nPoC: https://github.com/Wh04m1001/CVE-2024-20656",
-    "urls": [],
     "webpage_description": "Overview Visual Studio is a complex and powerful IDE developed by Microsoft and comes with a lot of features that can be interesting from a red team perspective. During this...",
     "webpage_url": "https://www.mdsec.co.uk/2024/01/cve-2024-20656-local-privilege-escalation-in-vsstandardcollectorservice150-service/"
 }
@@ -161,7 +150,6 @@
     "date": "2024-01-12",
     "from_channel": "RalfHackerChannel",
     "message": "CVE-2024-20656: Windows LPE in the VSStandardCollectorService150 service\n\nBlog: https://www.mdsec.co.uk/2024/01/cve-2024-20656-local-privilege-escalation-in-vsstandardcollectorservice150-service/\n\nPoC: https://github.com/Wh04m1001/CVE-2024-20656\n\n#lpe #exploit #redteam #pentest",
-    "urls": [],
     "webpage_description": "Overview Visual Studio is a complex and powerful IDE developed by Microsoft and comes with a lot of features that can be interesting from a red team perspective. During this...",
     "webpage_url": "https://www.mdsec.co.uk/2024/01/cve-2024-20656-local-privilege-escalation-in-vsstandardcollectorservice150-service/"
 }
@@ -174,34 +162,29 @@
 {
     "date": "2024-01-12",
     "from_channel": "freedomf0x",
-    "message": "#CVE-2023-36003 (#Windows #LPE XAML diagnostics API) \n\nBlog: https://m417z.com/Privilege-escalation-using-the-XAML-diagnostics-API-CVE-2023-36003/\n\nPoC: https://github.com/m417z/CVE-2023-36003-POC",
-    "urls": []
+    "message": "#CVE-2023-36003 (#Windows #LPE XAML diagnostics API) \n\nBlog: https://m417z.com/Privilege-escalation-using-the-XAML-diagnostics-API-CVE-2023-36003/\n\nPoC: https://github.com/m417z/CVE-2023-36003-POC"
 }
 {
     "date": "2024-01-12",
     "from_channel": "RalfHackerChannel",
-    "message": "CVE-2023-36003 (Windows LPE XAML diagnostics API) \n\nBlog: https://m417z.com/Privilege-escalation-using-the-XAML-diagnostics-API-CVE-2023-36003/\n\nPoC: https://github.com/m417z/CVE-2023-36003-POC\n\nИсправлено в патче от 12 декабря\n\n#lpe #ad #pentest #redteam",
-    "urls": []
+    "message": "CVE-2023-36003 (Windows LPE XAML diagnostics API) \n\nBlog: https://m417z.com/Privilege-escalation-using-the-XAML-diagnostics-API-CVE-2023-36003/\n\nPoC: https://github.com/m417z/CVE-2023-36003-POC\n\nИсправлено в патче от 12 декабря\n\n#lpe #ad #pentest #redteam"
 }
 {
     "date": "2024-01-11",
     "from_channel": "defcon_news",
     "message": "Hunting for SSRF Bugs in PDF Generators \nhttps://www.blackhillsinfosec.com/hunting-for-ssrf-bugs-in-pdf-generators/",
-    "urls": [],
     "webpage_description": "If you’ve been on a website and noticed one of the following features, there’s a good chance you’ve stumbled upon a hot spot for server-side request forgery (SSRF) bugs:  Before […]",
     "webpage_url": "https://www.blackhillsinfosec.com/hunting-for-ssrf-bugs-in-pdf-generators/?utm_campaign=meetedgar&utm_medium=social&utm_source=meetedgar.com"
 }
 {
     "date": "2024-01-10",
     "from_channel": "cyberoffru",
-    "message": "#job #DevSecOps #AppSec #удалёнка #удаленно #гибрид #агентство #вакансия #работа\n\nЛокация: РФ (можно удалённо)\nТайм-зона: мск (+/-1 или 2 часа можем договориться)\nДо 400 000р\n\nОТКРЫТО НЕСКОЛЬКО ПРОЕКТОВ (ритейл, логистика, фармацевтика):\nAppSec от уровня middle, что берут на себя бизнес подразделение, обсуждают с разработчиками архитектуру приложений и проводят код-ревью - web, mobile и 1 desktop проект;\nDevSecOps инженер, что анализирует уровень защищенности, как программных продуктов, так и окружения (безопасность контейнеров), развивает SAST и DAST, следить за типовыми уязвимостями в командах разработки - предлагает автоматизированные решения по их устранению;\n\nВАЖНО:\nБыть хорошим человеком (обсуждаемо);\nОпыт в коммерческих компаниях для AppSec от 1,5 лет (обсуждаемо);\nОпыт в коммерческих компаниях для DevSecOps от 3 лет (обсуждаемо);\nУверенные знания XSS уязвимостей;\nСтремление изучать используемые инструменты по обнаружению и анализу уязвимостей - их плюсы/минусы, работа под капотом.\n\nБУДЕТ ПЛЮСОМ:\nОпыт работы с Gitlab;\nОпыт работы с уязвимостями Docker и Kubernetes;\nОпыт работы с open-source решениями.\n\nУСЛОВИЯ РАБОТЫ:\nПолностью удаленная работа или офис во многих крупных городах РФ;\nПолная занятость, 5/2;\nВысокая культура ИБ: отсутствие ситуаций, когда IT игнорирует требования ИБ;\nЕжегодный пересмотр ЗП;\nТрудоустройство по ТК РФ в аккредитованную ИТ-компанию, возможность рассмотреть альтернативные варианты оформления при запросе сотрудника;\nДМС, оплата обучения и сертификатов по ИБ;\nПредоставление техники для работы.",
-    "urls": []
+    "message": "#job #DevSecOps #AppSec #удалёнка #удаленно #гибрид #агентство #вакансия #работа\n\nЛокация: РФ (можно удалённо)\nТайм-зона: мск (+/-1 или 2 часа можем договориться)\nДо 400 000р\n\nОТКРЫТО НЕСКОЛЬКО ПРОЕКТОВ (ритейл, логистика, фармацевтика):\nAppSec от уровня middle, что берут на себя бизнес подразделение, обсуждают с разработчиками архитектуру приложений и проводят код-ревью - web, mobile и 1 desktop проект;\nDevSecOps инженер, что анализирует уровень защищенности, как программных продуктов, так и окружения (безопасность контейнеров), развивает SAST и DAST, следить за типовыми уязвимостями в командах разработки - предлагает автоматизированные решения по их устранению;\n\nВАЖНО:\nБыть хорошим человеком (обсуждаемо);\nОпыт в коммерческих компаниях для AppSec от 1,5 лет (обсуждаемо);\nОпыт в коммерческих компаниях для DevSecOps от 3 лет (обсуждаемо);\nУверенные знания XSS уязвимостей;\nСтремление изучать используемые инструменты по обнаружению и анализу уязвимостей - их плюсы/минусы, работа под капотом.\n\nБУДЕТ ПЛЮСОМ:\nОпыт работы с Gitlab;\nОпыт работы с уязвимостями Docker и Kubernetes;\nОпыт работы с open-source решениями.\n\nУСЛОВИЯ РАБОТЫ:\nПолностью удаленная работа или офис во многих крупных городах РФ;\nПолная занятость, 5/2;\nВысокая культура ИБ: отсутствие ситуаций, когда IT игнорирует требования ИБ;\nЕжегодный пересмотр ЗП;\nТрудоустройство по ТК РФ в аккредитованную ИТ-компанию, возможность рассмотреть альтернативные варианты оформления при запросе сотрудника;\nДМС, оплата обучения и сертификатов по ИБ;\nПредоставление техники для работы."
 }
 {
     "date": "2024-01-10",
     "from_channel": "defcon_news",
     "message": "Unauthenticated RCE in Adobe Coldfusion – CVE-2023-26360\nhttps://old.reddit.com/r/netsec/comments/19376kz/unauthenticated_rce_in_adobe_coldfusion/",
-    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://old.reddit.com/r/netsec/comments/19376kz/unauthenticated_rce_in_adobe_coldfusion/"
 }
@@ -209,7 +192,6 @@
     "date": "2024-01-10",
     "from_channel": "defcon_news",
     "message": "WebCopilot - An Automation Tool That Enumerates Subdomains Then Filters Out Xss, Sqli, Open Redirect, Lfi, Ssrf And Rce Parameters And Then Scans For Vulnerabilities\nhttp://www.kitploit.com/2024/01/webcopilot-automation-tool-that.html",
-    "urls": [],
     "webpage_url": "https://www.kitploit.com/2024/01/webcopilot-automation-tool-that.html"
 }
 {
@@ -220,14 +202,12 @@
 {
     "date": "2024-01-10",
     "from_channel": "sysadm_in_channel",
-    "message": "/ Hyper-V RCE and Kerberos Bypass\n\nMS released two fixes for..:\n\nWindows Kerberos Security Feature Bypass Vulnerability\n\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-20674\n\nWindows Hyper-V Remote Code Execution Vulnerability\n\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-20700",
-    "urls": []
+    "message": "/ Hyper-V RCE and Kerberos Bypass\n\nMS released two fixes for..:\n\nWindows Kerberos Security Feature Bypass Vulnerability\n\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-20674\n\nWindows Hyper-V Remote Code Execution Vulnerability\n\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-20700"
 }
 {
     "date": "2024-01-09",
     "from_channel": "defcon_news",
     "message": "AdvantechWeb/SCADA 9.1.5U SQL Injection\nhttps://packetstormsecurity.com/files/176418/advantechwebscada915u-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/176418/advantechwebscada915u-sql.txt"
 }
@@ -237,7 +217,7 @@
     "message": "🪙  Awesome Bug Bounty Tools.\n\n•  Большой список инструментов для Bug Bounty, который разбит по следующим категориям:\n\n•  Recon:\n - Subdomain Enumeration;\n - Port Scanning;\n - Screenshots;\n - Technologies;\n - Content Discovery;\n - Links;\n - Parameters;\n - Fuzzing.\n\n•  Exploitation:\n - Command Injection;\n - CORS Misconfiguration;\n - CRLF Injection;\n - CSRF Injection;\n - Directory Traversal;\n - File Inclusion;\n - GraphQL Injection;\n - Header Injection;\n - Insecure Deserialization;\n - Insecure Direct Object References;\n - Open Redirect;\n - Race Condition;\n - Request Smuggling;\n - Server Side Request Forgery;\n - SQL Injection;\n - XSS Injection;\n - XXE Injection.\n\n•  Miscellaneous:\n - Passwords;\n - Secrets;\n - Git;\n - Buckets;\n - CMS;\n - JSON Web Token;\n - postMessage;\n - Subdomain Takeover;\n - Uncategorized.\n\n#BB"
 }
 {
-    "date": "2024-01-08",
+    "date": "2024-01-10",
     "from_channel": "github_repos",
     "message": "hackerhouse-opensource/Stinger\nCIA UAC bypass implementation of Stinger that obtains the token from an auto-elevated process, modifies it, and reuses it to execute as Administrator.\nLanguage: C++\nStars: 183 Issues: 0 Forks: 28\nhttps://github.com/hackerhouse-opensource/Stinger",
     "webpage_description": "CIA UAC bypass implementation of Stinger that obtains the token from an auto-elevated process, modifies it, and reuses it to execute as Administrator. - GitHub - hackerhouse-opensource/Stinger: CIA...",
@@ -400,7 +380,7 @@
     "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2024-20804"
 }
 {
-    "date": "2024-01-04",
+    "date": "2024-01-07",
     "from_channel": "cibsecurity",
     "message": "🛠 SQLMAP - Automatic SQL Injection Tool 1.8 🛠\n\nsqlmap is an open source command-line automatic SQL injection tool. Its goal is to detect and take advantage of SQL injection vulnerabilities in web applications. Once it detects one or more SQL injections on the target host, the user can choose among a variety of options to perform an extensive back-end database management system fingerprint, retrieve DBMS session user and database, enumerate users, password hashes, privileges, databases, dump entire or user's specified DBMS tables/columns, run his own SQL statement, read or write either text or binary files on the file system, execute arbitrary commands on the operating system, establish an out-of-band stateful connection between the attacker box and the database server via Metasploit payload stager, database stored procedure buffer overflow exploitation or SMB relay attack and more.\n\n📖 Read\n\nvia \"Packet Storm Security\".",
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
@@ -409,8 +389,7 @@
 {
     "date": "2024-01-04",
     "from_channel": "freedomf0x",
-    "message": "#CIA #UAC #bypass implementation of Stinger that obtains the token from an auto-elevated process, modifies it, and reuses it to execute as Administrator.\n\nhttps://github.com/hackerhouse-opensource/Stinger",
-    "urls": []
+    "message": "#CIA #UAC #bypass implementation of Stinger that obtains the token from an auto-elevated process, modifies it, and reuses it to execute as Administrator.\n\nhttps://github.com/hackerhouse-opensource/Stinger"
 }
 {
     "date": "2024-01-04",
@@ -467,7 +446,7 @@
     "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-50344"
 }
 {
-    "date": "2024-01-04",
+    "date": "2024-01-05",
     "from_channel": "cibsecurity",
     "message": "‼️CVE-2023-45723‼️\n\nHCL DRYiCE MyXalytics is impacted by path traversal vulnerability which allows file upload capability.  Certain endpoints permit users to manipulate the path including the file name where these files are stored on the server. \n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
     "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-45723"
@@ -476,7 +455,6 @@
     "date": "2024-01-03",
     "from_channel": "sysadm_in_channel",
     "message": "/ Compromising Google Accounts: Malwares Exploiting Undocumented OAuth2 Functionality for session hijacking\n\nhttps://cloudsek.com/blog/compromising-google-accounts-malwares-exploiting-undocumented-oauth2-functionality-for-session-hijacking",
-    "urls": [],
     "webpage_description": "A detailed blog on Analysis of the Global Malware Trend: Exploiting Undocumented OAuth2 Functionality to Regenerate Google Service Cookies Regardless of IP or Password Reset.",
     "webpage_url": "https://www.cloudsek.com/blog/compromising-google-accounts-malwares-exploiting-undocumented-oauth2-functionality-for-session-hijacking"
 }
@@ -568,7 +546,6 @@
     "date": "2024-01-01",
     "from_channel": "defcon_news",
     "message": "Multiple Malware Exploit Google Cookie Flaw For Session Hijacking\nhttps://latesthackingnews.com/2024/01/01/multiple-malware-exploit-google-cookie-flaw-for-session-hijacking/",
-    "urls": [],
     "webpage_description": "Researchers have found numerous malware groups actively exploiting a Google Cookie vulnerability for session hijacking. The exploit not only allows access to the target account but also resists disruption by regenerating valid cookies for persistent",
     "webpage_url": "https://latesthackingnews.com/2024/01/01/multiple-malware-exploit-google-cookie-flaw-for-session-hijacking/"
 }

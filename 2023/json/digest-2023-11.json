@@ -7,7 +7,6 @@
     "date": "2023-11-29",
     "from_channel": "defcon_news",
     "message": "Update now! Chrome fixes actively exploited zero-day vulnerability\nhttps://www.malwarebytes.com/blog/news/2023/11/update-now-chrome-fixes-actively-exploited-zero-day-vulnerability",
-    "urls": [],
     "webpage_description": "Google's released an update to Chrome which includes seven security fixes. Make sure you're using the latest version!",
     "webpage_url": "https://www.malwarebytes.com/blog/news/2023/11/update-now-chrome-fixes-actively-exploited-zero-day-vulnerability"
 }
@@ -15,7 +14,6 @@
     "date": "2023-11-29",
     "from_channel": "defcon_news",
     "message": "Google Patches Seventh Chrome Zero-Day Of 2023\nhttps://packetstormsecurity.com/news/view/35242/Google-Patches-Seventh-Chrome-Zero-Day-Of-2023.html",
-    "urls": [],
     "webpage_description": "The latest Chrome security update addresses the seventh exploited zero-day vulnerability documented in the browser in 2023.",
     "webpage_url": "https://packetstormsecurity.com/news/view/35242/Google-Patches-Seventh-Chrome-Zero-Day-Of-2023.html"
 }
@@ -28,7 +26,6 @@
     "date": "2023-11-28",
     "from_channel": "sysadm_in_channel",
     "message": "/ Analysis of CVE-2023-46214 + PoC. Remote Code Execution (RCE) vulnerability in Splunk Enterprise\n\nhttps://blog.hrncirik.net/cve-2023-46214-analysis",
-    "urls": [],
     "webpage_description": "CVE-2023-46214 is a Remote Code Execution (RCE) vulnerability found in Splunk Enterprise which was disclosed on November 16, 2023 in the Splunk security advisory SVD-2023-1104. The description of the vulnerability essentially states that Splunk Enterprise versions below 9.0.7 and 9.1.2 are not safely sanitizing user supplied extensible stylesheet language transformations (XSLT).",
     "webpage_url": "https://blog.hrncirik.net/cve-2023-46214-analysis"
 }
@@ -36,7 +33,6 @@
     "date": "2023-11-22",
     "from_channel": "defcon_news",
     "message": "XXE, You Can Depend On Me (OpenCMS CVE-2023-42344 and Friends) - watchTowr Labs\nhttps://www.reddit.com/r/netsec/comments/180wvw5/xxe_you_can_depend_on_me_opencms_cve202342344_and/",
-    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/180wvw5/xxe_you_can_depend_on_me_opencms_cve202342344_and/?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -50,7 +46,6 @@
     "date": "2023-11-20",
     "from_channel": "defcon_news",
     "message": "PHPJabbers Availability Booking Calendar 5.0 CSV Injection\nhttps://packetstormsecurity.com/files/175804/phpjabbersabc50-csvinject.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/175804/phpjabbersabc50-csvinject.txt?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -58,7 +53,6 @@
     "date": "2023-11-20",
     "from_channel": "defcon_news",
     "message": "CVE-2023-45878: Vulnerability in Gibbon Edu Leads to Unauthenticated RCE\nhttps://www.reddit.com/r/netsec/comments/17zjtmj/cve202345878_vulnerability_in_gibbon_edu_leads_to/",
-    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/17zjtmj/cve202345878_vulnerability_in_gibbon_edu_leads_to/?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -66,27 +60,23 @@
     "date": "2023-11-19",
     "from_channel": "defcon_news",
     "message": "XXE уязвимости\nhttps://codeby.net/threads/xxe-ujazvimosti.82591/",
-    "urls": [],
     "webpage_description": "Привет уважаемые форумчане!\n\nПеред тем, как мы начнем рассматривать очень интересную и сложную тему, мне бы хотелось сказать несколько слов. Меня можно поздравить, я перестал быть куратором курса...",
     "webpage_url": "https://codeby.net/threads/xxe-ujazvimosti.82591/"
 }
 {
     "date": "2023-11-19",
     "from_channel": "freedomf0x",
-    "message": "#LPE exploit for CVE-2023-2598\nhttps://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598",
-    "urls": []
+    "message": "#LPE exploit for CVE-2023-2598\nhttps://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598"
 }
 {
     "date": "2023-11-19",
     "from_channel": "freedomf0x",
-    "message": "#CVE-2023-46214\nSplunk RCE - PoC\nhttps://github.com/nathan31337/Splunk-RCE-poc",
-    "urls": []
+    "message": "#CVE-2023-46214\nSplunk RCE - PoC\nhttps://github.com/nathan31337/Splunk-RCE-poc"
 }
 {
     "date": "2023-11-19",
     "from_channel": "RalfHackerChannel",
     "message": "CVE-2023-46214: Splunk RCE\n\nhttps://github.com/nathan31337/Splunk-RCE-poc\n\n#git #exploit #pentest #redteam",
-    "urls": [],
     "webpage_description": "Contribute to nathan31337/Splunk-RCE-poc development by creating an account on GitHub.",
     "webpage_url": "https://github.com/nathan31337/Splunk-RCE-poc"
 }
@@ -104,7 +94,6 @@
     "date": "2023-11-17",
     "from_channel": "defcon_news",
     "message": "U.S. Dept Of Defense: XSS in Cisco Endpoint\nhttps://vulners.com/hackerone/H1:2233421?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "urls": [],
     "webpage_description": "Description: Multiple vulnerabilities in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct cross-site...",
     "webpage_url": "https://vulners.com/hackerone/H1:2233421?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -116,14 +105,12 @@
 {
     "date": "2023-11-15",
     "from_channel": "freedomf0x",
-    "message": "CVE-2023-36427\n\n#LPE #POC\n\nhttps://github.com/tandasat/CVE-2023-36427#cve-2023-36427",
-    "urls": []
+    "message": "CVE-2023-36427\n\n#LPE #POC\n\nhttps://github.com/tandasat/CVE-2023-36427#cve-2023-36427"
 }
 {
     "date": "2023-11-14",
     "from_channel": "defcon_news",
     "message": "Apache ActiveMQ Unauthenticated Remote Code Execution\nhttps://packetstormsecurity.com/files/175676/apache_activemq_rce_cve_2023_46604.rb.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/175676/apache_activemq_rce_cve_2023_46604.rb.txt?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -131,7 +118,6 @@
     "date": "2023-11-14",
     "from_channel": "defcon_news",
     "message": "Cisco IOX XE Unauthenticated Remote Code Execution\nhttps://packetstormsecurity.com/files/175674/cisco_ios_xe_rce.rb.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/175674/cisco_ios_xe_rce.rb.txt?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -139,7 +125,6 @@
     "date": "2023-11-14",
     "from_channel": "defcon_news",
     "message": "WordPress Contact Form To Any API 1.1.2 SQL Injection\nhttps://packetstormsecurity.com/files/175654/wpcftaa112-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/175654/wpcftaa112-sql.txt"
 }
@@ -147,7 +132,6 @@
     "date": "2023-11-14",
     "from_channel": "defcon_news",
     "message": "Penglead 2.0 SQL Injection\nhttps://packetstormsecurity.com/files/175649/penglead20-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/175649/penglead20-sql.txt"
 }
@@ -155,7 +139,6 @@
     "date": "2023-11-13",
     "from_channel": "defcon_news",
     "message": "Travel 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/175642/travel10-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/175642/travel10-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -163,7 +146,6 @@
     "date": "2023-11-13",
     "from_channel": "defcon_news",
     "message": "Elementor Website Builder SQL Injection\nhttps://packetstormsecurity.com/files/175639/ewb3-sql.txt",
-    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/175639/ewb3-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -178,7 +160,6 @@
     "date": "2023-11-09",
     "from_channel": "sysadm_in_channel",
     "message": "Veeam ONE allows an unauthenticated user to gain information about the SQL server connection Veeam ONE uses to access its configuration database. \n\nThis may lead to remote code execution on the SQL server hosting the Veeam ONE configuration database.\n\nAnde next: CVE-2023-38548\nA vulnerability in Veeam ONE allows an unprivileged user who has access to the Veeam ONE Web Client the ability to acquire the NTLM hash of the account used by the Veeam ONE Reporting Service..: \n\nhttps://www.veeam.com/kb4508",
-    "urls": [],
     "webpage_description": "Security update regarding: CVE-2023-38547 | CVE-2023-38548 | CVE-2023-38549 | CVE-2023-41723",
     "webpage_url": "https://www.veeam.com/kb4508"
 }
@@ -191,7 +172,6 @@
     "date": "2023-11-07",
     "from_channel": "defcon_news",
     "message": "Session-Hijacking-Visual-Exploitation: Session Hijacking Visual Exploitation\nhttps://www.reddit.com/r/netsec/comments/17pts1w/sessionhijackingvisualexploitation_session/",
-    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/17pts1w/sessionhijackingvisualexploitation_session/"
 }
@@ -199,7 +179,6 @@
     "date": "2023-11-07",
     "from_channel": "defcon_news",
     "message": "Session Hijacking Visual Exploitation, New release with Office Documents Poisoning\nhttps://www.reddit.com/r/netsec/comments/17prl4u/session_hijacking_visual_exploitation_new_release/",
-    "urls": [],
     "webpage_description": "Posted by nibblesec - No votes and no comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/17prl4u/session_hijacking_visual_exploitation_new_release/"
 }
@@ -386,7 +365,7 @@
     "message": "‼ CVE-2023-3961 ‼\n\nA path traversal vulnerability was identified in Samba when processing client pipe names connecting to Unix domain sockets within a private directory. Samba typically uses this mechanism to connect SMB clients to remote procedure call (RPC) services like SAMR LSA or SPOOLSS, which Samba initiates on demand. However, due to inadequate sanitization of incoming client pipe names, allowing a client to send a pipe name containing Unix directory traversal characters (../). This could result in SMB clients connecting as root to Unix domain sockets outside the private directory. If an attacker or client managed to send a pipe name resolving to an external service using an existing Unix domain socket, it could potentially lead to unauthorized access to the service and consequential adverse events, including compromise or service crashes.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2023-11-03",
+    "date": "2023-11-07",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-45805 ‼\n\nImproper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Paytm Paytm Payment Gateway paytm-payments allows SQL Injection.This issue affects Paytm Payment Gateway: from n/a through 2.7.3.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -739,7 +718,6 @@
     "date": "2023-11-01",
     "from_channel": "defcon_news",
     "message": "Critical phpFox RCE Vulnerability Risked Social Networks\nhttps://www.reddit.com/r/netsec/comments/17l9uju/critical_phpfox_rce_vulnerability_risked_social/",
-    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/17l9uju/critical_phpfox_rce_vulnerability_risked_social/"
 }
