@@ -1,4 +1,54 @@
 {
+    "date": "2024-09-24",
+    "from_channel": "cibsecurity",
+    "message": "🦅 Critical Vulnerability Discovered in Versa Director: What Organizations Need to Know 🦅\n\n  Overview     The Cybersecurity and Infrastructure Security Agency CISA has highlighted a vulnerability in Versa Networks' Versa Director, a centralized management platform for Secure SDWAN and SASE solutions. This vulnerability, identified as CVE202445229, stems from improper input validation and affects various versions of the software. Organizations using vulnerable versions of Versa Director are urged to take immediate action to protect their network security.   Versa Director plays an important role in orchestrating and managing network and security policies across diverse locations. Its REST APIs facilitate automation and streamline operations through a unified interface, allowing IT teams to configure and monitor their network systems efficiently. However, the recent vulnerabili...\n\n📖 Read more.\n\n🔗 Via \"CYBLE\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "CISA has identified a critical vulnerability (CVE-2024-45229) in Versa Networks' Versa Director, urging organizations to take immediate action to protect their network security.",
+    "webpage_url": "https://cyble.com/blog/critical-vulnerability-discovered-in-versa-director-what-organizations-need-to-know/"
+}
+{
+    "date": "2024-09-24",
+    "from_channel": "cibsecurity",
+    "message": "🦅 Critical Vulnerability Discovered in Versa Director: What Organizations Need to Know 🦅\n\n  Overview     The Cybersecurity and Infrastructure Security Agency CISA has highlighted a vulnerability in Versa Networks' Versa Director, a centralized management platform for Secure SDWAN and SASE solutions. This vulnerability, identified as CVE202445229, stems from improper input validation and affects various versions of the software. Organizations using vulnerable versions of Versa Director are urged to take immediate action to protect their network security.   Versa Director plays an important role in orchestrating and managing network and security policies across diverse locations. Its REST APIs facilitate automation and streamline operations through a unified interface, allowing IT teams to configure and monitor their network systems efficiently. However, the recent vulnerabili...\n\n📖 Read more.\n\n🔗 Via \"CYBLE\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "CISA has identified a critical vulnerability (CVE-2024-45229) in Versa Networks' Versa Director, urging organizations to take immediate action to protect their network security.",
+    "webpage_url": "https://cyble.com/blog/critical-vulnerability-discovered-in-versa-director-what-organizations-need-to-know/"
+}
+{
+    "date": "2024-09-18",
+    "from_channel": "Leakers_squad",
+    "message": "How to deal with Enterprise Cyber Attacks?\n\nTo mitigate these risks, enterprises should implement robust security measures, conduct regular training and awareness programs, and maintain a culture of cybersecurity.\n\n🏷Common Cyber Attacks Methods :\n1. Ransomware\n2. Phishing\n3. SQL Injection\n4. Cross-Site Scripting (XSS)\n5. Distributed Denial of Service (DDoS)\n\n🏷Phases of Remediation:\n1. Detection and Containment\n2. Eradication\n3. Recovery\n4. Post-Incident Activities\n\n🏷Tools and Technologies:\n1. Incident Response Platforms (IRPs)\n2. Endpoint Detection and Response (EDR)\n3. Security Information and Event Management (SIEM)\n4. Backup and disaster recovery solutions\n\n🏷Best Practices:\n1. Develop and regularly test incident response plan.\n2. Conduct regular security awareness training.\n3. Implement robust backup and disaster recovery procedures.\n4. Continuously monitor and analyze security logs.\n5. Establish clear communication channels.\n\n☘For More : https://www.linkedin.com/company/cidint/\n\n📌Regards : @MajorKali"
+}
+{
+    "date": "2024-09-17",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ SolarWinds Issues Patch for Critical ARM Vulnerability Enabling RCE Attacks 🖋️\n\nSolarWinds has released fixes to address two security flaws in its Access Rights Manager ARM software, including a critical vulnerability that could result in remote code execution. The vulnerability, tracked as CVE202428991, is rated 9.0 out of a maximum of 10.0 on the CVSS scoring system. It has been described as an instance of deserialization of untrusted data.  \"SolarWinds Access Rights.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-09-17",
+    "from_channel": "cibsecurity",
+    "message": "🕵️‍♂️ 'Void Banshee' Exploits Second Microsoft Zero-Day 🕵️‍♂️\n\nAttackers have been using the Windows MSHTML Platform spoofing vulnerability in conjunction with another zeroday flaw.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "Attackers have been using the Windows MSHTML Platform spoofing vulnerability in conjunction with another zero-day flaw.",
+    "webpage_url": "https://www.darkreading.com/application-security/void-banshee-exploits-second-microsoft-zero-day"
+}
+{
+    "date": "2024-09-16",
+    "from_channel": "RalfHackerChannel",
+    "message": "🖥 Veeam Backup & Response — RCE (CVE-2024-40711)\n\nA critical deserialization vulnerability in .NET Remoting has been discovered in Veeam Backup & Replication, allowing unauthenticated remote code execution (RCE). The flaw affects versions 12.1.2.172 and earlier.\n\n🔗 Research:\nhttps://labs.watchtowr.com/veeam-backup-response-rce-with-auth-but-mostly-without-auth-cve-2024-40711-2/\n\n🔗 Source:\nhttps://github.com/watchtowrlabs/CVE-2024-40711\n\n#veeam #backup #deserialization #unauth #rce",
+    "webpage_description": "Every sysadmin is familiar with Veeam’s enterprise-oriented backup solution, ‘Veeam Backup & Replication’. Unfortunately, so is every ransomware operator, given it's somewhat 'privileged position' in the storage world of most enterprise's networks. There's no point deploying cryptolocker malware on a target unless you can also deny access to backups, and",
+    "webpage_url": "https://labs.watchtowr.com/veeam-backup-response-rce-with-auth-but-mostly-without-auth-cve-2024-40711-2/"
+}
+{
+    "date": "2024-09-13",
+    "from_channel": "defcon_news",
+    "message": "CVE-2024-29847 Deep Dive: Ivanti Endpoint Manager AgentPortal Deserialization of Untrusted Data Remote Code Execution Vulnerability – Horizon3.ai\nhttps://www.reddit.com/r/netsec/comments/1ffwh33/cve202429847_deep_dive_ivanti_endpoint_manager/",
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/1ffwh33/cve202429847_deep_dive_ivanti_endpoint_manager/"
+}
+{
+    "date": "2024-09-13",
+    "from_channel": "sysadm_in_channel",
+    "message": "GitLab Critical Patch Release (17.3.2, 17.2.5, 17.1.7)\n\n- Execute environment stop actions as the owner of the stop action job\n- Prevent code injection in Product Analytics funnels YAML\n- SSRF via Dependency Proxy\n- Denial of Service via sending a large glm_source parameter\n\nGitLab say: We strongly recommend that all installations running a version affected by the issues described below are upgraded to the latest version as soon as possible.\n\nhttps://about.gitlab.com/releases/2024/09/11/patch-release-gitlab-17-3-2-released/"
+}
+{
     "date": "2024-09-11",
     "from_channel": "cibsecurity",
     "message": "🦅 Major ICS Security Flaws Disclosed in LOYTEC, Hughes, and Baxter Products 🦅\n\n  Key Takeaways      Three major advisories from CISA address 17 vulnerabilities across products from LOYTEC Electronics GmbH, Hughes Network Systems, and Baxter.   Multiple products are affected by vulnerabilities allowing for the cleartext transmission of sensitive data, such as passwords, which could be exploited through ManintheMiddle MitM attacks. Despite being reported in 2021, these vulnerabilities are now publicly disclosed due to the vendor's lack of response.   With 629 internetexposed instances, primarily in Italy and France, the likelihood of exploitation is high. Proof of Concepts PoCs for these vulnerabilities is publicly available.   Other notable vulnerabilities include insufficiently protected credentials and SQL injection, affecting critical infrastructure systems.    ...\n\n📖 Read more.\n\n🔗 Via \"CYBLE\"\n\n----------\n👁️ Seen on @cibsecurity",
