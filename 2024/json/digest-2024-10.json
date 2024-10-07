@@ -1,0 +1,41 @@
+{
+    "date": "2024-10-04",
+    "from_channel": "proxy_bar",
+    "message": "CVE-2024-26304 RCE-exploit\n*\nHPE Aruba Device\n*\nusage:\npython3 CVE-2024-26304.py -u http://127.0.0.1"
+}
+{
+    "date": "2024-10-04",
+    "from_channel": "cibsecurity",
+    "message": "🦅 Four Critical Vulnerabilities Added to CISA’s Exploited Vulnerabilities Catalog 🦅\n\n    Overview     The Cybersecurity and Infrastructure Security Agency CISA has recently added four new vulnerabilities to its Known Exploited Vulnerabilities Catalog, signaling ongoing active exploitation. These vulnerabilities present significant risks for organizations that rely on the affected technologies.   CISA's update highlights several critical vulnerabilities. The first, CVE202325280, pertains to an OS command injection vulnerability found in the DLink DIR820 Router. Next, CVE202015415 affects multiple DrayTek Vigor routers, also involving an OS command injection.    Another important vulnerability, CVE20214043, is related to a null pointer dereference in the Motion Spell GPAC. Lastly, CVE20190344 involves a deserialization of untrusted data vulnerability in SAP Commerce Cloud...\n\n📖 Read more.\n\n🔗 Via \"CYBLE\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "CISA has added four critical vulnerabilities to its catalog, highlighting risks in D-Link and DrayTek routers, GPAC, and SAP Commerce Cloud.",
+    "webpage_url": "https://cyble.com/blog/four-critical-vulnerabilities-added-to-cisas-exploited-vulnerabilities-catalog/"
+}
+{
+    "date": "2024-10-04",
+    "from_channel": "RalfHackerChannel",
+    "message": "CVE-2024-7479 & CVE-2024-7481: TeamViewer User to Kernel LPE\n\nPoC: https://youtu.be/lUkAMAK-TPI\n\nexploit: https://github.com/PeterGabaldon/CVE-2024-7479_CVE-2024-7481\n\nAffected:\n* from 15.0.0 before 15.58.4 \n* from 14.0.0 before 14.7.48796 \n* from 13.0.0 before 13.2.36225 \n* from 12.0.0 before 12.0.259312 \n* from 11.0.0 before 11.0.259311 \n\n#lpe #pentest #redteam #exploit",
+    "webpage_description": "https://www.cve.org/CVERecord?id=CVE-2024-7479\nhttps://www.cve.org/CVERecord?id=CVE-2024-7481\nhttps://www.zerodayinitiative.com/advisories/ZDI-24-1289/\nhttps://www.zerodayinitiative.com/advisories/ZDI-24-1290/\nhttps://www.teamviewer.com/en/resources/trust-center/security-bulletins/tv-2024-1006/\n\nReboot is not needed",
+    "webpage_url": "https://youtu.be/lUkAMAK-TPI"
+}
+{
+    "date": "2024-10-04",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ WordPress LiteSpeed Cache Plugin Security Flaw Exposes Sites to XSS Attacks 🖋️\n\nA new highseverity security flaw has been disclosed in the LiteSpeed Cache plugin for WordPress that could enable malicious actors to execute arbitrary JavaScript code under certain conditions. The flaw, tracked as CVE202447374 CVSS score 7.2, has been described as a stored crosssite scripting XSS vulnerability impacting all versions of the plugin up to and including 6.5.0.2. It was.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-10-04",
+    "from_channel": "defcon_news",
+    "message": "WordPress LiteSpeed Cache Plugin Security Flaw Exposes Sites to XSS Attacks\nhttps://thehackernews.com/2024/10/wordpress-litespeed-cache-plugin.html"
+}
+{
+    "date": "2024-10-03",
+    "from_channel": "cibsecurity",
+    "message": "🕵️‍♂️ Thousands of DrayTek Routers at Risk From 14 Vulnerabilities 🕵️‍♂️\n\nSeveral of the flaws enable remote code execution and denialofservice attacks while others enable data theft, session hijacking, and other malicious activity.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "Several flaws enable remote code execution and denial-of-service attacks while others enable data theft, session hijacking, and other malicious activity.",
+    "webpage_url": "https://www.darkreading.com/endpoint-security/thousands-draytek-routers-at-risk-14-new-vulnerabilities"
+}
+{
+    "date": "2024-10-02",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Alert: Adobe Commerce and Magento Stores Under Attack from CosmicSting Exploit 🖋️\n\nCybersecurity researchers have disclosed that 5 of all Adobe Commerce and Magento stores have been hacked by malicious actors by exploiting a security vulnerability dubbed CosmicSting. Tracked as CVE202434102 CVSS score 9.8, the critical flaw relates to an improper restriction of XML external entity reference XXE vulnerability that could result in remote code execution. The shortcoming,.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}

@@ -1,4 +1,43 @@
 {
+    "date": "2024-09-30",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Session Hijacking 2.0 — The Latest Way That Attackers are Bypassing MFA 🖋️\n\nAttackers are increasingly turning to session hijacking to get around widespread MFA adoption. The data supports this, as  147,000 token replay attacks were detected by Microsoft in 2023, a 111 increase yearoveryear Microsoft.  Attacks on session cookies now happen in the same order of magnitude as passwordbased attacks Google.  But session hijacking isnt a new technique  so.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-09-30",
+    "from_channel": "defcon_news",
+    "message": "Session Hijacking 2.0 — The Latest Way That Attackers are Bypassing MFA\nhttps://thehackernews.com/2024/09/session-hijacking-20-latest-way-that.html"
+}
+{
+    "date": "2024-09-30",
+    "from_channel": "sysadm_in_channel",
+    "message": "Novel Exploit Chain Enables Windows UAC Bypass\n\nhttps://www.darkreading.com/vulnerabilities-threats/exploit-chain-windows-uac-bypass",
+    "webpage_description": "Adversaries can exploit CVE-2024-6769 to jump from regular to admin access without triggering UAC, but Microsoft says it's not really a vulnerability.",
+    "webpage_url": "https://www.darkreading.com/vulnerabilities-threats/exploit-chain-windows-uac-bypass"
+}
+{
+    "date": "2024-09-29",
+    "from_channel": "ctfchat",
+    "message": "Stored xss сделай"
+}
+{
+    "date": "2024-09-28",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Critical Linux CUPS Printing System Flaws Could Allow Remote Command Execution 🖋️\n\nA new set of security vulnerabilities has been disclosed in the OpenPrinting Common Unix Printing System CUPS on Linux systems that could permit remote command execution under certain conditions. \"A remote unauthenticated attacker can silently replace existing printers' or install new ones IPP urls with a malicious one, resulting in arbitrary command execution on the computer when a print.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-09-27",
+    "from_channel": "cibsecurity",
+    "message": "🕵️‍♂️ Novel Exploit Chain Enables Windows UAC Bypass 🕵️‍♂️\n\nAdversaries can exploit CVE20246769 to jump from regular to admin access without triggering UAC, but Microsoft says it's not really a vulnerability.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "Adversaries can exploit CVE-2024-6769 to jump from regular to admin access without triggering UAC, but Microsoft says it's not really a vulnerability.",
+    "webpage_url": "https://www.darkreading.com/vulnerabilities-threats/exploit-chain-windows-uac-bypass"
+}
+{
+    "date": "2024-09-25",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ CISA Flags Critical Ivanti vTM Vulnerability Amid Active Exploitation Concerns 🖋️\n\nThe U.S. Cybersecurity and Infrastructure Security Agency CISA on Tuesday added a critical security flaw impacting Ivanti Virtual Traffic Manager vTM to its Known Exploited Vulnerabilities KEV catalog, based on evidence of active exploitation. The vulnerability in question is CVE20247593 CVSS score 9.8, which could be exploited by a remote unauthenticated attacker to bypass the.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
     "date": "2024-09-24",
     "from_channel": "cibsecurity",
     "message": "🦅 Critical Vulnerability Discovered in Versa Director: What Organizations Need to Know 🦅\n\n  Overview     The Cybersecurity and Infrastructure Security Agency CISA has highlighted a vulnerability in Versa Networks' Versa Director, a centralized management platform for Secure SDWAN and SASE solutions. This vulnerability, identified as CVE202445229, stems from improper input validation and affects various versions of the software. Organizations using vulnerable versions of Versa Director are urged to take immediate action to protect their network security.   Versa Director plays an important role in orchestrating and managing network and security policies across diverse locations. Its REST APIs facilitate automation and streamline operations through a unified interface, allowing IT teams to configure and monitor their network systems efficiently. However, the recent vulnerabili...\n\n📖 Read more.\n\n🔗 Via \"CYBLE\"\n\n----------\n👁️ Seen on @cibsecurity",
