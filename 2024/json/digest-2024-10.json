@@ -1,4 +1,33 @@
 {
+    "date": "2024-10-16",
+    "from_channel": "cibsecurity",
+    "message": "🦅 Critical Vulnerability in Veeam Products Exploited by Ransomware Gangs 🦅\n\n  Key Takeaways      A critical vulnerability, CVE202440711, was discovered in Veeam Backup  Replication, allowing unauthenticated remote code execution.   CVE202440711 has a CVSS score of 9.8, indicating an urgent need for remediation due to its severity.    Threat actors are actively exploiting this vulnerability to deploy Akira and Fog ransomware.   Veeam issued security updates to address these vulnerabilities in early September 2024.   Multiple Veeam products were also affected by different vulnerabilities, including Veeam Backup  Replication, Veeam ONE, and Veeam Agent for Linux, among others.   Organizations are urged to implement regular update protocols, enhance monitoring, and develop incident response plans to mitigate risks.    Overview      Threat actors have exploited a re...\n\n📖 Read more.\n\n🔗 Via \"CYBLE\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "CVE-2024-40711 in Veeam Backup & Replication, with a CVSS score of 9.8, is being exploited for ransomware attacks. Veeam issued a patch in version 12.2 in September 2024 to address this critical vulnerability.",
+    "webpage_url": "https://cyble.com/blog/critical-vulnerability-in-veeam-products-exploited-by-ransomware-gangs/"
+}
+{
+    "date": "2024-10-16",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ North Korean ScarCruft Exploits Windows Zero-Day to Spread RokRAT Malware 🖋️\n\nThe North Korean threat actor known as ScarCruft has been linked to the zeroday exploitation of a nowpatched security flaw in Windows to infect devices with malware known as RokRAT. The vulnerability in question is CVE202438178 CVSS score 7.5, a memory corruption bug in the Scripting Engine that could result in remote code execution when using the Edge browser in Internet Explorer Mode.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-10-16",
+    "from_channel": "defcon_news",
+    "message": "North Korean ScarCruft Exploits Windows Zero-Day to Spread RokRAT Malware\nhttps://thehackernews.com/2024/10/north-korean-scarcruft-exploits-windows.html"
+}
+{
+    "date": "2024-10-15",
+    "from_channel": "cibsecurity",
+    "message": "🦅 Active Exploitation of SAML Vulnerability CVE-2024-45409 Detected by Cyble Sensors 🦅\n\n  Overview   On September 10, 2024, a critical vulnerability, CVE202445409, was identified by ahacker1 of SecureSAML. The vulnerability was then patched in the RubySAML library, which is widely used for implementing SAML Security Assertion Markup Language authorization.   This flaw affects RubySAML versions up to 1.12.2 and between 1.13.0 and 1.16.0 and stems from an incorrect XPath selector that prevents the proper verification of the SAML Response signature. An unauthenticated attacker with access to a signed SAML document from a legitimate identity provider IdP can exploit this vulnerability by forging a SAML Response or Assertion. This allows the attacker to bypass the authentication mechanism and potentially gain unauthorized access to sensitive data and critical systems.   SAML is...\n\n📖 Read more.\n\n🔗 Via \"CYBLE\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "Cyble's Global Sensor Intelligence Network detects the active exploitation of CVE-2024-45409, a critical SAML vulnerability affecting GitLab, which can potentially bypass critical security checks.",
+    "webpage_url": "https://cyble.com/blog/active-exploitation-of-saml-vulnerability-cve-2024-45409-detected-by-cyble-sensors/"
+}
+{
+    "date": "2024-10-13",
+    "from_channel": "proxy_bar",
+    "message": "CVE-2024-42640\n*\nUnauthenticated Remote Code Execution via Angular-Base64-Upload Library \n*\nexploit"
+}
+{
     "date": "2024-10-04",
     "from_channel": "proxy_bar",
     "message": "CVE-2024-26304 RCE-exploit\n*\nHPE Aruba Device\n*\nusage:\npython3 CVE-2024-26304.py -u http://127.0.0.1"
