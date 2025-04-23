@@ -67,6 +67,7 @@
     "date": "2022-09-30",
     "from_channel": "defcon_news",
     "message": "VNCERT/CC has just developed a tool to check Exchange's 0-day exploit http request blocking. #exchange #0day #exploit #vncertcc\nhttps://www.reddit.com/r/netsec/comments/xs5xsz/vncertcc_has_just_developed_a_tool_to_check/",
+    "urls": [],
     "webpage_description": "Posted in r/netsec by u/InterestingEmu4225 • 6 points and 0 comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/xs5xsz/vncertcc_has_just_developed_a_tool_to_check/"
 }
@@ -94,6 +95,7 @@
     "date": "2022-09-30",
     "from_channel": "MPSIEMChat",
     "message": "Здравствуйте, кратко опишу есть уязвимость в MS Exchange 0-day (ZDI-CAN-18333, ZDI-CAN-18802). Тут подробнее это описала GTSC https://gteltsc.vn/blog/warning-new-attack-campaign-utilized-a-new-0day-rce-vulnerability-on-microsoft-exchange-server-12715.html\n Вопрос заключается как с помощью SIEM можно отследить изменение DLL файлов по hash SHA256, есть ли такая возможность или чем лучше это сделать?",
+    "urls": [],
     "webpage_url": "https://www.gteltsc.vn/blog/warning-new-attack-campaign-utilized-a-new-0day-rce-vulnerability-on-microsoft-exchange-server-12715.html"
 }
 {
@@ -112,14 +114,16 @@
     "message": "‼ CVE-2022-33880 ‼\n\nhms-staff.php in Projectworlds Hospital Management System Mini-Project through 2018-06-17 allows SQL injection via the type parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2022-09-30",
+    "date": "2022-09-29",
     "from_channel": "freedomf0x",
-    "message": "#exploit\n1. 0-Day RCE on Microsoft Exchange Server\nhttps://gteltsc.vn/blog/warning-new-attack-campaign-utilized-a-new-0day-rce-vulnerability-on-microsoft-exchange-server-12715.html\n\n2. CVE-2022-36934:\nInteger overflow in WhatsApp leading to RCE in an established\nhttps://infosecwriteups.com/cve-2022-36934-an-integer-overflow-in-whatsapp-leading-to-remote-code-execution-in-an-established-e0fc4e2cd900\n\n3. CVE-2022-2566:\nFFmpeg - Heap Out-Of-Bounds Write in build_open_gop_key_points\nhttps://github.com/google/security-research/security/advisories/GHSA-vhxg-9wfx-7fcj"
+    "message": "#exploit\n1. 0-Day RCE on Microsoft Exchange Server\nhttps://gteltsc.vn/blog/warning-new-attack-campaign-utilized-a-new-0day-rce-vulnerability-on-microsoft-exchange-server-12715.html\n\n2. CVE-2022-36934:\nInteger overflow in WhatsApp leading to RCE in an established\nhttps://infosecwriteups.com/cve-2022-36934-an-integer-overflow-in-whatsapp-leading-to-remote-code-execution-in-an-established-e0fc4e2cd900\n\n3. CVE-2022-2566:\nFFmpeg - Heap Out-Of-Bounds Write in build_open_gop_key_points\nhttps://github.com/google/security-research/security/advisories/GHSA-vhxg-9wfx-7fcj",
+    "urls": []
 }
 {
     "date": "2022-09-29",
     "from_channel": "defcon_news",
     "message": "New attack campaign utilized a new 0-day RCE vulnerability on Microsoft Exchange Server\nhttps://www.reddit.com/r/netsec/comments/xrh7f0/new_attack_campaign_utilized_a_new_0day_rce/",
+    "urls": [],
     "webpage_description": "Posted in r/netsec by u/CyberMasterV • 133 points and 14 comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/xrh7f0/new_attack_campaign_utilized_a_new_0day_rce/"
 }
@@ -132,6 +136,7 @@
     "date": "2022-09-29",
     "from_channel": "defcon_news",
     "message": "Joomla AdsManager 3.2.0 SQL Injection\nhttp://exploit.kitploit.com/2022/09/joomla-adsmanager-320-sql-injection.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/09/joomla-adsmanager-320-sql-injection.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -139,6 +144,7 @@
     "date": "2022-09-29",
     "from_channel": "defcon_news",
     "message": "Online Examination System 1.0 SQL Injection\nhttp://exploit.kitploit.com/2022/09/online-examination-system-10-sql.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/09/online-examination-system-10-sql.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -146,6 +152,7 @@
     "date": "2022-09-29",
     "from_channel": "defcon_news",
     "message": "Joomla AdsManager 3.2.0 SQL Injection\nhttps://packetstormsecurity.com/files/168556/joomlaadsmanager320-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168556/joomlaadsmanager320-sql.txt"
 }
@@ -153,6 +160,7 @@
     "date": "2022-09-29",
     "from_channel": "defcon_news",
     "message": "Online Examination System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/168551/oes10-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168551/oes10-sql.txt"
 }
@@ -167,6 +175,7 @@
     "date": "2022-09-29",
     "from_channel": "defcon_news",
     "message": "XSS Flaw in Prevalent Media Imaging Tool Exposes Trove of Patient Data\nhttps://www.darkreading.com/attacks-breaches/xss-flaw-prevalent-media-imaging-tool-exposes-trove-patient-data",
+    "urls": [],
     "webpage_description": "Bugs in Canon Medical's Virea View could allow cyberattackers to access several sources of sensitive patient data.",
     "webpage_url": "https://www.darkreading.com/attacks-breaches/xss-flaw-prevalent-media-imaging-tool-exposes-trove-patient-data"
 }
@@ -284,6 +293,7 @@
     "date": "2022-09-28",
     "from_channel": "defcon_news",
     "message": "Serious Netlify Vulnerability Could Allow XSS, SSRF Attacks\nhttps://latesthackingnews.com/2022/09/28/serious-netlify-vulnerability-could-allow-xss-ssrf-attacks/",
+    "urls": [],
     "webpage_description": "A serious security vulnerability existed in the Netlify cloud computing platform that allowed cross-site scripting attacks. Netlify has released a patch for the flaw with version 1.2.3. Users must ensure updating their systems with the",
     "webpage_url": "https://latesthackingnews.com/2022/09/28/serious-netlify-vulnerability-could-allow-xss-ssrf-attacks/"
 }
@@ -360,6 +370,7 @@
     "date": "2022-09-27",
     "from_channel": "defcon_news",
     "message": "WhatsApp “zero-day exploit” news scare – what you need to know\nhttps://nakedsecurity.sophos.com/2022/09/27/whatsapp-zero-day-exploit-news-scare-what-you-need-to-know/",
+    "urls": [],
     "webpage_description": "Is WhatsApp currently under active attack by cyercriminals? Is this a clear and current danger? How worried should WhatsApp users be?",
     "webpage_url": "https://nakedsecurity.sophos.com/2022/09/27/whatsapp-zero-day-exploit-news-scare-what-you-need-to-know/"
 }
@@ -367,6 +378,7 @@
     "date": "2022-09-27",
     "from_channel": "defcon_news",
     "message": "Food Ordering Management System 1.0 SQL Injection\nhttp://exploit.kitploit.com/2022/09/food-ordering-management-system-10-sql.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/09/food-ordering-management-system-10-sql.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -374,6 +386,7 @@
     "date": "2022-09-27",
     "from_channel": "defcon_news",
     "message": "Food Ordering Management System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/168517/foms10-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168517/foms10-sql.txt"
 }
@@ -406,6 +419,7 @@
     "date": "2022-09-26",
     "from_channel": "defcon_news",
     "message": "Online Diagnostic Lab Management System 1.0 SQL Injection / Shell Upload\nhttp://exploit.kitploit.com/2022/09/online-diagnostic-lab-management-system.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/09/online-diagnostic-lab-management-system.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -413,6 +427,7 @@
     "date": "2022-09-26",
     "from_channel": "defcon_news",
     "message": "Online Diagnostic Lab Management System 1.0 SQL Injection / Shell Upload\nhttps://packetstormsecurity.com/files/168498/odlms10-sqlbypassshell.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168498/odlms10-sqlbypassshell.txt"
 }
@@ -445,6 +460,7 @@
     "date": "2022-09-26",
     "from_channel": "Leakers_squad",
     "message": "My First XSS #bugbounty\n\nhttps://medium.com/@AvyuktSyrine/my-first-xss-d88ee864df82",
+    "urls": [],
     "webpage_description": "Hey everyone, I am SYRINE. Cyber Security Enthusiast, eJPT Certified, and currently focusing on bug bounty.",
     "webpage_url": "https://medium.com/@AvyuktSyrine/my-first-xss-d88ee864df82"
 }
@@ -456,7 +472,8 @@
 {
     "date": "2022-09-24",
     "from_channel": "defcon_news",
-    "message": "Hackers Actively Exploiting New Sophos Firewall RCE Vulnerability\nhttps://thehackernews.com/2022/09/hackers-actively-exploiting-new-sophos.html"
+    "message": "Hackers Actively Exploiting New Sophos Firewall RCE Vulnerability\nhttps://thehackernews.com/2022/09/hackers-actively-exploiting-new-sophos.html",
+    "urls": []
 }
 {
     "date": "2022-09-24",
@@ -565,6 +582,7 @@
     "date": "2022-09-23",
     "from_channel": "defcon_news",
     "message": "BigQuery SQL Injection Cheat Sheet\nhttps://www.reddit.com/r/netsec/comments/xlqzdc/bigquery_sql_injection_cheat_sheet/",
+    "urls": [],
     "webpage_description": "Posted in r/netsec by u/Gallus • 87 points and 3 comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/xlqzdc/bigquery_sql_injection_cheat_sheet/"
 }
@@ -576,7 +594,8 @@
 {
     "date": "2022-09-22",
     "from_channel": "ctfchat",
-    "message": "бля у меня на xss рега от 2008 года"
+    "message": "бля у меня на xss рега от 2008 года",
+    "urls": []
 }
 {
     "date": "2022-09-22",
@@ -597,6 +616,7 @@
     "date": "2022-09-22",
     "from_channel": "defcon_news",
     "message": "WorkOrder CMS 0.1.0 SQL Injection\nhttp://exploit.kitploit.com/2022/09/workorder-cms-010-sql-injection.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/09/workorder-cms-010-sql-injection.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -634,6 +654,7 @@
     "date": "2022-09-22",
     "from_channel": "defcon_news",
     "message": "WorkOrder CMS 0.1.0 SQL Injection\nhttps://packetstormsecurity.com/files/168464/workordercms010-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168464/workordercms010-sql.txt"
 }
@@ -641,6 +662,7 @@
     "date": "2022-09-22",
     "from_channel": "sysadm_in_channel",
     "message": "/ Creosote - solution to searching for the tarfile vulnerability described by CVE-2007-4559\n\nThis CVE - Directory traversal vulnerability in the extract and extractall functions in the tarfile module in Python allows user-assisted remote attackers to overwrite arbitrary files via a .. (dot dot) sequence in filenames in a TAR archive, a related issue to CVE-2001-1267:\n\nhttps://github.com/advanced-threat-research/Creosote",
+    "urls": [],
     "webpage_description": "Creosote is our solution to searching for the tarfile vulnerability described by CVE-2007-4559. - GitHub - advanced-threat-research/Creosote: Creosote is our solution to searching for the tarfile v...",
     "webpage_url": "https://github.com/advanced-threat-research/Creosote"
 }
@@ -648,6 +670,7 @@
     "date": "2022-09-22",
     "from_channel": "defcon_news",
     "message": "Exploiting Web3’s Hidden Attack Surface: Universal XSS on Netlify’s Next.js Library\nhttps://www.reddit.com/r/netsec/comments/xkrbgr/exploiting_web3s_hidden_attack_surface_universal/",
+    "urls": [],
     "webpage_description": "Posted in r/netsec by u/Mempodipper • 4 points and 0 comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/xkrbgr/exploiting_web3s_hidden_attack_surface_universal/"
 }
@@ -824,7 +847,8 @@
 {
     "date": "2022-09-20",
     "from_channel": "freedomf0x",
-    "message": "CRITICAL NOTE:\n\nTO ALL COBALT STRIKE (CRACKED AND NOT) USERS:\n\nhttps://cobaltstrike.com/blog/out-of-band-update-cobalt-strike-4-7-1/\n\nIn stock\n\nTL;DR;\nNew Teamserver image is affected by an XSS on Beacon connection that will lead to RCE on server , please pay attention to not expose your server too much :)"
+    "message": "CRITICAL NOTE:\n\nTO ALL COBALT STRIKE (CRACKED AND NOT) USERS:\n\nhttps://cobaltstrike.com/blog/out-of-band-update-cobalt-strike-4-7-1/\n\nIn stock\n\nTL;DR;\nNew Teamserver image is affected by an XSS on Beacon connection that will lead to RCE on server , please pay attention to not expose your server too much :)",
+    "urls": []
 }
 {
     "date": "2022-09-20",
@@ -930,6 +954,7 @@
     "date": "2022-09-19",
     "from_channel": "defcon_news",
     "message": "VIAVIWEB Wallpaper Admin SQL Injection / Shell Upload\nhttp://exploit.kitploit.com/2022/09/viaviweb-wallpaper-admin-sql-injection.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/09/viaviweb-wallpaper-admin-sql-injection.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -937,6 +962,7 @@
     "date": "2022-09-19",
     "from_channel": "defcon_news",
     "message": "VIAVIWEB Wallpaper Admin SQL Injection / Shell Upload\nhttps://packetstormsecurity.com/files/168419/viaviwebwallpaper-sqlshell.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168419/viaviwebwallpaper-sqlshell.txt"
 }
@@ -954,6 +980,7 @@
     "date": "2022-09-19",
     "from_channel": "defcon_news",
     "message": "PhotoSync 4.7 Local File Inclusion\nhttp://exploit.kitploit.com/2022/09/photosync-47-local-file-inclusion.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/09/photosync-47-local-file-inclusion.html"
 }
@@ -961,6 +988,7 @@
     "date": "2022-09-19",
     "from_channel": "defcon_news",
     "message": "Owlfiles File Manager 12.0.1 Path Traversal / Local File Inclusion\nhttp://exploit.kitploit.com/2022/09/owlfiles-file-manager-1201-path.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/09/owlfiles-file-manager-1201-path.html"
 }
@@ -968,6 +996,7 @@
     "date": "2022-09-19",
     "from_channel": "defcon_news",
     "message": "PhotoSync 4.7 Local File Inclusion\nhttps://packetstormsecurity.com/files/168415/photosync47-lfi.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168415/photosync47-lfi.txt"
 }
@@ -975,6 +1004,7 @@
     "date": "2022-09-19",
     "from_channel": "defcon_news",
     "message": "Owlfiles File Manager 12.0.1 Path Traversal / Local File Inclusion\nhttps://packetstormsecurity.com/files/168414/owlfilesfm1201-traversal.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168414/owlfilesfm1201-traversal.txt"
 }
@@ -982,6 +1012,7 @@
     "date": "2022-09-19",
     "from_channel": "defcon_news",
     "message": "OpenCart 3.x Newsletter Custom Popup 4.0 SQL Injection\nhttps://packetstormsecurity.com/files/168412/opencart3xncp-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168412/opencart3xncp-sql.txt"
 }
@@ -989,6 +1020,7 @@
     "date": "2022-09-19",
     "from_channel": "defcon_news",
     "message": "OpenCart 3.x Newsletter Custom Popup 4.0 SQL Injection\nhttp://exploit.kitploit.com/2022/09/opencart-3x-newsletter-custom-popup-40.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/09/opencart-3x-newsletter-custom-popup-40.html"
 }
@@ -1136,6 +1168,7 @@
     "date": "2022-09-16",
     "from_channel": "defcon_news",
     "message": "Rocket LMS 1.6 SQL Injection\nhttp://exploit.kitploit.com/2022/09/rocket-lms-16-sql-injection.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/09/rocket-lms-16-sql-injection.html"
 }
@@ -1143,6 +1176,7 @@
     "date": "2022-09-16",
     "from_channel": "defcon_news",
     "message": "Social Share Button 2.2.3 SQL Injection\nhttp://exploit.kitploit.com/2022/09/social-share-button-223-sql-injection.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/09/social-share-button-223-sql-injection.html"
 }
@@ -1150,6 +1184,7 @@
     "date": "2022-09-16",
     "from_channel": "defcon_news",
     "message": "Social Share Button 2.2.3 SQL Injection\nhttps://packetstormsecurity.com/files/168403/ssb223-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168403/ssb223-sql.txt"
 }
@@ -1157,6 +1192,7 @@
     "date": "2022-09-16",
     "from_channel": "defcon_news",
     "message": "Rocket LMS 1.6 SQL Injection\nhttps://packetstormsecurity.com/files/168402/rocketlms16-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168402/rocketlms16-sql.txt"
 }
@@ -1194,6 +1230,7 @@
     "date": "2022-09-15",
     "from_channel": "defcon_news",
     "message": "Actively Exploited Zero-Day Vulnerability Found In WPGateway WordPress Plugin\nhttps://latesthackingnews.com/2022/09/15/actively-exploited-zero-day-vulnerability-found-in-wpgateway-wordpress-plugin/",
+    "urls": [],
     "webpage_description": "A zero-day vulnerability in the WPGateway WordPress plugin recently surfaced online following active exploits. The researchers have noticed millions of attack attempts against thousands of websites. For now, no official patch is available for the",
     "webpage_url": "https://latesthackingnews.com/2022/09/15/actively-exploited-zero-day-vulnerability-found-in-wpgateway-wordpress-plugin/"
 }
@@ -1233,6 +1270,7 @@
     "date": "2022-09-15",
     "from_channel": "defcon_news",
     "message": "Six-Year-Old Blind SSRF Vulnerability Risks WordPress Sites To DDoS Attacks\nhttps://latesthackingnews.com/2022/09/15/six-year-old-blind-ssrf-vulnerability-risks-wordpress-sites-to-ddos-attacks/",
+    "urls": [],
     "webpage_description": "Researchers discovered a severe blind SSRF vulnerability in WordPress that could allow DDoS attacks. Notably, the vulnerability existed in the WordPress platform for at least six years. WordPress Blind SSRF Vulnerability According to a recent post from",
     "webpage_url": "https://latesthackingnews.com/2022/09/15/six-year-old-blind-ssrf-vulnerability-risks-wordpress-sites-to-ddos-attacks/"
 }
@@ -1266,7 +1304,8 @@
 {
     "date": "2022-09-14",
     "from_channel": "Leakers_squad",
-    "message": "Introducing 44 cybersecurity YouTube channels:\n\n1. Hak5 — General cybersecurity coverage.\n2. The XSS Rat — Everythug bounty hunting.\n3. ITProTV — General cybersecurity coverage. \n4. Infosec Institute — Cybersecurity awareness.\n5. Cyrill Gössi — Extensive cryptography videos. \n6. DC CyberSec — Generic cybersecurity coverage. \n7. Black Hat — Technical cybersecurity conferences.\n8. David Bombal — Everything cybersecurity related.\n9. Outpost Gray — Cybersecurity career development.\n10. Bugcrowd — Bug bounty methodology and interviews.\n11. Network Chuck — Everything cybersecurity related.\n12. Professor Messer — Guides covering certifications.\n13. Cyberspatial — Cybersecurity education and training.\n14. OWASP Foundation — Web-application security content.\n15. Nahamsec — Educational hacking and bug bounty videos.\n16. Computerphile — Covers basic concepts and techniques.\n17. InfoSec Live — Everything from tutorials to interviews.\n18. InsiderPHD — How to get started with bug bounty hunting.\n19. Security Weekly — Interviews with cybersecurity figures.\n20. Hack eXPlorer — General tutorials, tips, and techniques.\n21. Cyber CDH — Cybersecurity tools, tactics and techniques. \n22. John Hammond — Malware analysis, programming, and careers.\n23. SANS Offensive Operations — Technical cybersecurity videos.\n24. 13Cubed — Videos on tools, forensics, and incident response.\n25. HackerSploit — Penetration testing, web-application hacking.\n26. Z-winK University — Bug bounty education and demonstrations.\n27. Peter Yaworski — Web-application hacking tips and interviews.\n28. IppSec — Labs and capture-the-flag tutorials, HackTheBox etc.\n29. Pentester Academy TV — Discussions and demonstrating attacks.\n30. BlackPerl — Malware analysis, forensics and incident response.\n31. Offensive Security — Educational content and lab walkthroughs.\n32. Day Cyberwox — Useful cloud security content and walkthroughs. \n33. DEFCONConference — Everything from DEF CON cybersecurity event.\n34. STÖK — Videos on tools, vulnerability analysis, and methodology.\n35. MalwareTechBlog — Cybersecurity and reverse engineering content.\n36. The Hated One — Research that explains cybersecurity conceptions.\n37. Simply Cyber — Helps people with cybersecurity career development.\n38. Black Hills Information Security — Everything cybersecurity related.\n39. Security Now — Cybercrime news, hacking and web-application security.\n40. The Cyber Mentor — Ethical hacking, web-application hacking, and tools.\n41. Joe Collins — Everything Linux related, including tutorials and guides.\n42. Null Byte — Cybersecurity for ethical hackers, and computer scientists.\n43. LiveOverflow — Involves hacking, write-up videos, and capture-the-flags.\n44. The PC Security Channel — Windows security, malware news, and tutorials.\n\n✗ Make me admin in your channel for such posts @i5h4nt ✗\n\n♥️Share & Support Us♥️"
+    "message": "Introducing 44 cybersecurity YouTube channels:\n\n1. Hak5 — General cybersecurity coverage.\n2. The XSS Rat — Everythug bounty hunting.\n3. ITProTV — General cybersecurity coverage. \n4. Infosec Institute — Cybersecurity awareness.\n5. Cyrill Gössi — Extensive cryptography videos. \n6. DC CyberSec — Generic cybersecurity coverage. \n7. Black Hat — Technical cybersecurity conferences.\n8. David Bombal — Everything cybersecurity related.\n9. Outpost Gray — Cybersecurity career development.\n10. Bugcrowd — Bug bounty methodology and interviews.\n11. Network Chuck — Everything cybersecurity related.\n12. Professor Messer — Guides covering certifications.\n13. Cyberspatial — Cybersecurity education and training.\n14. OWASP Foundation — Web-application security content.\n15. Nahamsec — Educational hacking and bug bounty videos.\n16. Computerphile — Covers basic concepts and techniques.\n17. InfoSec Live — Everything from tutorials to interviews.\n18. InsiderPHD — How to get started with bug bounty hunting.\n19. Security Weekly — Interviews with cybersecurity figures.\n20. Hack eXPlorer — General tutorials, tips, and techniques.\n21. Cyber CDH — Cybersecurity tools, tactics and techniques. \n22. John Hammond — Malware analysis, programming, and careers.\n23. SANS Offensive Operations — Technical cybersecurity videos.\n24. 13Cubed — Videos on tools, forensics, and incident response.\n25. HackerSploit — Penetration testing, web-application hacking.\n26. Z-winK University — Bug bounty education and demonstrations.\n27. Peter Yaworski — Web-application hacking tips and interviews.\n28. IppSec — Labs and capture-the-flag tutorials, HackTheBox etc.\n29. Pentester Academy TV — Discussions and demonstrating attacks.\n30. BlackPerl — Malware analysis, forensics and incident response.\n31. Offensive Security — Educational content and lab walkthroughs.\n32. Day Cyberwox — Useful cloud security content and walkthroughs. \n33. DEFCONConference — Everything from DEF CON cybersecurity event.\n34. STÖK — Videos on tools, vulnerability analysis, and methodology.\n35. MalwareTechBlog — Cybersecurity and reverse engineering content.\n36. The Hated One — Research that explains cybersecurity conceptions.\n37. Simply Cyber — Helps people with cybersecurity career development.\n38. Black Hills Information Security — Everything cybersecurity related.\n39. Security Now — Cybercrime news, hacking and web-application security.\n40. The Cyber Mentor — Ethical hacking, web-application hacking, and tools.\n41. Joe Collins — Everything Linux related, including tutorials and guides.\n42. Null Byte — Cybersecurity for ethical hackers, and computer scientists.\n43. LiveOverflow — Involves hacking, write-up videos, and capture-the-flags.\n44. The PC Security Channel — Windows security, malware news, and tutorials.\n\n✗ Make me admin in your channel for such posts @i5h4nt ✗\n\n♥️Share & Support Us♥️",
+    "urls": []
 }
 {
     "date": "2022-09-14",
@@ -1306,17 +1345,20 @@
 {
     "date": "2022-09-14",
     "from_channel": "defcon_news",
-    "message": "Over 280,000 WordPress Sites Attacked Using WPGateway Plugin Zero-Day Vulnerability\nhttps://thehackernews.com/2022/09/over-280000-wordpress-sites-attacked.html"
+    "message": "Over 280,000 WordPress Sites Attacked Using WPGateway Plugin Zero-Day Vulnerability\nhttps://thehackernews.com/2022/09/over-280000-wordpress-sites-attacked.html",
+    "urls": []
 }
 {
     "date": "2022-09-14",
     "from_channel": "freedomf0x",
-    "message": "#CVE-2022-32548\n\nhttps://github.com/rftg1000/CVE-2022-32548-RCE-POC"
+    "message": "#CVE-2022-32548\n\nhttps://github.com/rftg1000/CVE-2022-32548-RCE-POC",
+    "urls": []
 }
 {
     "date": "2022-09-14",
     "from_channel": "freedomf0x",
-    "message": "#CVE-2022-37706\n\nhttps://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit"
+    "message": "#CVE-2022-37706\n\nhttps://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit",
+    "urls": []
 }
 {
     "date": "2022-09-14",
@@ -1452,6 +1494,7 @@
     "date": "2022-09-13",
     "from_channel": "defcon_news",
     "message": "Zero-Day Vulnerability Found In WordPress Plugin Backup Buddy\nhttps://latesthackingnews.com/2022/09/13/zero-day-vulnerability-found-in-wordpress-plugin-backup-buddy/",
+    "urls": [],
     "webpage_description": "A severe zero-day vulnerability in the Backup Buddy plugin has been revealed. The researchers detected millions of exploitation attempts for the flaw before it received a patch. Since the vulnerability has already caught the attention",
     "webpage_url": "https://latesthackingnews.com/2022/09/13/zero-day-vulnerability-found-in-wordpress-plugin-backup-buddy/"
 }
@@ -1471,6 +1514,7 @@
     "date": "2022-09-13",
     "from_channel": "Leakers_squad",
     "message": "🔰 Bug Bounty Hunting – Offensive Approach to Hunt Bugs 🔰\nby @TheStarkArmyX\n\n01 Introduction\n02 Information Gathering Basic Terminologies\n03 Introduction of Burpsuite\n04 Comprehensive XSS\n05 Host Header Injection\n06 URL Redirection\n07 Parameter Tampering\n08 HTML Injection\n09 File Inclusion\n10 Missinginsufficient SPF record\n11 Insecure CORS Configuration\n12 Server Side Request Forgery\n13 Critical File Found\n14 Source Code Disclosure\n15 Cross Site Request Forgery\n16 Hostile Subdomain Takeover\n17 SOL Injection\n18 Command Injection\n19 File Uploading\n20 XML External Entity Injection\n\n🔗Direct Download Link :- https://bit.ly/3S1beCX\n\nContact for posting these content in your channel @Mr_Neophyte\n\n♻️Share And Support us♻️",
+    "urls": [],
     "webpage_description": "This Course is made by Vikash Chaudhary.",
     "webpage_url": "https://bit.ly/3S1beCX"
 }
@@ -1651,6 +1695,7 @@
     "date": "2022-09-09",
     "from_channel": "defcon_news",
     "message": "@Drive 2.8 Local File Inclusion\nhttp://exploit.kitploit.com/2022/09/drive-28-local-file-inclusion.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/09/drive-28-local-file-inclusion.html"
 }
@@ -1728,6 +1773,7 @@
     "date": "2022-09-09",
     "from_channel": "defcon_news",
     "message": "Online Notice Board 2022 SQL Injection\nhttp://exploit.kitploit.com/2022/09/online-notice-board-2022-sql-injection.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/09/online-notice-board-2022-sql-injection.html"
 }
@@ -1755,6 +1801,7 @@
     "date": "2022-09-09",
     "from_channel": "defcon_news",
     "message": "SACCO-2022 SQL Injection\nhttp://exploit.kitploit.com/2022/09/sacco-2022-sql-injection.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/09/sacco-2022-sql-injection.html"
 }
@@ -1762,6 +1809,7 @@
     "date": "2022-09-09",
     "from_channel": "defcon_news",
     "message": "Online Notice Board 2022 SQL Injection\nhttps://packetstormsecurity.com/files/168323/onb2022-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168323/onb2022-sql.txt"
 }
@@ -1769,6 +1817,7 @@
     "date": "2022-09-09",
     "from_channel": "defcon_news",
     "message": "@Drive 2.8 Local File Inclusion\nhttps://packetstormsecurity.com/files/168316/atdrive28-lfi.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168316/atdrive28-lfi.txt"
 }
@@ -1776,6 +1825,7 @@
     "date": "2022-09-09",
     "from_channel": "defcon_news",
     "message": "SACCO-2022 SQL Injection\nhttps://packetstormsecurity.com/files/168310/sacco2022-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168310/sacco2022-sql.txt"
 }
@@ -1911,6 +1961,7 @@
     "date": "2022-09-07",
     "from_channel": "defcon_news",
     "message": "FE File Explorer 11.0.4 Local File Inclusion\nhttp://exploit.kitploit.com/2022/09/fe-file-explorer-1104-local-file.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/09/fe-file-explorer-1104-local-file.html"
 }
@@ -1918,6 +1969,7 @@
     "date": "2022-09-07",
     "from_channel": "defcon_news",
     "message": "FTPManager 8.2 Local File Inclusion / Directory Traversal\nhttp://exploit.kitploit.com/2022/09/ftpmanager-82-local-file-inclusion.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/09/ftpmanager-82-local-file-inclusion.html"
 }
@@ -1925,6 +1977,7 @@
     "date": "2022-09-07",
     "from_channel": "defcon_news",
     "message": "FE File Explorer 11.0.4 Local File Inclusion\nhttps://packetstormsecurity.com/files/168285/fefileexplorer1104-lfi.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168285/fefileexplorer1104-lfi.txt"
 }
@@ -1932,6 +1985,7 @@
     "date": "2022-09-07",
     "from_channel": "defcon_news",
     "message": "FTPManager 8.2 Local File Inclusion / Directory Traversal\nhttps://packetstormsecurity.com/files/168274/ftpmanager82-lfitraversal.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168274/ftpmanager82-lfitraversal.txt"
 }
@@ -1949,7 +2003,8 @@
 {
     "date": "2022-09-07",
     "from_channel": "defcon_news",
-    "message": "Critical RCE Vulnerability Affects Zyxel NAS Devices — Firmware Patch Released\nhttps://thehackernews.com/2022/09/critical-rce-vulnerability-affects.html"
+    "message": "Critical RCE Vulnerability Affects Zyxel NAS Devices — Firmware Patch Released\nhttps://thehackernews.com/2022/09/critical-rce-vulnerability-affects.html",
+    "urls": []
 }
 {
     "date": "2022-09-07",
@@ -1961,6 +2016,7 @@
     "date": "2022-09-07",
     "from_channel": "freedomf0x",
     "message": "Exploits undocumented elevated COM interface ICMLuaUtil via process spoofing to edit registry then calls ColorDataProxy to trigger #UAC bypass. Win 7 & up.\n\nhttps://github.com/hackerhouse-opensource/ColorDataProxyUACBypass/",
+    "urls": [],
     "webpage_description": "Exploits undocumented elevated COM interface ICMLuaUtil via process spoofing to edit registry  then calls ColorDataProxy to trigger UAC bypass. Win 7 & up. - GitHub - hackerhouse-opensource...",
     "webpage_url": "https://github.com/hackerhouse-opensource/ColorDataProxyUACBypass"
 }
@@ -2023,6 +2079,7 @@
     "date": "2022-09-06",
     "from_channel": "defcon_news",
     "message": "Wifi HD Wireless Disk Drive 11 Local File Inclusion\nhttp://exploit.kitploit.com/2022/09/wifi-hd-wireless-disk-drive-11-local.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/09/wifi-hd-wireless-disk-drive-11-local.html"
 }
@@ -2030,6 +2087,7 @@
     "date": "2022-09-06",
     "from_channel": "defcon_news",
     "message": "Wifi HD Wireless Disk Drive 11 Local File Inclusion\nhttps://packetstormsecurity.com/files/168258/wifihdwdd11-lfi.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168258/wifihdwdd11-lfi.txt"
 }
@@ -2037,6 +2095,7 @@
     "date": "2022-09-06",
     "from_channel": "aptreports",
     "message": "#technique \n\nElevator allows to bypass the UAC and spawn an elevated process with full administrator privileges. This is done by abusing the behaviour of the RPC server that implements the UAC feature, as demonstrated by James Forshaw in his article Calling Local Windows RPC Servers from .NET. The tool does not require to drop an extra DLL or write to the Windows Registry (as is often the case with other UAC bypass techniques), and it has been successfully tested on Windows Server 2016, Windows Server 2019 and Windows 10 (it probably works on other versions of Windows).\n\nhttps://github.com/Kudaes/Elevator",
+    "urls": [],
     "webpage_description": "UAC bypass by abusing RPC and debug objects. Contribute to Kudaes/Elevator development by creating an account on GitHub.",
     "webpage_url": "https://github.com/Kudaes/Elevator"
 }
@@ -2044,6 +2103,7 @@
     "date": "2022-09-06",
     "from_channel": "defcon_news",
     "message": "Unpatched Unauthenticated Blind SSRF in WordPress Core\nhttps://www.reddit.com/r/netsec/comments/x7dtkb/unpatched_unauthenticated_blind_ssrf_in_wordpress/",
+    "urls": [],
     "webpage_description": "Posted in r/netsec by u/monoimpact • 1 point and 0 comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/x7dtkb/unpatched_unauthenticated_blind_ssrf_in_wordpress/"
 }
@@ -2067,6 +2127,7 @@
     "date": "2022-09-05",
     "from_channel": "defcon_news",
     "message": "Online Market Place Site 1.0 SQL Injection\nhttp://exploit.kitploit.com/2022/09/online-market-place-site-10-sql.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/09/online-market-place-site-10-sql.html"
 }
@@ -2074,6 +2135,7 @@
     "date": "2022-09-05",
     "from_channel": "defcon_news",
     "message": "Online Market Place Site 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/168249/omps10-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168249/omps10-sql.txt"
 }
@@ -2091,6 +2153,7 @@
     "date": "2022-09-05",
     "from_channel": "defcon_news",
     "message": "Walkthrough of an unauthenticated RCE affecting pfBlockerNG <= 2.1.4_26 (CVE-2022-31814)\nhttps://www.reddit.com/r/netsec/comments/x6b5is/walkthrough_of_an_unauthenticated_rce_affecting/",
+    "urls": [],
     "webpage_description": "Posted in r/netsec by u/IHTeam • 1 point and 0 comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/x6b5is/walkthrough_of_an_unauthenticated_rce_affecting/"
 }
@@ -2098,6 +2161,7 @@
     "date": "2022-09-04",
     "from_channel": "defcon_news",
     "message": "Google Fix Another Chrome Zero-Day With An Emergency Update\nhttps://latesthackingnews.com/2022/09/04/google-fix-another-chrome-zero-day-with-an-emergency-update/",
+    "urls": [],
     "webpage_description": "Just a couple of weeks after a previous zero-day, Google has rolled out another emergency Chrome browser update patching another zero-day vulnerability. Chrome Zero-Day Fixed In Emergency According to the latest advisory from Google, a serious zero-day",
     "webpage_url": "https://latesthackingnews.com/2022/09/04/google-fix-another-chrome-zero-day-with-an-emergency-update/"
 }
@@ -2115,7 +2179,8 @@
 {
     "date": "2022-09-03",
     "from_channel": "defcon_news",
-    "message": "Google Release Urgent Chrome Update to Patch New Zero-Day Vulnerability\nhttps://thehackernews.com/2022/09/google-release-urgent-chrome-update-to.html"
+    "message": "Google Release Urgent Chrome Update to Patch New Zero-Day Vulnerability\nhttps://thehackernews.com/2022/09/google-release-urgent-chrome-update-to.html",
+    "urls": []
 }
 {
     "date": "2022-09-03",
@@ -2192,6 +2257,7 @@
     "date": "2022-09-01",
     "from_channel": "defcon_news",
     "message": "Code-Injection Bugs Bite Google, Apache Open Source GitHub Projects\nhttps://www.darkreading.com/vulnerabilities-threats/code-injection-bugs-google-apache-open-source-github-projects",
+    "urls": [],
     "webpage_description": "The insecurities exist in CI/CD pipelines and can be used by attackers to subvert modern development and roll out malicious code at deployment.",
     "webpage_url": "https://www.darkreading.com/vulnerabilities-threats/code-injection-bugs-google-apache-open-source-github-projects"
 }
@@ -2206,6 +2272,7 @@
     "date": "2022-09-01",
     "from_channel": "defcon_news",
     "message": "Doctor's Appointment System 1.0 SQL Injection\nhttp://exploit.kitploit.com/2022/09/doctors-appointment-system-10-sql.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/09/doctors-appointment-system-10-sql.html"
 }
@@ -2213,6 +2280,7 @@
     "date": "2022-09-01",
     "from_channel": "defcon_news",
     "message": "Doctor's Appointment System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/168212/doctorsapptsys10-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/168212/doctorsapptsys10-sql.txt"
 }
@@ -2220,6 +2288,12 @@
     "date": "2022-09-01",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-38790 ‼\n\nWeave GitOps Enterprise before 0.9.0-rc.5 has a cross-site scripting (XSS) bug allowing a malicious user to inject a javascript: link in the UI. When clicked by a victim user, the script will execute with the victim's permission. The exposure appears in Weave GitOps Enterprise UI via a GitopsCluster dashboard link. An annotation can be added to a GitopsCluster custom resource.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2022-09-01",
+    "from_channel": "Social_engineering",
+    "message": "​🧩 Cobalt Strike от А до Я.\n\n🖖🏻 Приветствую тебя user_name.\n\n•  Cobalt Strike — без преувеличения является одним из самых популярных инструментов, который используют хакеры и пентестеры. Этот фреймворк используют все, начиная от правительственных APT-группировок и заканчивая операторами шифровальщиков.\n\n•  Сегодня ты узнаешь много новой и полезной информации, независимо от того, являешься ли ты новичком или уже используешь этот инструмент на практике. Делюсь ссылками на материал:\n\n•  https://xss.is/threads/55854/\n•  https://xss.is/threads/53624/\n•  https://xss.is/threads/54418/\n•  https://xss.is/threads/67021/\n\n* Если ты не зарегистрирован на форуме XSS, то обязательно зарегистрируйся! Это позволит тебе получить уникальный опыт и знания в определенных сферах #ИБ и хакинга, прокачать свой скилл и просто пообщаться с умными людьми на всевозможные темы. Ну а если тебе, по какой-либо причине, не хочется регистрироваться, то воспользуйся нашим облаком, там ты можешь скачать этот материал без регистрации и лишних манипуляций: https://t.me/S_E_Reborn/626\n\n•  В довесок, не забывай про отличный курс, который опубликован в нашем канале: https://t.me/Social_engineering/2205 материал на английском языке, но с русскими субтитрами.\n\nТвой S.E. #Cobalt_Strike",
+    "webpage_url": "https://telegra.ph/file/757c9a33a426077fe21c6.jpg"
 }
 {
     "date": "2022-09-01",

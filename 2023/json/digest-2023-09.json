@@ -157,6 +157,7 @@
     "date": "2023-09-29",
     "from_channel": "defcon_news",
     "message": "U.S. Dept Of Defense: [██████] Reflected XSS via Keycloak on ██████\nhttps://vulners.com/hackerone/H1:2126954?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
     "webpage_description": "Description: Keycloak 8.0 and prior contains a cross-site scripting vulnerability. An attacker can execute arbitrary script and thus steal cookie-based authentication credentials and launch other attacks. A lack of proper input validation made it...",
     "webpage_url": "https://vulners.com/hackerone/H1:2126954"
 }
@@ -234,6 +235,7 @@
     "date": "2023-09-29",
     "from_channel": "defcon_news",
     "message": "JetBrains TeamCity Unauthenticated Remote Code Execution\nhttps://packetstormsecurity.com/files/174860/jetbrains_teamcity_rce_cve_2023_42793.rb.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174860/jetbrains_teamcity_rce_cve_2023_42793.rb.txt"
 }
@@ -333,7 +335,7 @@
     "message": "‼ CVE-2023-43873 ‼\n\nA Cross Site Scripting (XSS) vulnerability in e017 CMS v.2.3.2 allows a local attacker to execute arbitrary code via a crafted script to the Name filed in the Manage Menu.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2023-10-16",
+    "date": "2023-09-28",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-47187 ‼\n\nThere is a file upload XSS vulnerability in Generex CS141 below 2.06 version. The web application allows file uploading, making it possible to upload a file with HTML content. When HTML files are allowed, XSS payload can be injected into the uploaded file.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -351,11 +353,12 @@
     "date": "2023-09-28",
     "from_channel": "defcon_news",
     "message": "Cisco Warns Of IOS Software Zero-Day Exploitation Attempts\nhttps://packetstormsecurity.com/news/view/35065/Cisco-Warns-Of-IOS-Software-Zero-Day-Exploitation-Attempts.html",
+    "urls": [],
     "webpage_description": "Cisco has released patches for vulnerability in the GET VPN feature of IOS and IOS XE software that has been exploited in attacks.",
     "webpage_url": "https://packetstormsecurity.com/news/view/35065/Cisco-Warns-Of-IOS-Software-Zero-Day-Exploitation-Attempts.html"
 }
 {
-    "date": "2023-09-29",
+    "date": "2023-09-28",
     "from_channel": "proxy_bar",
     "message": "CVE-2023-34040\nSpring-Kafka-Deserialization RCE\nPOC\n\n#apacheKafka"
 }
@@ -377,17 +380,20 @@
 {
     "date": "2023-09-28",
     "from_channel": "phd_soc",
-    "message": "Вот я и задал вопрос, про \"стандарты райтапа\". Иначе, ну это пурга какая-то. Не баг баунти, а \" Купить за грош пятаков\" Ну стоимость работы спеца в ББ, несопоставима с нанятым по договору спецом (просто аудит, или аудит плюс варианты решения проблемы - разная стоимость) Доказывать, что \"найденное\", это \" Крит\" это вообще за гранью. РоС и описание, чего и как делает, не достаточно? Надо ещё анализ кривого кода (библиотеки и тд), да? Поэтому и кормят ББ всякими XSS. Который тоже кстати вероятно развить до..."
+    "message": "Вот я и задал вопрос, про \"стандарты райтапа\". Иначе, ну это пурга какая-то. Не баг баунти, а \" Купить за грош пятаков\" Ну стоимость работы спеца в ББ, несопоставима с нанятым по договору спецом (просто аудит, или аудит плюс варианты решения проблемы - разная стоимость) Доказывать, что \"найденное\", это \" Крит\" это вообще за гранью. РоС и описание, чего и как делает, не достаточно? Надо ещё анализ кривого кода (библиотеки и тд), да? Поэтому и кормят ББ всякими XSS. Который тоже кстати вероятно развить до...",
+    "urls": []
 }
 {
     "date": "2023-09-28",
     "from_channel": "phd_soc",
-    "message": "Или условную LFI можно развить до RCE, из отчетов не всегда может быть это понятно."
+    "message": "Или условную LFI можно развить до RCE, из отчетов не всегда может быть это понятно.",
+    "urls": []
 }
 {
     "date": "2023-09-28",
     "from_channel": "phd_soc",
     "message": "Возвращаясь к теме ББ. А есть у кого-то стандарты описания? Или в \"свободной\" Форме? https://github.com/kh4sh3i/bug-bounty-writeups#cross-site-scripting-xss",
+    "urls": [],
     "webpage_description": "A  curated list of available Bug Bounty & Disclosure Programs and Write-ups. - GitHub - kh4sh3i/bug-bounty-writeups: A  curated list of available Bug Bounty & Disclosure Programs an...",
     "webpage_url": "https://github.com/kh4sh3i/bug-bounty-writeups"
 }
@@ -395,6 +401,7 @@
     "date": "2023-09-28",
     "from_channel": "sysadm_in_channel",
     "message": "/ (0Day) Exim AUTH Out-Of-Bounds Write Remote Code Execution Vulnerability\n\nhttps://www.zerodayinitiative.com/advisories/ZDI-23-1469/",
+    "urls": [],
     "webpage_description": "(0Day) Exim AUTH Out-Of-Bounds Write Remote Code Execution Vulnerability",
     "webpage_url": "https://www.zerodayinitiative.com/advisories/ZDI-23-1469/"
 }
@@ -421,7 +428,8 @@
 {
     "date": "2023-09-28",
     "from_channel": "defcon_news",
-    "message": "Update Chrome Now: Google Releases Patch for Actively Exploited Zero-Day Vulnerability\nhttps://thehackernews.com/2023/09/update-chrome-now-google-releases-patch.html"
+    "message": "Update Chrome Now: Google Releases Patch for Actively Exploited Zero-Day Vulnerability\nhttps://thehackernews.com/2023/09/update-chrome-now-google-releases-patch.html",
+    "urls": []
 }
 {
     "date": "2023-09-27",
@@ -524,7 +532,7 @@
     "message": "‼ CVE-2023-40330 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in Milan Petrovic GD Security Headers plugin <=Â 1.6.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2023-09-28",
+    "date": "2023-09-27",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-41238 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in UltimatelySocial Social Media Share Buttons & Social Sharing Icons plugin <=Â 2.8.3 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -532,6 +540,11 @@
     "date": "2023-09-27",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-41241 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in SureCart WordPress Ecommerce For Creating Fast Online Stores plugin <=Â 2.5.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-26",
+    "from_channel": "elliot_cybersec",
+    "message": "🏃‍♂️ Методология SSRF | Привет, друг. На связи Эллиот.\n \nСтрим от KathanP19, посвящённый методологии поиска SSRF уязвимостей в ручном и автоматическом режиме. \n\nПодделка запросов на стороне сервера (SSRF) - это тип уязвимости веб-приложения, которая позволяет злоумышленнику отправлять произвольные HTTP-запросы из уязвимого веб-приложения на внешний сервер. Приложение может быть обманом отправлено на отправку вредоносных запросов во внутренние системы, что может привести к раскрытию конфиденциальных данных или другим проблемам безопасности.\n\n— Видеоролик на английском языке, если возникнут трудности с переводом, воспользуйтесь закадровым переводом от Яндекса.\n\n#SSRF #Web"
 }
 {
     "date": "2023-09-26",
@@ -597,6 +610,7 @@
     "date": "2023-09-25",
     "from_channel": "defcon_news",
     "message": "Analysis of CVE-2023-38831 Zero-Day vulnerability in WinRAR\nhttps://www.reddit.com/r/netsec/comments/16s2b18/analysis_of_cve202338831_zeroday_vulnerability_in/",
+    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/16s2b18/analysis_of_cve202338831_zeroday_vulnerability_in/"
 }
@@ -646,7 +660,7 @@
     "message": "‼ CVE-2023-34576 ‼\n\nSQL injection vulnerability in updatepos.php in PrestaShop opartfaq through 1.0.3 allows remote attackers to run arbitrary SQL commands via unspedified vector.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2023-09-29",
+    "date": "2023-09-21",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-42279 ‼\n\nDreamer CMS 4.1.3 is vulnerable to SQL Injection.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -766,7 +780,7 @@
     "message": "‼ CVE-2023-43371 ‼\n\nHoteldruid v3.0.5 was discovered to contain a SQL injection vulnerability via the numcaselle parameter at /hoteldruid/creaprezzi.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2023-09-21",
+    "date": "2023-09-20",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-43377 ‼\n\nA cross-site scripting (XSS) vulnerability in /hoteldruid/visualizza_contratto.php of Hoteldruid v3.0.5 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the destinatario_email1 parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -816,6 +830,7 @@
     "date": "2023-09-20",
     "from_channel": "defcon_news",
     "message": "Mozilla Critical Services: Stored Xss on bugzilla.mozilla.org via comment edit feature from non-admin to admin.\nhttps://vulners.com/hackerone/H1:2111291?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
     "webpage_description": "Hi There ! There is Stored xss on comment feature. The XSS executed when admin tries to edit the comment. The XSS fires. I tried to Bypass the CSP But was not able to. Steps To Reproduce. 1. Create a report in bugzilla.mozilla.org as users. 2. ...",
     "webpage_url": "https://vulners.com/hackerone/H1:2111291"
 }
@@ -828,6 +843,7 @@
     "date": "2023-09-20",
     "from_channel": "sysadm_in_channel",
     "message": "/ GitLab Critical Security Release: 16.3.4 and 16.2.7\n\nThese versions contain important security fixes, and GitLab strongly recommend that all GitLab installations be upgraded to one of these versions immediately.\n\nIn short: A stored XSS vulnerability was discovered in GitLab.com that allowed an attacker to inject HTML in any note, issue description, or wiki page by abusing syntax_highlight_filter.rb. The vulnerability was caused by the lack of proper input sanitization. The attacker could inject a script tag by using the base tag and loading the script from their own domain, bypassing the CSP. This could lead to the creation of tokens and take over of SSO accounts.\n\n— https://about.gitlab.com/releases/2023/09/18/security-release-gitlab-16-3-4-released/",
+    "urls": [],
     "webpage_description": "Learn more about GitLab Critical Security Release: 16.3.4 and 16.2.7 for GitLab Community Edition (CE) and Enterprise Edition (EE).",
     "webpage_url": "https://about.gitlab.com/releases/2023/09/18/security-release-gitlab-16-3-4-released/"
 }
@@ -905,6 +921,7 @@
     "date": "2023-09-19",
     "from_channel": "defcon_news",
     "message": "Taskhub 2.8.7 SQL Injection\nhttps://packetstormsecurity.com/files/174760/taskhub287-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174760/taskhub287-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -912,6 +929,7 @@
     "date": "2023-09-19",
     "from_channel": "defcon_news",
     "message": "Packers And Movers Management System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174758/pmms1-sql.tgz",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174758/pmms1-sql.tgz?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -919,6 +937,7 @@
     "date": "2023-09-19",
     "from_channel": "defcon_news",
     "message": "Lamano CMS 2.0 SQL Injection\nhttps://packetstormsecurity.com/files/174707/lamanocms20-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174707/lamanocms20-sql.txt"
 }
@@ -926,6 +945,7 @@
     "date": "2023-09-19",
     "from_channel": "defcon_news",
     "message": "Lacabane 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174706/lacabane10-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174706/lacabane10-sql.txt"
 }
@@ -933,6 +953,7 @@
     "date": "2023-09-19",
     "from_channel": "defcon_news",
     "message": "Free And Open Source Inventory Management System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174705/fosims10-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174705/fosims10-sql.txt"
 }
@@ -959,12 +980,14 @@
 {
     "date": "2023-09-19",
     "from_channel": "defcon_news",
-    "message": "Over 12,000 Juniper Firewalls Found Vulnerable to Recently Disclosed RCE Vulnerability\nhttps://thehackernews.com/2023/09/over-12000-juniper-firewalls-found.html"
+    "message": "Over 12,000 Juniper Firewalls Found Vulnerable to Recently Disclosed RCE Vulnerability\nhttps://thehackernews.com/2023/09/over-12000-juniper-firewalls-found.html",
+    "urls": []
 }
 {
     "date": "2023-09-19",
     "from_channel": "defcon_news",
     "message": "Wind River VxWorks tarExtract directory traversal vulnerability (CVE-2023-38346)\nhttps://www.reddit.com/r/netsec/comments/16miibx/wind_river_vxworks_tarextract_directory_traversal/",
+    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/16miibx/wind_river_vxworks_tarextract_directory_traversal/"
 }
@@ -1017,6 +1040,7 @@
     "date": "2023-09-18",
     "from_channel": "defcon_news",
     "message": "KPK CMS 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174686/kpkcms10-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174686/kpkcms10-sql.txt"
 }
@@ -1024,6 +1048,7 @@
     "date": "2023-09-18",
     "from_channel": "defcon_news",
     "message": "Surf - Escalate Your SSRF Vulnerabilities On Modern Cloud Environments\nhttp://www.kitploit.com/2023/09/surf-escalate-your-ssrf-vulnerabilities.html",
+    "urls": [],
     "webpage_url": "https://www.kitploit.com/2023/09/surf-escalate-your-ssrf-vulnerabilities.html?utm_source=dlvr.it&utm_medium=twitter"
 }
 {
@@ -1050,6 +1075,7 @@
     "date": "2023-09-15",
     "from_channel": "defcon_news",
     "message": "Academy LMS 6.2 SQL Injection\nhttps://packetstormsecurity.com/files/174681/academylms62-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174681/academylms62-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1107,6 +1133,7 @@
     "date": "2023-09-14",
     "from_channel": "defcon_news",
     "message": "NucleiFuzzer - Powerful Automation Tool For Detecting XSS, SQLi, SSRF, Open-Redirect, Etc.. Vulnerabilities In Web Applications\nhttp://www.kitploit.com/2023/09/nucleifuzzer-powerful-automation-tool.html",
+    "urls": [],
     "webpage_url": "https://www.kitploit.com/2023/09/nucleifuzzer-powerful-automation-tool.html"
 }
 {
@@ -1123,6 +1150,7 @@
     "date": "2023-09-14",
     "from_channel": "defcon_news",
     "message": "Azure HDInsight Flaws Allow Data Access, Session Hijacking, Payload Delivery\nhttps://packetstormsecurity.com/news/view/35014/Azure-HDInsight-Flaws-Allow-Data-Access-Session-Hijacking-Payload-Delivery.html",
+    "urls": [],
     "webpage_description": "Orca Security details eight XSS vulnerabilities in Azure HDInsight that could lead to information leaks, session hijacking, and payload delivery.",
     "webpage_url": "https://packetstormsecurity.com/news/view/35014/Azure-HDInsight-Flaws-Allow-Data-Access-Session-Hijacking-Payload-Delivery.html"
 }
@@ -1160,6 +1188,7 @@
     "date": "2023-09-13",
     "from_channel": "defcon_news",
     "message": "PHP Shopping Cart 4.2 SQL Injection\nhttps://packetstormsecurity.com/files/174641/phpshoppingcart42-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174641/phpshoppingcart42-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1167,6 +1196,7 @@
     "date": "2023-09-13",
     "from_channel": "defcon_news",
     "message": "Fundraising Script 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174640/fundraisingscript10-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174640/fundraisingscript10-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1193,7 +1223,8 @@
 {
     "date": "2023-09-13",
     "from_channel": "defcon_news",
-    "message": "Mozilla Rushes to Patch WebP Critical Zero-Day Exploit in Firefox and Thunderbird\nhttps://thehackernews.com/2023/09/mozilla-rushes-to-patch-webp-critical.html"
+    "message": "Mozilla Rushes to Patch WebP Critical Zero-Day Exploit in Firefox and Thunderbird\nhttps://thehackernews.com/2023/09/mozilla-rushes-to-patch-webp-critical.html",
+    "urls": []
 }
 {
     "date": "2023-09-12",
@@ -1316,6 +1347,7 @@
     "date": "2023-09-12",
     "from_channel": "defcon_news",
     "message": "Equipment Rental Script 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174619/ers10-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174619/ers10-sql.txt"
 }
@@ -1323,6 +1355,7 @@
     "date": "2023-09-12",
     "from_channel": "defcon_news",
     "message": "Kylin CMS 1.3.0 SQL Injection\nhttps://packetstormsecurity.com/files/174616/kylincms130-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174616/kylincms130-sql.txt"
 }
@@ -1330,6 +1363,7 @@
     "date": "2023-09-12",
     "from_channel": "defcon_news",
     "message": "Kaledo RD CMS 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174608/kaledordcms10-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174608/kaledordcms10-sql.txt"
 }
@@ -1352,6 +1386,7 @@
     "date": "2023-09-12",
     "from_channel": "defcon_news",
     "message": "Blog Patrowl: OmniSpace, from automated 0day XSS to RCE by @Pepito_oh\nhttps://www.reddit.com/r/netsec/comments/16gqwsv/blog_patrowl_omnispace_from_automated_0day_xss_to/",
+    "urls": [],
     "webpage_description": "Posted by MaKyOtOx - No votes and no comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/16gqwsv/blog_patrowl_omnispace_from_automated_0day_xss_to/"
 }
@@ -1369,6 +1404,7 @@
     "date": "2023-09-12",
     "from_channel": "defcon_news",
     "message": "Internet Bug Bounty: SSRF Vulnerability through Connection test feature\nhttps://vulners.com/hackerone/H1:2123113?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
     "webpage_description": "An SSRF (Server-Side Request Forgery) attack can potentially be executed through the connection test feature, specifically when interacting with the Slack API. This attack allows an attacker to see the plain response, providing them with...",
     "webpage_url": "https://vulners.com/hackerone/H1:2123113?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -1391,6 +1427,7 @@
     "date": "2023-09-11",
     "from_channel": "r0_Crew",
     "message": "Dissecting and Exploiting TCP/IP RCE Vulnerability “EvilESP”\n\nhttps://securityintelligence.com/x-force/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/\n\n#expdev #windows #1day",
+    "urls": [],
     "webpage_description": "See how one IBM X-Force researcher reverse engineered the patch for CVE-2022-34718, and unpack the affected protocols, how the bug was identified, and how it was reproduced.",
     "webpage_url": "https://securityintelligence.com/x-force/dissecting-exploiting-tcp-ip-rce-vulnerability-evilesp/"
 }
@@ -1413,6 +1450,7 @@
     "date": "2023-09-11",
     "from_channel": "defcon_news",
     "message": "WordPress Slimstat Analytics 5.0.9 Cross Site Scripting / SQL Injection\nhttps://packetstormsecurity.com/files/174604/wpslimstat509-xsssql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174604/wpslimstat509-xsssql.txt?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1420,6 +1458,7 @@
     "date": "2023-09-11",
     "from_channel": "defcon_news",
     "message": "VMware vRealize Log Insight Unauthenticated Remote Code Execution\nhttps://packetstormsecurity.com/files/174606/vmware_vrli_rce.rb.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174606/vmware_vrli_rce.rb.txt?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1427,6 +1466,7 @@
     "date": "2023-09-11",
     "from_channel": "defcon_news",
     "message": "Shuttle Booking Software 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174581/shuttlebs10-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174581/shuttlebs10-sql.txt"
 }
@@ -1438,6 +1478,11 @@
     "webpage_url": "https://www.darkreading.com/vulnerabilities-threats/overcoming-rising-threat-session-hijacking"
 }
 {
+    "date": "2023-09-11",
+    "from_channel": "elliot_cybersec",
+    "message": "⚫️ Как использовать XSS в метатегах и hidden полях | Привет, друг. На связи Эллиот.\n\nВ Chrome появился новый функционал всплывающих окон, который можно реализовать с помощью HTML и без JavaScript.\n\nНо мы с вами знаем, что все новое — хорошо забытое старое. Разбираемся, как проэксплуатировать XSS в метатегах и скрытых полях ввода.\n\n⏺ Ссылка на чтиво\n\n#XSS #HTML"
+}
+{
     "date": "2023-09-10",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-4879 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository instantsoft/icms2 prior to 2.16.1.-git.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
@@ -1446,6 +1491,11 @@
     "date": "2023-09-10",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-4878 ‼\n\nServer-Side Request Forgery (SSRF) in GitHub repository instantsoft/icms2 prior to 2.16.1-git.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-10",
+    "from_channel": "cybersec_academy",
+    "message": "👋 Приветствую в мире цифровой безопасности!\n\nРасскажу про виды угроз, которые подстерегают вас в Сети и не только.\n\nКибератаки делятся на виды весьма условно. Кроме того, хакеры могут использовать сразу несколько подходов. Тем не менее попробую провести некоторую типизацию:\n\n🟢Вредоносное ПО\n🟢DoS- и DDoS-атаки\n🟢Фишинг\n🟢SQL-инъекции\n🟢Атаки на цепочку поставок\n🟢XSS\n🟢Ботнеты\n🟢Брутфорс-атаки\n🟢MITM\n\nОбо всех этих кибератаках мы поговорим в будущем.\n\nCyberSec Academy | #Угрозы"
 }
 {
     "date": "2023-09-09",
@@ -1473,7 +1523,7 @@
     "message": "‼ CVE-2023-4845 ‼\n\nA vulnerability was found in SourceCodester Simple Membership System 1.0. It has been declared as critical. This vulnerability affects unknown code of the file account_edit_query.php. The manipulation of the argument admin_id leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-239254 is the identifier assigned to this vulnerability.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2023-09-10",
+    "date": "2023-09-09",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-4846 ‼\n\nA vulnerability was found in SourceCodester Simple Membership System 1.0. It has been rated as critical. This issue affects some unknown processing of the file delete_member.php. The manipulation of the argument mem_id leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-239255.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -1496,6 +1546,7 @@
     "date": "2023-09-08",
     "from_channel": "defcon_news",
     "message": "U.S. Dept Of Defense: Blind Sql Injection in https://█████/qsSearch.aspx\nhttps://vulners.com/hackerone/H1:2081316?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
     "webpage_description": "Description: access https:// ████████/qsSearch.aspx Click to sort capture packets ``` POST /qsSearch.aspx HTTP/1.1 Host:  ████████ Cookie: ASP.NET_SessionId=qrwzcesx1pczpna5a1bumabn;...",
     "webpage_url": "https://vulners.com/hackerone/H1:2081316?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -1503,6 +1554,7 @@
     "date": "2023-09-08",
     "from_channel": "defcon_news",
     "message": "U.S. Dept Of Defense: Blind Sql Injection in https://████████/\nhttps://vulners.com/hackerone/H1:2072306?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
     "webpage_description": "Description: first  browse url https:// █████████/DSF/SmartStore.aspx?gktTg9gFCEBknhRFawes89EY4WcuDKHZNYh58W8kzOWv0SM9Nk6SFMv570fOCer/BHfPrtRYtqRvYJ88zd0KsQ==&random=0.7493498572981403#!/Storefront find login  then notice register  ████████  ███████...",
     "webpage_url": "https://vulners.com/hackerone/H1:2072306?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -1510,6 +1562,7 @@
     "date": "2023-09-08",
     "from_channel": "defcon_news",
     "message": "U.S. Dept Of Defense: CVE-2023-24488 xss on https://██████/\nhttps://vulners.com/hackerone/H1:2045549?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
     "webpage_description": "Description: References Impact malicios js inejction , cookie stealing System Host(s)  █████████ Affected Product(s) and Version(s) CVE Numbers CVE-2023-24488 Steps to Reproduce ...",
     "webpage_url": "https://vulners.com/hackerone/H1:2045549?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -1527,6 +1580,7 @@
     "date": "2023-09-08",
     "from_channel": "sysadm_in_channel",
     "message": "/ NSO Group iPhone Zero-Click, Zero-Day Exploit Captured in the Wild\n\n— https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/",
+    "urls": [],
     "webpage_description": "Citizen Lab found an actively exploited zero-click vulnerability being used to deliver NSO Group’s Pegasus mercenary spyware while checking the device of an individual employed by a Washington DC-based civil society organization with international offices. We refer to the exploit chain as BLASTPASS. The exploit chain was capable of compromising iPhones running the latest version of iOS (16.6) without any interaction from the victim.",
     "webpage_url": "https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/"
 }
@@ -1539,6 +1593,7 @@
     "date": "2023-09-08",
     "from_channel": "defcon_news",
     "message": "Yelp: yelp.com and biz.yelp.com ATO via XSS + Cookie Bridge\nhttps://vulners.com/hackerone/H1:2089042?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
     "webpage_description": "Summary I've found an XSS on biz.yelp.com where the unverified email will be reflected in a message, prompting the user to verify the email. This XSS can be combined with the cookie bridge functionality to target other uses with the XSS. The XSS...",
     "webpage_url": "https://vulners.com/hackerone/H1:2089042?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -1561,6 +1616,7 @@
     "date": "2023-09-08",
     "from_channel": "defcon_news",
     "message": "BLASTPASS: NSO Group iPhone Zero-Click, Zero-Day Exploit Captured in the Wild\nhttps://www.reddit.com/r/netsec/comments/16cv8ig/blastpass_nso_group_iphone_zeroclick_zeroday/",
+    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/16cv8ig/blastpass_nso_group_iphone_zeroclick_zeroday/"
 }
@@ -1598,6 +1654,7 @@
     "date": "2023-09-07",
     "from_channel": "defcon_news",
     "message": "JPC2 CMS 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174541/jpc2cms10-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174541/jpc2cms10-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1605,6 +1662,7 @@
     "date": "2023-09-07",
     "from_channel": "defcon_news",
     "message": "Meeting Room Booking System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/174539/mrbs10-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174539/mrbs10-sql.txt"
 }
@@ -1614,7 +1672,7 @@
     "message": "‼ CVE-2021-40790 ‼\n\nAdobe Premiere Pro versions 22.0 (and earlier) and 15.4.2 (and earlier) are affected by an Use-After-Free vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a malicious file.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2023-09-20",
+    "date": "2023-09-07",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2021-43753 ‼\n\nAdobe Lightroom versions 4.4 (and earlier) are affected by a use-after-free vulnerability in the processing of parsing TIF files that could result in privilege escalation. Exploitation of this issue requires user interaction in that a victim must open a malicious file.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -1647,6 +1705,7 @@
     "date": "2023-09-06",
     "from_channel": "defcon_news",
     "message": "ImgHosting 1.3 SQL Injection\nhttps://packetstormsecurity.com/files/174510/imghosting13-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174510/imghosting13-sql.txt"
 }
@@ -1699,6 +1758,7 @@
     "date": "2023-09-06",
     "from_channel": "defcon_news",
     "message": "XSS vulnerability in Proton Mail allowed to leak unencrypted emails\nhttps://www.reddit.com/r/netsec/comments/16bfujl/xss_vulnerability_in_proton_mail_allowed_to_leak/",
+    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/16bfujl/xss_vulnerability_in_proton_mail_allowed_to_leak/"
 }
@@ -1926,6 +1986,7 @@
     "date": "2023-09-05",
     "from_channel": "defcon_news",
     "message": "WordPress Media Library Assistant 3.09 LFI / Remote Code Execution\nhttps://packetstormsecurity.com/files/174508/wpmla309-lfiexec.tgz",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174508/wpmla309-lfiexec.tgz?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1933,6 +1994,7 @@
     "date": "2023-09-05",
     "from_channel": "defcon_news",
     "message": "Hikvision Access Control Session Hijacking\nhttps://packetstormsecurity.com/files/174506/CVE-2023-28809.tgz",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174506/CVE-2023-28809.tgz?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1940,6 +2002,7 @@
     "date": "2023-09-05",
     "from_channel": "defcon_news",
     "message": "Internet Radio auna IR-160 SE UIProto DoS / XSS / Missing Authentication\nhttps://packetstormsecurity.com/files/174503/aunair160se-xssdos.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174503/aunair160se-xssdos.txt?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1947,6 +2010,7 @@
     "date": "2023-09-05",
     "from_channel": "defcon_news",
     "message": "FileMage Gateway 1.10.9 Local File Inclusion\nhttps://packetstormsecurity.com/files/174491/filemagegateway1109-lfi.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174491/filemagegateway1109-lfi.txt"
 }
@@ -1954,6 +2018,7 @@
     "date": "2023-09-05",
     "from_channel": "defcon_news",
     "message": "WordPress WP Statistics 13.1.5 SQL Injection\nhttps://packetstormsecurity.com/files/174482/wpstatistics1315-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174482/wpstatistics1315-sql.txt"
 }
@@ -1961,6 +2026,11 @@
     "date": "2023-09-05",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-36492 ‼\n\nReflected cross-site scripting vulnerability in SHIRASAGI prior to v1.18.0 allows a remote unauthenticated attacker to execute an arbitrary script on the web browser of the user who is logging in to the product.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-09-05",
+    "from_channel": "elliot_cybersec",
+    "message": "⚫️ Актуальные инструменты для XSS в 2023 году | Привет, друг. На связи Эллиот.\n\nXSS — «межсайтовый скриптинг» уязвимость, которую можно обнаружить на множестве веб-приложений. Ее суть проста, злоумышленнику удается внедрить на страницу JavaScript-код, который не был предусмотрен изначально.\n\nВ этом посте расскажу вам о некоторых тулсах по XSS, которые необходимо знать в 2023 году. Они предназначены для выявления и устранения уязвимостей XSS, в конечном итоге защищая веб-приложения от потенциальных атак.\n\n⬜️ XSStrike — это инструмент, который специализируется на обнаружении и использовании уязвимостей XSS в веб-приложениях. Он предлагает полный набор методов сканирования XSS и полезных нагрузок, что делает его ценным ресурсом для специалистов.\n\n⬜️ Dalfox — это инструмент, который специализируется на сканировании веб-приложений на предмет уязвимостей XSS (межсайтового скриптинга). Это предоставляет специалистам по безопасности и этичным хакерам быстрый и эффективный способ выявления и использования потенциально слабых мест XSS.\n\n⬜️ BruteXSS — это мощный инструмент перебора XSS (межсайтового скриптинга). BruteXSS является кроссплатформенным инструментом, который может запускаться в различных операционных системах.\nТакая гибкость делает его доступным для более широкого круга специалистов.\n\n#XSS"
 }
 {
     "date": "2023-09-05",
@@ -1981,6 +2051,7 @@
     "date": "2023-09-05",
     "from_channel": "defcon_news",
     "message": "LFI/RCE Vulnerability in WordPress Media Library Assistant Plugin - CVE-2023-4634 - Patrowl\nhttps://www.reddit.com/r/netsec/comments/16aicnz/lfirce_vulnerability_in_wordpress_media_library/",
+    "urls": [],
     "webpage_description": "Posted by Pepito_oh - No votes and 1 comment",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/16aicnz/lfirce_vulnerability_in_wordpress_media_library/"
 }
@@ -2013,6 +2084,7 @@
     "date": "2023-09-04",
     "from_channel": "defcon_news",
     "message": "ImpressionTech CMS 1.4 SQL Injection\nhttps://packetstormsecurity.com/files/174469/impressiontechcms14-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174469/impressiontechcms14-sql.txt"
 }
@@ -2112,7 +2184,7 @@
     "message": "‼ CVE-2023-25465 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in Gopi Ramasamy wp tell a friend popup form plugin <=Â 7.1 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2023-09-05",
+    "date": "2023-09-04",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-39162 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in XLPlugins User Email Verification for WooCommerce plugin <=Â 3.5.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -2220,6 +2292,7 @@
     "date": "2023-09-02",
     "from_channel": "defcon_news",
     "message": "Clcknshop 1.0.0 SQL Injection\nhttps://packetstormsecurity.com/files/174445/clcknshop100-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/174445/clcknshop100-sql.txt"
 }
@@ -2227,11 +2300,12 @@
     "date": "2023-09-02",
     "from_channel": "defcon_news",
     "message": "Session Hijacking Visual Exploitation (SHVE). New tool for XSS Exploitation\nhttps://www.reddit.com/r/netsec/comments/167mnm7/session_hijacking_visual_exploitation_shve_new/",
+    "urls": [],
     "webpage_description": "Posted by nibblesec - No votes and no comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/167mnm7/session_hijacking_visual_exploitation_shve_new/"
 }
 {
-    "date": "2023-09-02",
+    "date": "2023-09-01",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-4712 ‼\n\nA vulnerability, which was classified as critical, was found in Xintian Smart Table Integrated Management System 5.6.9. This affects an unknown part of the file /SysManage/AddUpdateRole.aspx. The manipulation of the argument txtRoleName leads to sql injection. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-238575. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -2246,7 +2320,7 @@
     "message": "‼ CVE-2023-41049 ‼\n\n@dcl/single-sign-on-client is an open source npm library which deals with single sign on authentication flows. Improper input validation in the `init` function allows arbitrary javascript to be executed using the `javascript:` prefix. This vulnerability has been patched on version `0.1.0`. Users are advised to upgrade. Users unable to upgrade should limit untrusted user input to the `init` function.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2023-09-03",
+    "date": "2023-09-01",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-4713 ‼\n\nA vulnerability has been found in IBOS OA 4.5.5 and classified as critical. This vulnerability affects the function addComment of the file ?r=weibo/comment/addcomment. The manipulation of the argument touid leads to sql injection. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-238576. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -2394,6 +2468,7 @@
     "date": "2023-09-01",
     "from_channel": "defcon_news",
     "message": "Prompt injection could be the SQL injection of the future, warns NCSC\nhttps://www.malwarebytes.com/blog/news/2023/08/prompt-injection-could-be-the-sql-injection-of-the-future-warns-ncsc",
+    "urls": [],
     "webpage_description": "The NCSC has warned about integrating LLMs into your own services or platforms. Prompt injection and data poisoning are just some of the risks.",
     "webpage_url": "https://www.malwarebytes.com/blog/news/2023/08/prompt-injection-could-be-the-sql-injection-of-the-future-warns-ncsc"
 }

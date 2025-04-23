@@ -2,6 +2,7 @@
     "date": "2022-11-30",
     "from_channel": "defcon_news",
     "message": "OX App Suite 7.10.6 Cross Site Scripting / SSRF / Resource Consumption\nhttp://exploit.kitploit.com/2022/11/ox-app-suite-7106-cross-site-scripting.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/11/ox-app-suite-7106-cross-site-scripting.html"
 }
@@ -9,6 +10,7 @@
     "date": "2022-11-30",
     "from_channel": "defcon_news",
     "message": "OX App Suite 7.10.6 Cross Site Scripting / SSRF / Resource Consumption\nhttps://packetstormsecurity.com/files/170064/OXUIB-1654.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170064/OXUIB-1654.txt?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -173,7 +175,7 @@
     "message": "‼ CVE-2022-45221 ‼\n\nWeb-Based Student Clearance System v1.0 was discovered to contain a cross-site scripting (XSS) vulnerability in changepassword.php. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the txtnew_password parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2022-11-29",
+    "date": "2022-11-28",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-45214 ‼\n\nA cross-site scripting (XSS) vulnerability in Sanitization Management System v1.0.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the username parameter at /php-sms/classes/Login.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -323,6 +325,7 @@
     "date": "2022-11-25",
     "from_channel": "defcon_news",
     "message": "Nextcloud: XSS in Desktop Client in call notification popup\nhttps://vulners.com/hackerone/H1:1711847?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
     "webpage_description": "Summary: The Nextcloud Desktop Client application does not properly neutralize the name of a group conversation before using it. Steps To Reproduce: Server Machine:  Install the Nextcloud Server application Create an administrator account Create a user account  Client Machine:  Install the Nextcloud Desktop Client application on a machine that is running the Windows 10 operating system Log in to the user account  Server Machine:  Log in to the administrator account Install the Nextcloud Talk application Open the Nextcloud Talk application Create a group conversation with the name <img src=\"https://avatars.githubusercontent.com/u/99037623\"> Add the user to the group conversation Start a call in the group conversation  Client Machine:  Observe that the name of the group conversation is treated as HyperText Markup Language  Please do note that group conversation messages are also treated as HyperText Markup Language. Supporting Material/References: {F1953705} {F1953706} {F1953851} Impact An attacker can inject arbitrary…",
     "webpage_url": "https://vulners.com/hackerone/H1:1711847?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -335,6 +338,7 @@
     "date": "2022-11-25",
     "from_channel": "defcon_news",
     "message": "Nextcloud: XSS in Desktop Client via user status and information\nhttps://vulners.com/hackerone/H1:1707977?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
     "webpage_description": "Summary: The Nextcloud Desktop Client application does not properly neutralize the Full Name and Status Message of users before using them. Steps To Reproduce: Server Machine:  Install the Nextcloud Server application Log into your account Navigate to your profile page Set the Full Name of your user to <img src=\"https://avatars.githubusercontent.com/u/99037623\"> Set the Status Message of your user to <img src=\"https://avatars.githubusercontent.com/u/99037623\">  Client Machine:  Install the Nextcloud Desktop Client application onto a machine that is running the Windows 10 operating system Log into your account Open the main dialog window of the Nextcloud Desktop Client application Observe that the Full Name and Status Message of your user are treated as HyperText Markup Language  Supporting Material/References: {F1945608} Impact An attacker can inject arbitrary HyperText Markup Language into the Nextcloud Desktop Client...",
     "webpage_url": "https://vulners.com/hackerone/H1:1707977?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -342,6 +346,7 @@
     "date": "2022-11-25",
     "from_channel": "defcon_news",
     "message": "Sanitization Management System 1.0 SQL Injection\nhttp://exploit.kitploit.com/2022/11/sanitization-management-system-10-sql.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/11/sanitization-management-system-10-sql.html"
 }
@@ -349,6 +354,7 @@
     "date": "2022-11-25",
     "from_channel": "defcon_news",
     "message": "Helmet Store Showroom 1.0 SQL Injection\nhttp://exploit.kitploit.com/2022/11/helmet-store-showroom-10-sql-injection.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/11/helmet-store-showroom-10-sql-injection.html"
 }
@@ -356,6 +362,7 @@
     "date": "2022-11-25",
     "from_channel": "defcon_news",
     "message": "Helmet Store Showroom 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/170014/hss10-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170014/hss10-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -363,6 +370,7 @@
     "date": "2022-11-25",
     "from_channel": "defcon_news",
     "message": "Sanitization Management System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/170013/smsphp10-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170013/smsphp10-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -409,7 +417,7 @@
     "message": "‼ CVE-2022-44748 ‼\n\nA directory traversal vulnerability in the ZIP archive extraction routines of KNIME Server since 4.3.0 can result in arbitrary files being overwritten on the server's file system. This vulnerability is also known as 'Zip-Slip'. An attacker can create a KNIME workflow that, when being uploaded, can overwrite arbitrary files that the operating system user running the KNIME Server process has write access to. The user must be authenticated and have permissions to upload files to KNIME Server. This can impact data integrity (file contents are changed) or cause errors in other software (vital files being corrupted). It can even lead to remote code execution if executable files are being replaced and subsequently executed by the KNIME Server process user. In all cases the attacker has to know the location of files on the server's file system, though. Note that users that have permissions to upload workflows usually also have permissions to run them on the KNIME Server and can therefore already execute arbitrary code in the context of the KNIME Executor's operating system user. There is no workaround to prevent this vulnerability from being exploited. Updates to fixed versions 4.13.6, 4.14.3, or 4.15.3 are advised.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2022-11-27",
+    "date": "2022-11-24",
     "from_channel": "hackgit",
     "message": "​​CVE-2022-45472\n\nThe CAE Learning Space Enterprise management software is vulnerable to a DOM Based XSS attack. \n\nA DOM Based XSS attack is when a user sends an executed payload to the host and as a result, it modifies the DOM environment in the victim's browser from the original client-side script. \n\nThis attack was found through manually searching burp requests, running tested parameters through a XSS finder tool called Dalfox, then verifying the DOM of the affected host to view the behavior of the application.\n\nhttps://github.com/nicbrinkley/CVE-2022-45472\n\n#cve",
     "webpage_url": "https://telegra.ph/file/be7d0eb8bc26c1bc9879f.jpg"
@@ -757,7 +765,8 @@
 {
     "date": "2022-11-20",
     "from_channel": "defcon_news",
-    "message": "Задание 35 [Easy and Medium+] LFI+RCE\nhttps://codeby.net/threads/zadanie-35-easy-and-medium-lfi-rce.80834/"
+    "message": "Задание 35 [Easy and Medium+] LFI+RCE\nhttps://codeby.net/threads/zadanie-35-easy-and-medium-lfi-rce.80834/",
+    "urls": []
 }
 {
     "date": "2022-11-20",
@@ -798,6 +807,7 @@
     "date": "2022-11-19",
     "from_channel": "defcon_news",
     "message": "MTN Group: Reflected XSS in chatbot\nhttps://vulners.com/hackerone/H1:1735622?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
     "webpage_description": "Reflected XSS attacks, also known as non-persistent attacks, occur when a malicious script is reflected off of a web application to the victim's browser. The script is activated through a link, which sends a request to a website with a vulnerability that enables execution of malicious scripts Proof of Concept 1)Go to the website https://mtn.com.gh/ 2)click on the MTN chat and where it asks to enter a number enter an xss payload 3)In my case I put the following payload:Submit Impact If an attacker can control a script running in the victim's browser, they can usually completely compromise that user. Among other things, the attacker can: Perform any action in the application that the user can...",
     "webpage_url": "https://vulners.com/hackerone/H1:1735622?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -850,6 +860,7 @@
     "date": "2022-11-18",
     "from_channel": "defcon_news",
     "message": "U.S. Dept Of Defense: Reflected XSS | https://████████\nhttps://vulners.com/hackerone/H1:1736433?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
     "webpage_description": "Summary Hi team, there's a reflected XSS on https:// ████ using the plot param. There's a WAF in place but it's possible to bypass it. Steps to reproduce  Click https:// ██████████/fcgi-bin/getplot.py?plot=aaa%3Ch1%20onauxclick=confirm(document.domain)%3ERIGHT%20CLICK%20HERE Observe the popup showing document.domain when right clicking \"RIGHT CLICK HERE\"   ███ Impact The attacker can trigger remote code execution on the victim’s browser, and steal credentials, sessions, and potentially send malware to the victim. System Host(s)  ██████ Affected Product(s) and Version(s) CVE Numbers Steps to Reproduce  Click https:// ████████/fcgi-bin/getplot.py?plot=aaa%3Ch1%20onauxclick=confirm(document.domain)%3ERIGHT%20CLICK%20HERE Observe the popup showing document.domain when right clicking \"RIGHT CLICK HERE\"  Suggested Mitigation/Remediation...",
     "webpage_url": "https://vulners.com/hackerone/H1:1736433?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -857,6 +868,7 @@
     "date": "2022-11-18",
     "from_channel": "defcon_news",
     "message": "U.S. Dept Of Defense: Reflected XSS | https://████\nhttps://vulners.com/hackerone/H1:1736432?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
     "webpage_description": "Summary Hi team, there's a reflected XSS on https:// █████████ using the project param. There's a WAF in place but it's possible to bypass it. Steps to reproduce  Click https:// ████████/fcgi-bin/release.py?project=aaa%3Ch1%20onauxclick=confirm(document.domain)%3ERIGHT%20CLICK%20HERE Observe the popup showing document.domain when right clicking \"RIGHT CLICK HERE\"   ███ Impact The attacker can trigger remote code execution on the victim’s browser, and steal credentials, sessions, and potentially send malware to the victim. System Host(s)  ███████ Affected Product(s) and Version(s) CVE Numbers Steps to Reproduce  Click https:// █████████/fcgi-bin/release.py?project=aaa%3Ch1%20onauxclick=confirm(document.domain)%3ERIGHT%20CLICK%20HERE Observe the popup showing document.domain when right clicking \"RIGHT CLICK HERE\"  Suggested Mitigation/Remediation...",
     "webpage_url": "https://vulners.com/hackerone/H1:1736432?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -1062,6 +1074,7 @@
     "date": "2022-11-16",
     "from_channel": "defcon_news",
     "message": "Revenue Collection System 1.0 SQL Injection / Remote Code Execution\nhttp://exploit.kitploit.com/2022/11/revenue-collection-system-10-sql.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/11/revenue-collection-system-10-sql.html"
 }
@@ -1069,6 +1082,7 @@
     "date": "2022-11-16",
     "from_channel": "defcon_news",
     "message": "Revenue Collection System 1.0 SQL Injection / Remote Code Execution\nhttps://packetstormsecurity.com/files/169916/rcs10-sqlexec.py.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/169916/rcs10-sqlexec.py.txt"
 }
@@ -1167,6 +1181,7 @@
     "date": "2022-11-15",
     "from_channel": "sysadm_in_channel",
     "message": "/ SQLi and Access Flaws in Zendesk\n\nhttps://www.varonis.com/blog/zendesk-sql-injection-and-access-flaws",
+    "urls": [],
     "webpage_description": "Varonis Threat Labs found a SQL injection vulnerability and a logical access flaw in Zendesk Explore, the reporting and analytics service in the popular customer service solution, Zendesk.",
     "webpage_url": "https://www.varonis.com/blog/zendesk-sql-injection-and-access-flaws"
 }
@@ -1174,6 +1189,7 @@
     "date": "2022-11-15",
     "from_channel": "defcon_news",
     "message": "Simmeth System GmbH Supplier Manager LFI / SQL Injection / Bypass\nhttp://exploit.kitploit.com/2022/11/simmeth-system-gmbh-supplier-manager.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/11/simmeth-system-gmbh-supplier-manager.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1181,6 +1197,7 @@
     "date": "2022-11-15",
     "from_channel": "defcon_news",
     "message": "VMware NSX Manager XStream Unauthenticated Remote Code Execution\nhttp://exploit.kitploit.com/2022/11/vmware-nsx-manager-xstream.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/11/vmware-nsx-manager-xstream.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1188,6 +1205,7 @@
     "date": "2022-11-15",
     "from_channel": "defcon_news",
     "message": "Simmeth System GmbH Supplier Manager LFI / SQL Injection / Bypass\nhttps://packetstormsecurity.com/files/169862/SA-20221109-0.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/169862/SA-20221109-0.txt"
 }
@@ -1195,6 +1213,7 @@
     "date": "2022-11-15",
     "from_channel": "defcon_news",
     "message": "VMware NSX Manager XStream Unauthenticated Remote Code Execution\nhttps://packetstormsecurity.com/files/169859/vmware_nsxmgr_xstream_rce_cve_2021_39144.rb.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/169859/vmware_nsxmgr_xstream_rce_cve_2021_39144.rb.txt"
 }
@@ -1209,6 +1228,7 @@
     "date": "2022-11-15",
     "from_channel": "defcon_news",
     "message": "WonderCMS 3.1.3 Vulnerable to Authenticated Server-Side Request Forgery – CVE-2020-35313\nhttps://www.reddit.com/r/netsec/comments/yvpas4/wondercms_313_vulnerable_to_authenticated/",
+    "urls": [],
     "webpage_description": "Posted in r/netsec by u/SL7reach • 1 point and 0 comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/yvpas4/wondercms_313_vulnerable_to_authenticated/"
 }
@@ -1358,12 +1378,14 @@
     "date": "2022-11-12",
     "from_channel": "defcon_news",
     "message": "autoSSRF - Smart Context-Based SSRF Vulnerabiltiy Scanner\nhttp://www.kitploit.com/2022/11/autossrf-smart-context-based-ssrf.html",
+    "urls": [],
     "webpage_url": "https://www.kitploit.com/2022/11/autossrf-smart-context-based-ssrf.html"
 }
 {
     "date": "2022-11-11",
     "from_channel": "defcon_news",
     "message": "CVAT 2.0 Server-Side Request Forgery\nhttp://exploit.kitploit.com/2022/11/cvat-20-server-side-request-forgery.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/11/cvat-20-server-side-request-forgery.html"
 }
@@ -1371,6 +1393,7 @@
     "date": "2022-11-11",
     "from_channel": "defcon_news",
     "message": "CVAT 2.0 Server-Side Request Forgery\nhttps://packetstormsecurity.com/files/169814/cvat20-ssrf.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/169814/cvat20-ssrf.txt?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1386,6 +1409,12 @@
     "message": "XSS Hunter Express\n\nThe fastest way to set up XSS Hunter to test and find blind cross-site scripting vulnerabilities.\n\nhttps://github.com/mandatoryprogrammer/xsshunter-express",
     "webpage_description": "👨‍💻🛠️​ In this week's episode of Hacker Tools, we will take a look at XSSHunter and how to install it.\n\n00:00 Introduction\n00:15 What is XSSHunter?\n02:10 Setting up XSSHunter\n03:00 Setting up XSSHunter: DNS\n03:50 Setting up XSSHunter: Configuration\n05:50 Setting up XSSHunter: Running\n07:30 Practical example\n09:30 Conclusion\n\n---\n\n📰 Check out the accompanying blog post here: https://blog.intigriti.com/2021/08/18/hacker-tools-xsshunter/\n\n🧑‍💻 Sign up and start hacking right now - https://go.intigriti.com/register\n\n👾 Join our Discord - https://go.intigriti.com/discord\n\n🎙️ This show is hosted by https://twitter.com/PinkDraconian & https://twitter.com/intigriti\n\n👕 Do you want some Intigriti Swag? Check out https://swag.intigriti.com/",
     "webpage_url": "https://www.youtube.com/watch?v=HF05dr8xhso"
+}
+{
+    "date": "2022-11-10",
+    "from_channel": "Social_engineering",
+    "message": "​🔖 Подборка полезной информации и ресурсов. Часть 13.\n\n🖖🏻 Приветствую тебя user_name.\n\n•  13 часть подборок полезного материала, благодаря этой информации ты можешь прокачать свои навыки в нужной для тебя категории и получить полезные знания — бесплатно. Обязательно ознакомься с каждой частью, в любой из ссылок представленных ниже, ты можешь найти ТЫСЯЧИ полезных ресурсов, инструментов, книг, курсов, статей и т.д.\n\n•  Часть 1  •  Часть 2  •  Часть 3  •  Часть 4  •  Часть 5  •  Часть 6  •  Часть 7  •  Часть 8  •  Часть 9  •  Часть 10  •  Часть 11  •  Часть 12.\n\n•   Полезный материал для изучения Reverse Engineering и анализа вредоносных программ. Большинство репо уже давно не обновлялись, однако можно найти полезную информацию для обучения. Особенно будет полезно новичкам:\n-  https://github.com/ytisf/theZoo\n-  https://github.com/secrary/SSMA\n-  https://github.com/merces/aleph\n-  https://github.com/nheijmans/malzoo\n-  https://github.com/topics/malware-analys\n-  https://github.com/mentebinaria/retoolkit\n-  https://github.com/topics/reverse-engineering\n-  https://github.com/arxlan786/Malware-Analysis\n-  https://github.com/SpiderLabs/malware-analysis\n-  https://github.com/wtsxDev/reverse-engineering\n-  https://github.com/tylerha97/awesome-reversing\n-  https://github.com/NationalSecurityAgency/ghidra\n-  https://github.com/rshipp/awesome-malware-analysis\n-  https://github.com/hax0rtahm1d/Reverse-Engineering\n-  https://github.com/mytechnotalent/Reverse-Engineering\n-  https://github.com/0xZ0F/Z0FCourse_ReverseEngineering\n-  https://github.com/mikesiko/PracticalMalwareAnalysis-Labs\n-  https://github.com/Apress/malware-analysis-detection-engineering\n\n•   Огромная коллекция различного материала на тему усиления безопасности. От подробных гайдов до необходимых инструментов и бенчмарков:\nhttps://github.com/decalage2/awesome-security-hardening\n\n•   Advanced SQL Injection Cheatsheet. Шпаргалка по разным типам SQL-инъекций, которая содержит информацию способах обхода WAF, поиске точек входа, обнаружения уязвимостей и многое другое:\nhttps://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet\n\n•   Список разнообразных полезных сервисов для обеспечения приватности и безопасности в сети:\nhttps://github.com/Igglybuff/awesome-piracy\n\n•   Awesome Bluetooth Security. Данный репо содержит информацию по безопасности Bluetooth BR/EDR/LE или Mesh. Очень много полезного материала:\nhttps://github.com/engn33r/awesome-bluetooth-security\n\n•   Bug Bounty Tools. Коллекция инструментов для багхантеров, разбитая по категориям:\nhttps://github.com/vavkamil/awesome-bugbounty-tools\n\n•   https://github.com/trickest/cve, тут собраны почти все CVE, начиная с 1999 года, присутствует удобная сортировка (по годам) и есть ежедневные обновления. \n\n@S.E. #ИБ #Подборка",
+    "webpage_url": "https://telegra.ph/file/cb7bd52c3ac646dcd3a14.jpg"
 }
 {
     "date": "2022-11-10",
@@ -1492,6 +1521,7 @@
     "date": "2022-11-09",
     "from_channel": "defcon_news",
     "message": "RDPHijack-BOF - Cobalt Strike Beacon Object File (BOF) That Uses WinStationConnect API To Perform Local/Remote RDP Session Hijacking\nhttp://www.kitploit.com/2022/11/rdphijack-bof-cobalt-strike-beacon.html",
+    "urls": [],
     "webpage_url": "https://www.kitploit.com/2022/11/rdphijack-bof-cobalt-strike-beacon.html"
 }
 {
@@ -1594,6 +1624,7 @@
     "date": "2022-11-08",
     "from_channel": "defcon_news",
     "message": "XVIDEOS: Self-XSS on Suggest Tag dialog box\nhttps://vulners.com/hackerone/H1:1761505?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
     "webpage_description": "Summary: Stored cross-site scripting  arises when an application receives data from an untrusted source and includes that data within its later HTTP responses in an unsafe way. vulnerable URL : https://www.xvideos.com/video57921571/friend_b._if_d. Vulnerability Description : Application have a add tag functionality when i put java script like alert(1) after that stored XSS vulnerability arise. Step to Reproduce :  Step 1 : Go to following URL https://www.xvideos.com/video53284603/b. Note : you don't need an account to do this Step 2 : There is a add tag functionality insert the following information : alert(1) Step 3 : Click the add button  Step 4 : you will see a java script popup box showing your domain Check the attached Video POC to see the actual XSS vulnerability Impact If an attacker can control a script that is executed in the victim's browser, then they can typically fully compromise that user. When the victim accesses the page containing the JavaScript payload, their browser will make a HTTP request…",
     "webpage_url": "https://vulners.com/hackerone/H1:1761505?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -1610,7 +1641,8 @@
 {
     "date": "2022-11-08",
     "from_channel": "freedomf0x",
-    "message": "We have finished aggregating malware related papers from the #Russian #cyber #security forum #XSS. It is 118 papers in total\n\nNOTE: Papers which contained broken images, or papers which resembled how-to guides were not pulled.\n\nCheck it out here: https://www.vx-underground.org/russian.html"
+    "message": "We have finished aggregating malware related papers from the #Russian #cyber #security forum #XSS. It is 118 papers in total\n\nNOTE: Papers which contained broken images, or papers which resembled how-to guides were not pulled.\n\nCheck it out here: https://www.vx-underground.org/russian.html",
+    "urls": []
 }
 {
     "date": "2022-11-08",
@@ -1620,7 +1652,8 @@
 {
     "date": "2022-11-08",
     "from_channel": "freedomf0x",
-    "message": "We have finished aggregating malware related papers from the Russian cyber security forum XSS. It is 118 papers in total\n\nNOTE: Papers which contained broken images, or papers which resembled how-to guides were not pulled.\n\nCheck it out here: https://www.vx-underground.org/russian.html"
+    "message": "We have finished aggregating malware related papers from the Russian cyber security forum XSS. It is 118 papers in total\n\nNOTE: Papers which contained broken images, or papers which resembled how-to guides were not pulled.\n\nCheck it out here: https://www.vx-underground.org/russian.html",
+    "urls": []
 }
 {
     "date": "2022-11-08",
@@ -1632,7 +1665,8 @@
 {
     "date": "2022-11-08",
     "from_channel": "aptreports",
-    "message": "XSS-коллекция\nhttps://www.vx-underground.org/russian.html"
+    "message": "XSS-коллекция\nhttps://www.vx-underground.org/russian.html",
+    "urls": []
 }
 {
     "date": "2022-11-07",
@@ -1694,11 +1728,12 @@
     "date": "2022-11-06",
     "from_channel": "defcon_news",
     "message": "Session hijacking through download\nhttps://www.reddit.com/r/Malware/comments/yo5asi/session_hijacking_through_download/",
+    "urls": [],
     "webpage_description": "Yesterday I downloaded a torrent and it came with a nice malware, the next day they tried to steal my facebook and google account but they didn't...",
     "webpage_url": "https://www.reddit.com/r/Malware/comments/yo5asi/session_hijacking_through_download/"
 }
 {
-    "date": "2022-11-06",
+    "date": "2022-11-05",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-3869 ‼\n\nCode Injection in GitHub repository froxlor/froxlor prior to 0.10.38.2.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -1716,6 +1751,7 @@
     "date": "2022-11-04",
     "from_channel": "defcon_news",
     "message": "Microsoft Warns on Zero-Day Spike as Nation-State Groups Shift Tactics\nhttps://www.darkreading.com/attacks-breaches/microsoft-zero-day-nation-state-groups-tactics",
+    "urls": [],
     "webpage_description": "The software giant also recorded an increase in attacks on IT services companies as state-backed threat actors have adapted to better enterprise defenses and cast a wider net, Microsoft says.",
     "webpage_url": "https://www.darkreading.com/attacks-breaches/microsoft-zero-day-nation-state-groups-tactics"
 }
@@ -1743,6 +1779,7 @@
     "date": "2022-11-04",
     "from_channel": "defcon_news",
     "message": "Senayan Library Management System 9.5.0 SQL Injection\nhttp://exploit.kitploit.com/2022/11/senayan-library-management-system-950.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/11/senayan-library-management-system-950.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1750,6 +1787,7 @@
     "date": "2022-11-04",
     "from_channel": "defcon_news",
     "message": "Senayan Library Management System 9.5.0 SQL Injection\nhttps://packetstormsecurity.com/files/169720/slms950-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/169720/slms950-sql.txt"
 }
@@ -1768,6 +1806,7 @@
     "date": "2022-11-04",
     "from_channel": "defcon_news",
     "message": "Reverse Branch Target Buffer Poisoning - new ASLR bypass technique using CPU vulnerabilities [PDF]\nhttps://www.reddit.com/r/netsec/comments/yls06p/reverse_branch_target_buffer_poisoning_new_aslr/",
+    "urls": [],
     "webpage_description": "Posted in r/netsec by u/Gallus • 3 points and 0 comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/yls06p/reverse_branch_target_buffer_poisoning_new_aslr/"
 }
@@ -1812,7 +1851,7 @@
     "message": "‼ CVE-2022-42745 ‼\n\nCandidATS version 3.0.0 allows an external attacker to read arbitrary files from the server. This is possible because the application is vulnerable to XXE.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2022-11-04",
+    "date": "2022-11-03",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-43372 ‼\n\nEmlog Pro v1.7.1 was discovered to contain a reflected cross-site scripting (XSS) vulnerability at /admin/store.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -1877,6 +1916,7 @@
     "date": "2022-11-02",
     "from_channel": "sysadm_in_channel",
     "message": "/ CosMiss: Azure Cosmos DB Notebook Remote Code Execution Vulnerability\n\nhttps://orca.security/resources/blog/cosmiss-vulnerability-azure-cosmos-db/",
+    "urls": [],
     "webpage_description": "The Orca Research Pod has discovered CosMiss, a vulnerability in Microsoft Azure Cosmos DB where authentication checks were missing from Cosmos DB Notebooks.",
     "webpage_url": "https://orca.security/resources/blog/cosmiss-vulnerability-azure-cosmos-db/"
 }
@@ -2008,7 +2048,8 @@
 {
     "date": "2022-11-01",
     "from_channel": "defcon_news",
-    "message": "Critical RCE Vulnerability Reported in ConnectWise Server Backup Solution\nhttps://thehackernews.com/2022/11/critical-rce-vulnerability-reported-in.html"
+    "message": "Critical RCE Vulnerability Reported in ConnectWise Server Backup Solution\nhttps://thehackernews.com/2022/11/critical-rce-vulnerability-reported-in.html",
+    "urls": []
 }
 {
     "date": "2022-11-01",

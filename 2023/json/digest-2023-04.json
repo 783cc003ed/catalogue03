@@ -7,6 +7,7 @@
     "date": "2023-04-29",
     "from_channel": "defcon_news",
     "message": "Apache Superset Shipped With Unpatched RCE Vulnerability\nhttps://latesthackingnews.com/2023/04/29/apache-superset-shipped-with-unpatched-rce-vulnerability/",
+    "urls": [],
     "webpage_description": "Researchers spotted a severe unpatched remote code execution vulnerability shipped by default in Apache Superset. The vulnerability existed due to a dangerous default configuration, making thousands of Superset instances open to the public. Apache Superset Has",
     "webpage_url": "https://latesthackingnews.com/2023/04/29/apache-superset-shipped-with-unpatched-rce-vulnerability/"
 }
@@ -97,6 +98,11 @@
 }
 {
     "date": "2023-04-28",
+    "from_channel": "elliot_cybersec",
+    "message": "☁️ Бот для отслеживания новых уязвимостей | Привет, друг. На связи Эллиот\n\nИспользуйте этого бота для мониторинга новых CVE, содержащих определенные ключевые слова, и отправки оповещений в Slack и/или Telegram.\n\nМожно быстро отслеживать появление новых XSS, RCE и тд, писать кастомные шаблоны для Nuclei и прогонять их по своему списку хостов. \n\n⏺ Ссылка на GitHub\n\n#CVE"
+}
+{
+    "date": "2023-04-28",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-2368 ‼\n\nA vulnerability was found in SourceCodester Faculty Evaluation System 1.0. It has been declared as critical. This vulnerability affects unknown code of the file index.php?page=manage_questionnaire. The manipulation of the argument id leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-227644.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -124,6 +130,7 @@
     "date": "2023-04-28",
     "from_channel": "defcon_news",
     "message": "Piwigo 13.5.0 SQL Injection\nhttps://packetstormsecurity.com/files/172059/TSI-ADV032023.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/172059/TSI-ADV032023.txt"
 }
@@ -150,7 +157,8 @@
 {
     "date": "2023-04-28",
     "from_channel": "proxy_bar",
-    "message": "CVE-2023-29489\ncPanel\n\n#cPanel #xss"
+    "message": "CVE-2023-29489\ncPanel\n\n#cPanel #xss",
+    "urls": []
 }
 {
     "date": "2023-04-28",
@@ -171,6 +179,7 @@
     "date": "2023-04-27",
     "from_channel": "defcon_news",
     "message": "ChurchCRM 4.5.3 SQL Injection\nhttps://packetstormsecurity.com/files/172047/churchcrm453event-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/172047/churchcrm453event-sql.txt"
 }
@@ -266,6 +275,12 @@
 }
 {
     "date": "2023-04-27",
+    "from_channel": "physics_lib",
+    "message": "📘 Безопасность ASP. Net Core [2023] Кристиан Венц\n\nПриложения ASP.NET Core подвержены риску атак. Существуют конкретные меры, которые помогут избежать взлома. В книге показаны такие методы защиты веб-приложений ASP.NET Core, как безопасное взаимодействие с браузером, распознавание и предотвращение распространенных угроз, развертывание уникальных API безопасности этого фреймворка. Приводятся способы написания безопасного кода и примеры с аннотациями, а также полное описание встроенных инструментов безопасности ASP.NET Core. Рассматриваются реальные нарушения в системе безопасности, включая мошеннические расширения Firefox и кражу паролей в Adobe. Для опытных веб-разработчиков ASP.NET Core.\n\n📕 ASP.NET Core Security [2022] Christian Wenz\n\nYour ASP.NET Core applications are under attack now. Are you ready? Th ere are specific countermeasures you can apply to keep your company out of the headlines. This book demonstrates exactly how to secure ASP.NET Core web applications, including safe browser interactions, recognizing common threats, and deploying the framework’s unique security APIs.\nASP.NET Core Security is a realistic guide to securing your web applications. It starts on the dark side, exploring case studies of cross-site scripting, SQL injection, and other weapons used by hackers. As you go, you’ll learn how to implement countermeasures, activate browser security features, minimize attack damage, and securely store application secrets. Detailed ASP.NET Core code samples in C# show you how each technique looks in practice.",
+    "urls": []
+}
+{
+    "date": "2023-04-27",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-22901 ‼\n\nChangingTec MOTP system has a path traversal vulnerability. A remote attacker with administratorâ€™s privilege can exploit this vulnerability to access arbitrary system files.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -328,6 +343,7 @@
     "date": "2023-04-26",
     "from_channel": "defcon_news",
     "message": "Reddit: Blind SSRF with Escalation possibilities in matrix preview_link API\nhttps://vulners.com/hackerone/H1:1960765?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
     "webpage_description": "Summary: Reddit' new chat is based on Matrix software which has preview_link functionality which doesn't filter the URL before sending the request Impact: Attacker can enumerate services by grabbing og:title and port scanning, also possible RCE...",
     "webpage_url": "https://vulners.com/hackerone/H1:1960765"
 }
@@ -355,6 +371,7 @@
     "date": "2023-04-26",
     "from_channel": "defcon_news",
     "message": "PHP Restaurants 1.0 SQL Injection / Cross Site Scripting\nhttps://packetstormsecurity.com/files/172040/phprestaurants10-sqlxss.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/172040/phprestaurants10-sqlxss.txt"
 }
@@ -362,8 +379,15 @@
     "date": "2023-04-26",
     "from_channel": "defcon_news",
     "message": "Online Book Store 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/172032/obs10process-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/172032/obs10process-sql.txt"
+}
+{
+    "date": "2023-04-26",
+    "from_channel": "elliot_cybersec",
+    "message": "☁️ Адреса облачных ресурсов, для обращения через SSRF | Привет, друг. На связи Эллиот\n\nКогда вы нашли SSRF, то следующий ваш шаг, это попытаться получить доступ к внутренним ресурсам и найти там что-то ценное.\n\nИ если для AWS довольно много примеров и статей, то что делать с другими облачными ресурсами? Ниже приведён список интересных URL адресов для Oracle Cloud, Alibaba и Digital Ocean.\n\nOracle Cloud:\n\nhttp://192.0.0.192/latest/\nhttp://192.0.0.192/latest/user-data/\nhttp://192.0.0.192/latest/meta-data/\nhttp://192.0.0.192/latest/attributes/\n\nAlibaba:\n\nhttp://100.100.100.200/latest/meta-data/\nhttp://100.100.100.200/latest/meta-data/instance-id\nhttp://100.100.100.200/latest/meta-data/image-id\n\nDigital Ocean:\n\nhttp://169.254.169.254/metadata/v1.json\nhttp://169.254.169.254/metadata/v1/ \nhttp://169.254.169.254/metadata/v1/id\nhttp://169.254.169.254/metadata/v1/user-data\nhttp://169.254.169.254/metadata/v1/hostname\nhttp://169.254.169.254/metadata/v1/region\nhttp://169.254.169.254/metadata/v1/interfaces/public/0/ipv6/address\n\n#Web #SSRF #Cloud",
+    "urls": []
 }
 {
     "date": "2023-04-26",
@@ -406,7 +430,7 @@
     "message": "‼ CVE-2023-25461 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in namithjawahar Wp-Insert plugin <=Â 2.5.0 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2023-04-26",
+    "date": "2023-04-25",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-23866 ‼\n\nAuth. (contributor+) Stored Cross-Site Scripting (XSS) vulnerability in Carlos Moreira Interactive Geo Maps plugin <=Â 1.5.8 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -526,9 +550,18 @@
     "message": "‼ CVE-2023-30417 ‼\n\nA cross-site scripting (XSS) vulnerability in Pear-Admin-Boot up to v2.0.2 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Title of a private message.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
+    "date": "2023-04-21",
+    "from_channel": "it_secur",
+    "message": "A curated list of bugbounty writeups (Bug type wise)\n\nhttps://github.com/devanshbatham/Awesome-Bugbounty-Writeups#cross-site-scripting-xss",
+    "urls": [],
+    "webpage_description": "A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference - devanshbatham/Awesome-Bugbounty-Writeups",
+    "webpage_url": "https://github.com/devanshbatham/Awesome-Bugbounty-Writeups"
+}
+{
     "date": "2023-04-13",
     "from_channel": "aptreports",
     "message": "#ParsedReport #CompletenessLow\n12-04-2023\n\nDirty Vanity: A New Approach to Code Injection & EDR Bypass\n\nhttps://www.deepinstinct.com/blog/dirty-vanity-a-new-approach-to-code-injection-edr-bypass\n\nReport completeness: Low\n\nThreats:\nDirty_vanity_technique\nCredential_dumping_technique\nCode_cave_technique\nHook\n\nIOCs:\nFile: 6\nPath: 1\n\nSofts:\nunix, windows subsystem for linux\n\nFunctions:\nCreateInfo, NtForkUserProcess\n\nWin API:\nRtlCreateProcessReflection, RtlCloneUserProcess, NtCreateUserProcess, GetCurrentProcess, NtCreateUserProcessFunc, NtCreateProcessEx, NtCreateProcess, MmInitializeProcessAddressSpace, WriteProcessMemory, NtMapViewOfSection, have more...\n\nLinks:\nhttps://github.com/hasherezade/pe-sieve/blob/master/utils/process\\_reflection.cpp\nhttps://gist.github.com/GeneralTesler/68903f7eb00f047d32a4d6c55da5a05c\nhttps://gist.github.com/juntalis/4366916\nhttps://gist.github.com/Cr4sh/126d844c28a7fbfd25c6\nhttps://github.com/rainerzufalldererste/windows\\_x64\\_shellcode\\_template\nhttps://github.com/deepinstinct/Dirty-Vanity",
+    "urls": [],
     "webpage_description": "Dirty Vanity is a new code-injection technique that abuses forking, a lesser-known mechanism that exists in Windows operating systems. In this post, we will dive deep into forking, explore its legitimate use, and show how it can be manipulated into blind-sighting EDRs by injecting malicious code.",
     "webpage_url": "https://www.deepinstinct.com/blog/dirty-vanity-a-new-approach-to-code-injection-edr-bypass"
 }
@@ -567,6 +600,7 @@
     "date": "2023-04-12",
     "from_channel": "defcon_news",
     "message": "TikTok: Unrestricted File Upload on https://partner.tiktokshop.com/wsos_v2/oec_partner/upload\nhttps://vulners.com/hackerone/H1:1890284?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
     "webpage_description": "An unrestricted file upload vulnerability was found on a partner.tiktokshop.com endpoint, where if the content-type in the header was changed, any extension could be uploaded. We thank @h4x0r_dz for reporting this to our...",
     "webpage_url": "https://vulners.com/hackerone/H1:1890284?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -822,12 +856,14 @@
 {
     "date": "2023-04-11",
     "from_channel": "freedomf0x",
-    "message": "GodPotato. Windows LPE:\n* Windows Server 2012 - Windows Server 2022 ;\n* Windows8 - Windows 11\n\nhttps://github.com/BeichenDream/GodPotato\n\n#poc #lpe"
+    "message": "GodPotato. Windows LPE:\n* Windows Server 2012 - Windows Server 2022 ;\n* Windows8 - Windows 11\n\nhttps://github.com/BeichenDream/GodPotato\n\n#poc #lpe",
+    "urls": []
 }
 {
     "date": "2023-04-11",
     "from_channel": "RalfHackerChannel",
     "message": "В семействе картошек пополнение - GodPotato. Windows LPE:\n* Windows Server 2012 - Windows Server 2022 ;\n* Windows8 - Windows 11\n\nhttps://github.com/BeichenDream/GodPotato\n\n#git #soft #lpe",
+    "urls": [],
     "webpage_description": "Contribute to BeichenDream/GodPotato development by creating an account on GitHub.",
     "webpage_url": "https://github.com/BeichenDream/GodPotato"
 }
@@ -885,6 +921,7 @@
     "date": "2023-04-10",
     "from_channel": "defcon_news",
     "message": "ChurchCRM 4.5.1 SQL Injection\nhttps://packetstormsecurity.com/files/171805/churchcrm451-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/171805/churchcrm451-sql.txt"
 }
@@ -892,6 +929,7 @@
     "date": "2023-04-10",
     "from_channel": "defcon_news",
     "message": "NotrinosERP 0.7 SQL Injection\nhttps://packetstormsecurity.com/files/171804/notrinoserp07-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/171804/notrinoserp07-sql.txt"
 }
@@ -899,6 +937,7 @@
     "date": "2023-04-10",
     "from_channel": "defcon_news",
     "message": "Medicine Tracker System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/171780/mts10-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/171780/mts10-sql.txt"
 }
@@ -906,6 +945,7 @@
     "date": "2023-04-10",
     "from_channel": "defcon_news",
     "message": "Restaurant Management System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/171776/rms10-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/171776/rms10-sql.txt"
 }
@@ -958,6 +998,11 @@
     "date": "2023-04-10",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-27603 ‼\n\nIn Apache Linkis <=1.3.1, due to the Manager module engineConn material upload does not check the zip path,Â This is a Zip Slip issue, which will lead to aÂ potential RCE vulnerability. We recommend users upgrade the version of Linkis to version 1.3.2.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-04-09",
+    "from_channel": "elliot_cybersec",
+    "message": "⌨️ Практическая платформа для новичков Bug bounty | Привет, друг. На связи Эллиот.\n\nБесплатный набор практических заданий от TheXSSRat, которые будут полезны новичкам и помогут вам проверить свои навыки в поиске и эксплуатации распространённых в Bug Bounty уязвимостей, таких как IDOR, XSS, CSRF и логические уязвимости.\n\nАвтор также обещает пополнения текущего списка заданий.\n\n⏺ Ссылка на платформу\n\n#Web"
 }
 {
     "date": "2023-04-09",
@@ -1067,7 +1112,7 @@
     "message": "‼ CVE-2023-23799 ‼\n\nAuth. (admin+) Stored Cross-site Scripting (XSS) vulnerability in Leonardo Giacone Easy Panorama plugin <= 1.1.4 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2023-04-10",
+    "date": "2023-04-07",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2023-29388 ‼\n\nUnauth. Reflected Cross-Site Scripting (XSS) vulnerability in impleCode Product Catalog Simple plugin <= 1.6.17 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -1265,6 +1310,7 @@
     "date": "2023-04-06",
     "from_channel": "defcon_news",
     "message": "Mitel MiCollab AWV 8.1.2.4 / 9.1.3 Directory Traversal / LFI\nhttps://packetstormsecurity.com/files/171751/mma913-traversallfi.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/171751/mma913-traversallfi.txt"
 }
@@ -1272,6 +1318,7 @@
     "date": "2023-04-06",
     "from_channel": "defcon_news",
     "message": "Intern Record System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/171740/internrs10-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/171740/internrs10-sql.txt"
 }
@@ -1279,6 +1326,7 @@
     "date": "2023-04-06",
     "from_channel": "defcon_news",
     "message": "Simple Task Managing System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/171739/stms10-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/171739/stms10-sql.txt"
 }
@@ -1286,6 +1334,7 @@
     "date": "2023-04-06",
     "from_channel": "defcon_news",
     "message": "Provide Server 14.4 XSS / Cross Site Request Forgery / Code Execution\nhttps://packetstormsecurity.com/files/171734/provideserver144-xssxsrfexec.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/171734/provideserver144-xssxsrfexec.txt"
 }
@@ -1293,6 +1342,7 @@
     "date": "2023-04-06",
     "from_channel": "defcon_news",
     "message": "itech TrainSmart r1044 SQL Injection\nhttps://packetstormsecurity.com/files/171731/trainsmart1044-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/171731/trainsmart1044-sql.txt"
 }
@@ -1357,7 +1407,7 @@
     "message": "‼ CVE-2023-23981 ‼\n\nAuth. (admin+) Stored Cross-Site Scripting (XSS) vulnerability in QuantumCloud Conversational Forms for ChatBot plugin <= 1.1.6 versions.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2023-04-07",
+    "date": "2023-04-06",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-31889 ‼\n\nCross Site Scripting (XSS) vulnerability in audit/templates/auditlogs.tmpl.php in osTicket osTicket-plugins before commit a7842d494889fd5533d13deb3c6a7789768795ae.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -1504,24 +1554,33 @@
 {
     "date": "2023-04-05",
     "from_channel": "Leakers_squad",
-    "message": "☠️ About Penetration Testing ☠️\n\nPenetration testing is also known as pen testing or ethical hacking. It describes the intentional launching of simulated cyberattacks that seek out exploitable vulnerabilities in computer systems, networks, websites, and applications\n\n❤️‍🔥Following are the important modules of pentesting −\n⬛️Black Box Penetration Testing\n⬜️White Box Penetration Testing\n🔲Grey Box Penetration Testing\n❤️‍🔥Types \n🍎External Network Penetration Testing. \n🍎Internal Network Penetration Testing.\n🍎Social Engineering Testing. \n🍎Physical Penetration Testing. \n🍎Wireless Penetration Testing. \n🍎Application Penetration Testing.\n\n❤️‍🔥Basic Course \n🔗Link : https://bit.ly/3LywtvX\n(click on first website)\n\nADDED✔️\n❤️‍🔥Pentest Handbook: SQL Injection To Shell Uploading \n🟢Pentesting Lab Preparation \n📋Pentesting Tools \n\nContact for posting these content in your channel @Mr_Neophyte\n\nShare with Your Friends and Team✔️"
+    "message": "☠️ About Penetration Testing ☠️\n\nPenetration testing is also known as pen testing or ethical hacking. It describes the intentional launching of simulated cyberattacks that seek out exploitable vulnerabilities in computer systems, networks, websites, and applications\n\n❤️‍🔥Following are the important modules of pentesting −\n⬛️Black Box Penetration Testing\n⬜️White Box Penetration Testing\n🔲Grey Box Penetration Testing\n❤️‍🔥Types \n🍎External Network Penetration Testing. \n🍎Internal Network Penetration Testing.\n🍎Social Engineering Testing. \n🍎Physical Penetration Testing. \n🍎Wireless Penetration Testing. \n🍎Application Penetration Testing.\n\n❤️‍🔥Basic Course \n🔗Link : https://bit.ly/3LywtvX\n(click on first website)\n\nADDED✔️\n❤️‍🔥Pentest Handbook: SQL Injection To Shell Uploading \n🟢Pentesting Lab Preparation \n📋Pentesting Tools \n\nContact for posting these content in your channel @Mr_Neophyte\n\nShare with Your Friends and Team✔️",
+    "urls": []
 }
 {
     "date": "2023-04-04",
     "from_channel": "aptreports",
-    "message": "#ParsedReport #ChatGPT #Translated\nАвтотекст: (RSTReportsAnalyser + ChatGPT + Google Translate|DeepL)\n\n------\nОсновная идея: Rilide - это вредоносное расширение для браузера, замаскированное под легитимное расширение Google Drive, способное выполнять такие вредоносные действия, как мониторинг истории просмотров, создание скриншотов и кража средств с различных криптовалютных бирж. Он был распространен с помощью двух кампаний и является ярким примером растущей сложности вредоносных расширений для браузеров.\n-----\n\nКомпания Trustwave SpiderLabs недавно обнаружила вредоносное расширение для браузера под названием Rilide, которое нацелено на браузеры на базе Chromium, такие как Google Chrome, Microsoft Edge, Brave и Opera. Rilide маскируется под легитимное расширение Google Drive и способен выполнять различные вредоносные действия, включая мониторинг истории просмотров, создание скриншотов и кражу средств с различных криптовалютных бирж. Вредоносная программа также использует поддельные диалоги, чтобы обманом заставить пользователей раскрыть свои коды двухфакторной аутентификации (2FA).\n\nRilide распространялся посредством двух кампаний. Первая представляла собой вредоносный файл Microsoft Publisher, который был частью Ekipa RAT, троянца удаленного доступа (RAT). Ekipa RAT часто продается на подпольных форумах, а Microsoft устранила недостаток безопасности в феврале 2023 года. Вторая кампания использовала кражу Aurora, которая представляет собой вредоносное ПО как услуга (MaaS), доступное на русскоязычных подпольных форумах. Aurora предназначен для получения данных из нескольких веб-браузеров, криптовалютных кошельков и локальных систем. Aurora также распространялась через кампании, выдававшие себя за законные программы установки Team Viewer и драйверов NVIDIA.\n\nПолезная нагрузка сохранялась в каталоге %temp% с именем файла .exe, состоящим из 10 алфавитно-цифровых символов, и выполнялась с помощью команды start-process PowerShell. Полезная нагрузка была упакована с помощью VMProtect, коммерческого упаковщика, и содержала закодированный в base64 блоб данных, хранящий URL-адрес загрузчика Rilide на основе Rust. Этот загрузчик отвечал за установку расширения Rilide для браузеров на базе Chromium.\n\nRilide использует несколько встроенных функций хрома для проведения XSS-атаки и загрузки внешних ресурсов. Он может перехватывать URL-адреса из текущего домена, захватывать и перехватывать скриншоты активных вкладок, а также заменять подтверждения электронной почты запросами авторизации с устройства, когда пользователь заходит в почтовый ящик через тот же веб-браузер. Более того, он поддерживает функцию автоматического вывода средств, которая обманом заставляет пользователя предоставить код авторизации.\n\nПохожие расширения были обнаружены в объявлениях о продаже, а исходный код был недавно утечен на подпольном форуме из-за спора об оплате. Обращение к домену командно-административного управления ashgrrwt.click привело к дополнительным загрузчикам Rilide, связанным с пользователем GitHub gulantin.\n\nRilide является ярким примером растущей сложности вредоносных расширений браузера и потенциальной опасности, которую они представляют. Несмотря на то, что предстоящее введение в действие манифеста v3 может усложнить деятельность угрожающих субъектов, важно сохранять бдительность и скептицизм при получении незапрашиваемых электронных писем или сообщений, а также оставаться в курсе последних угроз кибербезопасности и лучших практик."
+    "message": "#ParsedReport #ChatGPT #Translated\nАвтотекст: (RSTReportsAnalyser + ChatGPT + Google Translate|DeepL)\n\n------\nОсновная идея: Rilide - это вредоносное расширение для браузера, замаскированное под легитимное расширение Google Drive, способное выполнять такие вредоносные действия, как мониторинг истории просмотров, создание скриншотов и кража средств с различных криптовалютных бирж. Он был распространен с помощью двух кампаний и является ярким примером растущей сложности вредоносных расширений для браузеров.\n-----\n\nКомпания Trustwave SpiderLabs недавно обнаружила вредоносное расширение для браузера под названием Rilide, которое нацелено на браузеры на базе Chromium, такие как Google Chrome, Microsoft Edge, Brave и Opera. Rilide маскируется под легитимное расширение Google Drive и способен выполнять различные вредоносные действия, включая мониторинг истории просмотров, создание скриншотов и кражу средств с различных криптовалютных бирж. Вредоносная программа также использует поддельные диалоги, чтобы обманом заставить пользователей раскрыть свои коды двухфакторной аутентификации (2FA).\n\nRilide распространялся посредством двух кампаний. Первая представляла собой вредоносный файл Microsoft Publisher, который был частью Ekipa RAT, троянца удаленного доступа (RAT). Ekipa RAT часто продается на подпольных форумах, а Microsoft устранила недостаток безопасности в феврале 2023 года. Вторая кампания использовала кражу Aurora, которая представляет собой вредоносное ПО как услуга (MaaS), доступное на русскоязычных подпольных форумах. Aurora предназначен для получения данных из нескольких веб-браузеров, криптовалютных кошельков и локальных систем. Aurora также распространялась через кампании, выдававшие себя за законные программы установки Team Viewer и драйверов NVIDIA.\n\nПолезная нагрузка сохранялась в каталоге %temp% с именем файла .exe, состоящим из 10 алфавитно-цифровых символов, и выполнялась с помощью команды start-process PowerShell. Полезная нагрузка была упакована с помощью VMProtect, коммерческого упаковщика, и содержала закодированный в base64 блоб данных, хранящий URL-адрес загрузчика Rilide на основе Rust. Этот загрузчик отвечал за установку расширения Rilide для браузеров на базе Chromium.\n\nRilide использует несколько встроенных функций хрома для проведения XSS-атаки и загрузки внешних ресурсов. Он может перехватывать URL-адреса из текущего домена, захватывать и перехватывать скриншоты активных вкладок, а также заменять подтверждения электронной почты запросами авторизации с устройства, когда пользователь заходит в почтовый ящик через тот же веб-браузер. Более того, он поддерживает функцию автоматического вывода средств, которая обманом заставляет пользователя предоставить код авторизации.\n\nПохожие расширения были обнаружены в объявлениях о продаже, а исходный код был недавно утечен на подпольном форуме из-за спора об оплате. Обращение к домену командно-административного управления ashgrrwt.click привело к дополнительным загрузчикам Rilide, связанным с пользователем GitHub gulantin.\n\nRilide является ярким примером растущей сложности вредоносных расширений браузера и потенциальной опасности, которую они представляют. Несмотря на то, что предстоящее введение в действие манифеста v3 может усложнить деятельность угрожающих субъектов, важно сохранять бдительность и скептицизм при получении незапрашиваемых электронных писем или сообщений, а также оставаться в курсе последних угроз кибербезопасности и лучших практик.",
+    "urls": []
 }
 {
     "date": "2023-04-04",
     "from_channel": "defcon_news",
     "message": "Remote Code Execution Vulnerability in Azure Pipelines Can Lead To Software Supply Chain Attack\nhttps://www.reddit.com/r/netsec/comments/12bqyl4/remote_code_execution_vulnerability_in_azure/",
+    "urls": [],
     "webpage_description": "Posted by u/roy_6472 - No votes and no comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/12bqyl4/remote_code_execution_vulnerability_in_azure/"
 }
 {
-    "date": "2023-04-06",
+    "date": "2023-04-04",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2020-20914 ‼\n\nSQL Injection vulnerability found in San Luan PublicCMS v.4.0 allows a remote attacker to execute arbitrary code via the sql parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
+}
+{
+    "date": "2023-04-04",
+    "from_channel": "elliot_cybersec",
+    "message": "🗳 Как получить Stored XSS при загрузке файлов в Apache | Привет, друг. На связи Эллиот.\n\nApache httpd не возвращает автоматически Content-type для файлов без имени (но с расширением) и для файлов, содержащих только точки в качестве имени. Например, test.jpg вернет Content-Type: image/jpeg, а ...jpg — нет.\n\nApache httpd использует mod_mime по умолчанию, а поведение mod_mime по умолчанию заключается в том, чтобы не устанавливать тип содержимого для файлов, чьи имена состоят из точек и расширения, например \"...jpg\".\n\nПоскольку \"...jpg\" также проходит тривиальную проверку \"заканчивается на .jpg\", мы можем использовать это в формах загрузки изображения. Вредоносный HTML код может быть загружен в файл с именем \"...jpg\", который затем будет возвращен без типа содержимого. Если Content-Type Sniffing явно не отключен (а по умолчанию это не так), то это приведет нас к хранимому XSS.\n\nВендор же говорит, что это ожидаемое поведение для mod_mime...\n\n#Web #XSS #Apache",
+    "urls": []
 }
 {
     "date": "2023-04-04",
@@ -1577,6 +1636,7 @@
     "date": "2023-04-04",
     "from_channel": "defcon_news",
     "message": "Super FabriXss: an RCE vulnerability in Azure Service Fabric Explorer\nhttps://www.malwarebytes.com/blog/news/2023/04/super-fabrixss-an-rce-vulnerability-in-azure-service-fabric-explorer",
+    "urls": [],
     "webpage_description": "Researchers disclosed how they found a remote code execution vulnerability in Azure Service Fabric Explorer.",
     "webpage_url": "https://www.malwarebytes.com/blog/news/2023/04/super-fabrixss-an-rce-vulnerability-in-azure-service-fabric-explorer?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1594,6 +1654,7 @@
     "date": "2023-04-03",
     "from_channel": "defcon_news",
     "message": "WordPress Paid Memberships Pro 2.9.8 SQL Injection\nhttps://packetstormsecurity.com/files/171661/wppaidmembershipspro298-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/171661/wppaidmembershipspro298-sql.txt"
 }
@@ -1601,6 +1662,7 @@
     "date": "2023-04-03",
     "from_channel": "defcon_news",
     "message": "GLPI 10.0.2 SQL Injection / Remote Code Execution\nhttps://packetstormsecurity.com/files/171656/glpi1002-sqlexec.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/171656/glpi1002-sqlexec.txt"
 }
@@ -1608,6 +1670,7 @@
     "date": "2023-04-03",
     "from_channel": "defcon_news",
     "message": "GLPI Activity Local File Inclusion\nhttps://packetstormsecurity.com/files/171655/glpiactivity310-lfi.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/171655/glpiactivity310-lfi.txt"
 }
@@ -1615,6 +1678,7 @@
     "date": "2023-04-03",
     "from_channel": "defcon_news",
     "message": "GLPI Glpiinventory 1.0.1 Local File Inclusion\nhttps://packetstormsecurity.com/files/171654/glpiinventory101-lfi.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/171654/glpiinventory101-lfi.txt"
 }
@@ -1622,6 +1686,7 @@
     "date": "2023-04-03",
     "from_channel": "defcon_news",
     "message": "GLPI Manageentities Local File Inclusion\nhttps://packetstormsecurity.com/files/171653/glpime402-lfi.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/171653/glpime402-lfi.txt"
 }
@@ -1629,6 +1694,7 @@
     "date": "2023-04-03",
     "from_channel": "defcon_news",
     "message": "Art Gallery Management System Project 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/171643/agmsp10-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/171643/agmsp10-sql.txt"
 }

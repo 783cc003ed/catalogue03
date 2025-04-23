@@ -1,0 +1,5 @@
+{
+    "date": "2021-11-30",
+    "from_channel": "osint_club_channel",
+    "message": "#news Исследователи выявили на портале Госуслуг еще две уязвимости, связанные с использованием Covert Redirect (скрытой переадресации). Важным отличием выявленных уязвимостей является возможность перехвата cookie-файлов при помощи технологии XSS (SSRF). Это позволяет злоумышленникам не только перенаправлять своих жертв на вредоносный ресурс, но и получать доступ к тем социальным аккаунтам, которые авторизованы в их браузере. \n\nhttps://esia.gosuslugi.ru/aas/oauth2/ac?response_type=code&client_id={данные по запросу}&redirect_uri=http://gosulsug.ru/login/\n\nhttps://esia.gosuslugi.ru/aas/oauth2/ac?response_type=code&client_id={данные по запросу}&redirect_uri=mailto:yourname@domain.com\n\n@tomhunter"
+}

@@ -1,7 +1,8 @@
 {
     "date": "2024-08-31",
     "from_channel": "defcon_news",
-    "message": "North Korean Hackers Deploy FudModule Rootkit via Chrome Zero-Day Exploit\nhttps://thehackernews.com/2024/08/north-korean-hackers-deploy-fudmodule.html"
+    "message": "North Korean Hackers Deploy FudModule Rootkit via Chrome Zero-Day Exploit\nhttps://thehackernews.com/2024/08/north-korean-hackers-deploy-fudmodule.html",
+    "urls": []
 }
 {
     "date": "2024-08-30",
@@ -26,6 +27,7 @@
     "date": "2024-08-29",
     "from_channel": "defcon_news",
     "message": "Bypassing airport security via SQL injection\nhttps://www.reddit.com/r/netsec/comments/1f461wm/bypassing_airport_security_via_sql_injection/",
+    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/1f461wm/bypassing_airport_security_via_sql_injection/"
 }
@@ -45,6 +47,7 @@
     "date": "2024-08-28",
     "from_channel": "defcon_news",
     "message": "Vtiger CRM (<= 8.1.0) SQL Injection in MailManager module - Shielder\nhttps://www.reddit.com/r/netsec/comments/1f36k32/vtiger_crm_810_sql_injection_in_mailmanager/",
+    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/1f36k32/vtiger_crm_810_sql_injection_in_mailmanager/"
 }
@@ -52,6 +55,7 @@
     "date": "2024-08-27",
     "from_channel": "defcon_news",
     "message": "Taking the Crossroads: The Versa Director Zero-Day Exploitation\nhttps://www.reddit.com/r/netsec/comments/1f2j3mp/taking_the_crossroads_the_versa_director_zeroday/",
+    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/1f2j3mp/taking_the_crossroads_the_versa_director_zeroday/"
 }
@@ -59,6 +63,7 @@
     "date": "2024-08-27",
     "from_channel": "defcon_news",
     "message": "Back to School - Exploiting a Remote Code Execution Vulnerability in Moodle\nhttps://www.reddit.com/r/netsec/comments/1f2c497/back_to_school_exploiting_a_remote_code_execution/",
+    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/1f2c497/back_to_school_exploiting_a_remote_code_execution/"
 }
@@ -87,6 +92,11 @@
     "message": "🖋️ Microsoft Patches Critical Copilot Studio Vulnerability Exposing Sensitive Data 🖋️\n\nCybersecurity researchers have disclosed a critical security flaw impacting Microsoft's Copilot Studio that could be exploited to access sensitive information. Tracked as CVE202438206 CVSS score 8.5, the vulnerability has been described as an information disclosure bug stemming from a serverside request forgery SSRF attack. \"An authenticated attacker can bypass ServerSide Request.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
 }
 {
+    "date": "2024-08-19",
+    "from_channel": "it_secur",
+    "message": "👩‍💻 Attacking Nginx.\n\n•  Nginx — это веб-сервер, на котором работает треть всех сайтов в мире. Но если забыть или проигнорировать некоторые ошибки в настройках, можно стать отличной мишенью для атакующих:\n\n•  Missing Root Location in Nginx Configuration:\n - Explanation;\n - The Missing Root Location Issue.\n\n•  Attack Scenario: Exploiting the Missing Root Location:\n - Mitigating the Risk.\n\n•  Unsafe Path Restriction in Nginx:\n - Explanation;\n - Potential Bypass Techniques;\n - Attack Scenario: Exploiting Path Restriction Bypass;\n - Mitigation Strategies.\n\n•  Unsafe variable use / HTTP Request Splitting:\n - Unsafe Use of Variables: $uri and $document_uri;\n - Regex Vulnerabilities;\n - Safe Configuration;\n - Attack Scenarios and Detection Techniques;\n - CRLF Injection and HTTP Request Splitting;\n - Bypassing Path Restrictions Using Encoded Characters;\n - Examples of Vulnerable Configurations.\n\n•  Raw Backend Response Reading:\n - Example Scenario: Exposing Raw Backend Responses;\n - Example uWSGI Application;\n - Nginx Configuration;\n - Example Invalid HTTP Request;\n - Example Output for Invalid Request;\n - Attack Scenario;\n - Mitigation Strategies.\n\n•  merge_slashes set to off:\n - merge_slashes Directive;\n - Malicious Response Headers;\n - map Directive Default Value;\n - DNS Spoofing Vulnerability;\n - proxy_pass and internal Directives.\n\n•  proxy_set_header Upgrade & Connection:\n - Vulnerable Configuration;\n - Vulnerability;\n - Attack Scenario;\n - Mitigation;\n - Additional Attack Scenarios and Commands.\n\n#Nginx"
+}
+{
     "date": "2024-08-16",
     "from_channel": "proxy_bar",
     "message": "BYOB (Build Your Own Botnet) Unauthenticated RCE\n*\nwriteup + video\n*\nExploit"
@@ -94,7 +104,8 @@
 {
     "date": "2024-08-15",
     "from_channel": "sysadm_in_channel",
-    "message": "/ Windows TCP/IP Remote Code Execution Vulnerability\n\nMitigations - Systems are not affected if IPv6 is disabled on the target machine...)\n\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38063"
+    "message": "/ Windows TCP/IP Remote Code Execution Vulnerability\n\nMitigations - Systems are not affected if IPv6 is disabled on the target machine...)\n\nhttps://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38063",
+    "urls": []
 }
 {
     "date": "2024-08-15",
@@ -105,6 +116,7 @@
     "date": "2024-08-14",
     "from_channel": "defcon_news",
     "message": "Wormable Substack XSS\nhttps://www.reddit.com/r/netsec/comments/1eql0xd/wormable_substack_xss/",
+    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/1eql0xd/wormable_substack_xss/"
 }
@@ -112,6 +124,7 @@
     "date": "2024-08-13",
     "from_channel": "defcon_news",
     "message": "How to find XML External Entity (XXE) vulnerabilities in Code ​(C++)\nhttps://www.reddit.com/r/netsec/comments/1eqzg64/how_to_find_xml_external_entity_xxe/",
+    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/1eqzg64/how_to_find_xml_external_entity_xxe/"
 }
@@ -119,13 +132,25 @@
     "date": "2024-08-12",
     "from_channel": "defcon_news",
     "message": "SQL Injection Isn't Dead - Smuggling Queries at the Protocol Level\nhttps://www.reddit.com/r/netsec/comments/1eqm0ia/sql_injection_isnt_dead_smuggling_queries_at_the/",
+    "urls": [],
     "webpage_description": "Posted by lormayna - 12 votes and no comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/1eqm0ia/sql_injection_isnt_dead_smuggling_queries_at_the/"
 }
 {
     "date": "2024-08-12",
+    "from_channel": "elliot_cybersec",
+    "message": "👺 0day в Office ставит на кон корпоративные данные | Привет, друг. На связи Эллиот.\n\nMicrosoft раскрыла неисправленную уязвимость нулевого дня в Office, которая приводит к несанкционированному раскрытию конфиденциальной информации. Ошибка также была представлена на конференции Def Con.\n\nCVE-2024-38200 (CVSS: 7.5) вызвана ошибкой раскрытия информации, которая позволяет неавторизованному лицу получать доступ к защищенным данным. Недостаток затрагивает следующие версии Office:\n\n- Microsoft Office 2016 для 32-битных и 64-битных систем;\n- Microsoft Office LTSC 2021 для 32-битных и 64-битных систем;\n- Приложения Microsoft 365 для предприятий для 32-битных и 64-битных систем;\n- Microsoft Office 2019 для 32-битных и 64-битных систем.\n\nПо данным, ошибка может быть использована для получения доступа к чувствительным данным. В сценарии атаки злоумышленник может разместить веб-сайт, содержащий специально созданный файл, который предназначен для эксплуатации уязвимости.\n\n#CVE #Microsoft #0day #Office"
+}
+{
+    "date": "2024-08-12",
+    "from_channel": "it_secur",
+    "message": "👨‍💻 Attacking OpenStack.\n\n•  Apply Restrictive File Permissions:\n - Incorrect Example;\n - Writing Files with Python;\n - Correct Example;\n - Secure File Creation in Python;\n - Verify Ownership and Group;\n•  Avoid Dangerous File Parsing and Object Serialization Libraries;\n•  Python Pipes to Avoid Shells;\n•  Unvalidated URL redirect;\n•  Validate Certificates on HTTPS Connections to Avoid Man-in-the-Middle Attacks;\n•  Create, Use, and Remove Temporary Files Securely:\n - Python Temporary File Handling;\n•  Restrict Path Access to Prevent Path Traversal;\n•  Use Subprocess Securely;\n•  Parameterize Database Queries:\n - SQLAlchemy;\n - MySQL;\n - PostgreSQL (Psycopg2);\n•  Protect Sensitive Data in Config Files from Disclosure:\n - Consequences;\n - Example Log Entries;\n•  Use Secure Channels for Transmitting Data:\n - Clear Example;\n - Less Obvious Example;\n•  Escape User Input to Prevent XSS Attacks;\n•  Resources.\n\n#devsecops"
+}
+{
+    "date": "2024-08-12",
     "from_channel": "freedomf0x",
     "message": "Tools from the #DEFCON 32 talk \"SHIM me what you got - Manipulating Shim and Office for Code Injection\"\n\nhttps://github.com/deepinstinct/ShimMe",
+    "urls": [],
     "webpage_description": "Contribute to deepinstinct/ShimMe development by creating an account on GitHub.",
     "webpage_url": "https://github.com/deepinstinct/ShimMe"
 }
@@ -145,6 +170,11 @@
     "message": "🖋️ New Zero-Day Flaw in Apache OFBiz ERP Allows Remote Code Execution 🖋️\n\nA new zeroday preauthentication remote code execution vulnerability has been disclosed in the Apache OFBiz opensource enterprise resource planning ERP system that could allow threat actors to achieve remote code execution on affected instances. Tracked as CVE202438856, the flaw has a CVSS score of 9.8 out of a maximum of 10.0. It affects Apache OFBiz versions prior to 18.12.15. \"The.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
 }
 {
+    "date": "2024-08-03",
+    "from_channel": "epsilon_h",
+    "message": "Эксплойт для уязвимости Cross Site Scripting (XSS) на языке Rubу + пошаговый разбор кода.\n\nЭтот эксплойт отправляет HTTP GET запрос на уязвимый веб-сайт с вредоносным скриптом в параметре запроса. Если веб-сайт не экранирует входные данные должным образом, скрипт будет выполнен в браузере пользователя, что приведет к XSS атаке. Скрипт также добавляет пользовательские заголовки для имитации реального браузера и обрабатывает возможные ошибки, делая его более гибким и устойчивым.\n\nИсточник :  Хакер | Этичный хакинг с Михаилом Тарасовым\n\n🔵 Эпсилон // @epsilon_h"
+}
+{
     "date": "2024-08-02",
     "from_channel": "proxy_bar",
     "message": "Windows AppLocker Driver (appid.sys) \n*\nLPE\n*\nexploit\n\n#windows #lpe"
@@ -153,6 +183,7 @@
     "date": "2024-08-01",
     "from_channel": "defcon_news",
     "message": "Windows AppLocker Driver LPE Vulnerability - CVE-2024-21338\nhttps://www.reddit.com/r/netsec/comments/1ehjatd/windows_applocker_driver_lpe_vulnerability/",
+    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/1ehjatd/windows_applocker_driver_lpe_vulnerability/"
 }

@@ -22,6 +22,7 @@
     "date": "2022-12-30",
     "from_channel": "defcon_news",
     "message": "BufferPwn: RCE vulnerability in the common network code of several first party Nintendo games since the Nintendo 3DS\nhttps://www.reddit.com/r/netsec/comments/zxl6oz/bufferpwn_rce_vulnerability_in_the_common_network/",
+    "urls": [],
     "webpage_description": "Posted in r/netsec by u/4ngr0n • 2 points and 0 comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/zxl6oz/bufferpwn_rce_vulnerability_in_the_common_network/"
 }
@@ -94,6 +95,7 @@
     "date": "2022-12-28",
     "from_channel": "freedomf0x",
     "message": "#threatleak \n\nhttps://socradar.io/rce-vulnerability-cve-2022-45359-in-yith-woocommerce-gift-cards-plugin-exploited-in-attacks/",
+    "urls": [],
     "webpage_description": "In late November, security researchers found a critical vulnerability in Yith's WooCommerce Gift Cards plugin. Attackers can gain remote...",
     "webpage_url": "https://socradar.io/rce-vulnerability-cve-2022-45359-in-yith-woocommerce-gift-cards-plugin-exploited-in-attacks/"
 }
@@ -158,6 +160,7 @@
     "date": "2022-12-27",
     "from_channel": "defcon_news",
     "message": "Student Attendance Management System 1.0 SQL Injection\nhttp://exploit.kitploit.com/2022/12/student-attendance-management-system-10.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/12/student-attendance-management-system-10.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -165,6 +168,7 @@
     "date": "2022-12-27",
     "from_channel": "defcon_news",
     "message": "Student Attendance Management System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/170333/sams10erick-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170333/sams10erick-sql.txt"
 }
@@ -182,6 +186,7 @@
     "date": "2022-12-27",
     "from_channel": "defcon_news",
     "message": "Netcomm NF20MESH Cloud Mesh router - Unauthenticated Remote Code Execution\nhttps://www.reddit.com/r/netsec/comments/zw8mwu/netcomm_nf20mesh_cloud_mesh_router/",
+    "urls": [],
     "webpage_description": "Posted in r/netsec by u/Gallus • 4 points and 0 comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/zw8mwu/netcomm_nf20mesh_cloud_mesh_router/"
 }
@@ -330,6 +335,7 @@
     "date": "2022-12-23",
     "from_channel": "defcon_news",
     "message": "Stock Management System 2022 1.0 From Erick Cesar SQL Injection\nhttp://exploit.kitploit.com/2022/12/stock-management-system-2022-10-from.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/12/stock-management-system-2022-10-from.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -337,6 +343,7 @@
     "date": "2022-12-23",
     "from_channel": "defcon_news",
     "message": "Stock Management System 2022 1.0 From Erick Cesar SQL Injection\nhttps://packetstormsecurity.com/files/170328/sms202210-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170328/sms202210-sql.txt"
 }
@@ -347,6 +354,11 @@
 }
 {
     "date": "2022-12-23",
+    "from_channel": "Social_engineering",
+    "message": "👁 Дорки на любой вкус.\n\n🖖🏻 Приветствую тебя user_name.\n\n•  Перед тобой список дорков на любой вкус, которые могут быть использованы в различных поисковиках для поиска необходимой информации:\n\n•  DuckDuckGo dorks;\n•  Github dorks [1],[2],[3],[4];\n•  Shodan dorks [1],[2],[3],[4];\n•  Censys dorks;\n•  Virus Total dorks;\n•  Binary Edge dorks;\n•  Yandex dorks;\n•  Google dorks [1],[2],[3],[4];\n•  Onion dorks;\n•  CCTV dorks [1],[2];\n•  Backlink dorks [1],[2];\n•  Token dorks;\n•  Hidden files dorks;\n•  Linkedin dorks (X-Ray);\n•  Gaming dorks [1];\n•  Cryptocurrency dorks;\n•  Shopping dorks [1];\n•  Bug Bounty dorks [1];\n•  Hidden files dorks;\n•  Admin panel dorks;\n•  SQL injection dorks [1];\n•  GIT dorks;\n•  Log files dorks;\n•  CMS dorks [1],[2];\n•  Cloud Instance dorks [1],[2],[3];\n•  \"Wiki\" dorks;\n•  Awstats dorks;\n•  Movie dorks;\n•  Broswer extensions;\n•  Online tools to work with dorks [1],[2],[3].\n\nS.E. ▪️ S.E.Relax ▪️ infosec.work ▪️ #OSINT"
+}
+{
+    "date": "2022-12-23",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-33324 ‼\n\nImproper Resource Shutdown or Release vulnerability in Mitsubishi Electric Corporation MELSEC iQ-R Series R00/01/02CPU Firmware versions \"32\" and prior, Mitsubishi Electric Corporation MELSEC iQ-R Series R04/08/16/32/120(EN)CPU Firmware versions \"65\" and prior, Mitsubishi Electric Corporation MELSEC iQ-R Series R08/16/32/120SFCPU all versions, Mitsubishi Electric Corporation MELSEC iQ-R Series R12CCPU-V all versions, Mitsubishi Electric Corporation MELSEC iQ-L Series L04/08/16/32HCPU all versions and Mitsubishi Electric Corporation MELIPC Series MI5122-VW all versions allows a remote unauthenticated attacker to cause a Denial of Service condition in Ethernet communication on the module by sending specially crafted packets. A system reset of the module is required for recovery.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -354,6 +366,7 @@
     "date": "2022-12-23",
     "from_channel": "defcon_news",
     "message": "Khan Academy: xss due to incorrect handling of postmessages\nhttps://vulners.com/hackerone/H1:1758132?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
     "webpage_description": "Due to Insecure handling of create link tags (a tags) in a function called autolink found in 7Bmt.af733e428f9f986dfc96.js js e = n.autolink(e, !0));         const n = function() {             const e = /\\b(?:(?:https?:\\/\\/|www\\d{0,3}[.]|[a-z0-9.\\-]+[.][a-z]{2,4}\\/)(?:[^\\s()<>&]+|&|\\((?:[^\\s()<>]|(?:\\([^\\s()<>]+\\)))*\\))+(?:\\((?:[^\\s()<>]|(?:\\([^\\s()<>]+\\)))*\\)|[^\\s`!()\\[\\]{};:'\".,<>?«»“”‘’&]))/gi;             return {                 autolink: function(t, r) {                     return t.replace(e, (function(e) {                         /^https?:\\/\\//.test(e) || (e = \"http://\" + e);                         return \"<a \" + (r ? 'rel=\"nofollow\"' : \"\") + ' href=\"' + e + '\">' + e + \"</a>\"                     }                     ))                 }             }         }(); which is ran in the challenges (ex: https://www.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/pc/challenge-brown-bear-eyes). A specially crafted postmessage can abuse this. ```html                       …",
     "webpage_url": "https://vulners.com/hackerone/H1:1758132?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -401,6 +414,7 @@
     "date": "2022-12-22",
     "from_channel": "defcon_news",
     "message": "Senayan Library Management System 9.2.2 SQL Injection\nhttp://exploit.kitploit.com/2022/12/senayan-library-management-system-922_21.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/12/senayan-library-management-system-922_21.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -408,6 +422,7 @@
     "date": "2022-12-22",
     "from_channel": "defcon_news",
     "message": "Senayan Library Management System 9.2.2 SQL Injection\nhttps://packetstormsecurity.com/files/170325/slms922-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170325/slms922-sql.txt"
 }
@@ -437,7 +452,7 @@
     "message": "‼ CVE-2022-40841 ‼\n\nA cross-site scripting (XSS) vulnerability in NdkAdvancedCustomizationFields v3.5.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payloads injected into the \"htmlNodes\" parameter.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2022-12-22",
+    "date": "2022-12-21",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-40145 ‼\n\nThis vulnerable is about a potential code injection when an attacker has control of the target LDAP server using in the JDBC JNDI URL. The function jaas.modules.src.main.java.porg.apache.karaf.jass.modules.jdbc.JDBCUtils#doCreateDatasource use InitialContext.lookup(jndiName) without filtering. An user can modify `options.put(JDBCUtils.DATASOURCE, \"osgi:\" + DataSource.class.getName());` to `options.put(JDBCUtils.DATASOURCE,\"jndi:rmi://x.x.x.x:xxxx/Command\");` in JdbcLoginModuleTest#setup. This is vulnerable to a remote code execution (RCE) attack when a configuration uses a JNDI LDAP data source URI when an attacker has control of the target LDAP server.This issue affects all versions of Apache Karaf up to 4.4.1 and 4.3.7. We encourage the users to upgrade to Apache Karaf at least 4.4.2 or 4.3.8\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -455,6 +470,7 @@
     "date": "2022-12-21",
     "from_channel": "defcon_news",
     "message": "Cisco BroadWorks CommPilot Application Software Unauthenticated Server-Side Request Forgery (CVE-2022-20951)\nhttps://www.reddit.com/r/netsec/comments/zrh97b/cisco_broadworks_commpilot_application_software/",
+    "urls": [],
     "webpage_description": "Posted in r/netsec by u/smaury • 2 points and 0 comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/zrh97b/cisco_broadworks_commpilot_application_software/"
 }
@@ -487,6 +503,7 @@
     "date": "2022-12-20",
     "from_channel": "defcon_news",
     "message": "Senayan Library Management System 9.2.1 SQL Injection\nhttp://exploit.kitploit.com/2022/12/senayan-library-management-system-921_20.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/12/senayan-library-management-system-921_20.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -494,6 +511,7 @@
     "date": "2022-12-20",
     "from_channel": "defcon_news",
     "message": "Senayan Library Management System 9.2.1 SQL Injection\nhttps://packetstormsecurity.com/files/170307/slms921-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170307/slms921-sql.txt"
 }
@@ -609,7 +627,7 @@
     "message": "‼ CVE-2022-4614 ‼\n\nCross-site Scripting (XSS) - Stored in GitHub repository alagrede/znote-app prior to 1.7.11.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2022-12-27",
+    "date": "2022-12-19",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-35695 ‼\n\nAdobe Experience Manager version 6.5.14 (and earlier) is affected by a reflected Cross-Site Scripting (XSS) vulnerability. If an attacker is able to convince a victim to visit a URL referencing a vulnerable page, malicious JavaScript content may be executed within the context of the victim's browser.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -667,6 +685,7 @@
     "date": "2022-12-19",
     "from_channel": "defcon_news",
     "message": "Senayan Library Management System 9.2.0 SQL Injection\nhttp://exploit.kitploit.com/2022/12/senayan-library-management-system-920_19.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/12/senayan-library-management-system-920_19.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -674,6 +693,7 @@
     "date": "2022-12-19",
     "from_channel": "defcon_news",
     "message": "Senayan Library Management System 9.1.1 SQL Injection\nhttp://exploit.kitploit.com/2022/12/senayan-library-management-system-911_19.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/12/senayan-library-management-system-911_19.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -681,6 +701,7 @@
     "date": "2022-12-19",
     "from_channel": "defcon_news",
     "message": "Senayan Library Management System 9.2.0 SQL Injection\nhttps://packetstormsecurity.com/files/170297/slms920-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170297/slms920-sql.txt"
 }
@@ -688,6 +709,7 @@
     "date": "2022-12-19",
     "from_channel": "defcon_news",
     "message": "Senayan Library Management System 9.1.1 SQL Injection\nhttps://packetstormsecurity.com/files/170295/slms911-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170295/slms911-sql.txt"
 }
@@ -882,6 +904,7 @@
     "date": "2022-12-16",
     "from_channel": "defcon_news",
     "message": "Bangresta 1.0 SQL Injection\nhttp://exploit.kitploit.com/2022/12/bangresta-10-sql-injection.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/12/bangresta-10-sql-injection.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -889,6 +912,7 @@
     "date": "2022-12-16",
     "from_channel": "defcon_news",
     "message": "Bangresta 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/170271/bangresto10-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170271/bangresto10-sql.txt"
 }
@@ -908,6 +932,7 @@
     "date": "2022-12-16",
     "from_channel": "defcon_news",
     "message": "Foxit PDF Reader - Use after Free - Remote Code Execution Exploit\nhttps://www.reddit.com/r/netsec/comments/zn7sib/foxit_pdf_reader_use_after_free_remote_code/",
+    "urls": [],
     "webpage_description": "Posted in r/netsec by u/hacksysteam • 2 points and 0 comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/zn7sib/foxit_pdf_reader_use_after_free_remote_code/?utm_source=ifttt"
 }
@@ -945,6 +970,7 @@
     "date": "2022-12-15",
     "from_channel": "defcon_news",
     "message": "SOUND4 IMPACT/FIRST/PULSE/Eco 2.x username SQL Injection\nhttp://exploit.kitploit.com/2022/12/sound4-impactfirstpulseeco-2x-username.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/12/sound4-impactfirstpulseeco-2x-username.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -952,6 +978,7 @@
     "date": "2022-12-15",
     "from_channel": "defcon_news",
     "message": "SOUND4 IMPACT/FIRST/PULSE/Eco 2.x password SQL Injection\nhttp://exploit.kitploit.com/2022/12/sound4-impactfirstpulseeco-2x-password.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/12/sound4-impactfirstpulseeco-2x-password.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -959,6 +986,7 @@
     "date": "2022-12-15",
     "from_channel": "defcon_news",
     "message": "SOUND4 IMPACT/FIRST/PULSE/Eco 2.x username SQL Injection\nhttps://packetstormsecurity.com/files/170254/ZSL-2022-5727.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170254/ZSL-2022-5727.txt"
 }
@@ -966,6 +994,7 @@
     "date": "2022-12-15",
     "from_channel": "defcon_news",
     "message": "SOUND4 IMPACT/FIRST/PULSE/Eco 2.x password SQL Injection\nhttps://packetstormsecurity.com/files/170253/ZSL-2022-5726.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170253/ZSL-2022-5726.txt"
 }
@@ -973,6 +1002,7 @@
     "date": "2022-12-15",
     "from_channel": "defcon_news",
     "message": "A vulnerability in the UMPD (User-Mode Printer Drivers) allows local users to trigger a use-after-free vulnerability. The vulnerability works from Windows 8 and above, and is fairly easy to exploit on older Windows machines.\nhttps://www.reddit.com/r/netsec/comments/zmnt6b/a_vulnerability_in_the_umpd_usermode_printer/",
+    "urls": [],
     "webpage_description": "Posted in r/netsec by u/SSDisclosure • 0 points and 0 comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/zmnt6b/a_vulnerability_in_the_umpd_usermode_printer/"
 }
@@ -1149,12 +1179,14 @@
 {
     "date": "2022-12-14",
     "from_channel": "defcon_news",
-    "message": "Hackers Actively Exploiting Citrix ADC and Gateway Zero-Day Vulnerability\nhttps://thehackernews.com/2022/12/hackers-actively-exploiting-citrix-adc.html"
+    "message": "Hackers Actively Exploiting Citrix ADC and Gateway Zero-Day Vulnerability\nhttps://thehackernews.com/2022/12/hackers-actively-exploiting-citrix-adc.html",
+    "urls": []
 }
 {
     "date": "2022-12-14",
     "from_channel": "defcon_news",
-    "message": "New Actively Exploited Zero-Day Vulnerability Discovered in Apple Products\nhttps://thehackernews.com/2022/12/new-actively-exploited-zero-day.html"
+    "message": "New Actively Exploited Zero-Day Vulnerability Discovered in Apple Products\nhttps://thehackernews.com/2022/12/new-actively-exploited-zero-day.html",
+    "urls": []
 }
 {
     "date": "2022-12-14",
@@ -1182,7 +1214,7 @@
     "message": "‼ CVE-2022-46404 ‼\n\nA command injection vulnerability has been identified in Atos Unify OpenScape 4000 Assistant and Unify OpenScape 4000 Manager (8 before R2.22.18, 10 before 0.28.13, and 10 R1 before R1.34.4) that may allow an unauthenticated attacker to upload arbitrary files and achieve administrative access to the system.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2022-12-14",
+    "date": "2022-12-13",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-43996 ‼\n\nThe csaf_provider package before 0.8.2 allows XSS via a crafted CSAF document uploaded as text/html. The endpoint upload allows valid CSAF advisories (JSON format) to be uploaded with Content-Type text/html and filenames ending in .html. When subsequently accessed via web browser, these advisories are served and interpreted as HTML pages. Such uploaded advisories can contain JavaScript code that will execute within the browser context of users inspecting the advisory.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -1287,6 +1319,7 @@
     "date": "2022-12-13",
     "from_channel": "defcon_news",
     "message": "A Server Side Request Forgery protection library for Golang\nhttps://www.reddit.com/r/netsec/comments/zkw9s3/a_server_side_request_forgery_protection_library/",
+    "urls": [],
     "webpage_description": "Posted in r/netsec by u/nibblesec • 2 points and 0 comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/zkw9s3/a_server_side_request_forgery_protection_library/"
 }
@@ -1324,7 +1357,8 @@
 {
     "date": "2022-12-13",
     "from_channel": "defcon_news",
-    "message": "Fortinet Warns of Active Exploitation of New SSL-VPN Pre-auth RCE Vulnerability\nhttps://thehackernews.com/2022/12/fortinet-warns-of-active-exploitation.html"
+    "message": "Fortinet Warns of Active Exploitation of New SSL-VPN Pre-auth RCE Vulnerability\nhttps://thehackernews.com/2022/12/fortinet-warns-of-active-exploitation.html",
+    "urls": []
 }
 {
     "date": "2022-12-13",
@@ -1335,6 +1369,7 @@
     "date": "2022-12-12",
     "from_channel": "defcon_news",
     "message": "Judging Management System 1.0 SQL Injection\nhttp://exploit.kitploit.com/2022/12/judging-management-system-10-sql.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/12/judging-management-system-10-sql.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1342,6 +1377,7 @@
     "date": "2022-12-12",
     "from_channel": "defcon_news",
     "message": "Judging Management System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/170204/jms10-bypass.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170204/jms10-bypass.txt"
 }
@@ -1373,7 +1409,8 @@
 {
     "date": "2022-12-12",
     "from_channel": "ctfchat",
-    "message": "Всем привет!Подскажите, кому не сложно, гайд для полного изучения xss!Что изучить и что нужно знать\nСпасибо!"
+    "message": "Всем привет!Подскажите, кому не сложно, гайд для полного изучения xss!Что изучить и что нужно знать\nСпасибо!",
+    "urls": []
 }
 {
     "date": "2022-12-12",
@@ -1426,7 +1463,7 @@
     "message": "‼ CVE-2022-37925 ‼\n\nA vulnerability within the web-based management interface of Aruba EdgeConnect Enterprise could allow a remote attacker to conduct a reflected cross-site scripting (XSS) attack against a user of the interface. A successful exploit could allow an attacker to execute arbitrary script code in a victim's browser in the context of the affected interface in Aruba EdgeConnect Enterprise Software version(s): ECOS 9.2.1.0 and below; ECOS 9.1.3.0 and below; ECOS 9.0.7.0 and below; ECOS 8.3.7.1 and below.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2022-12-16",
+    "date": "2022-12-12",
     "from_channel": "hackgit",
     "message": "​​heap_detective\n\nThis tool uses the taint analysis technique for static analysis and aims to identify points of heap memory usage vulnerabilities in C and C++ languages. The tool uses a common approach in the first phase of static analysis, using tokenization to collect information.\n\nFeatures:\n▫️ C and C++ tokenizer\n▫️ List of heap static routes for each source with taint points for analysis\n▫️ Analyser to detect double free vulnerability\n▫️ Analyser to detect use after free vulnerability\n▫️ Analyser to detect memory leak\n\nhttps://github.com/CoolerVoid/heap_detective\n\nDetecting heap memory pitfalls: https://antonio-cooler.gitbook.io/coolervoid-tavern/detecting-heap-memory-pitfalls",
     "webpage_url": "https://telegra.ph/file/67e854b9e35e8ddae2619.jpg"
@@ -1438,7 +1475,7 @@
     "webpage_url": "https://telegra.ph/file/b223b69dafc6ee9e1921e.jpg"
 }
 {
-    "date": "2022-12-16",
+    "date": "2022-12-12",
     "from_channel": "hackgit",
     "message": "​​Weaponised XSS Payloads\n\nhttps://github.com/hakluke/weaponised-XSS-payloads",
     "webpage_url": "https://telegra.ph/file/b56a74a45036a0b62bd61.jpg"
@@ -1447,6 +1484,7 @@
     "date": "2022-12-12",
     "from_channel": "sysadm_in_channel",
     "message": "/ Abusing JSON-Based SQL to Bypass WAF\n\n…Our bypass worked against WAFs sold by five leading vendors: Palo Alto Networks, Amazon Web Services, Cloudflare, F5, and Imperva. All five have been notified and have updated their products to support JSON syntax in their SQL injection inspection process…\n\nhttps://claroty.com/team82/research/js-on-security-off-abusing-json-based-sql-to-bypass-waf",
+    "urls": [],
     "webpage_description": "Team82 developed a generic web application firewall bypass that exploits a lack of JSON syntax support in leading vendors' SQL injection inspection process.",
     "webpage_url": "https://claroty.com/team82/research/js-on-security-off-abusing-json-based-sql-to-bypass-waf"
 }
@@ -1486,7 +1524,7 @@
     "message": "‼ CVE-2022-4407 ‼\n\nCross-site Scripting (XSS) - Reflected in GitHub repository thorsten/phpmyfaq prior to 3.1.9.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2022-12-13",
+    "date": "2022-12-10",
     "from_channel": "hackgit",
     "message": "​​Django RCE(DJRCE)\n\nSimple django rce exploitation with leaked SECRET_KEY variable.\n\nhttps://github.com/0xuf/DJRCE",
     "webpage_url": "https://telegra.ph/file/13e5ed6405d7f079136b4.jpg"
@@ -1495,6 +1533,7 @@
     "date": "2022-12-10",
     "from_channel": "defcon_news",
     "message": "Senayan Library Management System 9.1.0 SQL Injection\nhttp://exploit.kitploit.com/2022/12/senayan-library-management-system-910.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/12/senayan-library-management-system-910.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1502,6 +1541,7 @@
     "date": "2022-12-10",
     "from_channel": "defcon_news",
     "message": "Senayan Library Management System 9.0.0 SQL Injection\nhttp://exploit.kitploit.com/2022/12/senayan-library-management-system-900_9.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/12/senayan-library-management-system-900_9.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1509,6 +1549,7 @@
     "date": "2022-12-10",
     "from_channel": "defcon_news",
     "message": "Senayan Library Management System 9.1.0 SQL Injection\nhttps://packetstormsecurity.com/files/170185/slms910-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170185/slms910-sql.txt"
 }
@@ -1516,11 +1557,12 @@
     "date": "2022-12-10",
     "from_channel": "defcon_news",
     "message": "Senayan Library Management System 9.0.0 SQL Injection\nhttps://packetstormsecurity.com/files/170184/slms900-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170184/slms900-sql.txt"
 }
 {
-    "date": "2022-12-10",
+    "date": "2022-12-09",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-44790 ‼\n\nInterspire Email Marketer through 6.5.1 allows SQL Injection via the surveys module. An unauthenticated attacker could successfully perform an attack to extract potentially sensitive information from the database if the survey id exists.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -1532,7 +1574,8 @@
 {
     "date": "2022-12-09",
     "from_channel": "ctfchat",
-    "message": "мб кто подскажет - раньше на training.hackerdom.ru была цепочка тасков хороших по SQL injection, я помню что оригинальные таски также где то хостились, мб кто знает как их сейчас найти?"
+    "message": "мб кто подскажет - раньше на training.hackerdom.ru была цепочка тасков хороших по SQL injection, я помню что оригинальные таски также где то хостились, мб кто знает как их сейчас найти?",
+    "urls": []
 }
 {
     "date": "2022-12-09",
@@ -1558,6 +1601,7 @@
     "date": "2022-12-09",
     "from_channel": "defcon_news",
     "message": "ILIAS eLearning 7.15 Command Injection / XSS / LFI / Open Redirect\nhttp://exploit.kitploit.com/2022/12/ilias-elearning-715-command-injection.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/12/ilias-elearning-715-command-injection.html"
 }
@@ -1565,6 +1609,7 @@
     "date": "2022-12-09",
     "from_channel": "defcon_news",
     "message": "Intel Data Center Manager 4.1 SQL Injection\nhttp://exploit.kitploit.com/2022/12/intel-data-center-manager-41-sql.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/12/intel-data-center-manager-41-sql.html"
 }
@@ -1572,6 +1617,7 @@
     "date": "2022-12-09",
     "from_channel": "defcon_news",
     "message": "Planet eStream Code Execution / SQL Injection / XSS / Broken Control\nhttp://exploit.kitploit.com/2022/12/planet-estream-code-execution-sql.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/12/planet-estream-code-execution-sql.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1579,6 +1625,7 @@
     "date": "2022-12-09",
     "from_channel": "defcon_news",
     "message": "Delta Electronics DX-2100-L1-CN 1.5.0.10 Command Injection / XSS\nhttp://exploit.kitploit.com/2022/12/delta-electronics-dx-2100-l1-cn-15010.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/12/delta-electronics-dx-2100-l1-cn-15010.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1586,6 +1633,7 @@
     "date": "2022-12-09",
     "from_channel": "defcon_news",
     "message": "ILIAS eLearning 7.15 Command Injection / XSS / LFI / Open Redirect\nhttps://packetstormsecurity.com/files/170181/SA-20221206-0.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170181/SA-20221206-0.txt"
 }
@@ -1593,6 +1641,7 @@
     "date": "2022-12-09",
     "from_channel": "defcon_news",
     "message": "Intel Data Center Manager 4.1 SQL Injection\nhttps://packetstormsecurity.com/files/170180/idcm41-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170180/idcm41-sql.txt"
 }
@@ -1600,6 +1649,7 @@
     "date": "2022-12-09",
     "from_channel": "defcon_news",
     "message": "Planet eStream Code Execution / SQL Injection / XSS / Broken Control\nhttps://packetstormsecurity.com/files/170175/SA-20221130-0.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170175/SA-20221130-0.txt"
 }
@@ -1607,11 +1657,12 @@
     "date": "2022-12-09",
     "from_channel": "defcon_news",
     "message": "Delta Electronics DX-2100-L1-CN 1.5.0.10 Command Injection / XSS\nhttps://packetstormsecurity.com/files/170173/CDSR-20221130-0.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170173/CDSR-20221130-0.txt"
 }
 {
-    "date": "2022-12-11",
+    "date": "2022-12-09",
     "from_channel": "cibsecurity",
     "message": "🗓️ JSON syntax hack allowed SQL injection payloads to be smuggled past WAFs 🗓️\n\nFive vendors act to thwart generic hack\n\n📖 Read\n\nvia \"The Daily Swig\".",
     "webpage_description": "Five vendors act to thwart generic hack",
@@ -1645,10 +1696,11 @@
 {
     "date": "2022-12-08",
     "from_channel": "defcon_news",
-    "message": "Google Warns of Internet Explorer Zero-Day Vulnerability Exploited by ScarCruft Hackers\nhttps://thehackernews.com/2022/12/google-warns-of-internet-explorer-zero.html"
+    "message": "Google Warns of Internet Explorer Zero-Day Vulnerability Exploited by ScarCruft Hackers\nhttps://thehackernews.com/2022/12/google-warns-of-internet-explorer-zero.html",
+    "urls": []
 }
 {
-    "date": "2022-12-09",
+    "date": "2022-12-08",
     "from_channel": "hackgit",
     "message": "​​CVE-2022-2414-Proof-Of-Concept\n\nA flaw was found in pki-core. Access to external entities when parsing XML documents can lead to XML external entity (XXE) attacks. This flaw allows a remote attacker to potentially retrieve the content of arbitrary files by sending specially crafted HTTP requests.\n\nhttps://github.com/amitlttwo/CVE-2022-2414-Proof-Of-Concept",
     "webpage_url": "https://telegra.ph/file/b0394fb3ac75f21ca868e.jpg"
@@ -1659,7 +1711,7 @@
     "message": "‼ CVE-2022-44361 ‼\n\nAn issue was discovered in ZZCMS 2022. There is a cross-site scripting (XSS) vulnerability in admin/ad_list.php.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2022-12-14",
+    "date": "2022-12-07",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-44393 ‼\n\nSanitization Management System v1.0 is vulnerable to SQL Injection via /php-sms/admin/?page=services/view_service&id=.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -1679,7 +1731,7 @@
     "message": "‼ CVE-2022-46742 ‼\n\nCode injection in paddle.audio.functional.get_window in PaddlePaddle 2.4.0-rc0 allows arbitrary code execution.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2022-12-14",
+    "date": "2022-12-07",
     "from_channel": "hackgit",
     "message": "​​ronin-vulns\n\nronin-vulns is a Ruby library for blind vulnerability testing. It currently supports testing for Local File Inclusion (LFI), Remote File Inclusion (RFI), SQL injection (SQLi), reflective Cross Site Scripting (XSS), and Server Side Template Injection (SSTI), and Open Redirects.\n\nhttps://github.com/ronin-rb/ronin-vulns",
     "webpage_url": "https://telegra.ph/file/65dc3e1fddb33e35c2b16.jpg"
@@ -1773,6 +1825,7 @@
     "date": "2022-12-06",
     "from_channel": "defcon_news",
     "message": "Senayan Library Management System 9.5.1 SQL Injection\nhttp://exploit.kitploit.com/2022/12/senayan-library-management-system-951.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/12/senayan-library-management-system-951.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1780,6 +1833,7 @@
     "date": "2022-12-06",
     "from_channel": "defcon_news",
     "message": "Senayan Library Management System 9.5.1 SQL Injection\nhttps://packetstormsecurity.com/files/170099/slims951-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170099/slims951-sql.txt"
 }
@@ -1797,6 +1851,7 @@
     "date": "2022-12-06",
     "from_channel": "defcon_news",
     "message": "Linktree: XSS in linktr.ee - on link thumbnail adding\nhttps://vulners.com/hackerone/H1:1775162?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
     "webpage_description": "XSS on link thumbnail...",
     "webpage_url": "https://vulners.com/hackerone/H1:1775162?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -1864,6 +1919,7 @@
     "date": "2022-12-05",
     "from_channel": "defcon_news",
     "message": "Automotive Shop Management System 1.0 SQL Injection\nhttp://exploit.kitploit.com/2022/12/automotive-shop-management-system-10.html",
+    "urls": [],
     "webpage_description": "Exploit Collector is the ultimate collection of public exploits and exploitable vulnerabilities. Remote/Local Exploits, Shellcode and 0days.",
     "webpage_url": "https://exploit.kitploit.com/2022/12/automotive-shop-management-system-10.html?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -1871,6 +1927,7 @@
     "date": "2022-12-05",
     "from_channel": "defcon_news",
     "message": "Automotive Shop Management System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/170086/asmsphp10-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/170086/asmsphp10-sql.txt"
 }
@@ -1902,17 +1959,20 @@
 {
     "date": "2022-12-03",
     "from_channel": "defcon_news",
-    "message": "Google Rolls Out New Chrome Browser Update to Patch Yet Another Zero-Day Vulnerability\nhttps://thehackernews.com/2022/12/google-rolls-out-new-chrome-browser.html"
+    "message": "Google Rolls Out New Chrome Browser Update to Patch Yet Another Zero-Day Vulnerability\nhttps://thehackernews.com/2022/12/google-rolls-out-new-chrome-browser.html",
+    "urls": []
 }
 {
     "date": "2022-12-03",
     "from_channel": "defcon_news",
-    "message": "Researchers Disclose Critical RCE Vulnerability Affecting Quarkus Java Framework\nhttps://thehackernews.com/2022/12/researchers-disclose-critical-rce.html"
+    "message": "Researchers Disclose Critical RCE Vulnerability Affecting Quarkus Java Framework\nhttps://thehackernews.com/2022/12/researchers-disclose-critical-rce.html",
+    "urls": []
 }
 {
     "date": "2022-12-03",
     "from_channel": "defcon_news",
-    "message": "Google Rolls Out New Chrome Browser Update to Patch Yet Another Zero-Day Vulnerability\nhttps://thehackernews.com/2022/12/google-rolls-out-new-chrome-browser.html"
+    "message": "Google Rolls Out New Chrome Browser Update to Patch Yet Another Zero-Day Vulnerability\nhttps://thehackernews.com/2022/12/google-rolls-out-new-chrome-browser.html",
+    "urls": []
 }
 {
     "date": "2022-12-02",
@@ -1920,7 +1980,7 @@
     "message": "‼ CVE-2022-44944 ‼\n\nRukovoditel v3.2.1 was discovered to contain a stored cross-site scripting (XSS) vulnerability in the Add Announcement function at /index.php?module=help_pages/pages&entities_id=24. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Title field.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
 {
-    "date": "2022-12-14",
+    "date": "2022-12-02",
     "from_channel": "cibsecurity",
     "message": "‼ CVE-2022-44946 ‼\n\nRukovoditel v3.2.1 was discovered to contain a stored cross-site scripting (XSS) vulnerability in the Add Page function at /index.php?module=help_pages/pages&entities_id=24. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Title field.\n\n📖 Read\n\nvia \"National Vulnerability Database\"."
 }
@@ -2007,7 +2067,8 @@
 {
     "date": "2022-12-02",
     "from_channel": "defcon_news",
-    "message": "Researchers Disclose Critical RCE Vulnerability Affecting Quarkus Java Framework\nhttp://thehackernews.com/2022/12/researchers-disclose-critical-rce.html"
+    "message": "Researchers Disclose Critical RCE Vulnerability Affecting Quarkus Java Framework\nhttp://thehackernews.com/2022/12/researchers-disclose-critical-rce.html",
+    "urls": []
 }
 {
     "date": "2022-12-02",
@@ -2033,6 +2094,7 @@
     "date": "2022-12-02",
     "from_channel": "defcon_news",
     "message": "XSS on account.leagueoflegends.com via easyXDM [2016]\nhttps://www.reddit.com/r/netsec/comments/zad1dh/xss_on_accountleagueoflegendscom_via_easyxdm_2016/",
+    "urls": [],
     "webpage_description": "Posted in r/netsec by u/bored-engineer • 1 point and 0 comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/zad1dh/xss_on_accountleagueoflegendscom_via_easyxdm_2016/"
 }
@@ -2079,7 +2141,8 @@
 {
     "date": "2022-12-01",
     "from_channel": "defcon_news",
-    "message": "Researchers Disclose Critical RCE Vulnerability Affecting Quarkus Java Framework\nhttps://thehackernews.com/2022/12/researchers-disclose-critical-rce.html"
+    "message": "Researchers Disclose Critical RCE Vulnerability Affecting Quarkus Java Framework\nhttps://thehackernews.com/2022/12/researchers-disclose-critical-rce.html",
+    "urls": []
 }
 {
     "date": "2022-12-01",

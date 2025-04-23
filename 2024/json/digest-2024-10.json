@@ -1,4 +1,98 @@
 {
+    "date": "2024-10-31",
+    "from_channel": "proxy_bar",
+    "message": "LooooL\nФэйк сразу и на Ачат и на XSS.",
+    "urls": []
+}
+{
+    "date": "2024-10-25",
+    "from_channel": "cibsecurity",
+    "message": "🦅 CISA Warns of Critical Vulnerabilities: CVE-2024-20481 and CVE-2024-37383 Require Immediate Attention 🦅\n\n  Overview   The Cybersecurity and Infrastructure Security Agency CISA has issued urgent advisories regarding two vulnerabilities that pose substantial risks to organizations CVE202420481, a denialofservice DoS vulnerability affecting Cisco Adaptive Security Appliance ASA and Firepower Threat Defense FTD, and CVE202437383, a crosssite scripting XSS vulnerability in RoundCube Webmail. Both vulnerabilities highlight the necessity for immediate action to safeguard against potential exploitation.   The relevant CVE IDs for these vulnerabilities are CVE202437383 and CVE202420481. The first vulnerability, CVE202437383, affects Roundcube Webmail versions prior to 1.5.7 and 1.6.x before 1.6.7, while CVE202420481 impacts Cisco products running a vulnerable release of Cisco ASA or FTD Software wi...\n\n📖 Read more.\n\n🔗 Via \"CYBLE\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "CISA warns of critical vulnerabilities CVE-2024-20481 and CVE-2024-37383 affecting Cisco ASA and RoundCube Webmail.",
+    "webpage_url": "https://cyble.com/blog/cisa-alerts-on-cve-2024-20481-and-cve-2024-37383/"
+}
+{
+    "date": "2024-10-23",
+    "from_channel": "cibsecurity",
+    "message": "🕵️‍♂️ Lazarus Group Exploits Chrome Zero-Day in Latest Campaign 🕵️‍♂️\n\nThe North Korean actor is going after cryptocurrency investors worldwide leveraging a genuinelooking game site and AIgenerated content and images.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "The North Korean actor is going after cryptocurrency investors worldwide in a campaign that leverages a genuine-looking game site and AI-generated content and images.",
+    "webpage_url": "https://www.darkreading.com/cyberattacks-data-breaches/lazarus-group-exploits-chrome-zero-day-campaign"
+}
+{
+    "date": "2024-10-23",
+    "from_channel": "proxy_bar",
+    "message": "CVE-2024-46538\n*\nPfSense Stored XSS lead to RCE\n*\nPOC exploit"
+}
+{
+    "date": "2024-10-23",
+    "from_channel": "defcon_news",
+    "message": "SQL Injection Polyglots / nastystereo.com\nhttps://www.reddit.com/r/netsec/comments/1ga3q6r/sql_injection_polyglots_nastystereocom/",
+    "urls": [],
+    "webpage_description": "Posted by ffyns - 1 vote and no comments",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/1ga3q6r/sql_injection_polyglots_nastystereocom/"
+}
+{
+    "date": "2024-10-22",
+    "from_channel": "cibsecurity",
+    "message": "🦅 Cyble Sensors Detect Attacks on Java Framework, IoT Devices 🦅\n\n    Overview     Cybles weekly sensor intelligence report detailed more than 30 active attack campaigns against known vulnerabilities.   New attacks were observed against a vulnerability in the Spring Java framework, and more than 400,000 attacks were observed exploiting a known IoT vulnerability.   Cybles Vulnerability Intelligence unit also observed thousands of bruteforce attacks and hundreds of phishing campaigns.   Here are some highlights from Cybles October 17 sensor report sent to clients.   CVE202438816 Spring Java Framework Exploit     CVE202438816 is a highseverity Path Traversal vulnerability in the popular Spring Java framework that is still undergoing NVD assessment. Applications serving static resources through the functional web frameworks WebMvc.fn or WebFlux.fn are vul...\n\n📖 Read more.\n\n🔗 Via \"CYBLE\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "Cyble’s Vulnerability Intelligence unit has detected cyberattacks on the Spring framework - and hundreds of thousands of IoT devices.",
+    "webpage_url": "https://cyble.com/blog/cyble-sensors-detect-attacks-on-java-framework-iot-devices/"
+}
+{
+    "date": "2024-10-22",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ VMware Releases vCenter Server Update to Fix Critical RCE Vulnerability 🖋️\n\nVMware has released software updates to address an already patched security flaw in vCenter Server that could pave the way for remote code execution. The vulnerability, tracked as CVE202438812 CVSS score 9.8, concerns a case of heapoverflow vulnerability in the implementation of the DCERPC protocol. \"A malicious actor with network access to vCenter Server may trigger this vulnerability by.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-10-22",
+    "from_channel": "defcon_news",
+    "message": "VMware Releases vCenter Server Update to Fix Critical RCE Vulnerability\nhttps://thehackernews.com/2024/10/vmware-releases-vcenter-server-update.html",
+    "urls": []
+}
+{
+    "date": "2024-10-21",
+    "from_channel": "cibsecurity",
+    "message": "🛠 Helper 0.1 🛠\n\nHelper is an enumerator written in PHP that helps identify directories on webservers that could be targets for things like cross site scripting, local file inclusion, remote shell upload, and remote SQL injection vulnerabilities.\n\n📖 Read more.\n\n🔗 Via \"Packet Storm - Tools\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+    "webpage_url": "https://packetstormsecurity.com/files/182290/helper-0.1.txt?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2024-10-21",
+    "from_channel": "proxy_bar",
+    "message": "Microsoft Windows Flaw: CVE-2024-30090\n*\nread wtf\n*\nPOC exploit\n\n#win #lpe"
+}
+{
+    "date": "2024-10-21",
+    "from_channel": "cibsecurity",
+    "message": "🕵️‍♂️ DPRK Uses Microsoft Zero-Day in No-Click Toast Attacks 🕵️‍♂️\n\nThe \"CodeonToast\" supply chain cyberattacks by APT37 delivered datastealing malware to users in South Korea who had enabled Toast popup ads.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "The \"Code-on-Toast\" supply chain cyberattacks by APT37 delivered data-stealing malware to users in South Korea who had enabled Toast pop-up ads.",
+    "webpage_url": "https://www.darkreading.com/vulnerabilities-threats/dprk-microsoft-zero-day-no-click-toast-attacks"
+}
+{
+    "date": "2024-10-20",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Hackers Exploit Roundcube Webmail XSS Vulnerability to Steal Login Credentials 🖋️\n\nUnknown threat actors have been observed attempting to exploit a nowpatched security flaw in the opensource Roundcube webmail software as part of a phishing attack designed to steal user credentials. Russian cybersecurity company Positive Technologies said it discovered last month that an email was sent to an unspecified governmental organization located in one of the Commonwealth of.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-10-20",
+    "from_channel": "defcon_news",
+    "message": "Hackers Exploit Roundcube Webmail XSS Vulnerability to Steal Login Credentials\nhttps://thehackernews.com/2024/10/hackers-exploit-roundcube-webmail-xss.html",
+    "urls": []
+}
+{
+    "date": "2024-10-18",
+    "from_channel": "elliot_cybersec",
+    "message": "👮‍♀ Взлом Chess.com детским эксплойтом — ладья на XSS | Привет, друг. На связи Эллиот.\n\nВ этой статье автор расскажет о том, как он использовал свои знания по кибербезопасности для обнаружения XSS-уязвимости (Cross-Site Scripting, межсайтовый скриптинг) на крупнейшем шахматном сайте интернета со 100 миллионами участников – Chess.com. \n\n- В начале небольшое вступление (в котором будет затронута немного менее серьёзная, но достаточно занятная, уязвимость OSRF (On-site Request Forgery, подделка запросов на сайте).\n\n⏺ Ссылка на чтиво\n\n#XSS #HTML #JS"
+}
+{
+    "date": "2024-10-17",
+    "from_channel": "defcon_news",
+    "message": "[PoC] SAP Note 3433192 - Code Injection vulnerability in SAP NetWeaver AS Java\nhttps://www.reddit.com/r/netsec/comments/1g5kg7s/poc_sap_note_3433192_code_injection_vulnerability/",
+    "urls": [],
+    "webpage_description": "Explore this post and more from the netsec community",
+    "webpage_url": "https://www.reddit.com/r/netsec/comments/1g5kg7s/poc_sap_note_3433192_code_injection_vulnerability/"
+}
+{
     "date": "2024-10-16",
     "from_channel": "cibsecurity",
     "message": "🦅 Critical Vulnerability in Veeam Products Exploited by Ransomware Gangs 🦅\n\n  Key Takeaways      A critical vulnerability, CVE202440711, was discovered in Veeam Backup  Replication, allowing unauthenticated remote code execution.   CVE202440711 has a CVSS score of 9.8, indicating an urgent need for remediation due to its severity.    Threat actors are actively exploiting this vulnerability to deploy Akira and Fog ransomware.   Veeam issued security updates to address these vulnerabilities in early September 2024.   Multiple Veeam products were also affected by different vulnerabilities, including Veeam Backup  Replication, Veeam ONE, and Veeam Agent for Linux, among others.   Organizations are urged to implement regular update protocols, enhance monitoring, and develop incident response plans to mitigate risks.    Overview      Threat actors have exploited a re...\n\n📖 Read more.\n\n🔗 Via \"CYBLE\"\n\n----------\n👁️ Seen on @cibsecurity",
@@ -13,7 +107,8 @@
 {
     "date": "2024-10-16",
     "from_channel": "defcon_news",
-    "message": "North Korean ScarCruft Exploits Windows Zero-Day to Spread RokRAT Malware\nhttps://thehackernews.com/2024/10/north-korean-scarcruft-exploits-windows.html"
+    "message": "North Korean ScarCruft Exploits Windows Zero-Day to Spread RokRAT Malware\nhttps://thehackernews.com/2024/10/north-korean-scarcruft-exploits-windows.html",
+    "urls": []
 }
 {
     "date": "2024-10-15",
@@ -28,9 +123,20 @@
     "message": "CVE-2024-42640\n*\nUnauthenticated Remote Code Execution via Angular-Base64-Upload Library \n*\nexploit"
 }
 {
+    "date": "2024-10-06",
+    "from_channel": "elliot_cybersec",
+    "message": "🔒 Как создать защищенное веб-приложение - 12 навыков| Привет, друг. На связи Эллиот.\n\nДанная статья не содержит никаких откровений. В первую очередь информация о типовых уязвимостях и методах их решения будет полезна начинающим. Опытные разработчики все это знают, или должны знать, если считают себя таковыми.\n\nВ их состав вошли:\n1. Защита от SQL injection\n2. Защита от Сross Site Scripting (XSS)\n3. Использование HTTPS \n4. Предотвращение скачивания пользовательских файлов по прямой ссылке\n5. Хранение паролей пользователей \n6. Шифрование и обфускация кода\n7. И др.\n\n⏺ Ссылка на чтиво\n\n#Web"
+}
+{
+    "date": "2024-10-05",
+    "from_channel": "elliot_cybersec",
+    "message": "🖥 Первые шаги в багхантинге - где и как искать этот ваш SSRF| Привет, друг. На связи Эллиот.\n\nВ данной статье автор кратко расскажет об уязвимости с подделкой запросов на стороне сервера (SSRF) и ее видах, покажет, как обнаруживать этот баг и почему его стоит искать даже на статических сайтах, а заодно расскажет особенности работы с Burp Suite, Collaborator Everywhere и Wappalyzer. \n\n— Статья будет полезна для прокачки скилов и поможет легче и быстрее обнаруживать SSRF в сервисах, размещенных на площадках багбаунти.\n\n⏺ Ссылка на чтиво\n\n#Пентест #BugHunters #ИБ #SSRF"
+}
+{
     "date": "2024-10-04",
     "from_channel": "proxy_bar",
-    "message": "CVE-2024-26304 RCE-exploit\n*\nHPE Aruba Device\n*\nusage:\npython3 CVE-2024-26304.py -u http://127.0.0.1"
+    "message": "CVE-2024-26304 RCE-exploit\n*\nHPE Aruba Device\n*\nusage:\npython3 CVE-2024-26304.py -u http://127.0.0.1",
+    "urls": []
 }
 {
     "date": "2024-10-04",
@@ -43,6 +149,7 @@
     "date": "2024-10-04",
     "from_channel": "RalfHackerChannel",
     "message": "CVE-2024-7479 & CVE-2024-7481: TeamViewer User to Kernel LPE\n\nPoC: https://youtu.be/lUkAMAK-TPI\n\nexploit: https://github.com/PeterGabaldon/CVE-2024-7479_CVE-2024-7481\n\nAffected:\n* from 15.0.0 before 15.58.4 \n* from 14.0.0 before 14.7.48796 \n* from 13.0.0 before 13.2.36225 \n* from 12.0.0 before 12.0.259312 \n* from 11.0.0 before 11.0.259311 \n\n#lpe #pentest #redteam #exploit",
+    "urls": [],
     "webpage_description": "https://www.cve.org/CVERecord?id=CVE-2024-7479\nhttps://www.cve.org/CVERecord?id=CVE-2024-7481\nhttps://www.zerodayinitiative.com/advisories/ZDI-24-1289/\nhttps://www.zerodayinitiative.com/advisories/ZDI-24-1290/\nhttps://www.teamviewer.com/en/resources/trust-center/security-bulletins/tv-2024-1006/\n\nReboot is not needed",
     "webpage_url": "https://youtu.be/lUkAMAK-TPI"
 }
@@ -54,7 +161,8 @@
 {
     "date": "2024-10-04",
     "from_channel": "defcon_news",
-    "message": "WordPress LiteSpeed Cache Plugin Security Flaw Exposes Sites to XSS Attacks\nhttps://thehackernews.com/2024/10/wordpress-litespeed-cache-plugin.html"
+    "message": "WordPress LiteSpeed Cache Plugin Security Flaw Exposes Sites to XSS Attacks\nhttps://thehackernews.com/2024/10/wordpress-litespeed-cache-plugin.html",
+    "urls": []
 }
 {
     "date": "2024-10-03",

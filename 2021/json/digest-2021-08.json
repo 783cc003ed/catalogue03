@@ -1,0 +1,6 @@
+{
+    "date": "2021-08-29",
+    "from_channel": "physics_lib",
+    "message": "📙 Full Stack Python Security: Cryptography, TLS, and attack resistance [2021] Dennis Byrne\n\nFull Stack Python Security teaches you everything you’ll need to build secure Python web applications. In Full Stack Python Security: Cryptography, TLS, and attack resistance, you’ll learn how to:\n▪️Use algorithms to encrypt, hash, and digitally sign data\n▪️Create and install TLS certificates\n▪️Implement authentication, authorization, OAuth 2.0, and form validation in Django\n▪️Protect a web application with Content Security Policy\n▪️Implement Cross Origin Resource Sharing\n▪️Protect against common attacks including clickjacking, denial of service attacks, SQL injection, cross-site scripting, and more\nFull Stack Python Security: Cryptography, TLS, and attack resistance teaches you everything you’ll need to build secure Python web applications. As you work through the insightful code snippets and engaging examples, you’ll put security standards, best practices, and more into action. #python",
+    "urls": []
+}

@@ -125,7 +125,7 @@
     "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-50035"
 }
 {
-    "date": "2023-12-31",
+    "date": "2023-12-30",
     "from_channel": "cibsecurity",
     "message": "‼️CVE-2020-17163‼️\n\nVisual Studio Code Python Extension Remote Code Execution Vulnerability\n\n📖 Read more\n\nVia \"National Vulnerability Database\"",
     "webpage_url": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-17163"
@@ -377,18 +377,31 @@
     "date": "2023-12-28",
     "from_channel": "defcon_news",
     "message": "New payloads to exploit Error-based SQL injection - PostgreSQL database\nhttps://old.reddit.com/r/netsec/comments/18st310/new_payloads_to_exploit_errorbased_sql_injection/",
+    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://old.reddit.com/r/netsec/comments/18st310/new_payloads_to_exploit_errorbased_sql_injection/"
 }
 {
     "date": "2023-12-26",
     "from_channel": "sysadm_in_channel",
-    "message": "/ use-after-free vulnerability in the implementation in Linux kernel nf_tables\n\nOpenwall note: https://www.openwall.com/lists/oss-security/2023/12/22/6\n\nExploit prototype - https://www.openwall.com/lists/oss-security/2023/12/22/6/1"
+    "message": "/ use-after-free vulnerability in the implementation in Linux kernel nf_tables\n\nOpenwall note: https://www.openwall.com/lists/oss-security/2023/12/22/6\n\nExploit prototype - https://www.openwall.com/lists/oss-security/2023/12/22/6/1",
+    "urls": []
+}
+{
+    "date": "2023-12-25",
+    "from_channel": "elliot_cybersec",
+    "message": "Прежде чем отправиться в запой начать🎄культурно праздновать ближайшие две недели, обратите внимание на то, что Яндекс запустил новый конкурс в своей багбаунти программе. \n\nПредлагается искать наши любимые уязвимости, позволяющие осуществлять межсайтовый скриптинг – XSS.\n\nЗа XSS-уязвимости, которые могут привести к раскрытию чувствительной информации можно получить до 500 000 рублей. Комбинировать несколько багов и механик для повышения критичности уязвимости тоже можно. Например, XSS на одном домене + CORS-запрос на другом. \n\n👆Чем опаснее уязвимость, тем выше награда.\n\nКонкурс продлится до 31 января: советуем начать пентестить уязы до праздников. У нас уже есть несколько интересных идей на примете. Подробную информацию о наградах смотрите здесь."
+}
+{
+    "date": "2023-12-23",
+    "from_channel": "elliot_cybersec",
+    "message": "🛡 Методология тестирования уязвимостей к SQL-инъекции | Привет, друг. На связи Эллиот.\n\nТестирование на наличие уязвимостей SQL-инъекций может выполняться вручную или с помощью автоматизированных инструментов. \n\n— Ниже привёл чек-лист, по которому можно следовать для проверки уязвимостей к SQL-инъекциям:\n\n1. Определите все поля ввода в веб-приложении, включая формы, строки запроса и файлы cookie.\n\n2. Попытайтесь ввести различную полезную нагрузку SQL-инъекций, такие как одинарные кавычки, двойные кавычки и логические операторы, в каждое поле ввода.\n\n3. Наблюдайте за поведением приложения и ищите любые неожиданные результаты, такие как сообщения об ошибках или утечка данных.\n\n4. Используйте автоматические инструменты для автоматизации этих шагов и сканирования веб-сайта, приложения.\n\n👩‍💻 Инструменты для автоматического обнаружения и эксплуатации:\n\n• sqlmap — автоматизирует процесс обнаружения и использования ошибок SQL-инъекций и захвата серверов баз данных.\n\n• SQLNinja — специализируется на поиске уязвимостей SQL-инъекций в веб-приложениях, использующих Microsoft SQL Server.\n\n• Havij — выявляет и использует уязвимости SQL-инъекций в целевом приложении и способен выполнять различные типы атак, включая Blind SQL-инъекцию и SQL-инъекцию на основе времени.\n\n• sqldump — позволяет получить дамп содержимого базы данных или совокупности баз для создания резервной копии или пересылки данных на другой SQL-сервер.\n\n#SQL #Injection #metodology"
 }
 {
     "date": "2023-12-22",
     "from_channel": "defcon_news",
     "message": "Hospital Management System 4.0 XSS / Shell Upload / SQL Injection\nhttps://packetstormsecurity.com/files/176302/hms40-sqlxssshellupload.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/176302/hms40-sqlxssshellupload.txt"
 }
@@ -396,6 +409,7 @@
     "date": "2023-12-22",
     "from_channel": "defcon_news",
     "message": "GilaCMS 1.15.4 SQL Injection\nhttps://packetstormsecurity.com/files/176301/gilacms1154-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/176301/gilacms1154-sql.txt"
 }
@@ -403,6 +417,7 @@
     "date": "2023-12-21",
     "from_channel": "defcon_news",
     "message": "Critical RCE Vulnerability Patched in Backup Migration Plugin\nhttps://blog.sucuri.net/2023/12/critical-rce-vulnerability-patched-in-backup-migration-plugin.html",
+    "urls": [],
     "webpage_description": "Get insights on the severe vulnerability in the Backup Migration WordPress plugin and its latest critical security patch. Understand its impact, patch details, and the vital role of auto-updates and firewalls in securing your website.",
     "webpage_url": "https://blog.sucuri.net/2023/12/critical-rce-vulnerability-patched-in-backup-migration-plugin.html"
 }
@@ -410,18 +425,21 @@
     "date": "2023-12-21",
     "from_channel": "defcon_news",
     "message": "Google Rushes To Patch Eighth Chrome Zero Day This Year\nhttps://packetstormsecurity.com/news/view/35326/Google-Rushes-To-Patch-Eighth-Chrome-Zero-Day-This-Year.html",
+    "urls": [],
     "webpage_description": "Google warns of in-the-wild exploitation of CVE-2023-7024, a new Chrome vulnerability, the eighth documented this year.",
     "webpage_url": "https://packetstormsecurity.com/news/view/35326/Google-Rushes-To-Patch-Eighth-Chrome-Zero-Day-This-Year.html"
 }
 {
     "date": "2023-12-21",
     "from_channel": "defcon_news",
-    "message": "Urgent: New Chrome Zero-Day Vulnerability Exploited in the Wild - Update ASAP\nhttps://thehackernews.com/2023/12/urgent-new-chrome-zero-day.html"
+    "message": "Urgent: New Chrome Zero-Day Vulnerability Exploited in the Wild - Update ASAP\nhttps://thehackernews.com/2023/12/urgent-new-chrome-zero-day.html",
+    "urls": []
 }
 {
     "date": "2023-12-20",
     "from_channel": "freedomf0x",
     "message": "1. #CVE-2023-50917:\n#MajorDoMo Unauthenticated #RCE\n\nhttps://github.com/Chocapikk/CVE-2023-50917\n\n2. CVE-2023-41772:\nUIFuckUp #exploit to gain system privileges as user on #Windows 10 (>=1809) and 11\n\nhttps://github.com/R41N3RZUF477/CVE-2023-41772\n\n3. CVE-2023-49786:\n#Asterisk 20.1.0 - DoS via DTLS\n\nhttps://packetstormsecurity.com/files/176251/Asterisk-20.1.0-Denial-Of-Service.html",
+    "urls": [],
     "webpage_description": "MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques - GitHub - Chocapikk/CVE-2023-50917: MajorDoMo Unauthenticated RCE: Deep Dive & Exploitation Techniques",
     "webpage_url": "https://github.com/Chocapikk/CVE-2023-50917"
 }
@@ -429,13 +447,20 @@
     "date": "2023-12-19",
     "from_channel": "freedomf0x",
     "message": "#SharePoint Pre-Auth Code Injection #RCE chain #CVE-2023-29357 & CVE-2023-24955 #PoC\n\nhttps://gist.github.com/testanull/dac6029d306147e6cc8dce9424d09868",
+    "urls": [],
     "webpage_description": "SharePoint Pre-Auth Code Injection RCE chain CVE-2023-29357 & CVE-2023-24955 PoC - SharePwn_public.py",
     "webpage_url": "https://gist.github.com/testanull/dac6029d306147e6cc8dce9424d09868"
+}
+{
+    "date": "2023-12-18",
+    "from_channel": "cybersec_academy",
+    "message": "👋 Приветствую в мире цифровой безопасности!\n\nВ сегодняшней статье речь пойдёт о загрузке PDF-файла, ведущая к Stored XSS при пентесте веб-приложения. \n\nStored XSS — (также известные как вторичный или постоянный XSS) возникает, когда приложение получает данные из ненадёжного источника и включает эти данные в свои более поздние HTTP-ответы небезопасным способом.\n\n⏺ Читать на telegra.ph\n\nZeroDay | #XSS #Stored #PDF"
 }
 {
     "date": "2023-12-16",
     "from_channel": "freedomf0x",
     "message": "1. #CVE-2023-6295:\nso-widgets-bundle < 1.51.0 - Admin+ #LFI\n\nhttps://0day.work/cve-2023-6295-so-widgets-bundle-1-51-0-admin-local-file-inclusion\n\n2. CVE-2023-49954:\nSQL Injection in 3CX CRM Integration\n\nhttps://github.com/CVE-2023-49954/CVE-2023-49954.github.io\n\n3. #Whatsapp #Exploit to spoofing impersonate of reply message\n\nhttps://github.com/lichti/whats-spoofing",
+    "urls": [],
     "webpage_description": "In this blog post I'll describe the details of CVE-2023-6295, a local file inclusion in WordPress' so-widgets-bundle plugin.",
     "webpage_url": "https://0day.work/cve-2023-6295-so-widgets-bundle-1-51-0-admin-local-file-inclusion/"
 }
@@ -443,6 +468,7 @@
     "date": "2023-12-15",
     "from_channel": "defcon_news",
     "message": "CVE-2023-47271: Remote Code Execution Vulnerability in PKP-WAL <= 3.4.0-3\nhttps://www.reddit.com/r/netsec/comments/18ifr59/cve202347271_remote_code_execution_vulnerability/",
+    "urls": [],
     "webpage_description": "Posted by eg1x - 1 vote and no comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/18ifr59/cve202347271_remote_code_execution_vulnerability/"
 }
@@ -455,23 +481,27 @@
     "date": "2023-12-14",
     "from_channel": "defcon_news",
     "message": "\"История одного взлома: Моя свадьба с SQL Injection. Как я нашел себя в объятиях 'Бэд Бой' базы данных и вышел оттуда целым!\"\nhttps://codeby.net/threads/istorija-odnogo-vzloma-moja-svadba-s-sql-injection-kak-ja-nashel-sebja-v-objatijax-behd-boj-bazy-dannyx-i-vyshel-ottuda-celym.82451/",
+    "urls": [],
     "webpage_description": "Да, я прошел курс по SQL Injection Master и теперь мое ядро базы данных полным ходом работает на чистом \"юморе\"! Мои знания на момент начала курса по sql были минимальные, делать простые выборки...",
     "webpage_url": "https://codeby.net/threads/istorija-odnogo-vzloma-moja-svadba-s-sql-injection-kak-ja-nashel-sebja-v-objatijax-behd-boj-bazy-dannyx-i-vyshel-ottuda-celym.82451/"
 }
 {
     "date": "2023-12-14",
     "from_channel": "defcon_news",
-    "message": "New Hacker Group 'GambleForce' Tageting APAC Firms Using SQL Injection Attacks\nhttps://thehackernews.com/2023/12/new-hacker-group-gambleforce-tageting.html"
+    "message": "New Hacker Group 'GambleForce' Tageting APAC Firms Using SQL Injection Attacks\nhttps://thehackernews.com/2023/12/new-hacker-group-gambleforce-tageting.html",
+    "urls": []
 }
 {
     "date": "2023-12-14",
     "from_channel": "freedomf0x",
-    "message": "1. #CVE-2023-36424:\n\n#Windows Kernel Pool (clfs.sys) Corruption Privilege Escalation\n\nhttps://ssd-disclosure.com/ssd-advisory-windows-kernel-pool-clfs-sys-corruption-privilege-escalation\n\n2. CVE-2023-46818:\n\nISPConfig <=3.2.11 (language_edit.php) #PHP Code Injection\n\nhttps://seclists.org/fulldisclosure/2023/Dec/2\n\n3. CVE-2023-26035:\n\nUnauth #RCE in ZoneMinder Snapshots\n\nhttps://github.com/rvizx/CVE-2023-26035"
+    "message": "1. #CVE-2023-36424:\n\n#Windows Kernel Pool (clfs.sys) Corruption Privilege Escalation\n\nhttps://ssd-disclosure.com/ssd-advisory-windows-kernel-pool-clfs-sys-corruption-privilege-escalation\n\n2. CVE-2023-46818:\n\nISPConfig <=3.2.11 (language_edit.php) #PHP Code Injection\n\nhttps://seclists.org/fulldisclosure/2023/Dec/2\n\n3. CVE-2023-26035:\n\nUnauth #RCE in ZoneMinder Snapshots\n\nhttps://github.com/rvizx/CVE-2023-26035",
+    "urls": []
 }
 {
     "date": "2023-12-13",
     "from_channel": "defcon_news",
     "message": "New WordPress Update Addressed A POP Chain RCE Vulnerability\nhttps://latesthackingnews.com/2023/12/13/new-wordpress-update-addressed-a-pop-chain-rce-vulnerability/",
+    "urls": [],
     "webpage_description": "Heads up, WordPress admins! Ensure updating your websites at the earliest as a severe remote code execution (RCE) vulnerability threatens WordPress sites, triggering full website takeover. WordPress patched the flaw with the latest version 6.4.2. A",
     "webpage_url": "https://latesthackingnews.com/2023/12/13/new-wordpress-update-addressed-a-pop-chain-rce-vulnerability/"
 }
@@ -479,25 +509,34 @@
     "date": "2023-12-13",
     "from_channel": "defcon_news",
     "message": "Sensing Vulnerabilities in your pfSense Firewall: From XSS to RCE\nhttps://www.reddit.com/r/netsec/comments/18govys/sensing_vulnerabilities_in_your_pfsense_firewall/",
+    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/18govys/sensing_vulnerabilities_in_your_pfsense_firewall/"
 }
 {
     "date": "2023-12-13",
+    "from_channel": "cybersec_academy",
+    "message": "👋 Приветствую в мире цифровой безопасности!\n\nСегодня XSS'им сотрудников Google — Blind XSS на googleplex.com\n\nBlind XSS — уязвимость, при которой хакер может внедрить скрипт на страницу, но не может увидеть его непосредственное выполнение.\n\nВ этой статье я расскажу о Blind XSS — это довольно простая, но зачастую очень эффективная атака на веб-приложения. Эксплуатация таких векторов атак приводит к захвату админ-панелей различных сервисов, в том числе софтверных гигантов.\n\n⏺ Читать\n\nZeroDay | #XSS #Blind #Google"
+}
+{
+    "date": "2023-12-13",
     "from_channel": "sysadm_in_channel",
     "message": "/ pfSense Security: Sensing Code Vulnerabilities \n\nAttackers can combine the vulnerabilities to execute arbitrary code on the pfSense appliance remotely. An attacker can trick an authenticated pfSense user into clicking on a maliciously crafted link containing an XSS payload that exploits the command injection vulnerability:\n\nhttps://www.sonarsource.com/blog/pfsense-vulnerabilities-sonarcloud/",
+    "urls": [],
     "webpage_description": "Our Clean Code solution SonarCloud discovered multiple vulnerabilities leading to remote code execution on pfSense CE 2.7.0. Let's see how SonarCloud found them and how it can keep your code clean.",
     "webpage_url": "https://www.sonarsource.com/blog/pfsense-vulnerabilities-sonarcloud/"
 }
 {
     "date": "2023-12-12",
     "from_channel": "defcon_news",
-    "message": "New Critical RCE Vulnerability Discovered in Apache Struts 2 - Patch Now\nhttps://thehackernews.com/2023/12/new-critical-rce-vulnerability.html"
+    "message": "New Critical RCE Vulnerability Discovered in Apache Struts 2 - Patch Now\nhttps://thehackernews.com/2023/12/new-critical-rce-vulnerability.html",
+    "urls": []
 }
 {
     "date": "2023-12-11",
     "from_channel": "defcon_news",
     "message": "WordPress Bravo Translate 1.2 SQL Injection\nhttps://packetstormsecurity.com/files/176137/wpbravotranslate12-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/176137/wpbravotranslate12-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -505,6 +544,7 @@
     "date": "2023-12-11",
     "from_channel": "defcon_news",
     "message": "wrapwrap: using PHP filters to wrap a file with a prefix and suffix (SSRF, file read)\nhttps://www.reddit.com/r/netsec/comments/18fppnh/wrapwrap_using_php_filters_to_wrap_a_file_with_a/",
+    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/18fppnh/wrapwrap_using_php_filters_to_wrap_a_file_with_a/"
 }
@@ -512,6 +552,7 @@
     "date": "2023-12-11",
     "from_channel": "freedomf0x",
     "message": "#exploit\n\n1. #SonicWall WXA - Authentication Bypass and #RCE Vulnerability\n\nhttps://www.praetorian.com/blog/sonicwall-wxa-authentication-bypass-and-rce-vulnerability\n\n2. #CVE-2023-49964:\nFreeMarker Server-Side Template Injection in #Alfresco\n\nhttps://github.com/mbadanoiu/CVE-2023-49964\n\n3. CVE-2022-21392:\n#LPE via NMR SUID in #Oracle Enterprise Manager\n\nhttps://github.com/mbadanoiu/CVE-2022-21392",
+    "urls": [],
     "webpage_description": "We found that SonicWall WXA distributed a hardcoded key to the end-user , which can lead to unauthenticated remote code execution.",
     "webpage_url": "https://www.praetorian.com/blog/sonicwall-wxa-authentication-bypass-and-rce-vulnerability/"
 }
@@ -519,6 +560,7 @@
     "date": "2023-12-10",
     "from_channel": "freedomf0x",
     "message": "#CVE-2023-30547\n#PoC #Exploit for VM2 Sandbox Escape Vulnerability\n\nhttps://github.com/rvizx/CVE-2023-30547",
+    "urls": [],
     "webpage_description": "PoC Exploit  for VM2 Sandbox Escape Vulnerability. Contribute to rvizx/CVE-2023-30547 development by creating an account on GitHub.",
     "webpage_url": "https://github.com/rvizx/CVE-2023-30547"
 }
@@ -526,18 +568,21 @@
     "date": "2023-12-10",
     "from_channel": "defcon_news",
     "message": "New payload to exploit Error-based SQL injection - Oracle database\nhttps://www.reddit.com/r/netsec/comments/18eyrrt/new_payload_to_exploit_errorbased_sql_injection/",
+    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/18eyrrt/new_payload_to_exploit_errorbased_sql_injection/"
 }
 {
     "date": "2023-12-09",
     "from_channel": "Leakers_squad",
-    "message": "🔤Networking Basics🔤\n\nNetworking provides access to a vast amount of information available on the internet. \n\n🔓Basic network protocols: \nUnderstand the fundamentals of protocols like TCP/IP, UDP, ICMP, and HTTP. \n\n🔓Network scanning: \nLearn about tools and techniques used to discover and map network resources, such as port scanning, network sniffing, and network mapping. \n\n🔓Network vulnerabilities: \nIdentify common network vulnerabilities, including misconfigurations, weak authentication, open ports, insecure protocols, and weak encryption. \n\n🔓Exploitation techniques: \nFamiliarize yourself with exploitation methods, such as packet injection, man-in-the-middle attacks, DNS spoofing, ARP poisoning, and session hijacking. \n\n🔓Network security tools: \nGain knowledge of various security tools like Wireshark, Nmap, Metasploit, Burp Suite, Snort, and tcpdump for network monitoring, analysis, and penetration testing.\n\n🔓Firewall and IDS/IPS evasion: \nUnderstand how to bypass firewalls and intrusion detection/prevention systems to avoid detection while conducting network attacks. \n\n🔓Social engineering in network hacking:\n \nStudy techniques used to manipulate people for gaining unauthorized access to networks, like phishing, pretexting, baiting, and shoulder surfing. \n\n🔓Wireless network hacking: \nLearn about the security vulnerabilities present in wireless networks, such as Wi-Fi cracking, WEP/WPA2 attacks, rogue access points, and wireless packet injection. \n\n🔓Network forensics: \nAcquire knowledge on investigating and analyzing network-based security incidents, examining network logs, packet captures, and identifying potentials network breaches.\n \n🔓Network hardening: \nUnderstand techniques to secure networks by implementing security best practices, including proper network segmentation, regular patching, strong authentication measures, and encryption.\n\n☘PASS : @its_me_kali \n\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲           \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ"
+    "message": "🔤Networking Basics🔤\n\nNetworking provides access to a vast amount of information available on the internet. \n\n🔓Basic network protocols: \nUnderstand the fundamentals of protocols like TCP/IP, UDP, ICMP, and HTTP. \n\n🔓Network scanning: \nLearn about tools and techniques used to discover and map network resources, such as port scanning, network sniffing, and network mapping. \n\n🔓Network vulnerabilities: \nIdentify common network vulnerabilities, including misconfigurations, weak authentication, open ports, insecure protocols, and weak encryption. \n\n🔓Exploitation techniques: \nFamiliarize yourself with exploitation methods, such as packet injection, man-in-the-middle attacks, DNS spoofing, ARP poisoning, and session hijacking. \n\n🔓Network security tools: \nGain knowledge of various security tools like Wireshark, Nmap, Metasploit, Burp Suite, Snort, and tcpdump for network monitoring, analysis, and penetration testing.\n\n🔓Firewall and IDS/IPS evasion: \nUnderstand how to bypass firewalls and intrusion detection/prevention systems to avoid detection while conducting network attacks. \n\n🔓Social engineering in network hacking:\n \nStudy techniques used to manipulate people for gaining unauthorized access to networks, like phishing, pretexting, baiting, and shoulder surfing. \n\n🔓Wireless network hacking: \nLearn about the security vulnerabilities present in wireless networks, such as Wi-Fi cracking, WEP/WPA2 attacks, rogue access points, and wireless packet injection. \n\n🔓Network forensics: \nAcquire knowledge on investigating and analyzing network-based security incidents, examining network logs, packet captures, and identifying potentials network breaches.\n \n🔓Network hardening: \nUnderstand techniques to secure networks by implementing security best practices, including proper network segmentation, regular patching, strong authentication measures, and encryption.\n\n☘PASS : @its_me_kali \n\n♡ ㅤ    ❍ㅤ    ⎙ㅤ  ⌲           \nˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ  ˢᵃᵛᵉ  ˢʰᵃʳᵉ",
+    "urls": []
 }
 {
     "date": "2023-12-08",
     "from_channel": "defcon_news",
     "message": "HackerOne: Server Side Request Forgery (SSRF) via Analytics Reports\nhttps://vulners.com/hackerone/H1:2262382?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "urls": [],
     "webpage_description": "Hello Gents, I would like to report an issue where attackers are able to read internal files via an SSRF vulnerability. Proof of concept  {F2878644}  Impact SSRF. Thanks and have a nice...",
     "webpage_url": "https://vulners.com/hackerone/H1:2262382?utm_source=rss&utm_medium=rss&utm_campaign=rss"
 }
@@ -550,6 +595,7 @@
     "date": "2023-12-08",
     "from_channel": "defcon_news",
     "message": "ISPConfig 3.2.11 PHP Code Injection\nhttps://packetstormsecurity.com/files/176126/KIS-2023-13.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/176126/KIS-2023-13.txt?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -557,6 +603,7 @@
     "date": "2023-12-08",
     "from_channel": "defcon_news",
     "message": "osCommerce 4 SQL Injection\nhttps://packetstormsecurity.com/files/176124/oscommerce4-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/176124/oscommerce4-sql.txt?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -564,6 +611,7 @@
     "date": "2023-12-08",
     "from_channel": "defcon_news",
     "message": "WordPress 6.4.2 Patches Remote Code Execution Vulnerability\nhttps://packetstormsecurity.com/news/view/35282/WordPress-6.4.2-Patches-Remote-Code-Execution-Vulnerability.html",
+    "urls": [],
     "webpage_description": "WordPress 6.4.2 patches a flaw that could be chained with another vulnerability to execute arbitrary code.",
     "webpage_url": "https://packetstormsecurity.com/news/view/35282/WordPress-6.4.2-Patches-Remote-Code-Execution-Vulnerability.html"
 }
@@ -571,6 +619,7 @@
     "date": "2023-12-07",
     "from_channel": "defcon_news",
     "message": "CVE-2023-46818: PHP Code Injection Vulnerability in ISPConfig <= 3.2.11\nhttps://www.reddit.com/r/netsec/comments/18czyrt/cve202346818_php_code_injection_vulnerability_in/",
+    "urls": [],
     "webpage_description": "Posted by eg1x - 4 votes and no comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/18czyrt/cve202346818_php_code_injection_vulnerability_in/"
 }
@@ -578,6 +627,7 @@
     "date": "2023-12-06",
     "from_channel": "defcon_news",
     "message": "Unicode XSS via Combining Characters\nhttps://www.reddit.com/r/netsec/comments/18bctu4/unicode_xss_via_combining_characters/",
+    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/18bctu4/unicode_xss_via_combining_characters/"
 }
@@ -585,6 +635,7 @@
     "date": "2023-12-05",
     "from_channel": "defcon_news",
     "message": "Argument injection leading to unauthenticated RCE and authentication bypass in Atos Unify OpenScape Session Border Controller (and Branch, BCF products)\nhttps://www.reddit.com/r/netsec/comments/18b692k/argument_injection_leading_to_unauthenticated_rce/",
+    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/18b692k/argument_injection_leading_to_unauthenticated_rce/"
 }
@@ -592,6 +643,7 @@
     "date": "2023-12-04",
     "from_channel": "defcon_news",
     "message": "PHPJabbers Appointment Scheduler 3.0 CSV Injection\nhttps://packetstormsecurity.com/files/176058/phpjabbersas30-csvinject.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/176058/phpjabbersas30-csvinject.txt?utm_source=dlvr.it&utm_medium=twitter"
 }
@@ -599,6 +651,7 @@
     "date": "2023-12-04",
     "from_channel": "defcon_news",
     "message": "PHPJabbers Car Rental 3.0 CSV Injection\nhttps://packetstormsecurity.com/files/176045/phpjabberscarrental30-csvinject.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/176045/phpjabberscarrental30-csvinject.txt"
 }
@@ -606,6 +659,7 @@
     "date": "2023-12-04",
     "from_channel": "defcon_news",
     "message": "PHPJabbers Shuttle Booking Software 2.0 CSV Injection\nhttps://packetstormsecurity.com/files/176038/phpjabberssbs20-csvinject.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/176038/phpjabberssbs20-csvinject.txt"
 }
@@ -613,6 +667,7 @@
     "date": "2023-12-04",
     "from_channel": "defcon_news",
     "message": "PHPJabbers Time Slots Booking Calendar 4.0 CSV Injection\nhttps://packetstormsecurity.com/files/176034/phpjabberstsbc40-csvinject.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/176034/phpjabberstsbc40-csvinject.txt"
 }
@@ -620,8 +675,14 @@
     "date": "2023-12-04",
     "from_channel": "defcon_news",
     "message": "GaatiTrack Courier Management System 1.0 SQL Injection\nhttps://packetstormsecurity.com/files/176030/gaatitrackcms10-sql.txt",
+    "urls": [],
     "webpage_description": "Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
     "webpage_url": "https://packetstormsecurity.com/files/176030/gaatitrackcms10-sql.txt"
+}
+{
+    "date": "2023-12-04",
+    "from_channel": "cybersec_academy",
+    "message": "👋 Приветствую в мире цифровой безопасности!\n\nПоговорим о проблемах с безопасностью сайтов на базе WordPress.\n\n1️⃣ Уязвимости в плагинах, темах и WordPress core\n\nВо всех подборках проблем с безопасностью WordPress, которые ты можешь найти, стабильно фигурируют такие вещи, как межсайтовый скриптинг (XSS), внедрение SQL-кода (SQL injection) и межсайтовая подделка запроса (CSRF). Так вот, все эти атаки становятся возможны из-за уязвимостей либо в основном ПО WordPress, либо в плагинах и темах.\n\n2️⃣ Слабые пароли и отсутствие двухфакторной аутентификации\n\nВторая важная проблема безопасности WordPress — это взлом сайтов с помощью брутфорса или ввода утекших логинов и паролей из готовых баз. Так хакер может получить доступ к админке вашего сайта.\n\n3️⃣ Беспорядок с пользователями и правами доступа\n\nСледующая проблема связана с предыдущей: часто владельцы WordPress-сайтов недостаточно тщательно управляют правами своих WordPress-пользователей. Тем самым существенно повышаются риски в случае успешного взлома одного из пользовательских аккаунтов.\n\nВ следящем посте ты узнаешь ещё про две важные уязвимости WordPress-сайтов.\n\nZeroDay | #Угрозы"
 }
 {
     "date": "2023-12-03",

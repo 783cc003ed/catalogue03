@@ -1,0 +1,57 @@
+{
+    "date": "2024-11-21",
+    "from_channel": "cybersec_academy",
+    "message": "Типы киберфизических атак. Часть 2\n\n👋 Приветствую в мире цифровой безопасности!\n\nПродолжим говорить о типах киберфизических атак.\n\n⏺Replay Attack (Повторная атака): представьте, что ваш сервер получает важное сообщение, и кто-то решает \"повторить\" его в рандомный момент. На практике это может быть критический сигнал в промышленной системе, который хакер воспроизводит, чтобы вызвать сбой.\n\n⏺Code Injection (Внедрение кода): хакеры могут внедрять вредоносный код в систему, что вызывает серьезные сбои. Пример — SQL-инъекция, где при помощи специального кода атакующие могут проникнуть в базу данных, получить доступ к конфиденциальной информации и вызвать сбои в работе системы.\n\n⏺Malware (Заражение вирусами): вредоносы, такие как вирусы и черви, способны разрушать системы, красть данные или выводить из строя оборудование. Один из базовых примеров — Stuxnet, вирус, который был создан для целенаправленной атаки на ядерное оборудование, разрушая его физически, не привлекая внимания.\n\nZeroDay | #атака"
+}
+{
+    "date": "2024-11-07",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Cisco Releases Patch for Critical URWB Vulnerability in Industrial Wireless Systems 🖋️\n\nCisco has released security updates to address a maximum severity security flaw impacting UltraReliable Wireless Backhaul URWB Access Points that could permit unauthenticated, remote attackers to run commands with elevated privileges. Tracked as CVE202420418 CVS score 10.0, the vulnerability has been described as stemming from a lack of input validation to the webbased management.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-11-07",
+    "from_channel": "cibsecurity",
+    "message": "🦅 Critical Bug in Cisco’s URWB Exposes Systems to Root Privilege Command Injection 🦅\n\n  Overview     Cisco has disclosed a severe vulnerability, tracked as CVE202420418, in its Unified Industrial Wireless Software for UltraReliable Wireless Backhaul URWB Access Points. The flaw, rated with a maximum CVSS score of 10.0, affects multiple Cisco Catalyst Access Point models.   Attackers exploiting this vulnerability can gain rootlevel control, enabling unauthorized command execution on vulnerable devices.   Vulnerability Details     This critical CVE202420418 vulnerability stems from improper input validation within Cisco's webbased management interface, which controls URWB Access Points. A remote attacker without authentication can exploit this flaw by sending specially crafted HTTP requests to vulnerable devices, thereby injecting commands with root privileges on the devic...\n\n📖 Read more.\n\n🔗 Via \"CYBLE\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "This flaw, identified as CVE-2024-20418, holds a CVSS score of 10.0, and is considered highly critical in nature. Currently, there are no workarounds, although Cisco has released a software update to address the issue.",
+    "webpage_url": "https://cyble.com/blog/critical-bug-in-ciscos-urwb-exposes-systems-to-root-privilege-command-injection/"
+}
+{
+    "date": "2024-11-07",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Cisco Releases Patch for Critical URWB Vulnerability in Industrial Wireless Systems 🖋️\n\nCisco has released security updates to address a maximum severity security flaw impacting UltraReliable Wireless Backhaul URWB Access Points that could permit unauthenticated, remote attackers to run commands with elevated privileges. Tracked as CVE202420418 CVS score 10.0, the vulnerability has been described as stemming from a lack of input validation to the webbased management.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-11-06",
+    "from_channel": "Social_engineering",
+    "message": "👨‍💻 Бесплатный курс по обратной разработке.\n\n•  Анализ вредоносного кода — это целая индустрия в области обеспечения информационной безопасности. Им занимаются и антивирусные лаборатории, выпускающие свои продукты для защиты, и узкоспециализированные группы экспертов, стремящихся быть в тренде векторов атак, и даже сами вирусописатели, которые конкурируют между собой за потенциального клиента (жертву).\n\n•  Одна из важных частей анализа малвари — реверсинг или «обратная разработка», программного обеспечения. Если в двух словах, реверсинг — это попытка изучить и воссоздать алгоритмы работы программы, не имея на руках исходных кодов, с помощью специальных отладочных техник.\n\n•  Для изучения данной \"науки\" у меня есть несколько полезных ссылок:\n\n1⃣ Очень объемный курс для начинающих, который будет полезен тем, у кого совсем нет опыта в данном направлении. Замечу, что оригинальная версия данного курса опубликована на испанском языке, но один из участников форума XSS перевел весь материал на русский и опубликовал в открытом доступе совершенно бесплатно. Вот ссылка на перевод: https://yutewiyof.gitbook.io/intro-rev-ida-pro. Ну, а если прям хотите заморочиться и изучить оригинальную версию, то ее можно найти по этой ссылке: http://ricardonarvaja.info\n\n2⃣ Материал по данной теме от журнала ][акер, который открыл бесплатный доступ к статьям ниже. Стоит отметить, что это уже относится к дополнительному материалу и я рекомендую приступать к прочтению только тогда, когда Вы прочитаете курс из первого пункта.\n\n➡Введение: выбираем инструменты, репозитории и источники знаний;\n➡Разбираем простой вирус;\n➡Вскрываем упаковщики, ломаем протекторы;\n➡Инструменты скрытия вредоносной активности;\n➡Внедрение shellcode и шифрование malware-кода.\n\nS.E. ▪️ infosec.work ▪️ VT"
+}
+{
+    "date": "2024-11-05",
+    "from_channel": "cibsecurity",
+    "message": "📢 Google’s Big Sleep AI model just found a zero-day vulnerability in the wild — but don’t hold your breath for game-changing AI bug hunting tools any time soon 📢\n\nGoogle clarified it was the first undiscovered memory safety bug to be flagged by an AI agent, touting this as a significant step in using AI for vulnerability research.\n\n📖 Read more.\n\n🔗 Via \"ITPro\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "Google clarified it was the first undiscovered memory safety bug to be flagged by an AI agent, touting this as a significant step in using AI for vulnerability research",
+    "webpage_url": "https://www.itpro.com/security/googles-big-sleep-ai-model-just-found-a-zero-day-vulnerability-in-the-wild-but-dont-hold-your-breath-for-game-changing-ai-bug-hunting-tools-any-time-soon"
+}
+{
+    "date": "2024-11-04",
+    "from_channel": "cibsecurity",
+    "message": "🦅 ICS Vulnerability Intelligence Report: Key Insights and Recommendations 🦅\n\n  Overview     Cyble Research  Intelligence Labs CRIL has investigated key ICS vulnerabilities this week, providing critical insights issued by the Cybersecurity and Infrastructure Security Agency CISA, focusing on multiple flaws in several ICS products.   During this reporting period, CISA issued four security advisories targeting vulnerabilities across various Industrial Control Systems, including those from ICONICS, Mitsubishi Electric, VIMESA, iniNet Solutions, and Deep Sea Electronics. These advisories pinpoint ICS vulnerabilities that security teams should prioritize for immediate patching to mitigate potential risks.   The recent vulnerability assessment has revealed a highseverity path traversal vulnerability in SpiderControl SCADA. The Deep Sea Electronics DSE855 has also been ...\n\n📖 Read more.\n\n🔗 Via \"CYBLE\"\n\n----------\n👁️ Seen on @cibsecurity",
+    "webpage_description": "Cyble Research investigates critical ICS vulnerabilities identified by CISA, emphasizing urgent patching for affected products.",
+    "webpage_url": "https://cyble.com/blog/latest-ics-vulnerabilities/"
+}
+{
+    "date": "2024-11-04",
+    "from_channel": "cibsecurity",
+    "message": "🖋️ Google’s AI Tool Big Sleep Finds Zero-Day Vulnerability in SQLite Database Engine 🖋️\n\nGoogle said it discovered a zeroday vulnerability in the SQLite opensource database engine using its large language model LLM assisted framework called Big Sleep formerly Project Naptime. The tech giant described the development as the \"first realworld vulnerability\" uncovered using the artificial intelligence AI agent. \"We believe this is the first public example of an AI agent finding.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
+}
+{
+    "date": "2024-11-04",
+    "from_channel": "defcon_news",
+    "message": "Google’s AI Tool Big Sleep Finds Zero-Day Vulnerability in SQLite Database Engine\nhttps://thehackernews.com/2024/11/googles-ai-tool-big-sleep-finds-zero.html",
+    "urls": []
+}
+{
+    "date": "2024-11-01",
+    "from_channel": "proxy_bar",
+    "message": "CVE-2024-39205\n*\nPyload (работающий под управлением Python3.11 или ниже) уязвим к RCE\n*\nExploit"
+}

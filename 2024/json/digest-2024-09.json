@@ -6,22 +6,25 @@
 {
     "date": "2024-09-30",
     "from_channel": "defcon_news",
-    "message": "Session Hijacking 2.0 — The Latest Way That Attackers are Bypassing MFA\nhttps://thehackernews.com/2024/09/session-hijacking-20-latest-way-that.html"
+    "message": "Session Hijacking 2.0 — The Latest Way That Attackers are Bypassing MFA\nhttps://thehackernews.com/2024/09/session-hijacking-20-latest-way-that.html",
+    "urls": []
 }
 {
     "date": "2024-09-30",
     "from_channel": "sysadm_in_channel",
     "message": "Novel Exploit Chain Enables Windows UAC Bypass\n\nhttps://www.darkreading.com/vulnerabilities-threats/exploit-chain-windows-uac-bypass",
+    "urls": [],
     "webpage_description": "Adversaries can exploit CVE-2024-6769 to jump from regular to admin access without triggering UAC, but Microsoft says it's not really a vulnerability.",
     "webpage_url": "https://www.darkreading.com/vulnerabilities-threats/exploit-chain-windows-uac-bypass"
 }
 {
     "date": "2024-09-29",
     "from_channel": "ctfchat",
-    "message": "Stored xss сделай"
+    "message": "Stored xss сделай",
+    "urls": []
 }
 {
-    "date": "2024-09-28",
+    "date": "2024-09-27",
     "from_channel": "cibsecurity",
     "message": "🖋️ Critical Linux CUPS Printing System Flaws Could Allow Remote Command Execution 🖋️\n\nA new set of security vulnerabilities has been disclosed in the OpenPrinting Common Unix Printing System CUPS on Linux systems that could permit remote command execution under certain conditions. \"A remote unauthenticated attacker can silently replace existing printers' or install new ones IPP urls with a malicious one, resulting in arbitrary command execution on the computer when a print.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
 }
@@ -31,6 +34,11 @@
     "message": "🕵️‍♂️ Novel Exploit Chain Enables Windows UAC Bypass 🕵️‍♂️\n\nAdversaries can exploit CVE20246769 to jump from regular to admin access without triggering UAC, but Microsoft says it's not really a vulnerability.\n\n📖 Read more.\n\n🔗 Via \"Dark Reading\"\n\n----------\n👁️ Seen on @cibsecurity",
     "webpage_description": "Adversaries can exploit CVE-2024-6769 to jump from regular to admin access without triggering UAC, but Microsoft says it's not really a vulnerability.",
     "webpage_url": "https://www.darkreading.com/vulnerabilities-threats/exploit-chain-windows-uac-bypass"
+}
+{
+    "date": "2024-09-26",
+    "from_channel": "it_secur",
+    "message": "👨‍💻 HTTP Security Headers.\n\n•  X-Content-Type-Options Header;\n•  Reflected File Download (RFD);\n•  CORS Deception;\n•  Clickjacking;\n•  XSS (Cross-Site Scripting);\n•  SSL/TLS Stripping (MITM);\n•  Cookie Hijacking;\n•  CSRF (Cross-Site Request Forgery);\n•  Information Disclosure Attacks;\n•  Cache-Control Header;\n•  Content-Disposition Header;\n•  Cross-Origin Resource Policy (CORP);\n•  Extra HTTP Header Injection;\n•  Content-Encoding Header;\n•  Access-Control-Allow-Origin Header;\n•  X-Rate-Limit and X-Forwarded Headers;\n•  X-Content-Type-Options Header;\n•  XSS and CSRF Protection;\n•  Content-Security-Policy (CSP).\n\n#devsecops"
 }
 {
     "date": "2024-09-25",
@@ -54,7 +62,8 @@
 {
     "date": "2024-09-18",
     "from_channel": "Leakers_squad",
-    "message": "How to deal with Enterprise Cyber Attacks?\n\nTo mitigate these risks, enterprises should implement robust security measures, conduct regular training and awareness programs, and maintain a culture of cybersecurity.\n\n🏷Common Cyber Attacks Methods :\n1. Ransomware\n2. Phishing\n3. SQL Injection\n4. Cross-Site Scripting (XSS)\n5. Distributed Denial of Service (DDoS)\n\n🏷Phases of Remediation:\n1. Detection and Containment\n2. Eradication\n3. Recovery\n4. Post-Incident Activities\n\n🏷Tools and Technologies:\n1. Incident Response Platforms (IRPs)\n2. Endpoint Detection and Response (EDR)\n3. Security Information and Event Management (SIEM)\n4. Backup and disaster recovery solutions\n\n🏷Best Practices:\n1. Develop and regularly test incident response plan.\n2. Conduct regular security awareness training.\n3. Implement robust backup and disaster recovery procedures.\n4. Continuously monitor and analyze security logs.\n5. Establish clear communication channels.\n\n☘For More : https://www.linkedin.com/company/cidint/\n\n📌Regards : @MajorKali"
+    "message": "How to deal with Enterprise Cyber Attacks?\n\nTo mitigate these risks, enterprises should implement robust security measures, conduct regular training and awareness programs, and maintain a culture of cybersecurity.\n\n🏷Common Cyber Attacks Methods :\n1. Ransomware\n2. Phishing\n3. SQL Injection\n4. Cross-Site Scripting (XSS)\n5. Distributed Denial of Service (DDoS)\n\n🏷Phases of Remediation:\n1. Detection and Containment\n2. Eradication\n3. Recovery\n4. Post-Incident Activities\n\n🏷Tools and Technologies:\n1. Incident Response Platforms (IRPs)\n2. Endpoint Detection and Response (EDR)\n3. Security Information and Event Management (SIEM)\n4. Backup and disaster recovery solutions\n\n🏷Best Practices:\n1. Develop and regularly test incident response plan.\n2. Conduct regular security awareness training.\n3. Implement robust backup and disaster recovery procedures.\n4. Continuously monitor and analyze security logs.\n5. Establish clear communication channels.\n\n☘For More : https://www.linkedin.com/company/cidint/\n\n📌Regards : @MajorKali",
+    "urls": []
 }
 {
     "date": "2024-09-17",
@@ -72,6 +81,7 @@
     "date": "2024-09-16",
     "from_channel": "RalfHackerChannel",
     "message": "🖥 Veeam Backup & Response — RCE (CVE-2024-40711)\n\nA critical deserialization vulnerability in .NET Remoting has been discovered in Veeam Backup & Replication, allowing unauthenticated remote code execution (RCE). The flaw affects versions 12.1.2.172 and earlier.\n\n🔗 Research:\nhttps://labs.watchtowr.com/veeam-backup-response-rce-with-auth-but-mostly-without-auth-cve-2024-40711-2/\n\n🔗 Source:\nhttps://github.com/watchtowrlabs/CVE-2024-40711\n\n#veeam #backup #deserialization #unauth #rce",
+    "urls": [],
     "webpage_description": "Every sysadmin is familiar with Veeam’s enterprise-oriented backup solution, ‘Veeam Backup & Replication’. Unfortunately, so is every ransomware operator, given it's somewhat 'privileged position' in the storage world of most enterprise's networks. There's no point deploying cryptolocker malware on a target unless you can also deny access to backups, and",
     "webpage_url": "https://labs.watchtowr.com/veeam-backup-response-rce-with-auth-but-mostly-without-auth-cve-2024-40711-2/"
 }
@@ -79,13 +89,15 @@
     "date": "2024-09-13",
     "from_channel": "defcon_news",
     "message": "CVE-2024-29847 Deep Dive: Ivanti Endpoint Manager AgentPortal Deserialization of Untrusted Data Remote Code Execution Vulnerability – Horizon3.ai\nhttps://www.reddit.com/r/netsec/comments/1ffwh33/cve202429847_deep_dive_ivanti_endpoint_manager/",
+    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/1ffwh33/cve202429847_deep_dive_ivanti_endpoint_manager/"
 }
 {
     "date": "2024-09-13",
     "from_channel": "sysadm_in_channel",
-    "message": "GitLab Critical Patch Release (17.3.2, 17.2.5, 17.1.7)\n\n- Execute environment stop actions as the owner of the stop action job\n- Prevent code injection in Product Analytics funnels YAML\n- SSRF via Dependency Proxy\n- Denial of Service via sending a large glm_source parameter\n\nGitLab say: We strongly recommend that all installations running a version affected by the issues described below are upgraded to the latest version as soon as possible.\n\nhttps://about.gitlab.com/releases/2024/09/11/patch-release-gitlab-17-3-2-released/"
+    "message": "GitLab Critical Patch Release (17.3.2, 17.2.5, 17.1.7)\n\n- Execute environment stop actions as the owner of the stop action job\n- Prevent code injection in Product Analytics funnels YAML\n- SSRF via Dependency Proxy\n- Denial of Service via sending a large glm_source parameter\n\nGitLab say: We strongly recommend that all installations running a version affected by the issues described below are upgraded to the latest version as soon as possible.\n\nhttps://about.gitlab.com/releases/2024/09/11/patch-release-gitlab-17-3-2-released/",
+    "urls": []
 }
 {
     "date": "2024-09-11",
@@ -116,7 +128,8 @@
 {
     "date": "2024-09-10",
     "from_channel": "defcon_news",
-    "message": "New Chrome Zero-Day\nhttps://www.schneier.com/blog/archives/2024/09/new-chrome-zero-day.html"
+    "message": "New Chrome Zero-Day\nhttps://www.schneier.com/blog/archives/2024/09/new-chrome-zero-day.html",
+    "urls": []
 }
 {
     "date": "2024-09-09",
@@ -132,6 +145,7 @@
     "date": "2024-09-05",
     "from_channel": "defcon_news",
     "message": "Windows Wi-Fi Driver RCE Vulnerability - CVE-2024-30078\nhttps://www.reddit.com/r/netsec/comments/1f9qa6p/windows_wifi_driver_rce_vulnerability_cve202430078/",
+    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://www.reddit.com/r/netsec/comments/1f9qa6p/windows_wifi_driver_rce_vulnerability_cve202430078/"
 }
@@ -148,12 +162,14 @@
 {
     "date": "2024-09-05",
     "from_channel": "RalfHackerChannel",
-    "message": "👩‍💻 Nagios XI — RCE\n\nNagios XI 2024R1.01 has a vulnerability in the monitoringwizard.php component, allowing authenticated SQL injection (CVE-2024-24401) that lets attackers create an admin account and remote code execution. \n\n🔗 Source:\nhttps://github.com/MAWK0235/CVE-2024-24401\n\n#nagios #sql #rce #privesc #poc #exploit"
+    "message": "👩‍💻 Nagios XI — RCE\n\nNagios XI 2024R1.01 has a vulnerability in the monitoringwizard.php component, allowing authenticated SQL injection (CVE-2024-24401) that lets attackers create an admin account and remote code execution. \n\n🔗 Source:\nhttps://github.com/MAWK0235/CVE-2024-24401\n\n#nagios #sql #rce #privesc #poc #exploit",
+    "urls": []
 }
 {
     "date": "2024-09-02",
     "from_channel": "defcon_news",
-    "message": "SQL Injection Attack on Airport Security\nhttps://www.schneier.com/blog/archives/2024/09/sql-injection-attack-on-airport-security.html"
+    "message": "SQL Injection Attack on Airport Security\nhttps://www.schneier.com/blog/archives/2024/09/sql-injection-attack-on-airport-security.html",
+    "urls": []
 }
 {
     "date": "2024-09-01",

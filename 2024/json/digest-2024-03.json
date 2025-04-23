@@ -1,4 +1,9 @@
 {
+    "date": "2024-03-30",
+    "from_channel": "elliot_cybersec",
+    "message": "🎃 Уязвимость SSRF: перенаправление со сменой протокола | Привет, друг. На связи Эллиот.\n\nВозникают проблемы с SSRF-фильтром?- иногда достаточно использовать перенаправление, которое изменяет протокол, указав, например, https вместо http.\n\nПодробнее об этом читайте в статье ниже. Там вы узнаете, о тривиальном обходе для SSRF, найденном в популярной библиотеке request NodeJS.\n\n⏺ Ссылка на чтиво\n\n#SSRF #WAF"
+}
+{
     "date": "2024-03-22",
     "from_channel": "cibsecurity",
     "message": "🖋️ AWS Patches Critical 'FlowFixation' Bug in Airflow Service to Prevent Session Hijacking 🖋️\n\nCybersecurity researchers have shared details of a nowpatched security vulnerability in Amazon Web Services AWS Managed Workflows for Apache Airflow MWAA that could be potentially exploited by a malicious actor to hijack victims' sessions and achieve remote code execution on underlying instances. The vulnerability, now addressed by AWS, has been codenamed FlowFixation by Tenable.\n\n📖 Read more.\n\n🔗 Via \"The Hacker News\"\n\n----------\n👁️ Seen on @cibsecurity"
@@ -6,12 +11,14 @@
 {
     "date": "2024-03-22",
     "from_channel": "defcon_news",
-    "message": "AWS Patches Critical 'FlowFixation' Bug in Airflow Service to Prevent Session Hijacking\nhttps://thehackernews.com/2024/03/aws-patches-critical-flowfixation-bug.html"
+    "message": "AWS Patches Critical 'FlowFixation' Bug in Airflow Service to Prevent Session Hijacking\nhttps://thehackernews.com/2024/03/aws-patches-critical-flowfixation-bug.html",
+    "urls": []
 }
 {
     "date": "2024-03-21",
     "from_channel": "defcon_news",
     "message": "CVE-2023-48788: Fortinet FortiClientEMS SQL Injection Deep Dive and IOCs\nhttps://old.reddit.com/r/netsec/comments/1bk5nwp/cve202348788_fortinet_forticlientems_sql/",
+    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://old.reddit.com/r/netsec/comments/1bk5nwp/cve202348788_fortinet_forticlientems_sql/"
 }
@@ -23,7 +30,8 @@
 {
     "date": "2024-03-21",
     "from_channel": "defcon_news",
-    "message": "Ivanti Releases Urgent Fix for Critical Sentry RCE Vulnerability\nhttps://thehackernews.com/2024/03/ivanti-releases-urgent-fix-for-critical.html"
+    "message": "Ivanti Releases Urgent Fix for Critical Sentry RCE Vulnerability\nhttps://thehackernews.com/2024/03/ivanti-releases-urgent-fix-for-critical.html",
+    "urls": []
 }
 {
     "date": "2024-03-21",
@@ -33,12 +41,14 @@
 {
     "date": "2024-03-20",
     "from_channel": "sysadm_in_channel",
-    "message": "/ SQLi (SQL Injection) org.postgresql:postgresql Dependency in Bamboo Data Center and Server\n\nThis Critical severity org.postgresql:postgresql Dependency vulnerability was introduced in versions 8.2.1, 9.0.0, 9.1.0, 9.2.1, 9.3.0, 9.4.0, and 9.5.0 of Bamboo Data Center and Server.\n\nhttps://jira.atlassian.com/browse/BAM-25716"
+    "message": "/ SQLi (SQL Injection) org.postgresql:postgresql Dependency in Bamboo Data Center and Server\n\nThis Critical severity org.postgresql:postgresql Dependency vulnerability was introduced in versions 8.2.1, 9.0.0, 9.1.0, 9.2.1, 9.3.0, 9.4.0, and 9.5.0 of Bamboo Data Center and Server.\n\nhttps://jira.atlassian.com/browse/BAM-25716",
+    "urls": []
 }
 {
     "date": "2024-03-20",
     "from_channel": "sysadm_in_channel",
     "message": "/ UDP-based, application-layer protocol implementations are vulnerable to network loops\n\n..An unauthenticated attacker can use maliciously-crafted packets against a UDP-based vulnerable implementation of application protocols (e.g., DNS, NTP, TFTP) that can lead to Denial-of-Service (DOS) and/or abuse of resources..: \n\nhttps://kb.cert.org/vuls/id/417980",
+    "urls": [],
     "webpage_description": "UDP-based, application-layer protocol implementations are vulnerable to network loops",
     "webpage_url": "https://kb.cert.org/vuls/id/417980"
 }
@@ -46,6 +56,7 @@
     "date": "2024-03-20",
     "from_channel": "freedomf0x",
     "message": "Proof of Concept (PoC) for #CVE-2024-23334, demonstrating how #malicious actors can exploit vulnerabilities in aiohttp using #LFI .\n\nhttps://github.com/jhonnybonny/CVE-2024-23334",
+    "urls": [],
     "webpage_description": "aiohttp LFI (CVE-2024-23334). Contribute to jhonnybonny/CVE-2024-23334 development by creating an account on GitHub.",
     "webpage_url": "https://github.com/jhonnybonny/CVE-2024-23334"
 }
@@ -64,7 +75,8 @@
 {
     "date": "2024-03-18",
     "from_channel": "defcon_news",
-    "message": "Fortra Patches Critical RCE Vulnerability in FileCatalyst Transfer Tool\nhttps://thehackernews.com/2024/03/fortra-patches-critical-rce.html"
+    "message": "Fortra Patches Critical RCE Vulnerability in FileCatalyst Transfer Tool\nhttps://thehackernews.com/2024/03/fortra-patches-critical-rce.html",
+    "urls": []
 }
 {
     "date": "2024-03-18",
@@ -75,6 +87,7 @@
     "date": "2024-03-18",
     "from_channel": "defcon_news",
     "message": "Blind SQL Injection in update query for OSWE - PostgreSQL Database\nhttps://old.reddit.com/r/netsec/comments/1bhiq9m/blind_sql_injection_in_update_query_for_oswe/",
+    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://old.reddit.com/r/netsec/comments/1bhiq9m/blind_sql_injection_in_update_query_for_oswe/"
 }
@@ -82,13 +95,15 @@
     "date": "2024-03-14",
     "from_channel": "freedomf0x",
     "message": "This is a proof of concept for #CVE-2024-25153, a Remote Code Execution vulnerability in Fortra FileCatalyst Workflow 5.x, before 5.1.6 Build 114.\n\nhttps://github.com/nettitude/CVE-2024-25153",
+    "urls": [],
     "webpage_description": "Proof-of-concept exploit for CVE-2024-25153. Contribute to nettitude/CVE-2024-25153 development by creating an account on GitHub.",
     "webpage_url": "https://github.com/nettitude/CVE-2024-25153"
 }
 {
     "date": "2024-03-14",
     "from_channel": "proxy_bar",
-    "message": "%3C/script%20%3E\nили\nmitsecXSS%22%3E%3Cinput%20%00%20onControl%20hello%20oninput=confirm(1)%20x%3E\n\n#xss"
+    "message": "%3C/script%20%3E\nили\nmitsecXSS%22%3E%3Cinput%20%00%20onControl%20hello%20oninput=confirm(1)%20x%3E\n\n#xss",
+    "urls": []
 }
 {
     "date": "2024-03-14",
@@ -116,6 +131,7 @@
     "date": "2024-03-11",
     "from_channel": "defcon_news",
     "message": "CVE-2023-49785 SSRF in NextChat: An AI Chatbot That Lets You Talk to Anyone You Want To\nhttps://old.reddit.com/r/netsec/comments/1bc3plz/cve202349785_ssrf_in_nextchat_an_ai_chatbot_that/",
+    "urls": [],
     "webpage_description": "Explore this post and more from the netsec community",
     "webpage_url": "https://old.reddit.com/r/netsec/comments/1bc3plz/cve202349785_ssrf_in_nextchat_an_ai_chatbot_that/"
 }
@@ -123,6 +139,7 @@
     "date": "2024-03-06",
     "from_channel": "defcon_news",
     "message": "Code injection on Android without ptrace\nhttps://old.reddit.com/r/netsec/comments/1b86jiq/code_injection_on_android_without_ptrace/",
+    "urls": [],
     "webpage_description": "Posted by ihavelotsofspac - 1 vote and no comments",
     "webpage_url": "https://old.reddit.com/r/netsec/comments/1b86jiq/code_injection_on_android_without_ptrace/"
 }
@@ -130,6 +147,7 @@
     "date": "2024-03-06",
     "from_channel": "sysadm_in_channel",
     "message": "/ VMware ESXi, Workstation, and Fusion contain a use-after-free vulnerability (Critical)\n\nA malicious actor with local administrative privileges on a virtual machine may exploit this issue to execute code as the virtual machine's VMX process running on the host..:\n\nhttps://www.vmware.com/security/advisories/VMSA-2024-0006.html",
+    "urls": [],
     "webpage_description": "VMware ESXi, Workstation, and Fusion updates address multiple security vulnerabilities (CVE-2024-22252, CVE-2024-22253, CVE-2024-22254, CVE-2024-22255)",
     "webpage_url": "https://www.vmware.com/security/advisories/VMSA-2024-0006.html"
 }
